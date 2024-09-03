@@ -27,14 +27,14 @@ Et vidit deus lucem q[uia] esset bona.
 Et diuisit luce[m] a tenebris.  
 Appelauitq[ue] luce[m] die[m].  
 Et tenebras nocte[m].  
-Factu[m]q[ue] est vespere [et] mane dies vnus.*[^1]  
+Factu[m]q[ue] est vespere [et] mane dies vnus.*  
 Moyses miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretus apte co[n]uienie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.  
 Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.  
 Mu[n]di fabrica[m] a luce rectissime inchoauit.  
 Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formara sunt) circuito suo diem naturale[m] p[er]egit.  
 
 
->*Es werd das liecht. vnd das liecht ist worde[n]. vn[d] got sahe das liecht das es gůt wer. vn[d] teylet das liecht vo[n] de[n] finsternussen. vn[d] ne[n]net das liecht den tag vn[d] die finsternus die nacht. vn[d] abent vn[d] früe ist worde[n] ein tag.*[^1] moyses hat ein wunderperlich kunstwerck vo[n] götlicher vnd nit menschlicher emßikeit den heimlichkeiten d[er] ga[n]tze[n] natur schickerlich gezimme[r]de gezaigt in seine[m] buch. das alle lere vn[d] außprechlichkeit vn[d] sinnreichikeit ubertrifft. dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n]. vn[d] die selben an dreye[n] tage[n] bis an den vierden (dar an die großen liecht geformt sind) in ire[n] umkreis eine[n] naturlichen tag volbracht. 
+>*Es werd das liecht. vnd das liecht ist worde[n]. vn[d] got sahe das liecht das es gůt wer. vn[d] teylet das liecht vo[n] de[n] finsternussen. vn[d] ne[n]net das liecht den tag vn[d] die finsternus die nacht. vn[d] abent vn[d] früe ist worde[n] ein tag.* moyses hat ein wunderperlich kunstwerck vo[n] götlicher vnd nit menschlicher emßikeit den heimlichkeiten d[er] ga[n]tze[n] natur schickerlich gezimme[r]de gezaigt in seine[m] buch. das alle lere vn[d] außprechlichkeit vn[d] sinnreichikeit ubertrifft. dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n]. vn[d] die selben an dreye[n] tage[n] bis an den vierden (dar an die großen liecht geformt sind) in ire[n] umkreis eine[n] naturlichen tag volbracht. 
 
 >*Let there be light; and there was light. And God saw the light, that it was good; and God divided the light from the darkness. And God called the light Day, and the darkness he called Night.*[^1]. With divine and not with human assiduity, Moses wrote a wonderful masterpiece upon all the mysteries of nature—a book which excels all others in utterance and ingenuity; for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light. In three days and before the fourth (on which the great lights were formed) he placed the same in their spheres, and thus brought about the natural day.
 
@@ -43,7 +43,7 @@ Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formara sunt)
 >Extatq[ue] nobilissimu[m] corpo[rum] sp[irit]uali creature finitimum atq[ue] optimu[m]. sua[m] pulcritudinem maxi[m]e co[mun]icans.  
 Cu[m] pu[n]ct[us] minim[us] toti[us] mu[n]di spaciu[m] repleat.  
 Ideo lux sola e[st]. q[ua] mu[n]d[us] tot[us] bon[us] [et] pulcer e[st]: p[er] i[n]mundaq[ue] sine corrupt[i]one tra[n]sie[n]s.  
-Et merito luce[m] vidit q[uonia]m[^2] bona.  
+Et merito luce[m] vidit q[uonia]m bona.  
 Cu[m] nihil aliud sit q[uonia]m p[ri]mi boni imago tenuis [et] vmbratilis si[mi]litudo.  
 Statim tracta[n]te sp[irit]u[m] aq[ua]s illas [et] p[er]uadente s[u]biectu[m] iussu dei artificis exorta e[st] lux decus [et] splendor: vt nubes lucida sup[er]iores mu[n]di p[ar]tes sua claritate illumina[n]s. vt in diluculo fieri solet: p[er] modu[m] solis agitata: sup[er]i[us] emisperiu[m]: [et] vicissim inferi[us] illumina[n]s.  
 Et postea diuisit: vt tenebre [et] lux diuersa emisperia vendicare[n]t.  
@@ -62,7 +62,7 @@ Et q[uo]d oriri nos faciat ad vita[m] sempiterna[m].
 ## P 4
 
 >Occide[n]s aute[m] [con]turbate illi p[ra]ueq[ue] me[n]ti asscribit[ur]. q[uo]d lume[n] absco[n]dat. q[uo]d tenebras sper inducat.  
-Et q[uo]d ho[m]i[n]es faciat occidere [et] interire p[ec]c[a]ti[n]s[^3].  
+Et q[uo]d ho[m]i[n]es faciat occidere [et] interire p[ec]c[a]ti[n]s.  
 Na[m] sic[ut] lux orientes e[st].  
 In lucem aute[m] vite ratio v[er]sat[ur]. sic occidentis tenebre sunt.  
 In tenebris aute[m] mors [et] interit[us] [con]tinet[ur].  
