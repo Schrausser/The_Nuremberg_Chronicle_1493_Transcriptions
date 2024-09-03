@@ -4,17 +4,17 @@
 
 ## P 1
 
->***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*[^1]
+>***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*
 
->***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel und lere vnd die finsternus ware[n] auf de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob den wassern.*[^1]
+>***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel und lere vnd die finsternus ware[n] auf de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob den wassern.*
 
 >*In the beginning God created heaven and earth. And the earth was void and empty. And darkness was upon the face of the deep; and the Spirit of God moved over the waters.*
 
 ## P 2
 
->**Moyses**[^2] diuinus [propheta] at[que] historic[us]. q[ui] fere troianu[m] bellu[m][^3] septinge[n]tis a[n]nis antecessit edocet. quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit. 
+>**Moyses** diuinus [propheta] at[que] historic[us]. q[ui] fere troianu[m] bellu[m] septinge[n]tis a[n]nis antecessit edocet. quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit. 
 
->**Moyses**[^2] der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>c</sup>. iar vor dem Troyanische[n] krieg[^3] gewesen ist leret wie got der macher vnd ordner der dinge als er diss werck fürname zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
+>**Moyses** der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>c</sup>. iar vor dem Troyanische[n] krieg gewesen ist leret wie got der macher vnd ordner der dinge als er diss werck fürname zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
 
 >**Moses**, the divine prophet and historian, who lived almost 700 years before the Trojan War, teaches that when God, the Creator and Ordainer of all things, was about to undertake this work, he first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven. 
 
@@ -32,7 +32,7 @@ Nihil e[ni]m p[er]se [con]tinet lumi[ni]s: nisi accipiat a celo.
 ## P 4
 
 >In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petuam.  
-Et [con][tumacia][^4] in terra tenebras [et] inferos [et] morte[m].
+Et [con][tumacia] in terra tenebras [et] inferos [et] morte[m].
 
 >In dez hat er gesetzt das ewig liecht vn[d] die obern gaist und das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüs vnd die vndern gaist und de[n] tod. 
 
@@ -41,11 +41,11 @@ Et [con][tumacia][^4] in terra tenebras [et] inferos [et] morte[m].
 
 ## P 5
 
->Moyses v[erb]o[^5] cu[m] deu[m] creasse [con]memorat tres errores **Platonis**[^6] .s[cilicet]. **Arestotilis**[^7] [et] **epicuri**[^8] elidit.  
-Plato e[ni]m ab eterno deu[m] ydeas ylen[^9].  
+>Moyses v[erb]o cu[m] deu[m] creasse [con]memorat tres errores **Platonis** .s[cilicet]. **Arestotilis** [et] **epicuri** elidit.  
+Plato e[ni]m ab eterno deu[m] ydeas ylen.  
 Et in p[ri]ncipio de yle mu[n]du[m] fuisse factu[m] testa[tur]. 
 
->Aber in dem das Moyses spricht das got beschaffen hab so stelt er damit aber drey irru[n]g **Platonis**[^4] **Arestotilis**[^5] vn[d] **Epicuris**[^6]. dan[n] Plato hielt das got vnd die vorpildnus oder gestaltnus seiner geschöpff vn[d] yle[^7] von ewigkeit gewessen vnd im anfang die werlt vo[n] de[m] selbe[n] yle gemacht worde[n] wer. 
+>Aber in dem das Moyses spricht das got beschaffen hab so stelt er damit aber drey irru[n]g **Platonis** **Arestotilis** vn[d] **Epicuris**. dan[n] Plato hielt das got vnd die vorpildnus oder gestaltnus seiner geschöpff vn[d] yle von ewigkeit gewessen vnd im anfang die werlt vo[n] de[m] selbe[n] yle gemacht worde[n] wer. 
 
 >When Moses states that God created, etc, he abrogates the errors of **Plato**, **Aristotle**, and **Epicurus**; for Plato held that God and the creatures in his image, and Yle, have existed for all time, and that in the beginning the world was made of this same Yle.
 
@@ -71,7 +71,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 ## P 8
 
->Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[][^10] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]mense: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
+>Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]mense: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
 
 >Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des Schöpffers.
 
@@ -92,24 +92,24 @@ Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci diabolu[m] appe
 
 ## P 10
 
->Terra erat i[n]anis (vt tra[n]stulit diu[us] **Hiero**[^11]. v[el][^12] vt **septinge[n]ta**[^13]) inuisibil[e] [et] i[n]co[m]posita:  
+>Terra erat i[n]anis (vt tra[n]stulit diu[us] **Hiero**. v[el] vt **septinge[n]ta**) inuisibil[e] [et] i[n]co[m]posita:  
 Qua[m] p[ro] sui [con]fusio[n]e abyssum vocat: qua[m] [et] greci chaos dicu[n]t.  
 Abyssum vocat terra[m] .i[d est]. materia[m] trino dime[n]su i[n] altissimas profunditates extensam: 
 
->Die erde was eytel. das ist (als **Ieronimus**[^8] ode[r] die .**lxx. auslege[r]**[^9]) vnsyhtperlich un[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechische[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff ausgepraittet. 
+>Die erde was eytel. das ist (als **Ieronimus** ode[r] die .**lxx. auslege[r]**) vnsyhtperlich un[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechische[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff ausgepraittet. 
 
 >The earth was void, that is, (as Jerome and the Seventy [...] interpret it) invisible and chaotic, and because of its chaotic condition it was called an abyss; and this the Greeks called chaos, which consists of a material of three dimensions scattered about in the great deep.
 
 ## P 11
 
->de hoc etia[m] **Ouidi[us]**[^14] meminit.  
-*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.*[^15]  
+>de hoc etia[m] **Ouidi[us]** meminit.  
+*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.*  
 Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: ut volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit.  
 Cu[m] p[er]fecta sint opera dei.  
 Creatio re[rum] senario numero explicatur.  
 Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.  
 
->Da von auch **Ouidius**[^10] der poet in seine[m] gedicht gar schön meldung thüt. vnd der gaist des herre[n] ein werckzewg gotlicher ku[n]st swebet ob de[n] wassern: als d[er] wil eins pawherre[n] so er yde ding zemache[n] verordent. so die werck gottes volkomme[n] sind. so wirdt die beschöpffu[n]g d[er] ding außgedrückt in sechser zall. des teill sind. ains zway drey.
+>Da von auch **Ouidius** der poet in seine[m] gedicht gar schön meldung thüt. vnd der gaist des herre[n] ein werckzewg gotlicher ku[n]st swebet ob de[n] wassern: als d[er] wil eins pawherre[n] so er yde ding zemache[n] verordent. so die werck gottes volkomme[n] sind. so wirdt die beschöpffu[n]g d[er] ding außgedrückt in sechser zall. des teill sind. ains zway drey.
 
 >Ovid, the poet, gives elegant expression to this in his poems. And the Spirit of the Lord, an instrument of divine art, moved over the waters like the will of a master-builder, who orders all things done; and so the work is of divine perfection and is expressed in the figure six, whose component parts are 1, 2, and 3. 
 
@@ -130,4 +130,3 @@ In reliquis ornatum Moyses per opera sex die[rum] ostendit.
 >In dem andern vnd dritten die ordnung oder schickung. vnd in den andern die zierung.
 
 >the second and third to the order and disposition, and the remaining days to the adornment of the world. 
-
