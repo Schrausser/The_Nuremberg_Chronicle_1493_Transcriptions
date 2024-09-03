@@ -1,1 +1,86 @@
+# Fol./Blat IIv
+
+## Heading.
+
+>### De opera prime diei.
+
+>### Vom werck des erste[n] tags
+
+>### OF THE WORK OF THE FIRST DAY  
+
+
+## P 1
+
+
+>***D**Ixit deus*
+
+>***U**nd got sprach.* 
+
+>*And God said,*
+
+
+## P 2
+
+>*fiat lux.  
+Et facta e[st] lux.
+Et vidit deus lucem q[uia] esset bona.  
+Et diuisit luce[m] a tenebris.  
+Appelauitq[ue] luce[m] die[m].  
+Et tenebras nocte[m].  
+Factu[m]q[ue] est vespere [et] mane dies vnus.*[^1]  
+Moyses miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretus apte co[n]uienie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.  
+Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.  
+Mu[n]di fabrica[m] a luce rectissime inchoauit.  
+Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formara sunt) circuito suo diem naturale[m] p[er]egit.  
+
+
+>*Es werd das liecht. vnd das liecht ist worde[n]. vn[d] got sahe das liecht das es gůt wer. vn[d] teylet das liecht vo[n] de[n] finsternussen. vn[d] ne[n]net das liecht den tag vn[d] die finsternus die nacht. vn[d] abent vn[d] früe ist worde[n] ein tag.*[^1] moyses hat ein wunderperlich kunstwerck vo[n] götlicher vnd nit menschlicher emßikeit den heimlichkeiten d[er] ga[n]tze[n] natur schickerlich gezimme[r]de gezaigt in seine[m] buch. das alle lere vn[d] außprechlichkeit vn[d] sinnreichikeit ubertrifft. dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n]. vn[d] die selben an dreye[n] tage[n] bis an den vierden (dar an die großen liecht geformt sind) in ire[n] umkreis eine[n] naturlichen tag volbracht. 
+
+>*Let there be light; and there was light. And God saw the light, that it was good; and God divided the light from the darkness. And God called the light Day, and the darkness he called Night.*[^1]. With divine and not with human assiduity, Moses wrote a wonderful masterpiece upon all the mysteries of nature—a book which excels all others in utterance and ingenuity; for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light. In three days and before the fourth (on which the great lights were formed) he placed the same in their spheres, and thus brought about the natural day.
+
+## P 3
+
+>Extatq[ue] nobilissimu[m] corpo[rum] sp[irit]uali creature finitimum atq[ue] optimu[m]. sua[m] pulcritudinem maxi[m]e co[mun]icans.  
+Cu[m] pu[n]ct[us] minim[us] toti[us] mu[n]di spaciu[m] repleat.  
+Ideo lux sola e[st]. q[ua] mu[n]d[us] tot[us] bon[us] [et] pulcer e[st]: p[er] i[n]mundaq[ue] sine corrupt[i]one tra[n]sie[n]s.  
+Et merito luce[m] vidit q[uonia]m[^2] bona.  
+Cu[m] nihil aliud sit q[uonia]m p[ri]mi boni imago tenuis [et] vmbratilis si[mi]litudo.  
+Statim tracta[n]te sp[irit]u[m] aq[ua]s illas [et] p[er]uadente s[u]biectu[m] iussu dei artificis exorta e[st] lux decus [et] splendor: vt nubes lucida sup[er]iores mu[n]di p[ar]tes sua claritate illumina[n]s. vt in diluculo fieri solet: p[er] modu[m] solis agitata: sup[er]i[us] emisperiu[m]: [et] vicissim inferi[us] illumina[n]s.  
+Et postea diuisit: vt tenebre [et] lux diuersa emisperia vendicare[n]t.  
+Appellauit luce[m] die[m] a claritate q[ui] purgat tenebras: tenebras a noce[n]do nocte[m]. ne oculi videant.  
+Secundu[m] ha[rum] p[ar]tiu[m] dime[n]sione[m] diem fecit [et] nocte[m]. q[uae] spacia et orbes te[m]po[rum] p[er]petuos ac volubiles quos vocam[us] annos alterna p[er] vices successione [con]ficia[n]t.  
+Ac factu[m] e[st] dies vn[us]: q[ui] fuit p[ri]m[us] dies seculi: no[n] p[ri]m[us] dio[rum] o[mn]i[u]m ideo no[n] p[ri]m[us] s[ecundum] vnus no[m]i[n]at[us] e[st].  
+Et sic eo die fecit de[us] materia[m] informe[m]. Angelos. Celu[m]. Luce[m]. terra[m]. aqua[m] [et] aerem [et cetera].  
+Ip[si][us] q[uom] terre binas p[ar]tes [con][ua]rias inter se diuersasq[ue] [con]stituit .s[cilicet]. orientem occidentemq[ue].  
+Ex quib[us] oriens deo acce[s]set[ur]. q[uorum] ip[s]e lumi[ni]s fons [et] illustrator e[st] re[rum].  
+Et q[uo]d oriri nos faciat ad vita[m] sempiterna[m].
+
+>Diss ist under aller leiplichen dinge[n] das edelst[e]. vnd der geistliche creatur das neheste vnd das. allerbest. das sein schone allermeist gemainsam macht so doch der allerkleynst pu[n]ct der ga[n]tze[n] werltkrais erfüllt. darümb allein das liecht ist das do mit die ga[n]tze[n] werlt gůt vn[d] hüpsch ist. durch unraine ding on zerstörung geende. vn[d] billich sahe er das liecht das es gůt were. wann das liecht ist nichtz anders dan[n] einpildnus vn[d] zarte oder dynne vn[d] beschatliche gleichnus des erste[n] gůts. als nu der gaist diese wasser zohe vn[d] de[n] underwurff durchgienge. do ist auß gepiete gottes des werckmeisters entsprungen das liecht. die zier vnd d[er] schein als ein liechter wolken die obern teil mit seiner clarheit erleuchte[n]de[n]. (wie in de[m] morge[n] das herpreche[n]de[n] sunne glantz gewönlich beschicht) in gestalt d[er] sunne[n] geübet obe[n] vn[d] unden den halbe[n] himel bescheinende. vn[d] darnach hat er abgesundert das die finsternus vn[d] das liecht unterschiede[n] halbhimel emisperia gena[n]t habe[n] sollte[n]. das liecht hies er den tag vo[n] d[er] clarheit. die die finsternus rainigt. vn[d] die finsternus vo[n] beschedigung. die nacht das die augen nit sehen soltte[n]. nach ermessung dieser teil hat er gemacht tag vn[d] nacht. da bey das gemercke des ewigen umkrais vn[d] laufs der zeit vn[d] iar besteen sollt. vn[d] es ist worden ein tag. der da was der erst tag d[er] werlt. aber nit der erst aller tag. darümb ist er nit der erst sunder ein tag genent. vn[d] also hat got an diesem die unförmlich materie. die engel. die himel. das liecht. die erden das wasser vn[d] den luft etc. gemach vn[d] zwen ainander widerwertig vn[d] underschidlich teil d[er] erden: als den auffgang vn[d] de[n] nidergang gesetzt. d[er] auffga[n]g wird got zugeygent. dan[n] er ist d[er] prun[n] des liechtes vn[d] ein erlewchter aller ding. vn[d] d[er] uns das ewig leben auffgeen machet. 
+
+>Among all physical things light is the noblest and, next to spiritual creation, the best. Its bounty is most general, and it reaches the smallest places throughout the world. By it all the world is made good and beautiful; for without doing any harm it penetrates all unclean things. God saw that the light was good; for the light is nothing other than a symbol—a tender, thin and hazy image of the initial Goodness. Now, when the Spirit drew up the waters and penetrated the nether matter, light was created by the command of the Architect; and it shone forth like a bright cloud, lighting upper regions with its brilliance, as when the morning sun bursts forth and lights up half the heavens. Thereafter God separated the darkness from the light, and made two hemispheres. Because of its brightness he called the light Day; for it clarifies the darkness. The darkness, which is detrimental to man’s sight, he called Night. And thus he created day and night, by which the endless cycle and course of time were to be marked off, and of which the years were to be made up. And it was a day—the first day of the world, but not the first of all days; wherefore it is not called the first day, but a day. On this day God made shapeless matter, the angels, the heavens, the light, the earth, the East (Aufgang, or rise), and the West (Niedergang, decline). The East is ascribed to God; for he is the fountain of light, and an enlightener in all things, who opens up to us eternal life. 
  
+## P 4
+
+>Occide[n]s aute[m] [con]turbate illi p[ra]ueq[ue] me[n]ti asscribit[ur]. q[uo]d lume[n] absco[n]dat. q[uo]d tenebras sper inducat.  
+Et q[uo]d ho[m]i[n]es faciat occidere [et] interire p[ec]c[a]ti[n]s[^3].  
+Na[m] sic[ut] lux orientes e[st].  
+In lucem aute[m] vite ratio v[er]sat[ur]. sic occidentis tenebre sunt.  
+In tenebris aute[m] mors [et] interit[us] [con]tinet[ur].  
+
+>Aber d[er] nidergang wirt dem zerstreitten entrüsten vnd boßhafftigen gemüt zugeschriben. dann er verbirgt liecht vnd bringt allweg die finsternus vn[d] süchet die menschen zetötten vn[d] zeuergeen in sunde[n]. dan[n] gleicherweis als das liecht vo[n] anfang entspringt vn[d] die vernunfft des lebens im liecht swebt also kümbt die finsternus vom nidergang. vn[d] d[er] tod vn[d] niderfal werden begriffen in d[er] finsternus.
+
+>The West, or decline, is ascribed to the wrathful and those of wicked disposition; for it conceals the light and brings on darkness, and aims to destroy man by sin. As the light emerges from the East, and understanding soars in the light, so darkness comes from the West, and within it death and destruction are comprehended.
+
+## P 5
+
+>Deinde alteras p[ar]tes eade[m] r[ati]one dime[n]sus e[st]: meridie[m] ac septe[m]trione[m] q[uae] p[ar]tes illis duab[us] societate iungu[n]t[ur].  
+Ea e[n]i[m] q[uae] e[st] sol[um][^4] calore flagra[n]tior p[ro]xi[m]a e[st]: [et] coheret orie[n]ti.  
+At illa q[uae] frigoribus [et] p[er]petuo gelutorpet eiusdem e[st] cui[us] extrem[us] occasus.  
+Na[m] sic[ut] [con][ua]rie sunt lumini tenebre: ita frig[us] calori.  
+Ut igit[ur] calor lumini e[st] p[ro]ximus: sic meridies orie[n]ti: vt frig[us] tenebris. ita plaga septe[m]trionis occasui.  
+Hec omnia opus quarte diei vberius manifestabit.
+
+
+>Darnach hat got die andern örter nemlich des mittags vn[d] mitternacht in d[er] selben gestalt ausgemessen. die auch den vordern zweyn örtern mit verwantschaft zu gesellet werde[n]. dan[n] das ort das vo[n] wirm vnd sunne[n] heißer ist das hä[n]gt de[n] anfang allernechst an. aber das ort das in kelt vn[d] ewige[n] gefrüst qualet ist des tails des letzte[n] niderga[n]gs. wan[n] als die finsternus de[m] liecht. also ist auch die kelt der wirm widerwertig. darümb als wirm de[m] liecht. also ist d[er] mittag de[m] auffgang vn[d] die kelt d[er] finsternus. also auch die mitternacht dem nidergang aller nehst.
+
+>Thereafter God established other regions, namely the South (Mittag, noon) and the North (Mitternacht, midnight), determined by like means. These are related to the other two regions; for the region which is warmer through the heat of the sun is closely related to the East; but the region which is cold, and suffers eternal frost, is related to the West. Just as light is opposed to darkness, so cold is opposed to heat. Therefore, as warmth is related to light, so South is related to East; while cold and darkness, and North, are related to the West. 
