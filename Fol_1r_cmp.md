@@ -145,7 +145,7 @@ consultissimum prodiderunt.
 
 ## P 16
 
->Apud hebreos **Salomonis**[^5] liber: cui sapi[enti]a titulus: in quo vir naturererum interpres se illiusinodi disciplina[m] de mosayce legis penetralibus accepisse fatet[ur].
+>Apud hebreos **Salomonis** liber: cui sapi[enti]a titulus: in quo vir naturererum interpres se illiusinodi disciplina[m] de mosayce legis penetralibus accepisse fatet[ur].
 
 >Vo[n] de[m] **Salomo[n]** in seine[m] buch der weysheit als ein außleger der natur d[er] wesende[n] ding: veriehe[n] hat. das er sölche lere[n] vo[n] de[n] innern[n] dinge[n] des gesetzs moysi genome[n] hab.
 
