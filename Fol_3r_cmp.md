@@ -18,9 +18,9 @@
 
 ## P 2
 
->*Fiat firmamentum in medio aquaru[m]: et diuidat aquas ab aquis: vocauitq[ue] firmamentum celum.*[^1]
+>*Fiat firmamentum in medio aquaru[m]: et diuidat aquas ab aquis: vocauitq[ue] firmamentum celum.*
 
->*Es werde das firmament in de[n] mittel d[er] wasser: vn[d] taile die wasser vo[n] wassern vn[d] er hies das frimament de[n] himel.*[^1]
+>*Es werde das firmament in de[n] mittel d[er] wasser: vn[d] taile die wasser vo[n] wassern vn[d] er hies das frimament de[n] himel.*
 
 >*Let there be a firmament in the midst of the waters, and let it divide the waters from the waters; and he called the firmament Heaven.*
 
@@ -53,10 +53,10 @@ Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superi
 ## P 5
 
 >Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant interrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.  
-Neque hoc tantum creditum a nostris: maxime iunioribus **Strabo**[^2] [et] **Beda**[^3]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam:  
-E[st][^4] quibus satis duos sit attulisse: **Abraam hispanum**[^5] astrologum maximu[m] [et] **ysaac philosophu[m]**[^6]: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele**[^7] designatum intelligit per zaphiru[m] in similitudine[m] throni: 
+Neque hoc tantum creditum a nostris: maxime iunioribus **Strabo** [et] **Beda**: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam:  
+E[st] quibus satis duos sit attulisse: **Abraam hispanum** astrologum maximu[m] [et] **ysaac philosophu[m]**: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele** designatum intelligit per zaphiru[m] in similitudine[m] throni: 
 
->Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt das uber die speras d[er] sibe[n] planete[n]. vn[d] uber die achte[n] spera[m]. die sie die unirrende[n] nenne[n]. vn[d] auch uber die newnten speram. die mit vernunft vn[d] nit mit entpfindung erraicht werde[n]. vn[d] die erst undter den beweglichen leiplichen dingen ist noch d[er] zehend unbeweglich bleibend vn[d] gerüig himel sey. in massen dem **Isaac d[er] weise**[^2] einer aus d[er] bemelte[n] lerrern helt. das sölcher zehend himel von **Ezechiele**[^3] durch den zaphir in gleichnus eines throns bezeichend sey.
+>Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt das uber die speras d[er] sibe[n] planete[n]. vn[d] uber die achte[n] spera[m]. die sie die unirrende[n] nenne[n]. vn[d] auch uber die newnten speram. die mit vernunft vn[d] nit mit entpfindung erraicht werde[n]. vn[d] die erst undter den beweglichen leiplichen dingen ist noch d[er] zehend unbeweglich bleibend vn[d] gerüig himel sey. in massen dem **Isaac d[er] weise** einer aus d[er] bemelte[n] lerrern helt. das sölcher zehend himel von **Ezechiele** durch den zaphir in gleichnus eines throns bezeichend sey.
 
 >Some teachers, not only of our own time, but also among the Hebrews and others, believed that above the spheres of the seven planets, and above the eighth sphere, which they call the unerring one, and also over the ninth sphere, which is reached by reason alone and not by perception (and which is the first among movable corporeal things) is a tenth sphere, that is stationery and at rest. Consequently **Isaac the Wise**, one of the learned men already mentioned, holds that the tenth heaven was identified by **Ezekiel** through the zaphirum, in the similitude of a throne;
 
@@ -93,7 +93,7 @@ Triplex e[ni]m partitio corpo[rum] sublunariu[m].
 Intercedens regio aeris que etiam dicitur firmame[n]tum. vnde [et] aues sub firmamento celi ab eo volantes introducuntur: ea est regio in qua sublimes ille impressiones apparent: pluuie: niues: fulgura: fulmina: tonitrua comete [et] cetera id genus.  
 Recte igitur no[n] solum situ: sed [et] nature p[ro]prietate hoc firmamentum superiora elementa ab inferioribus: quasi aquas ab aquis discriminat [et] distinguit.  
 Sup[ra] eum pura sunt elementa: infra eam perfecta mixtione ab elementali simplicitate discedunt.  
-Uocauitq[ue] firmame[n]tum celum: cum tegat omnia sensibilia [et] inuisibilia quod a koylon[^8] quod est concauu[m] deducu[n]t.
+Uocauitq[ue] firmame[n]tum celum: cum tegat omnia sensibilia [et] inuisibilia quod a koylon quod est concauu[m] deducu[n]t.
 
 >So sind ettliche under der mitteln fürscheinenden stat des lufts. als bey uns. da dan[n] kein lawters element ist. sunder alle element vo[n] faystikeit wege[n] des werltlichen leibs gemischt sind. dazwischen ist ein gegend des lufts auch das firmament genannt. dar inn regen. schne. plitzen. tornersleg. cometen vnd der gleichen erscheiynen. darümb gar recht underschaydet diss firmament. nit allain d[er] gelegenheit sunder auch der aygenschafft halben d[er] natur die obern eleme[n]t vo[n] den undern. als die wasser vo[n] de[n] wassern. darob sind die eleme[n]t pür vnd lawter. aber darunder in volkomner vermischu[n]g vo[n] eleme[n]tischer slechtigkeit obgesünderet. vn[d] er hat das firmament himel geheissen. dan[n] der bedeckt alle empfintliche vnd unsichtpere ding.
 
