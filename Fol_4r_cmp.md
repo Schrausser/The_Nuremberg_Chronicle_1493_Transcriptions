@@ -78,7 +78,7 @@ Que e[st] illuminatio: cu[m] dixit statuta illa vt lucere[n]t in celo: [et] terr
 In hec igitur ministeria [et] lune [et] solis [et] stella[rum] sunt corp[or]a distributa.  
 Sol e[ni]m q[ui] oritur in die: licet sit vnus (vn[um] sole[m] esse appelatu[m] **Cicero** vult videri) q[uia] obscuratis siderib[us] solus appareat.  
 Tame[n] veru[m] [et] p[er]fecte plenitudinis lumen e[st]: [et] calore potissimo: [et] fulgore clarissimo illuscescit o[mn]ia.  
-Q[uam]uis[^3] e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n] q[uorum] non sunt plena ac solida lumi[n]a: nec caloris p[er]feru[n]t q[ui]c q[ua]m: nec tenebras multitudine sua vincu[n]t  
+Q[uam]uis e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n] q[uorum] non sunt plena ac solida lumi[n]a: nec caloris p[er]feru[n]t q[ui]c q[ua]m: nec tenebras multitudine sua vincu[n]t  
 Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenda[n]da [et] gignenda omnia excogitauit.
 
 >Darümb garschickerlich hat uns moyses kürtzlich dieser ding aller vermanet sprechende. das die gestirn in dem firmament gesetzt sein zu tagen. iaren vnd zeitten. dar zu hat er auch gar lawter angezaigt die andern wurcku[n]g der gestirne. die ist die erlewchtu[n]g. so er sagt das die gesetzt seye[n] zu scheine[n] am[m] hymel vnd zeerlewchten die erde[n]. darümb zu solchen dienstperkeiten sind die leib des monds. der sunne[n] vnd d[er] stern[n] außgetailt. vnd wiewol die sun[n] die im tag aufgeet einig allain ist yedoch ist sie ein wars liecht volku[m]ner völligkeit. die mit fürderlichster wirm vn[d] allerklarste[m] schein alle dig erlewchtet. dan[n] wiewol man unzalich sterne schimern vn[d] gle[n]tze[n] sihet. nach de[m] sie aber doch nit völlige vn[d] feste liecht sind. so raichen sie kein wirm vo[n] ine vn[d] müge[n] auch mit irer menig die finsternus nit uberwinden. darümb so werde[n] zway füname ding gefunde[n] die mancherlay vnd aneinander widerwertigen gewalt habe[n]. ne[m]lich wirm vn[d] feüchtigkeit die got wunderperlich zur auffenthaltung vnd geperung aller ding erdacht hat.
@@ -87,7 +87,7 @@ Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sib
 
 ## P 9
 
->Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis sibi exposceret diuina[n]di per astra. [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am[^5] hinc [con]firmatib[us] q[uia] Moyses sidera  i[n] signa posita a deo dixerit[ur].  
+>Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis sibi exposceret diuina[n]di per astra. [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am hinc [con]firmatib[us] q[uia] Moyses sidera  i[n] signa posita a deo dixerit[ur].  
 Que rendu[m] hic etia[m] de natura sideru[m]: de motu: de p[ri]ncipatu: de lune maculis deq[ue] om[n]i siderali scie[n]tia.  
 Ueru[m] qua[m]q[uoniam] sint pulcra [et] digna cognitu.  
 Audiemus fortassis **Horatianu[m]** illud sed nunc non erat hic locus.
