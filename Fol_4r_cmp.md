@@ -56,7 +56,7 @@ So sind die bewegnus zwu.
 
 >Alter side[rum] p[ro]prium multiplex [et] varius.  
 Inter q[uo]s p[ri]ncipalis motus solis: q[ui] spatio .xij. mensiu[m] zodiaci signa om[n]ia curcuit.  
-Ille die[m] facit: vnde [et] diurnus d[ividitu]r[^1]: hic autem annu[m].
+Ille die[m] facit: vnde [et] diurnus d[ividitu]r: hic autem annu[m].
 
 >Die ander bewegnus ist des gestirns. vn[d] ist aigen. vilfeltig vnd ma[n]cherlay. under den selbe[n] ist die bewegnus d[er] sunne[n] die fürnamst. dan[n] die sun[n] umblawfft in xij. monaten de[n] zirckel aller zaiche[n]. die sun[n] macht de[n] tag. so macht d[er] lawff d[er] sunnen durch de[n] selbe[n] zirckel ein iar.
 
