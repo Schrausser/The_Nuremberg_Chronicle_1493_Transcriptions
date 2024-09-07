@@ -251,7 +251,7 @@ Layton, R. A. (2000). Propatheia: Origen and Didymus on the Origin of the Passio
 
 Levy, T. (2008). Abraham Bar Ḥiyya (Savasorda). In *Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures*, edited by Selin, H., 5–5. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-1-4020-4425-0_8469.
 
-Lindsay, W. M. 1915. *Notae Latinae: An Account of Abbreviation in Latin Mss. Of the Early Minuscule Period (c. 700-850)*. Cambridge: at the University Press. http://www.archive.org/details/cu31924021587716.
+Lindsay, W. M. (1915). *Notae Latinae: An Account of Abbreviation in Latin Mss. Of the Early Minuscule Period (c. 700-850)*. Cambridge: at the University Press. http://www.archive.org/details/cu31924021587716.
 
 Link, V. (1970). "Ulysses" and the "Eighth and Ninth Book of Moses". *James Joyce Quarterly 7* (3): 199–203. http://www.jstor.org/stable/25486837.
 
