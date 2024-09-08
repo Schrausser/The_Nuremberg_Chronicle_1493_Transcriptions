@@ -21,7 +21,7 @@ Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Folium   VII	recto	Etas prima mundi
 ~~~
 
-In this context see also Haitz (1899), Schnieper (1950) or Green (2003); for a (full) raw transcripton of the ENHG text see https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
+In this context see also Haitz (1899), Schnieper (1950) or Green (2003); for a (full) raw transcripton of the ENHG text see Wikisource contributors (2024).
 
 On the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (1915) or Cappelli (1928). For ENHG dictionaries see  Goebel et al. (1989).
 
@@ -50,3 +50,5 @@ https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075.
 
 Schnieper, X. (1950). Die Schedelsche Weltchronik: eine Einführung und Würdigung. In *Mitteilungsblatt Der Schweizerischen Bibliophilen-Gesellschaft*, 7:84–104. 3-4. Basel: Schweizerische Bibliophilen-Gesellschaft. https://doi.org/10.5169/SEALS-387655.
+
+Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
