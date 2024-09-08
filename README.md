@@ -22,7 +22,7 @@ Folium   VII	recto	Etas prima mundi
 
 In this context see also Haitz (1899), Schnieper (1950) or Green (2003); for a (full) raw transcripton of the ENHG text see https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
 
-For the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (1915) or Cappelli (1928).
+On the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (1915) or Cappelli (1928).
 
 ## References
 
