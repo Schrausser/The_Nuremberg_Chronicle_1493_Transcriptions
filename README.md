@@ -28,6 +28,8 @@ On the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (19
 
 Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
 
+Goebel, U., Lobenstein-Reichmann, A., & Reichmann, O. (1989). Frühneuhochdeutsches Wörterbuch, 12 Volumes. Berlin, Boston: De Gruyter. https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes
+
 Green, J. P. (2003). *The Nuremberg Chronicle and Its Readers: The Reception of Hartmann Schedel’s Liber Cronicarum*. Illinois: University of Illinois at Urbana-Champaign. https://books.google.com/books?id=tXC8HgAACAAJ.
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
