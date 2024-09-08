@@ -3,7 +3,7 @@
 Annotated transcriptions from the *Nuremberg Chronicle*, fol. 1r to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat.md`-`Fol_7r_Lat.md` (Schedel, 1493), *Early New High German*, ENHG, `Fol_1r_ENHG.md`-`Fol_7r_ENHG.md` (Schedel & Alt, 1493, 1496, res.) and from the *English* translation by Hadawas (2023) in comparison, `Fol_1r_cmp.md`-`Fol_7r_cmp.md`.  
 Where the division of the paragraphs P in the comparative presentations is based on the ENHG version.
 
-Table 1. Content.
+Table 1. Headings and contents of fol. 1 to fol. VII of the Nuremberg Chronicle (Schedel, 1493).
 ~~~
 page			contenta
 
