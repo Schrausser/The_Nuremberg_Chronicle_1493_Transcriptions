@@ -36,7 +36,7 @@ VI, VII						ad finem mundi, quiescentium
 VIII						resurgentium
 ~~~
 
-Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), the text is mainly based on the *Supplementum Chronicarum* (Foresti, 1492), the *Speculum Naturale* (De Beauvais, 1264a) :
+Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), the text is mainly based on the *Supplementum Chronicarum* (Foresti, 1492):
 
 >„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, 1941, p. 17).
 
