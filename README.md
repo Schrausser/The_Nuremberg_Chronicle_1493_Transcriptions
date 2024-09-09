@@ -47,6 +47,8 @@ On the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (19
 
 ## References
 
+Bernstein, E. (2002). Review. *Renaissance Quarterly 55* (4): 1422–24. http://www.jstor.org/stable/1262133.
+
 Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
 
 Cushing Duniway, D. (1941). A Study of the Nuremberg Chronicle. *The Papers of the Bibliographical Society of America 35* (1): 17–34. http://www.jstor.org/stable/24296510.
