@@ -1,4 +1,4 @@
-# Nuremberg Chronicle transcriptions
+# The Nuremberg Chronicle 1493: Transcriptions
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422).
 >
