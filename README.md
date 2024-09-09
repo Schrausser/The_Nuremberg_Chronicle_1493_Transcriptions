@@ -1,5 +1,7 @@
 # Nuremberg Chronicle transcriptions
 
+>„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422).
+>
 Annotated transcriptions from the *Nuremberg Chronicle*, fol. 1r to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat.md`-`Fol_7r_Lat.md` (Schedel, 1493), *Early New High German*, ENHG, `Fol_1r_ENHG.md`-`Fol_7r_ENHG.md` (Schedel & Alt, 1493, 1496, res.) and from the *English* translation by Hadawas (2023) in comparison, `Fol_1r_cmp.md`-`Fol_7r_cmp.md`.  
 Where the division of the paragraphs P in the comparative presentations is based on the ENHG version.
 
@@ -19,21 +21,6 @@ Foliu[m] V	recto	De opere sexte diei.
 Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 		verso	Prima etas mundi
 Folium   VII	recto	Etas prima mundi
-~~~
->„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422; c.f. Tab. 2). 
-
-Table 2. Etates mu[n]di (Schedel, 1493, fol. VIr).		
-~~~
-		AM		BC				
-age		hebr	lxx	hebr	lxx	Etas	
-
-I		1656	2242	2309	2959	ad diluuiu[m]	
-II		1948	3184	2017	2017	ad natiuitatem abrahe	
-III		2889	4124	1076	1077	ad iniciu[m] regni Dauid	
-IIII		3373	4609	592	592	ad transmigrat[i]o[n]em babilonis	
-V		3963	5199	2	2	ad benedicta[m] nativitatem [christ]i
-VI, VII						ad finem mundi, quiescentium
-VIII						resurgentium
 ~~~
 
 Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* by Foresti (1492):
