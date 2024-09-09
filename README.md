@@ -20,6 +20,25 @@ Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 		verso	Prima etas mundi
 Folium   VII	recto	Etas prima mundi
 ~~~
+>„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422; c.f. Tab. 2). 
+
+Table 2. Etates mu[n]di (Schedel, 1493, fol. VIr).		
+~~~
+		AM		BC				
+age		hebr	lxx	hebr	lxx	Etas	
+
+I		1656	2242	2309	2959	ad diluuiu[m]	
+II		1948	3184	2017	2017	ad natiuitatem abrahe	
+III		2889	4124	1076	1077	ad iniciu[m] regni Dauid	
+IIII		3373	4609	592	592	ad transmigrat[i]o[n]em babilonis	
+V		3963	5199	2	2	ad benedicta[m] nativitatem [christ]i
+VI, VII						ad finem mundi, quiescentium
+VIII						resurgentium
+~~~
+
+Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), the text is mainly based on the *Supplementum Chronicarum* (Foresti, 1492), as well as on the *Speculum Naturale* (De Beauvais, 1264a) based on the *Historia Naturalis* of Plinius Secundus   (1250, 1455) and *Speculum Historiale* (De Beauvais, 1264b) from the *Speculum Maius* (Ferguson, 1886; Young, 1930; De Beauvais, 1964b; White, 1992; Albrecht, 2000), further on the *Vitæ Pontificum* (Platina, 1481), the *Summa Historialis* (c.f. Walker, 1930), on works by *Biondo* (e.g. 1484, 2005, res.) as well as on geographical and cosmographic works by *Ptolemæus* (1100, 1482; Tudeer, 1917; Neugebauer, 1959; Talbert, 2002), *Strabo* (1469; Manutius & Asulanus, 1516) and *Mela* (1477, 1518):
+
+>„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, 1941, p. 17).
 
 In this context see also Haitz (1899), Schnieper (1950) or Green (2003); for a (full) raw transcripton of the ENHG text see Wikisource contributors (2024).
 
