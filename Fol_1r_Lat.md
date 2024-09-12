@@ -99,7 +99,7 @@ De his quatuor mundis moyses sufficienter differuit: vt deus opifex disposuit: v
 
 Quid tandem mosaica littera de celebratis operibus sex dieru[m] edocet: cursim absoluemus.
 
-[^1]: ambiguous; tr. from ENHG "Dieweill", also c.f. Id "Id est", m "manus" (Lindsay, 1915, p. 496; Cappelli, 1928, p. 172 and 208); i "in" also "id est", dm "deum" (Cappelli, 1928, p.); further, IDN, "In Dei Nomine", (Cappelli, 1928, p. 173), ibm "ibidem" (Cappelli, 1928, p.).  
+[^1]: ambiguous; tr. from ENHG "Dieweill", also c.f. Id "Id est", m "manus" (Lindsay, 1915, p. 496; Cappelli, 1928, p. 172 and 208); i "in" also "id est", dm "deum" (Cappelli, 1928, p.); further, IDN, "In Dei Nomine", (Cappelli, 1928, p. 173).  
 [^2]: c.f. Bates (1930), Mierow (1953), Dillon (2004).  
 [^3]: s. Ferchius (1646), Cornford (1930a, b), Vlastos (1950), Bargrave-Weaver (1959), Mann (1980) or Drozdek (2005).  
 [^4]: "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible (1880), Link (1970), Baker (2010).  
