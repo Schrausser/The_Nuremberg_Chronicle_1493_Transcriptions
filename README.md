@@ -42,7 +42,7 @@ Cushing Duniway, D. (1941). A Study of the Nuremberg Chronicle. *The Papers of t
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
 
-Goebel, U., Lobenstein-Reichmann, A., & Reichmann, O. (1989). *Frühneuhochdeutsches Wörterbuch*, 12 Volumes. Berlin, Boston: De Gruyter. https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes
+Goebel, U., Lobenstein-Reichmann, A., & Reichmann, O. (1989). *Frühneuhochdeutsches Wörterbuch*, 12 Volumes. Berlin, Boston: De Gruyter. https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes.
 
 Green, J. P. (2003). *The Nuremberg Chronicle and Its Readers: The Reception of Hartmann Schedel’s Liber Cronicarum*. Illinois: University of Illinois at Urbana-Champaign. https://books.google.com/books?id=tXC8HgAACAAJ.
 
