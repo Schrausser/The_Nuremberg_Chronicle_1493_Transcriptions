@@ -107,4 +107,4 @@ Raaflaub, K. A. (1998). Homer, the Trojan War, and History. *The Classical World
 
 Trapezuntio, G. (1453). *Platonis Legum libri XII atque Epinomis Latino sermone a Georgio Trapezuntio translata*. Vat.lat. 2062 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.lat.2062.
 
-Wasserstein, A. (1978). Epicurean Science. *Hermes 106* (3): 484–94. http://www.jstor.org/stable/4476074 
+Wasserstein, A. (1978). Epicurean Science. *Hermes 106* (3): 484–94. http://www.jstor.org/stable/4476074. 
