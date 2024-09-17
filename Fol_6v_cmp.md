@@ -94,7 +94,7 @@ Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc] est i[n] inferiori loco vir fact[u
 
 ## P 10
 
->Ada[m] igit[ur] p[ro]thoplastu[m][^6] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bedtijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
+>Ada[m] igit[ur] p[ro]thoplastu[m] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bedtijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
 
 >Also hat got der höhst werckman aller ding am sechsten tag d[er] werlt. am .xxv. tag martij nach de[n] geschöpff der thier des ertreichs vnd aller krichende[n] würm vnd der geflügel vo[n] rote[m] erdklos oder lette[n] in dem agker damasceno Ada[m] den erste[n] mensche[n] erschaffen als ein end vnd eine[n] besitzer aller creatur.
 
