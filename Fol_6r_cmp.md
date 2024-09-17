@@ -198,7 +198,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 23
 
->Ex istis seq[ui]tur q[uia] ad terra vsq[ue] ad celum stellatu[m] sunt centum [et] nouem milia: et .ccc.lxxv. miliaria.[^1]
+>Ex istis seq[ui]tur q[uia] ad terra vsq[ue] ad celum stellatu[m] sunt centum [et] nouem milia: et .ccc.lxxv. miliaria.
 
 >Aus de[m] folgt das von der erden bis an den gestirnte[n] himel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxv. meyl. 
 
@@ -220,9 +220,9 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 2
 
->Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundum] **Dyonisium**[^2] hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
+>Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundum] **Dyonisium** hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
 
->Die uberhimlisch sol in dreyen personen sein. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius**[^1] sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
+>Die uberhimlisch sol in dreyen personen sein. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius** sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
 
 >The super-celestial is said to be in three persons, as some have erroneously stated; for the term hierarchy, as **Dionysius** says, in itself implies but one order, and it is ill to speak of this same order as being in three persons instead of one.
 
@@ -295,9 +295,9 @@ In tercijs nutrit vt inspira[n]s.
 
 ### P 10
 
->Hec dicta sunt s[ecundu]m **Gregoriu[m]**.[^3]
+>Hec dicta sunt s[ecundu]m **Gregoriu[m]**.
 
->Diß spricht **Gregorius**.[^2] 
+>Diß spricht **Gregorius**. 
 
 >Thus says **Gregory**.
 
@@ -345,9 +345,9 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 ### P 4
 
->S[e]c[un]d[u]m **septuagi[n]ta interp[re]tes**[^4] (sicut **Isidorus**[^5] exponit) [et] alios q[uonia]m plurimos quos hic seq[ui]mur h[ab]uit annos .2242 
+>S[e]c[un]d[u]m **septuagi[n]ta interp[re]tes** (sicut **Isidorus** exponit) [et] alios q[uonia]m plurimos quos hic seq[ui]mur h[ab]uit annos .2242 
 
->Aber nach sag der **.lxx. ausleger**[^3] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^4] setzt und vil ander den wir hirinn nachfolge[n]
+>Aber nach sag der **.lxx. ausleger** .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus** setzt und vil ander den wir hirinn nachfolge[n]
 
 >but according to the **seventy interpreters**, 2242 years, as **Isidore** fixes it, and many others whom we here follow.
 
@@ -467,10 +467,10 @@ s[ecundu]m septuaginta .940.
 
 ### P 19
 
->In quarta .xvij. quas tame[n] **Matheus**[^6] gratia misterij .xiiij. ponit.  
+>In quarta .xvij. quas tame[n] **Matheus** gratia misterij .xiiij. ponit.  
 In quinta .xiiij.
 
->In dem vierden .xvij. wiewol **Matheus**[^5] aus verborgener bedeütnus .xiiij. setzt vnd in dez fünften .xiiij.
+>In dem vierden .xvij. wiewol **Matheus** aus verborgener bedeütnus .xiiij. setzt vnd in dez fünften .xiiij.
 
 >seventeen in the fourth, while **Matthew** from hidden evidence says fourteen; and in the fifth there are fourteen.
 
