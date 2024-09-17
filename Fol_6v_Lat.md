@@ -37,7 +37,7 @@ Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc][^6] est i[n] inferiori loco vir fa
 [^7]: Tra[n]sla. D. Hiero. "Hec vocabitur 'virago' q[uonia]m de viro su[m]pta est", s. Jiménez de Cisneros (1517, fol. aiijv); virago, viraginis, a warlike or a heroic woman.  
 [^8]: Genesis 2: 19-23, c.f. Foresti (1492, fol. a3r), Jiménez de Cisneros (1517, aiij).  
 [^9]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, 1910, p. 91; Cappelli, 1928, p. 230).  
-[^10]: from "prōtóplastos", "first-formed", s. also cellbiology ...
+[^10]: from "prōtóplastos", "first-formed".
 
 
 ## References
