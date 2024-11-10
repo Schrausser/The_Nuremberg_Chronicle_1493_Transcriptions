@@ -27,7 +27,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 
 >„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, 1941, p. 17).
 
-In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003), facsimile and translations are given by Schedel (2010); for a (full) raw transcripton of the ENHG text see Wikisource contributors (2024).
+In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003), facsimile and translations are given by Schedel (2010), Zellmann-Roher & Hadavas (2011a, b, 2012a, b, res.); for a (full) raw transcripton of the ENHG text see Wikisource contributors (2024).
 
 On the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (1915) or Cappelli (1928). For ENHG dictionaries see  Goebel et al. (1989).
 
@@ -70,3 +70,11 @@ Schnieper, X. (1950). Die Schedelsche Weltchronik: eine Einführung und Würdigu
 Sladeczek, L. (1965). *Albrecht Dürer und die Illustrationen zur Schedelchronik*. 1st ed. Vol. 342. Studien Zur Deutschen Kunstgeschichte. Baden-Baden/Strasbourg: Verlag Heitz GmbH. https://doi.org/10.11588/diglit.37607.
 
 Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
+
+Zellmann-Roher, M., & Hadavas, C. (2011a). *Liber Chronicarum Translation*. 1st ed. Vol. 1. Boston, MA: Selim S. Nahas Press. https://www.abebooks.com/9780983140726.
+
+———. (2011b). *Liber Chronicarum Translation*. 1st ed. Vol. 2. Boston, MA: Selim S. Nahas Press. https://www.abebooks.com/9780983140719.
+
+———. (2012a). *Liber Chronicarum Translation*. 1st ed. Vol. 3. Boston, MA: Selim S. Nahas Press. https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en.
+
+———. (2012b). *Liber Chronicarum Translation*. 1st ed. Vol. 4. Boston, MA: Selim S. Nahas Press. https://www.gettextbooks.com/isbn/9780983140740/.
