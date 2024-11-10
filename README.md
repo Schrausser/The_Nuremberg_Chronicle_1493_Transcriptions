@@ -27,7 +27,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 
 >„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, 1941, p. 17).
 
-In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003); for a (full) raw transcripton of the ENHG text see Wikisource contributors (2024).
+In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003), facsimile and translations are given by Schedel (2010); for a (full) raw transcripton of the ENHG text see Wikisource contributors (2024).
 
 On the interpretation of Latin abbreviations see e.g. Martin (1910), Lindsay (1915) or Cappelli (1928). For ENHG dictionaries see  Goebel et al. (1989).
 
@@ -57,6 +57,8 @@ Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, L
 Rücker, E. (1988). *Hartmann Schedels Weltchronik: das grösste Buchunternehmen der Dürer-Zeit : mit einem Katalog der Städteansichten*. München: Prestel. https://books.google.com/books?id=CiujnAEACAAJ.
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
+
+Schedel, H. (2010). *Liber Chronicarum Reference Edition*. Facsimile. Boston, MA: Selim S. Nahas Press. http://www.smithandpress.com/Our_Books.html.
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
 https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
