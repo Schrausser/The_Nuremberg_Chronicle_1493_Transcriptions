@@ -71,7 +71,7 @@ Sladeczek, L. (1965). *Albrecht Dürer und die Illustrationen zur Schedelchronik
 
 Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
 
-Zellmann-Roher, M., & Hadavas, C. (2011a). *Liber Chronicarum Translation*. 1st ed. Vol. 1. Boston, MA: Selim S. Nahas Press. https://www.abebooks.com/9780983140726.
+Zellmann-Roher, M., & Hadavas, C. (2011a). *Liber Chronicarum Translation*. 1st ed. Vol. 1. Boston, MA: Selim S. Nahas Press. [https://www.abebooks.com/9780983140726](https://www.abebooks.com/9780983140726/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140723/plp).
 
 ———. (2011b). *Liber Chronicarum Translation*. 1st ed. Vol. 2. Boston, MA: Selim S. Nahas Press. https://www.abebooks.com/9780983140719.
 
