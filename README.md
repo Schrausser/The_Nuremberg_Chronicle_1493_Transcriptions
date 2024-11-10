@@ -75,6 +75,6 @@ Zellmann-Roher, M., & Hadavas, C. (2011a). *Liber Chronicarum Translation*. 1st
 
 ———. (2011b). *Liber Chronicarum Translation*. 1st ed. Vol. 2. Boston, MA: Selim S. Nahas Press. https://www.abebooks.com/9780983140719.
 
-———. (2012a). *Liber Chronicarum Translation*. 1st ed. Vol. 3. Boston, MA: Selim S. Nahas Press. https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en.
+———. (2012a). *Liber Chronicarum Translation*. 1st ed. Vol. 3. Boston, MA: Selim S. Nahas Press. [https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en).
 
 ———. (2012b). *Liber Chronicarum Translation*. 1st ed. Vol. 4. Boston, MA: Selim S. Nahas Press. https://www.gettextbooks.com/isbn/9780983140740/.
