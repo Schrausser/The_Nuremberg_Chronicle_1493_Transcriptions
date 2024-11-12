@@ -2,7 +2,7 @@
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422).
 >
-Annotated transcriptions from the *Nuremberg Chronicle*, fol. 1r to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat.md`-`Fol_7r_Lat.md` (Schedel, 1493), *Early New High German*, ENHG, `Fol_1r_ENHG.md`-`Fol_7r_ENHG.md` (Schedel & Alt, 1493, 1496, res.) and from the *English* translation by Hadawas (2023) in comparison, `Fol_1r_cmp.md`-`Fol_7r_cmp.md`.  
+Annotated transcriptions from the *Nuremberg Chronicle*, fol. 1r to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat`-`Fol_7r_Lat` (Schedel, 1493), *Early New High German*, ENHG, `Fol_1r_ENHG`-`Fol_7r_ENHG` (Schedel & Alt, 1493, 1496, res.) and from the *English* translation by Hadawas (2023) in comparison, `Fol_1r_cmp`-`Fol_7r_cmp`.  
 Where the division of the paragraphs P in the comparative presentations is based on the ENHG version.
 
 Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, 1493).
@@ -58,7 +58,7 @@ Rücker, E. (1988). *Hartmann Schedels Weltchronik: das grösste Buchunternehmen
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
 
-Schedel, H. (2010). *Liber Chronicarum Reference Edition*. Facsimile. Boston, MA: Selim S. Nahas Press. http://www.smithandpress.com/Our_Books.html.
+———. (2010). *Liber Chronicarum Reference Edition*. Facsimile. Boston, MA: Selim S. Nahas Press. http://www.smithandpress.com/Our_Books.html.
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
 https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
