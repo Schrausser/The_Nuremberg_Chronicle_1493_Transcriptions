@@ -129,7 +129,7 @@ Anderdon, W. H. (1879a). St. Remigius, Bishop and Confessor. *The Irish Monthly 
 
 Arias, P. P. (2019). Clovis and Remigius of Reims in the Making of the Merovingian Kingdoms. *European Review of History: Revue Européenne d’histoire 26* (2): 197–218. https://doi.org/10.1080/13507486.2017.1397108.
 
-Baker, R. G. (2010). “Review of the Five Books of Moses: A Translation with Commentary, by r. Alter.” *Brigham Young University Studies 49* (1): 180–83. http://www.jstor.org/stable/43044772.
+Baker, R. G. (2010). Review of the Five Books of Moses: A Translation with Commentary, by r. Alter. *Brigham Young University Studies 49* (1): 180–83. http://www.jstor.org/stable/43044772.
 
 Bargrave-Weaver, D. (1959). The Cosmogony of Anaxagoras. *Phronesis 4* (2): 77–91. http://www.jstor.org/stable/4181652.
 
