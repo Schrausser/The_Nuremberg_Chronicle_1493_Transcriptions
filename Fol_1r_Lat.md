@@ -155,11 +155,11 @@ Ben Gershon, L. (1425). *Astronomia*. Vat.lat. 3098 ed. Vatican: Biblioteca Apos
 
 Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Pal.lat.938.
 
+———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. https://books.google.com/books?id=ZooTnQEACAAJ.
+
 Burns, J. P. (1988). Augustine on the Origin and Progress of Evil. *The Journal of Religious Ethics 16* (1): 9–27. http://www.jstor.org/stable/40015076.
 
 Burton, E. D. (1900). The Purpose and Plan of the Gospel of Luke. *The Biblical World 16* (4): 248–58. http://www.jstor.org/stable/3136549.
-
-———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. https://books.google.com/books?id=ZooTnQEACAAJ.
 
 Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
 
