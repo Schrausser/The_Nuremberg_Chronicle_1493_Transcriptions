@@ -90,7 +90,7 @@ Baker, R. G. (2010). Review of the Five Books of Moses: A Translation with Comme
 
 Barnes, W. R. (1981). The Trojan War in Valerius Flaccus’ Argonautica. *Hermes 109* (3): 360–70. http://www.jstor.org/stable/4476220.
 
-Bergren, T. (2017). “Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm?” *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm?” *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
 
 Boas, G. (1948). Fact and Legend in the Biography of Plato. *The Philosophical Review 57* (5): 439–57. http://www.jstor.org/stable/2181715.
 
