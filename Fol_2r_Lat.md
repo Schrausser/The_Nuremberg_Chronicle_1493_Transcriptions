@@ -86,7 +86,7 @@ Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libr
 Bagster, S. (publ.). (1870). *The Septuagint Version of the Old Testament, with an English Translation; and with Various Readings and Critical Notes*. London: Samuel Bagster; Sons.
 https://books.google.com/books?id=wMUUAAAAQAAJ.
 
-Baker, R. G. (2010). “Review of the Five Books of Moses: A Translation with Commentary, by r. Alter.” *Brigham Young University Studies 49* (1): 180–83. http://www.jstor.org/stable/43044772.
+Baker, R. G. (2010). Review of the Five Books of Moses: A Translation with Commentary, by r. Alter. *Brigham Young University Studies 49* (1): 180–83. http://www.jstor.org/stable/43044772.
 
 Barnes, W. R. (1981). The Trojan War in Valerius Flaccus’ Argonautica. *Hermes 109* (3): 360–70. http://www.jstor.org/stable/4476220.
 
