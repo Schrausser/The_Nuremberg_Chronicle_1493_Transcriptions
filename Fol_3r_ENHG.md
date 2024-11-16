@@ -26,7 +26,7 @@ So sind ettliche under der mitteln fürscheinenden stat des lufts. als bey uns. 
 
 ## References
 
-Bergren, T. (2017). “Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm?” *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
 
 Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. http://www.jstor.org/stable/3259859.
 
