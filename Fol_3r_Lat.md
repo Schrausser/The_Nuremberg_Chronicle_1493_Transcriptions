@@ -58,7 +58,7 @@ Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: B
 
 ———. (1529). *Bedae Presbyteri Anglosaxonis Viri Ervditissimi de Natvra Rervm Et Temporvm Ratione Libri Dvo*. Edited by Sichard J. Basileae: Excvdebat Henricvs Petrvs Mense Martio, An: M. D. XXIX. https://doi.org/10.3931/e-rara-63790.
 
-Bergren, T. (2017). “Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
 
 Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. http://www.jstor.org/stable/3259859.
 
