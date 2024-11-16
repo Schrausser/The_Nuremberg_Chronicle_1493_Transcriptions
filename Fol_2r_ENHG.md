@@ -93,6 +93,8 @@ Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia
 
 Ovidius, N. P. (1515). *P. Ovidii Metamorphoseon Libri XV: ; in Fronte Denique Operis Vita Ovidii Ex Ipsius Operibus [Ab Aldo m.] : Index Fabularum, Et Caeterorum, Quae in Hoc Libro Continentur, Secundum Ordinem Alphabeti*. Argentorati: ex aedibus Matthiae Schurerii. https://doi.org/10.3931/e-rara-35248.
 
+Raaflaub, K. A. (1998). Homer, the Trojan War, and History. *The Classical World 91* (5): 386–403. http://www.jstor.org/stable/4352106.
+
 Semple, W. H. (1965). St Jerome as a Biblical Translator. Edited by Hall, R. *Bulletin of the John Rylands Library, Manchester 48* (1): 227–43. https://jstor.org/stable/community.28211847.
 
 Simpson, W. (2023). *Hylomorphism*. Elements in the Philosophy of Biology. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781009026475.
@@ -102,8 +104,6 @@ Skrzypek, J. (2017). Three Concerns for Structural Hylomorphism. *Analytic Philo
 Sparks, H. F. D. (1970). Jerome as Biblical Scholar. In *The Cambridge History of the Bible*, edited by Ackroyd, P. R., & Evans, C. F., 1:510–41. Cambridge: Cambridge University Press. https://doi.org/10.1017/CHOL9780521074186.017.
 
 Steiner, G. (1951). Source-Editions of Ovid’s Metamorphoses (1471-1500). *Transactions and Proceedings of the American Philological Association 82*: 219–31. http://www.jstor.org/stable/283435.
-
-Raaflaub, K. A. (1998). Homer, the Trojan War, and History. *The Classical World 91* (5): 386–403. http://www.jstor.org/stable/4352106.
 
 Trapezuntio, G. (1453). *Platonis Legum libri XII atque Epinomis Latino sermone a Georgio Trapezuntio translata*. Vat.lat. 2062 ed. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.lat.2062.
 
