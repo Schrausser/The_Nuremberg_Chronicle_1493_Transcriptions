@@ -25,8 +25,6 @@ Hamilton, E., & Cairns, H., ed. (1961). *The Collected Dialogues of Plato*. Prin
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
 
-Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. https://archive.org/details/recordinterprete00martuoft.
-
 Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficin, M., Corradi, S. Lugduni: apud Joannem Lertout. https://doi.org/10.3931/e-rara-24349.
 
 Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. https://doi.org/10.3931/e-rara-120889.
