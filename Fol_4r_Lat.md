@@ -66,8 +66,8 @@ Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizu
 
 Horace. (1868). *Q. Horatii Flacci Opera Omnia*. Oxoni et Londini: J. Parker et Soc. https://google.cat/books?id=A28VAAAAYAAJ.
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
-
 ———. (1882). *Quinti Horatii Flacci Opera Omnia*. Edited by MacLeane, A. J. Harper’s Greek and Latin Texts. Novi Eboraci: Apud Harperos Fratres. https://google.cat/books?id=9AsWAAAAYAAJ.
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
 
 Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. https://archive.org/details/recordinterprete00martuoft.
