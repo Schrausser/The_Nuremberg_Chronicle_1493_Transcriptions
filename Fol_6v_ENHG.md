@@ -41,7 +41,7 @@ Brenton, L. C. L. (1971). *The Septuagint with Apocryphia: With an English Trans
 
 De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. https://books.google.com/books?id=wb8Z_vlSyJwC.
 
-Foresti, G. F. (1490). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
 
