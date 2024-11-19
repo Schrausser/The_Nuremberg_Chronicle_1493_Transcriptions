@@ -22,7 +22,7 @@ Deinde peri[z]omatibus[^3] folioru[m] susceptis ex delitia[rum] orto in agro ebr
 
 Tandem cum partus dolores sepius exp[er]ta fuisset cum laboribus in senu[m] et tandem in mortem sibi a domino predicta[m] deuenit.
 
-[^1]: c.f. Foresti (1490, fol. a3v).  
+[^1]: c.f. Foresti (1492, fol. a3v).  
 [^2]: Genesis 2:14-24, s. Jiménez de Cisneros (1517, fol. aiiij).   
 [^3]: c.f. Jiménez de Cisneros (1517, fol. aiiijv).  
 
