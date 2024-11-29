@@ -52,7 +52,7 @@ Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superi
 
 ## P 5
 
->Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant interrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.  
+>Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant inerrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.  
 Neque hoc tantum creditum a nostris: maxime iunioribus **Strabo** [et] **Beda**: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam:  
 E[st] quibus satis duos sit attulisse: **Abraam hispanum** astrologum maximu[m] [et] **ysaac philosophu[m]**: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele** designatum intelligit per zaphiru[m] in similitudine[m] throni: 
 
