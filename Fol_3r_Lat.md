@@ -19,7 +19,7 @@ Alter australis nothus dictus voluit[ur] ab orie[n]te in occidente[m] ta[n]ta ce
 
 Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superioris: elementa inferiora succenderet.
 
-Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant interrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.
+Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant inerrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.
 
 Neque hoc tantum creditum a nostris: maxime iunioribus **Strabo**[^3] [et] **Beda**[^4]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam: 
 
