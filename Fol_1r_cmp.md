@@ -79,7 +79,7 @@ Ex durioribus vero terram lutosam euasisse: [et] omnino mollem.
 ## P 9
 
 >hec primum cum solis ardore densior euasisset: in quibus putredines tenui co[n]tecte pellicula sint excitate.  
-Erupisse tandem ab illa colluui verias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t:  
+Erupisse tandem ab illa colluui varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t:  
 
 >Als aber das ertreich erstlich auß hitz der sunne[n] dicker worde[n] wer vn[d] dar in faulfeüchtigkeitn[n] mit dynne[n] hewtlein bedeckett erwuchsen do wer alßdan[n] vo[n] solcher pfütsche ma[n]cherlay gestalt der lebe[n]de[n] entstande[n]. vnd die. die souill merer wirm empfange[n] hette[n] geriete[n] zu geflügele hin in die obern gege[n]t. 
 
