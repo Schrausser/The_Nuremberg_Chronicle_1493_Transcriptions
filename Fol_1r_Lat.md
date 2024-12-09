@@ -20,7 +20,7 @@ Partem aute[m] turbidam atq[ue] terrestrem vnacum humidis ad infima loca ob grau
 
 Ex durioribus vero terram lutosam euasisse: [et] omnino mollem. hec primum cum solis ardore densior euasisset: in quibus putredines tenui co[n]tecte pellicula sint excitate.
 
-Erupisse tandem ab illa colluui verias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t: sicciora [et] grauiora: serpentia ac terrestria euaserunt animantia. 
+Erupisse tandem ab illa colluui varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t: sicciora [et] grauiora: serpentia ac terrestria euaserunt animantia. 
 
 Naturam aquosam nacta in sui generis in elementum delata sunt.
 
