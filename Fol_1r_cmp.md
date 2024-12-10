@@ -52,7 +52,7 @@
 ## P 6
 
 >Et greci viri clarissimi qui historias collegeru[n]t: affirmaru[n]t.  
-Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma[m] fusse: postea disseparatis: diuisisq[ue] molibus cepisse mundu[m] hunc ordinem quem videmus.
+Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma[m] fuisse: postea disseparatis: diuisisq[ue] molibus cepisse mundu[m] hunc ordinem quem videmus.
 
 >Vn[d] die kriechische[n] hocherlewchten man[n] durch die die hystorien vnd geschichte[n] versamelt worde sind. habe[n] auch veriehen das vor anbegynn[] aller ding des himels vnd der erde[n] dieweill noch yde ding bayaynander ware[n] ein eynige form gewesen sei: un[d] darnach nach absunderu[n]g vn[d] zertaylu[n]g der beyeina[n]der gewesen pürde. die werlt dise odnung vnd gestalt die wir sehen empfange[n] hab. 
 
