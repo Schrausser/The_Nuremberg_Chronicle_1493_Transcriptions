@@ -10,7 +10,7 @@ Quidam genitum corruptibilemq[ue] arbitrati: [et] homines dixeru[n]t generat[i]o
 
 Et greci viri clarissimi qui historias collegeru[n]t: affirmaru[n]t.
 
-Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma[m] fusse: postea disseparatis: diuisisq[ue] molibus cepisse mundu[m] hunc ordinem quem videmus.
+Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma[m] fuisse: postea disseparatis: diuisisq[ue] molibus cepisse mundu[m] hunc ordinem quem videmus.
 
 Aerem hu[n]c motu [con]tinuum et igneam p[ar]tem cuius superiora loca p[er]p[e]ter leuitate[m] a[l]iu[n]t appetinisse:
 
