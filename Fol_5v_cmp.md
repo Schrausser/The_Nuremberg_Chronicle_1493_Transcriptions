@@ -10,7 +10,7 @@
 
 >**C**Onsummato igitur mundo: per fabricam diuine solercie sex dierum.  
 Creati e[ni]m dispositi [et] ornati tande[m] p[er]fecti sunt celi [et] terra.  
-Compleuit de[us] gl[or]iosus opus suu[m]: [et] requienit die septimo ab operib[us] manuum suaru[m]: postq[uam] cu[n[ctum mundu[m]: [et] omnia que in eo sunt creasse: no[n] quasi operando lassus: sed nouam creaturam facere cessauit: cuius materia vel similitudo non precesserit.  
+Compleuit de[us] gl[or]iosus opus suu[m]: [et] requienit die septimo ab operib[us] manuum suaru[m]: postq[uam] cu[n]ctum mundu[m]: [et] omnia que in eo sunt creasse: no[n] quasi operando lassus: sed nouam creaturam facere cessauit: cuius materia vel similitudo non precesserit.  
 Opus enim propagationis operari non definit.  
 Et dominus eidem diei benedixit: [et] sanctificauit illu[m]: vocauitq[ue] ipsum Sabatu[m] quod nomen hebraica lingua requiem significat.  
 Eo q[uia] in ipso cessauerat ab om[n]i opere q[uo]d patrarat.  
