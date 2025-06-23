@@ -9,11 +9,11 @@ Aber d[er] nidergang wirt dem zerstreitten entrüsten vnd boßhafftigen gemüt z
  
 Darnach hat got die andern örter nemlich des mittags vn[d] mitternacht in d[er] selben gestalt ausgemessen. die auch den vordern zweyn örtern mit verwantschaft zu gesellet werde[n]. dan[n] das ort das vo[n] wirm vnd sunne[n] heißer ist das hä[n]gt de[n] anfang allernechst an. aber das ort das in kelt vn[d] ewige[n] gefrüst qualet ist des tails des letzte[n] niderga[n]gs. wan[n] als die finsternus de[m] liecht. also ist auch die kelt der wirm widerwertig. darümb als wirm de[m] liecht. also ist d[er] mittag de[m] auffgang vn[d] die kelt d[er] finsternus. also auch die mitternacht dem nidergang aller nehst.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:3-5, s. Jiménez de Cisneros (1517, fol. ar).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: Genesis 1:3-5, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. ar).  
 
 ## References
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
