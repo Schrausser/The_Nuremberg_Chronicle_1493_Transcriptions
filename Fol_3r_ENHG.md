@@ -19,21 +19,21 @@ Etlich sind ob d[er] mitteln gege[n]t des lufts. als d[er] oberst teil desselbe[
 
 So sind ettliche under der mitteln fürscheinenden stat des lufts. als bey uns. da dan[n] kein lawters element ist. sunder alle element vo[n] faystikeit wege[n] des werltlichen leibs gemischt sind. dazwischen ist ein gegend des lufts auch das firmament genannt. dar inn regen. schne. plitzen. tornersleg. cometen vnd der gleichen erscheiynen. darümb gar recht underschaydet diss firmament. nit allain d[er] gelegenheit sunder auch der aygenschafft halben d[er] natur die obern eleme[n]t vo[n] den undern. als die wasser vo[n] de[n] wassern. darob sind die eleme[n]t pür vnd lawter. aber darunder in volkomner vermischu[n]g vo[n] eleme[n]tischer slechtigkeit obgesünderet. vn[d] er hat das firmament himel geheissen. dan[n] der bedeckt alle empfintliche vnd unsichtpere ding.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:6-8, s. Jiménez de Cisneros (1517, fol. ar).    
-[^3]: s. Idel (1977, p. 291).  
-[^4]: c.f. Ezekiel 1:4 and 1:26-28, s. Jiménez de Cisneros (1517, fol. vijr ff.), c.f. Berry (1939), also Silverman (2006), Bergren (2017).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: Genesis 1:6-8, s. Jiménez de Cisneros ([1517](), fol. ar).    
+[^3]: s. Idel ([1977](http://www.jstor.org/stable/751003), p. 291).  
+[^4]: c.f. Ezekiel 1:4 and 1:26-28, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. vijr ff.), c.f. Berry ([1939](http://www.jstor.org/stable/3259859)), also Silverman ([2006](https://doi.org/10.1016/j.asr.2005.03.158)), Bergren ([2017](http://www.jstor.org/stable/44505333)).  
 
 ## References
 
-Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
 
-Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. http://www.jstor.org/stable/3259859.
+Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. [http://www.jstor.org/stable/3259859](http://www.jstor.org/stable/3259859)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes 40*: 290–92. http://www.jstor.org/stable/751003.
+Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes 40*: 290–92. [http://www.jstor.org/stable/751003](http://www.jstor.org/stable/751003)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research 38* (2): 200–208. https://doi.org/10.1016/j.asr.2005.03.158.
+Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research 38* (2): 200–208. [https://doi.org/10.1016/j.asr.2005.03.158](https://doi.org/10.1016/j.asr.2005.03.158)
