@@ -20,11 +20,11 @@ Darümb garschickerlich hat uns moyses kürtzlich dieser ding aller vermanet spr
 
 Hie bey were[n] gar hohfrage zefüren vn[d] von yder ein rechts buch zemachen wie vnd welcher maß diese gestirne in de[m] firmament were[n]. auch welche geschöpff in irem adel vnd wirde die andern ubertreffen vn[d] vo[n] verrer art. aigenschaft. wurkung. vn[d] natur des gestirns. auch von den ihenen die sich darauß verkundung künftiger ding geprauchen. so wil doch weder stat noch zeit gedulden lenger do von zeschreyben.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: s. Jiménez de Cisneros (1517, fol. av).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. av).  
 
 ## References
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
