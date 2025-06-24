@@ -68,18 +68,17 @@ Ut igit[ur] calor lumini e[st] p[ro]ximus: sic meridies orie[n]ti: vt frig[us] t
 
 Hec omnia opus quarte diei vberius manifestabit.
  
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:3-5, s. Jiménez de Cisneros (1517, fol. ar).   
-[^3]: s. Cappelli (1928, p. 310).  
-[^4]: s. Cappelli (1928, p. 266).  
-[^5]: s. Cappelli (1928, p. 356).
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: Genesis 1:3-5, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. ar).   
+[^3]: s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 310).  
+[^4]: s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 266).  
+[^5]: s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 356).
 
 
 ## Reference
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
-
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
