@@ -6,11 +6,11 @@
 
 De[n] selbe[n] tag habe[n] auch ettlich haidnische völker vor dem gesetz feirlich gehalte[n]. vnd also sein wir zu[m] end der göttlichen werck komme[n]. darümb so sollen wir de[n] in dem alle sichtliche vnd unsichtliche ding sind förchten. liebhaben vnd eren vnd von dem herren des himels. dem herren aller güter dem gewalt gegebe[n] ist in himel vnd erden. die gegenwürtigen güter. sover die gut sind. vnd auch die waren seligkait des ewigen lebe[n]s suchen.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: c.f. Genesis 2:13, s. Jiménez de Cisneros (1517, fol. aij).   
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: c.f. Genesis 2:13, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aij).   
 
 ## References
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
