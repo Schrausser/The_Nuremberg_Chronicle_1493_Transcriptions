@@ -49,25 +49,25 @@ Ueru[m] qua[m]q[uoniam] sint pulcra [et] digna cognitu.
 
 Audiemus fortassis **Horatianu[m]**[^8] illud sed nunc non erat hic locus.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: s. Jiménez de Cisneros (1517, fol. av).  
-[^3]: or "d[icitu]r", "d[istinguitu]r" (s. Martin, 1910, p. 39; Cappelli, 1928, p. 108).  
-[^4]: or "vn[de]", s. Cappelli (1928, p. 394).  
-[^5]: c.f. Cappelli (1928, p. 317).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. av).  
+[^3]: or "d[icitu]r", "d[istinguitu]r" (s. Martin, [1910](https://archive.org/details/recordinterprete00martuoft), p. 39; Cappelli, [1928](https://archive.org/details/LexiconAbbreviaturarum), p. 108).  
+[^4]: or "vn[de]", s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 394).  
+[^5]: c.f. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 317).  
 [^6]: Natal astrology, genethlialogy.   
-[^7]: s. Cappelli (1928, p. 344).  
-[^8]: c.f. Horace (1868, 1882, res.).
+[^7]: s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 344).  
+[^8]: c.f. Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ), [1882](https://google.cat/books?id=9AsWAAAAYAAJ), res.).
 
 ## References
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Horace. (1868). *Q. Horatii Flacci Opera Omnia*. Oxoni et Londini: J. Parker et Soc. https://google.cat/books?id=A28VAAAAYAAJ.
+Horace. (1868). *Q. Horatii Flacci Opera Omnia*. Oxoni et Londini: J. Parker et Soc. [https://google.cat/books?id=A28VAAAAYAAJ](https://google.cat/books?id=A28VAAAAYAAJ)
 
-———. (1882). *Quinti Horatii Flacci Opera Omnia*. Edited by MacLeane, A. J. Harper’s Greek and Latin Texts. Novi Eboraci: Apud Harperos Fratres. https://google.cat/books?id=9AsWAAAAYAAJ.
+———. (1882). *Quinti Horatii Flacci Opera Omnia*. Edited by MacLeane, A. J. Harper’s Greek and Latin Texts. Novi Eboraci: Apud Harperos Fratres. [https://google.cat/books?id=9AsWAAAAYAAJ](https://google.cat/books?id=9AsWAAAAYAAJ)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. https://archive.org/details/recordinterprete00martuoft.
+Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft](https://archive.org/details/recordinterprete00martuoft)
