@@ -42,44 +42,44 @@ Sup[ra] eum pura sunt elementa: infra eam perfecta mixtione ab elementali simpli
 Uocauitq[ue] firmame[n]tum celum: cum tegat omnia sensibilia [et] inuisibilia quod a koylon[^9] quod est concauu[m] deducu[n]t.
 
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:6-8, s. Jiménez de Cisneros (1517, fol. ar).   
-[^3]: Strabo (1469), c.f. Pothecary (1999).  
-[^4]: Beda (1125, 1529, res.), c.f. Darby & MacCarron (2023).  
-[^5]: or "E[odem]", "[Oboli quinque]", (s. Martin, 1910, p. 43; Cappelli, 1928, p. 113).  
-[^6]: Levy (2008), c.f. Idel (1977).  
-[^7]: s. Idel (1977, p. 291).  
-[^8]: Ezekiel 1:4 and 1:26-28, s. Jiménez de Cisneros (1517, fol. vijr ff.), c.f. Berry (1939), also Silverman (2006), Bergren (2017).  
-[^9]: "A hollow or cavity. The bowl-shaped seating area of the ancient Greek theatre. The word is occasionally used as the equivalent to the Greek theatron", s. Koilon (2022).
+[^1]: c.f. Foresti ([1492](), fol. a2v).  
+[^2]: Genesis 1:6-8, s. Jiménez de Cisneros ([1517](), fol. ar).   
+[^3]: Strabo ([1469]()), c.f. Pothecary ([1999]()).  
+[^4]: Beda ([1125](), [1529](), res.), c.f. Darby and MacCarron ([2023]()).  
+[^5]: or "E[odem]", "[Oboli quinque]", (s. Martin, [1910](), p. 43; Cappelli, [1928](), p. 113).  
+[^6]: Levy ([2008]()), c.f. Idel ([1977]()).  
+[^7]: s. Idel ([1977](), p. 291).  
+[^8]: Ezekiel 1:4 and 1:26-28, s. Jiménez de Cisneros ([1517](), fol. vijr ff.), c.f. Berry ([1939]()), also Silverman ([2006]()), Bergren ([2017]()).  
+[^9]: "A hollow or cavity. The bowl-shaped seating area of the ancient Greek theatre. The word is occasionally used as the equivalent to the Greek theatron", s. Koilon ([2022]()).
 
 ## References
 
-Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: Bibliothèque nationale de France. Département des Manuscrits. http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p.
+Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: Bibliothèque nationale de France. Département des Manuscrits. [http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p]()
 
-———. (1529). *Bedae Presbyteri Anglosaxonis Viri Ervditissimi de Natvra Rervm Et Temporvm Ratione Libri Dvo*. Edited by Sichard J. Basileae: Excvdebat Henricvs Petrvs Mense Martio, An: M. D. XXIX. https://doi.org/10.3931/e-rara-63790.
+———. (1529). *Bedae Presbyteri Anglosaxonis Viri Ervditissimi de Natvra Rervm Et Temporvm Ratione Libri Dvo*. Edited by Sichard J. Basileae: Excvdebat Henricvs Petrvs Mense Martio, An: M. D. XXIX. [https://doi.org/10.3931/e-rara-63790]()
 
-Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. http://www.jstor.org/stable/44505333.
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. [http://www.jstor.org/stable/44505333]()
 
-Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. http://www.jstor.org/stable/3259859.
+Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. [http://www.jstor.org/stable/3259859]()
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum]()
 
-Darby, P., & MacCarron, M. (2023). *Bede the Scholar*. Manchester, England: Manchester University Press. http://www.jstor.org/stable/jj.4470340.
+Darby, P., & MacCarron, M. (2023). *Bede the Scholar*. Manchester, England: Manchester University Press. [http://www.jstor.org/stable/jj.4470340]()
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover]()
 
-Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes 40*: 290–92. http://www.jstor.org/stable/751003.
+Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes 40*: 290–92. [http://www.jstor.org/stable/751003]()
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695]()
 
-Koilon. (2022). THE ANCIENT THEATRE ARCHIVE. The Theatre Architecture of Greece and Rome. https://ancienttheatrearchive.com/glossary-term/koilon.
+Koilon. (2022). THE ANCIENT THEATRE ARCHIVE. The Theatre Architecture of Greece and Rome. [https://ancienttheatrearchive.com/glossary-term/koilon]()
 
-Levy, T. (2008). Abraham Bar Ḥiyya (Savasorda). In *Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures*, edited by Selin, H., 5–5. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-1-4020-4425-0_8469.
+Levy, T. (2008). Abraham Bar Ḥiyya (Savasorda). In *Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures*, edited by Selin, H., 5–5. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-1-4020-4425-0_8469]()
 
-Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. https://archive.org/details/recordinterprete00martuoft.
+Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft]()
 
-Pothecary, S. (1999). Strabo the Geographer: His Name and Its Meaning. *Mnemosyne 52* (6): 691–704. http://www.jstor.org/stable/4433046.
+Pothecary, S. (1999). Strabo the Geographer: His Name and Its Meaning. *Mnemosyne 52* (6): 691–704. [http://www.jstor.org/stable/4433046]()
 
-Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research 38* (2): 200–208. https://doi.org/10.1016/j.asr.2005.03.158.
+Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research 38* (2): 200–208. [https://doi.org/10.1016/j.asr.2005.03.158]()
 
-Strabo. (1469). *Geographia, libri XVI*. Roma: Conradus Sweynheym und Arnoldus Pannartz. https://doi.org/10.3931/e-rara-87965.
+Strabo. (1469). *Geographia, libri XVI*. Roma: Conradus Sweynheym und Arnoldus Pannartz. [https://doi.org/10.3931/e-rara-87965]()
