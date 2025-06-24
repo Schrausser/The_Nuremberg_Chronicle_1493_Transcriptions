@@ -57,21 +57,21 @@ In secundo [et] tercio dispositione[m].
 
 In reliquis ornatum Moyses per opera sex die[rum] ostendit.
 
-[^1]: Genesis 1:1-2, s. Jiménez de Cisneros (1517, fol. ar), also c.f. Foresti (1492, fol. a2r).  
-[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Baker (2010), Edelman et al. (2012) or Leuchter (2019).  
-[^3]: s. De Columnis & Mair (1510), Meister (1872), Haight (1947), Finley et al. (1964), Barnes (1981), Raaflaub (1998) or Cobet (2009).  
-[^4]: or "[con][trarium]", s. Cappelli (1928, p. 60-61).  
-[^5]: or "v[er]o", c.f. Cappelli (1928, p. 395).  
-[^6]: s. Trapezuntio (1453), Bruni (1472), Ficinus (1517), Ficinus & Grynäus (1546), Ackermann (1810), Jowett (1888), also Böckh (1852), Boas (1948), McPherran & Fraser (2011), Bergren (2017).  
-[^7]: Aristoteles (1325), Aristoteles & Clichtoveus (1510), Aristoteles & Theophrastus (1608).  
-[^8]: s. De Witt (1932, 1954), Wasserstein (1978), Inwood (1981), also Walker (1982).  
-[^9]: c.f. Skrzypek (2017, p. 260), also Weisheipl (1979), Koslicki (2008), Manning (2013), Carter (2019), Simpson (2023).  
-[^10]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, 1910, p. 91; Cappelli, 1928, p. 230).  
-[^11]: s. Semple (1965), Sparks (1970).    
-[^12]: or "v[a]l[ete]", v[ide]l[icet], res., c.f. Cappelli (1928, p. 392).  
-[^13]: 700(!), Septuaginta (LXX), c.f. Monasterii Wirimutham-Gyruum (716 AD), Jiménez de Cisneros (1517), Ulrich & Holzhalb (1756), Bagster (1870), Brenton (1971, 1986).  
-[^14]: Ovidius (1515), Steiner, G. (1951).  
-[^15]: c.f Foresti (1492, fol. a2r), Ovidius (1515, fol. IIr).    
+[^1]: Genesis 1:1-2, s. Jiménez de Cisneros ([1517](), fol. ar), also c.f. Foresti ([1492](), fol. a2r).  
+[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Baker ([2010]()), Edelman et al. ([2012]()) or Leuchter ([2019]()).  
+[^3]: s. De Columnis and Mair ([1510]()), Meister ([1872]()), Haight ([1947]()), Finley et al. ([1964]()), Barnes ([1981]()), Raaflaub ([1998]()) or Cobet ([2009]()).  
+[^4]: or "[con][trarium]", s. Cappelli ([1928](), p. 60-61).  
+[^5]: or "v[er]o", c.f. Cappelli ([1928](), p. 395).  
+[^6]: s. Trapezuntio ([1453]()), Bruni ([1472]()), Ficinus ([1517]()), Ficinus and Grynäus ([1546]()), Ackermann ([1810]()), Jowett ([1888]()), also Böckh ([1852]()), Boas ([1948]()), McPherran and Fraser ([2011]()), Bergren ([2017]()).  
+[^7]: Aristoteles ([1325]()), Aristoteles and Clichtoveus ([1510]()), Aristoteles and Theophrastus ([1608]()).  
+[^8]: s. De Witt ([1932](), [1954]()), Wasserstein ([1978]()), Inwood ([1981]()), also Walker ([1982]()).  
+[^9]: c.f. Skrzypek ([2017](), p. 260), also Weisheipl ([1979]()), Koslicki ([2008]()), Manning ([2013]()), Carter ([2019]()), Simpson ([2023]()).  
+[^10]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, [1910](), p. 91; Cappelli, [1928](), p. 230).  
+[^11]: s. Semple ([1965]()), Sparks ([1970]()).    
+[^12]: or "v[a]l[ete]", v[ide]l[icet], res., c.f. Cappelli ([1928](), p. 392).  
+[^13]: 700(!), Septuaginta (LXX), c.f. Monasterii Wirimutham-Gyruum ([716 AD]()), Jiménez de Cisneros ([1517]()), Ulrich and Holzhalb ([1756]()), Bagster ([1870]()), Brenton ([1971](), [1986]()).  
+[^14]: Ovidius ([1515]()), Steiner, G. ([1951]()).  
+[^15]: c.f Foresti ([1492](), fol. a2r), Ovidius ([1515](), fol. IIr).    
 
 ## References
 
