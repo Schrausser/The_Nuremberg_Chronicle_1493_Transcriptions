@@ -99,24 +99,24 @@ De his quatuor mundis moyses sufficienter differuit: vt deus opifex disposuit: v
 
 Quid tandem mosaica littera de celebratis operibus sex dieru[m] edocet: cursim absoluemus.
 
-[^1]: ambiguous; tr. from ENHG "Dieweill", also c.f. Id "Id est", m "manus" (Lindsay, 1915, p. 496; Cappelli, 1928, p. 172 and 208); i "in" also "id est", dm "deum" (Cappelli, 1928, p.); further, IDN, "In Dei Nomine", (Cappelli, 1928, p. 173).  
-[^2]: c.f. Bates (1930), Mierow (1953), Dillon (2004).  
-[^3]: s. Ferchius (1646), Cornford (1930a, b), Vlastos (1950), Bargrave-Weaver (1959), Mann (1980) or Drozdek (2005).  
-[^4]: "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible (1880), Link (1970), Baker (2010).  
-[^5]: s. Gregg (1909).  
-[^6]: Burton (1900), Kuhn (2010).  
-[^7]: Mondésert (1999), Forger (2018).  
-[^8]: SUMMARIES (2008), Baron (2012).  
-[^9]: Ficinus (1497), Ramsay & Weißmüller (1737), Beatty (1914), Huffman (2009).  
-[^10]: s. Edwards (1990), also Phillips (2003), Dillon (2007).  
-[^11]: s. Semple (1965), Sparks (1970), Simpson (2023).    
-[^12]: (a) Maier (1994), McLynn (1994), Mills (2017), Williams (2017); (b) Spencer (1931), Guinagh (1946), Clark (1984), Finan (1987), Burns (1988), Lawless (1990), Chambers (2023); (c) Strabo (1469), c.f. Pothecary (1999); (d) Beda (1125, 1529, res.), c.f. Darby & MacCarron (2023); (e) Anderdon (1879a, b), Arias (2019).    
-[^13]: (a) Jerrold (1845); (b) Albertus (1481), Damon (1930), Hossfeld (1978, 1980), Weisheipl (1979), Bello (1983), Moulin (2008), Tkacz (2011).  
-[^14]: (a) Mondésert (1999), Forger (2018); (b) Cox (1982), Clark (1991, Storin (2017), Terracciano (2022); (c) Hildebrand (2011); (d) -; (e) Spoerl (1998), Beeley (2011), Raven (2014); (f) Layton (2000), Radde-Gallwitz (2011); (g) c.f. Cooper (1906, p. 2).; (h) Maynard (1904), Coleman-Norton (1930, 1932), Faros & Ashbrook (1967), Love (2007).  
+[^1]: ambiguous; tr. from ENHG "Dieweill", also c.f. Id "Id est", m "manus" (Lindsay, [1915](), p. 496; Cappelli, [1928](), p. 172 and 208); i "in" also "id est", dm "deum" (Cappelli, [1928](), p.); further, IDN, "In Dei Nomine", (Cappelli, [1928](), p. 173).  
+[^2]: c.f. Bates ([1930]()), Mierow ([1953]()), Dillon ([2004]()).  
+[^3]: s. Ferchius ([1646]()), Cornford ([1930a](), [b]()), Vlastos ([1950]()), Bargrave-Weaver ([1959]()), Mann ([1980]()) or Drozdek ([2005]()).  
+[^4]: "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible ([1880](), Link ([1970]()), Baker ([2010]()).  
+[^5]: s. Gregg ([1909]()).  
+[^6]: Burton ([1900]()), Kuhn ([2010]()).  
+[^7]: Mondésert ([1999]()), Forger ([2018]()).  
+[^8]: SUMMARIES ([2008]()), Baron ([2012]()).  
+[^9]: Ficinus ([1497]()), Ramsay and Weißmüller ([1737]()), Beatty ([1914]()), Huffman ([2009]()).  
+[^10]: s. Edwards ([1990]()), also Phillips ([2003]()), Dillon ([2007]()).  
+[^11]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
+[^12]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984]()), Finan ([1987]()), Burns ([1988]()), Lawless ([1990]()), Chambers ([2023]()); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](), [1529](), res.), c.f. Darby and MacCarron ([2023]()); (e) Anderdon ([1879a](), [b]()), Arias ([2019]()).    
+[^13]: (a) Jerrold ([1845]()); (b) Albertus ([1481]()), Damon ([1930]()), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983]()), Moulin ([2008]()), Tkacz ([2011]()).  
+[^14]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982]()), Clark ([1991](), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011]()), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](), [1932]()), Faros and Ashbrook ([1967]()), Love ([2007]()).  
 [^15]: (a) -; (b) -; (c) -.    
-[^16]: (a) -; (b) -; (c) -; (d) s. Idel (1977, p. 291) ; (e) -; (f) Ben Gershon (1425, 1866, 1984, res.), Rabinovitch (1970), Glasner (1997), Goldstein (1997, 2002, 2012, res.), Mancha (1997, 2017), Rudavsky (2007), Freudenthal & Fontaine (2012); (g) Friedländer (1893), Efros (1942, 1950)  Jacobs (2011); (h) Levy (2008), c.f. Idel (1977).  
-[^17]: or "di[vin]a" (s. Martin, 1910, p. 38; Cappelli, 1928, p. 15, p. 97).  
-[^18]: c.f. Foresti (1492, fol. 8v), Cherchi (2018, p. 255), also Boccaccio (1360, 1487, res.) and Hyde (1985).  
+[^16]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](), [1866](), [1984](), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](), [1950]())  Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
+[^17]: or "di[vin]a" (s. Martin, [1910](), p. 38; Cappelli, [1928](), p. 15, p. 97).  
+[^18]: c.f. Foresti ([1492](), fol. 8v), Cherchi ([2018](), p. 255), also Boccaccio ([1360](), [1487](), res.) and Hyde ([1985]()).  
 
 
 ## References
