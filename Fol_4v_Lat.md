@@ -40,29 +40,29 @@ Multo mirabilius de naturis auium [et] piscium ratio experiendi
 quotidie in varijs locis datur.
 
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:20-22, s. Jiménez de Cisneros (1517, fol. av).    
-[^3]: Timaeus of Locri in Plato' s dialogue (1588, p. 457 ff.), c.f. Hamilton & Cairns (1961) vs. Timaeus of Tauromenium, Baron (2012).  
-[^4]: Plotinus (1580), c.f. Watson (1928).  
-[^5]: or "E[odem]", "[Oboli quinque]", (s. Martin, 1910, p. 43; Cappelli, 1928, p. 113).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: Genesis 1:20-22, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. av).    
+[^3]: Timaeus of Locri in Plato' s dialogue ([1588](https://doi.org/10.3931/e-rara-24349), p. 457 ff.), c.f. Hamilton and Cairns ([1961](http://www.jstor.org/stable/j.ctt1c84fb0)) vs. Timaeus of Tauromenium, Baron ([2012](https://doi.org/10.1017/CBO9780511733246.007)).  
+[^4]: Plotinus ([1580](https://doi.org/10.3931/e-rara-120889)), c.f. Watson ([1928](http://www.jstor.org/stable/2179841)).  
+[^5]: or "E[odem]", "[Oboli quinque]", (s. Martin, [1910](https://archive.org/details/recordinterprete00martuoft), p. 43; Cappelli, [1928](https://archive.org/details/LexiconAbbreviaturarum), p. 113).  
 
 
 # References
 
-Baron, C. A. (2012). The Missing Link? Pythagoras and Pythagoreans in Timaeus. In *Timaeus of Tauromenium and Hellenistic Historiography*, 138–69. Cambridge University Press. https://doi.org/10.1017/CBO9780511733246.007.
+Baron, C. A. (2012). The Missing Link? Pythagoras and Pythagoreans in Timaeus. In *Timaeus of Tauromenium and Hellenistic Historiography*, 138–69. Cambridge University Press. [https://doi.org/10.1017/CBO9780511733246.007](https://doi.org/10.1017/CBO9780511733246.007)
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Hamilton, E., & Cairns, H., ed. (1961). *The Collected Dialogues of Plato*. Princeton, New Jersey: Princeton University Press. http://www.jstor.org/stable/j.ctt1c84fb0.
+Hamilton, E., & Cairns, H., ed. (1961). *The Collected Dialogues of Plato*. Princeton, New Jersey: Princeton University Press. [http://www.jstor.org/stable/j.ctt1c84fb0](http://www.jstor.org/stable/j.ctt1c84fb0)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. https://archive.org/details/recordinterprete00martuoft.
+Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft](https://archive.org/details/recordinterprete00martuoft)
 
-Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficin, M., Corradi, S. Lugduni: apud Joannem Lertout. https://doi.org/10.3931/e-rara-24349.
+Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficin, M., Corradi, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
 
-Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. https://doi.org/10.3931/e-rara-120889.
+Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
 
-Watson, J. (1928). The Philosophy of Plotinus. *The Philosophical Review 37* (5): 482–500. http://www.jstor.org/stable/2179841.
+Watson, J. (1928). The Philosophy of Plotinus. *The Philosophical Review 37* (5): 482–500. [http://www.jstor.org/stable/2179841](http://www.jstor.org/stable/2179841)
