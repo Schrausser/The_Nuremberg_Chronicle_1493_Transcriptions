@@ -58,30 +58,30 @@ Nec miru[m] alicui videri debet: amari illu[m] ab om[n]ibus.
 In quo om[n]ia suu[m] aliq[ui]d:  
 Immo se tota [et] sua om[n]ia agnoscu[n]t*.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:24-27, s. Jiménez de Cisneros (1517, fol. av-aijr).   
-[^3]: or "v[erb]o", c.f. Cappelli (1928, p. 395).  
-[^4]: or "vn[um]", s. Cappelli (1928, p. 394).  
-[^5]: Cicero & Cicero (1496, p. aaiii), c.f. Keyes (1970, p. 321).  
-[^6]: Mirandola & Mirandola (1601), Mirandola (1990, 1994), c.f. O’Malley (2022, p. 426).
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: Genesis 1:24-27, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. av-aijr).   
+[^3]: or "v[erb]o", c.f. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 395).  
+[^4]: or "vn[um]", s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 394).  
+[^5]: Cicero and Cicero ([1496](https://doi.org/10.3931/e-rara-89116), p. aaiii), c.f. Keyes ([1970](https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/), p. 321).  
+[^6]: Mirandola and Mirandola ([1601](https://doi.org/10.3931/e-rara-61217)), Mirandola ([1990](https://books.google.com/books?id=kwqKDwAAQBAJ), [1994](https://books.google.co.in/books?id=ttWhxemy4NAC)), c.f. O’Malley ([2022](https://books.google.com/books?id=vTd7EAAAQBAJ), p. 426).
 
 
 ## References
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. https://doi.org/10.3931/e-rara-89116.
+Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Keyes, C. W., ed. (1970). *Cicero in Twenty Eight Volumes*. Vol. 16: De re publica. De legibus [Loeb 213]. London: William Heinemann LTD. https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/.
+Keyes, C. W., ed. (1970). *Cicero in Twenty Eight Volumes*. Vol. 16: De re publica. De legibus [Loeb 213]. London: William Heinemann LTD. [https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/](https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/)
 
-Mirandola, G. (1990). *Über die Würde des Menschen: Zweisprachige Ausgabe*. Edited by Buck, A., Baumgarten, N. Philosophische Bibliothek. Hamburg: Felix Meiner Verlag. https://books.google.com/books?id=kwqKDwAAQBAJ.
+Mirandola, G. (1990). *Über die Würde des Menschen: Zweisprachige Ausgabe*. Edited by Buck, A., Baumgarten, N. Philosophische Bibliothek. Hamburg: Felix Meiner Verlag. [https://books.google.com/books?id=kwqKDwAAQBAJ](https://books.google.com/books?id=kwqKDwAAQBAJ)
 
-———. (1994). *Oratio de Hominis Dignitate*. Edited by Garin, E. Collezione Filo Di Perle. Pordenone: Studio Tesi. https://books.google.co.in/books?id=ttWhxemy4NAC.
+———. (1994). *Oratio de Hominis Dignitate*. Edited by Garin, E. Collezione Filo Di Perle. Pordenone: Studio Tesi. [https://books.google.co.in/books?id=ttWhxemy4NAC](https://books.google.co.in/books?id=ttWhxemy4NAC)
 
-Mirandola, G., Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae Concordiaeque comitis, theologorum & philosophorum, sine controversia, principis viri, sive linguarum, sive rerum, & humanarum, & divinarum cognitionem spectes, doctrina & ingenio admirando: Item, tomo secundo Ioannis Francisci Pici Principis, ex eadem illustri prosapia oriundi ... opera quae extant omnia: non tam literatis viris utilia, quam necessaria, in unum corpus redacta: quorum Elenchi post vitam authoris habentur : accesserunt etiam rerum & verborum memorabilium, atque scriptorum, quorum sententiae & opiniones quacunque de re allegantur & citantur, duo indices locupletissimi*. Editio ultima, superioribus multo correctior & locupletior. Basileae: per Sebastianum Henricpetri. https://doi.org/10.3931/e-rara-61217.
+Mirandola, G., Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae Concordiaeque comitis, theologorum & philosophorum, sine controversia, principis viri, sive linguarum, sive rerum, & humanarum, & divinarum cognitionem spectes, doctrina & ingenio admirando: Item, tomo secundo Ioannis Francisci Pici Principis, ex eadem illustri prosapia oriundi ... opera quae extant omnia: non tam literatis viris utilia, quam necessaria, in unum corpus redacta: quorum Elenchi post vitam authoris habentur : accesserunt etiam rerum & verborum memorabilium, atque scriptorum, quorum sententiae & opiniones quacunque de re allegantur & citantur, duo indices locupletissimi*. Editio ultima, superioribus multo correctior & locupletior. Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
 
-O’Malley, J. W. (2022). The Dignity of Men. In *The Pursuit of Holiness in Late Medieval and Renaissance Religion: Papers from the University of Michigan Conference [20, 21 and 22 April 1972]*, edited by Oberman, H. A., Trinkaus, C. E. Studies in Medieval and Reformation Traditions. Leiden: Brill. https://books.google.com/books?id=vTd7EAAAQBAJ.
+O’Malley, J. W. (2022). The Dignity of Men. In *The Pursuit of Holiness in Late Medieval and Renaissance Religion: Papers from the University of Michigan Conference [20, 21 and 22 April 1972]*, edited by Oberman, H. A., Trinkaus, C. E. Studies in Medieval and Reformation Traditions. Leiden: Brill. [https://books.google.com/books?id=vTd7EAAAQBAJ](https://books.google.com/books?id=vTd7EAAAQBAJ)
