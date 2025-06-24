@@ -35,23 +35,23 @@ Feru[n]t quoq[ue] eodem die paradisum ab eo factum id est ortum fecundissimum [e
 
 Quem omni amenitate fontium: [et] terre virentium: lignorumq[ue] fructum vberrimu[m] producentium conseruit.
 
-[^1]: c.f. Foresti (1492, fol. a2v).  
-[^2]: Genesis 1:9-13, s. Jiménez de Cisneros (1517, fol. ar).    
-[^3]: Indian Ocean (Indicum Mare); Caspian Sea (Hyrcanian Ocean); Adriatic Sea, Ionian Sea (Mare Adriaticum); Black Sea (Póntos Áxeinos), c.f. Mela (1477, fol. aiir, gir), Ptolemæus (1482, fol. 88 ff.).   
-[^4]: Cappelli (1928, p. 159).  
-[^5]: Gregg (1909).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
+[^2]: Genesis 1:9-13, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. ar).    
+[^3]: Indian Ocean (Indicum Mare); Caspian Sea (Hyrcanian Ocean); Adriatic Sea, Ionian Sea (Mare Adriaticum); Black Sea (Póntos Áxeinos), c.f. Mela ([1477](https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961), fol. aiir, gir), Ptolemæus ([1482](https://doi.org/10.3931/e-rara-102078), fol. 88 ff.).   
+[^4]: Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 159).  
+[^5]: Gregg ([1909](https://archive.org/details/wisdomofsolomon00greg/)).  
 
 
 ## References
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. https://archive.org/details/LexiconAbbreviaturarum.
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover.
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Gregg, J. A. F. (1909). *The Wisdom of Solomon*. Cambridge: at the University Press. https://archive.org/details/wisdomofsolomon00greg/.
+Gregg, J. A. F. (1909). *The Wisdom of Solomon*. Cambridge: at the University Press. [https://archive.org/details/wisdomofsolomon00greg/]()
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Mela, P. (1477). *[O]rbis situm dicere aggredior impeditu[m] opus & facundiae minime capax*. Venetiis: Printer of Pomponius Mela. https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961.
+Mela, P. (1477). *[O]rbis situm dicere aggredior impeditu[m] opus & facundiae minime capax*. Venetiis: Printer of Pomponius Mela. [https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961](https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961)
 
-Ptolemæus, C. (1482). *Cosmographia*. Ulm: Lienhart Holle. https://doi.org/10.3931/e-rara-102078.
+Ptolemæus, C. (1482). *Cosmographia*. Ulm: Lienhart Holle. [https://doi.org/10.3931/e-rara-102078](https://doi.org/10.3931/e-rara-102078)
