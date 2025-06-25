@@ -34,7 +34,7 @@
 
 ## P 4
 
->Quida[m] mu[n]du[m] ingenitum: et incorruptibilem: et genus humanum ab externo extisse neq[ue] habuisse ortus principiu[m] sensere.
+>Quida[m] mu[n]du[m] ingenitum: et incorruptibilem: et genus humanum ab eterno extisse neq[ue] habuisse ortus principiu[m] sensere.
 
 >Etlich habe[n] gemaint das die werlt vngeporn vnd vnzastolich: vn[d] das me[n]schlich geschlecht vo[n] ewigkeit her gewesen sey. vnd anfa[n]g einichs vrsprungs nit gehabt hab. 
 
