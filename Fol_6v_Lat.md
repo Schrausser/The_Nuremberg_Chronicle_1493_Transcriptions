@@ -28,37 +28,37 @@ I[de]o extra p[ar]adisum vir fact[us] e[st]: mulier vero i[n]tra paradisu[m].
 
 Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc][^6] est i[n] inferiori loco vir fact[us] melior inuenit[ur] p[ro] Eua q[ue] in p[ar]adiso facta fuit Ada[m] igit[ur] p[ro]thoplastu[m][^10] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bedtijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
 
-[^1]: c.f. Foresti ([1492](), fol. a3r).  
-[^2]: Monasterii Wirimutham-Gyruum ([716 AD]()), Jiménez de Cisneros ([1517]()), Ulrich and Holzhalb ([1756]()), Bagster ([1870]()), Brenton ([1971](), [1986]()).  
-[^3]: De Seville ([1802](), p. 285).  
-[^4]: c.f. Jiménez de Cisneros ([1517](), aijv).  
-[^5]: s. Cappelli ([1928](), p. 153).  
-[^6]: or h[omo], s. Cappelli ([1928](), p. 153).  
-[^7]: Tra[n]sla. D. Hiero. "Hec vocabitur 'virago' q[uonia]m de viro su[m]pta est", s. Jiménez de Cisneros ([1517](), fol. aiijv); virago, viraginis, a warlike or a heroic woman.  
-[^8]: Genesis 2: 19-23, c.f. Foresti ([1492](), fol. a3r), Jiménez de Cisneros ([1517](), aiij).  
-[^9]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, [1910](), p. 91; Cappelli, [1928](), p. 230).  
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3r).  
+[^2]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695)), Ulrich and Holzhalb ([1756](https://doi.org/10.3931/e-rara-65699)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
+[^3]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
+[^4]: c.f. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), aijv).  
+[^5]: s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 153).  
+[^6]: or h[omo], s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 153).  
+[^7]: Tra[n]sla. D. Hiero. "Hec vocabitur 'virago' q[uonia]m de viro su[m]pta est", s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiijv); virago, viraginis, a warlike or a heroic woman.  
+[^8]: Genesis 2: 19-23, c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3r), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), aiij).  
+[^9]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, [1910](https://archive.org/details/recordinterprete00martuoft), p. 91; Cappelli, [1928](https://archive.org/details/LexiconAbbreviaturarum), p. 230).  
 [^10]: from "prōtóplastos", "first-formed".
 
 
 ## References
 
 Bagster, S. (publ.). (1870). *The Septuagint Version of the Old Testament, with an English Translation; and with Various Readings and Critical Notes*. London: Samuel Bagster; Sons.
-[https://books.google.com/books?id=wMUUAAAAQAAJ]()
+[https://books.google.com/books?id=wMUUAAAAQAAJ](https://books.google.com/books?id=wMUUAAAAQAAJ)
 
-Brenton, L. C. L. (1971). *The Septuagint with Apocryphia: With an English Translation, and with Various Readings and Critical Notes*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=emjouQEACAAJ]()
+Brenton, L. C. L. (1971). *The Septuagint with Apocryphia: With an English Translation, and with Various Readings and Critical Notes*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=emjouQEACAAJ](https://books.google.com/books?id=emjouQEACAAJ)
 
-———. (1986). *The Septuagint with Apocrypha: Greek and English. Companion Texts for Old Testament Studies*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=xsrYAAAAMAAJ]()
+———. (1986). *The Septuagint with Apocrypha: Greek and English. Companion Texts for Old Testament Studies*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=xsrYAAAAMAAJ](https://books.google.com/books?id=xsrYAAAAMAAJ)
 
-Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum]()
+Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC]()
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover]()
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695]()
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft]()
+Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft](https://archive.org/details/recordinterprete00martuoft)
 
-Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia Amiatina*. Kingdom of Northumbria, England: publisher not identified. [https://www.loc.gov/item/2021668243]()
+Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia Amiatina*. Kingdom of Northumbria, England: publisher not identified. [https://www.loc.gov/item/2021668243](https://www.loc.gov/item/2021668243)
 
-Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699]()
+Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699)
