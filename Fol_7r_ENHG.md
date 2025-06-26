@@ -11,11 +11,11 @@ Vn[d] zu adam sprach er. verflucht ist die erde in deiner arbait. du wirdst auß
 Aber d[er] neydig feind irer seligkait hat sie betroge[n] da sie auß weiplicher leichtfertigkeit die frucht des pawms mit frefellicher getürftigkeit versüchet vn[d] irn man[n] in irn willen zohe. also nach annemung der koste[n] pletter wardt sie auß de[m] wolust garten in den agker Ebron mitsambt irm man[n] in das enlend vertribe[n]. do sie nw zeletst die smertzen der geperung zu mermal versuchet do kome sie mit müe vnd arbeit in das alter vnd in de[n] tod der ir vo[n] dem herre[n] verkündet was.
 
 
-[^1]: c.f. Foresti ([1492](), fol. a3v).  
-[^2]: Genesis 2:14-24, s. Jiménez de Cisneros ([1517](), fol. aiiij).   
+[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3v).  
+[^2]: Genesis 2:14-24, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiiij).   
 
 ## References
 
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover]()
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695]()
