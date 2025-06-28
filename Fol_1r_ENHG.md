@@ -71,46 +71,46 @@ Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt als got die ge
 
 Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: das wollen wir kürtzlichen erzelen.
 
-[^1]: c.f. Bates ([1930]()), Mierow ([1953]()), Dillon ([2004]()).  
-[^2]: s. Ferchius ([1646]()), Cornford ([1930a](), [b]()), Vlastos ([1950]()), Bargrave-Weaver ([1959]()), Mann ([1980]()) or Drozdek ([2005]()).  
+[^1]: c.f. Bates ([1930](http://www.jstor.org/stable/j.ctv4t81g7)), Mierow ([1953]()), Dillon ([2004]()).  
+[^2]: s. Ferchius ([1646]()), Cornford ([1930a](), [b]()), Vlastos ([1950]()), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980]()) or Drozdek ([2005]()).  
 [^3]: in Latin, "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible ([1880]()), Link ([1970]()), Baker ([2010]()).  
 [^4]: s. Gregg ([1909]()).  
 [^5]: Burton ([1900]()), Kuhn ([2010]()).  
 [^6]: Mondésert ([1999]()), Forger ([2018]()).  
-[^7]: SUMMARIES ([2008]()), Baron ([2012]()).  
-[^8]: Ficinus ([1497]()), Ramsay and Weißmüller ([1737]()), Beatty ([1914]()), Huffman ([2009]()).  
+[^7]: SUMMARIES ([2008]()), Baron ([2012](https://doi.org/10.1017/CBO9780511733246.007)).  
+[^8]: Ficinus ([1497]()), Ramsay and Weißmüller ([1737]()), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009]()).  
 [^9]: s. Edwards ([1990]()), also Phillips ([2003]()), Dillon ([2007]()).  
 [^10]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
-[^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984]()), Finan ([1987]()), Burns ([1988]()), Lawless ([1990]()), Chambers ([2023]()); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](), [1529](), res.), c.f. Darby and MacCarron ([2023]()); (e) Anderdon ([1879a](), [b]()), Arias ([2019]()).    
-[^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481]()), Damon ([1930]()), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983]()), Moulin ([2008]()), Tkacz ([2011]()).  
-[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982]()), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011]()), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](), [1932]()), Faros and Ashbrook ([1967]()), Love ([2007]()).  
+[^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984]()), Finan ([1987]()), Burns ([1988]()), Lawless ([1990]()), Chambers ([2023]()); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023]()); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
+[^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481](https://doi.org/10.3931/e-rara-4321)), Damon ([1930]()), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983]()), Moulin ([2008]()), Tkacz ([2011]()).  
+[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982]()), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](), [1932]()), Faros and Ashbrook ([1967]()), Love ([2007]()).  
 [^14]: (a) -; (b) -; (c) -.    
 [^15]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](), [1866](), [1984](), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](), [1950]())  Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
 [^16]: c.f. Foresti ([1492](), fol. 8v), Cherchi ([2018](), p. 255), also Boccaccio ([1360](), [1487](), res.) and Hyde ([1985]()).  
 
 ## References
 
-Albertus. (1481). *De Anima. De Intellectu*. Venedig: Reynaldus de Novimagio. [https://doi.org/10.3931/e-rara-4321]()
+Albertus. (1481). *De Anima. De Intellectu*. Venedig: Reynaldus de Novimagio. [https://doi.org/10.3931/e-rara-4321](https://doi.org/10.3931/e-rara-4321)
 
-Anderdon, W. H. (1879a). St. Remigius, Bishop and Confessor. *The Irish Monthly 7*: 520–31. [http://www.jstor.org/stable/20502439]()
+Anderdon, W. H. (1879a). St. Remigius, Bishop and Confessor. *The Irish Monthly 7*: 520–31. [http://www.jstor.org/stable/20502439](http://www.jstor.org/stable/20502439)
 
-———. (1879b). St. Remigius, Bishop and Confessor (Continued). *The Irish Monthly 7*: 606–14. [http://www.jstor.org/stable/20502458]()
+———. (1879b). St. Remigius, Bishop and Confessor (Continued). *The Irish Monthly 7*: 606–14. [http://www.jstor.org/stable/20502458](http://www.jstor.org/stable/20502458)
 
-Arias, P. P. (2019). Clovis and Remigius of Reims in the Making of the Merovingian Kingdoms. *European Review of History: Revue Européenne d’histoire 26* (2): 197–218. [https://doi.org/10.1080/13507486.2017.1397108]()
+Arias, P. P. (2019). Clovis and Remigius of Reims in the Making of the Merovingian Kingdoms. *European Review of History: Revue Européenne d’histoire 26* (2): 197–218. [https://doi.org/10.1080/13507486.2017.1397108](https://doi.org/10.1080/13507486.2017.1397108)
 
-Bargrave-Weaver, D. (1959). The Cosmogony of Anaxagoras. *Phronesis 4* (2): 77–91. [http://www.jstor.org/stable/4181652]()
+Bargrave-Weaver, D. (1959). The Cosmogony of Anaxagoras. *Phronesis 4* (2): 77–91. [http://www.jstor.org/stable/4181652](http://www.jstor.org/stable/4181652)
 
-Baron, C. A. (2012). The Missing Link? Pythagoras and Pythagoreans in Timaeus. In *Timaeus of Tauromenium and Hellenistic Historiography*, 138–69. Cambridge University Press. [https://doi.org/10.1017/CBO9780511733246.007]()
+Baron, C. A. (2012). The Missing Link? Pythagoras and Pythagoreans in Timaeus. In *Timaeus of Tauromenium and Hellenistic Historiography*, 138–69. Cambridge University Press. [https://doi.org/10.1017/CBO9780511733246.007](https://doi.org/10.1017/CBO9780511733246.007)
 
-Bates, W. N. (1930). *Euripides: A Student of Human Nature*. Philadelphia: University of Pennsylvania Press. [http://www.jstor.org/stable/j.ctv4t81g7]()
+Bates, W. N. (1930). *Euripides: A Student of Human Nature*. Philadelphia: University of Pennsylvania Press. [http://www.jstor.org/stable/j.ctv4t81g7](http://www.jstor.org/stable/j.ctv4t81g7)
 
-Beatty, H. (1914). The Pythagoreans. *Hermathena 18* (40): 158–74. [http://www.jstor.org/stable/23036933]()
+Beatty, H. (1914). The Pythagoreans. *Hermathena 18* (40): 158–74. [http://www.jstor.org/stable/23036933](http://www.jstor.org/stable/23036933)
 
-Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: Bibliothèque nationale de France. Département des Manuscrits. [http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p]()
+Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: Bibliothèque nationale de France. Département des Manuscrits. [http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p)
 
-———. (1529). *Bedae Presbyteri Anglosaxonis Viri Ervditissimi de Natvra Rervm Et Temporvm Ratione Libri Dvo*. Edited by Sichard J. Basileae: Excvdebat Henricvs Petrvs Mense Martio, An: M. D. XXIX. [https://doi.org/10.3931/e-rara-63790]()
+———. (1529). *Bedae Presbyteri Anglosaxonis Viri Ervditissimi de Natvra Rervm Et Temporvm Ratione Libri Dvo*. Edited by Sichard J. Basileae: Excvdebat Henricvs Petrvs Mense Martio, An: M. D. XXIX. [https://doi.org/10.3931/e-rara-63790](https://doi.org/10.3931/e-rara-63790)
 
-Beeley, C. A. (2011). The Early Christological Controversy: Apollinarius, Diodore, and Gregory Nazianzen. *Vigiliae Christianae 65* (4): 376–407. [http://www.jstor.org/stable/41291365]()
+Beeley, C. A. (2011). The Early Christological Controversy: Apollinarius, Diodore, and Gregory Nazianzen. *Vigiliae Christianae 65* (4): 376–407. [http://www.jstor.org/stable/41291365](http://www.jstor.org/stable/41291365)
 
 Bello, A. L. (1983). Albertus Magnus and Mathematics: A Translation with Annotations of Those Portions of the Commentary on Euclid’s Elements Published by Bernhard Geyer. *Historia Mathematica 10* (1): 3–23. [https://doi.org/10.1016/0315-0860(83)90030-7]()
 
