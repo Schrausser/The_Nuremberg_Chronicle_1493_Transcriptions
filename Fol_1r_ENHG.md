@@ -75,18 +75,18 @@ Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: d
 [^2]: s. Ferchius ([1646]()), Cornford ([1930a](), [b]()), Vlastos ([1950]()), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980]()) or Drozdek ([2005]()).  
 [^3]: in Latin, "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible ([1880]()), Link ([1970]()), Baker ([2010]()).  
 [^4]: s. Gregg ([1909]()).  
-[^5]: Burton ([1900]()), Kuhn ([2010]()).  
+[^5]: Burton ([1900](http://www.jstor.org/stable/3136549)), Kuhn ([2010]()).  
 [^6]: Mondésert ([1999]()), Forger ([2018]()).  
 [^7]: SUMMARIES ([2008]()), Baron ([2012](https://doi.org/10.1017/CBO9780511733246.007)).  
 [^8]: Ficinus ([1497]()), Ramsay and Weißmüller ([1737]()), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009]()).  
 [^9]: s. Edwards ([1990]()), also Phillips ([2003]()), Dillon ([2007]()).  
 [^10]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
-[^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984]()), Finan ([1987]()), Burns ([1988]()), Lawless ([1990]()), Chambers ([2023]()); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023]()); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
-[^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481](https://doi.org/10.3931/e-rara-4321)), Damon ([1930]()), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983]()), Moulin ([2008]()), Tkacz ([2011]()).  
-[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982]()), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](), [1932]()), Faros and Ashbrook ([1967]()), Love ([2007]()).  
+[^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984](https://doi.org/10.2307/3168527)), Finan ([1987]()), Burns ([1988](http://www.jstor.org/stable/40015076)), Lawless ([1990]()), Chambers ([2023](https://doi.org/10.1007/978-3-031-19542-6_8)); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023]()); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
+[^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481](https://doi.org/10.3931/e-rara-4321)), Damon ([1930]()), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983](https://doi.org/10.1016/0315-0860(83)90030-7)), Moulin ([2008]()), Tkacz ([2011]()).  
+[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982]()), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](http://www.jstor.org/stable/24681403), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](http://www.jstor.org/stable/263800), [1932](http://www.jstor.org/stable/263828)), Faros and Ashbrook ([1967]()), Love ([2007]()).  
 [^14]: (a) -; (b) -; (c) -.    
-[^15]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](), [1866](), [1984](), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](), [1950]())  Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
-[^16]: c.f. Foresti ([1492](), fol. 8v), Cherchi ([2018](), p. 255), also Boccaccio ([1360](), [1487](), res.) and Hyde ([1985]()).  
+[^15]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](https://digi.vatlib.it/view/MSS_Vat.lat.3098), [1866](https://archive.org/details/sefermilamothash00leviuoft/), [1984](https://books.google.com/books?id=nekEAQAAIAAJ), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](), [1950]())  Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
+[^16]: c.f. Foresti ([1492](), fol. 8v), Cherchi ([2018](https://doi.org/10.1515/9783110419306-013), p. 255), also Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938), [1487](https://books.google.com/books?id=ZooTnQEACAAJ), res.) and Hyde ([1985]()).  
 
 ## References
 
@@ -112,35 +112,35 @@ Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: B
 
 Beeley, C. A. (2011). The Early Christological Controversy: Apollinarius, Diodore, and Gregory Nazianzen. *Vigiliae Christianae 65* (4): 376–407. [http://www.jstor.org/stable/41291365](http://www.jstor.org/stable/41291365)
 
-Bello, A. L. (1983). Albertus Magnus and Mathematics: A Translation with Annotations of Those Portions of the Commentary on Euclid’s Elements Published by Bernhard Geyer. *Historia Mathematica 10* (1): 3–23. [https://doi.org/10.1016/0315-0860(83)90030-7]()
+Bello, A. L. (1983). Albertus Magnus and Mathematics: A Translation with Annotations of Those Portions of the Commentary on Euclid’s Elements Published by Bernhard Geyer. *Historia Mathematica 10* (1): 3–23. [https://doi.org/10.1016/0315-0860(83)90030-7](https://doi.org/10.1016/0315-0860(83)90030-7)
 
-Ben Gershon, L. (1425). *Astronomia*. Vat.lat. 3098 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.3098]()
+Ben Gershon, L. (1425). *Astronomia*. Vat.lat. 3098 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.3098](https://digi.vatlib.it/view/MSS_Vat.lat.3098)
 
-———. (1866). *Milchamot Ha-schem. Die Kämpfe Gottes. Religionsphilosophische und kosmische Fragen, in sechs Büchern abgehandelt von Levi ben Gerson*. Neue durchgehends berichtigte Ausgabe. Leipzig: Carl B. Lorck. [https://archive.org/details/sefermilamothash00leviuoft/]()
+———. (1866). *Milchamot Ha-schem. Die Kämpfe Gottes. Religionsphilosophische und kosmische Fragen, in sechs Büchern abgehandelt von Levi ben Gerson*. Neue durchgehends berichtigte Ausgabe. Leipzig: Carl B. Lorck. [https://archive.org/details/sefermilamothash00leviuoft/](https://archive.org/details/sefermilamothash00leviuoft/)
 
-———. (1984). *The Wars of the Lord*. Edited by Feldman, S. Philadelphia: Jewish Publication Society of America. [https://books.google.com/books?id=nekEAQAAIAAJ]()
+———. (1984). *The Wars of the Lord*. Edited by Feldman, S. Philadelphia: Jewish Publication Society of America. [https://books.google.com/books?id=nekEAQAAIAAJ](https://books.google.com/books?id=nekEAQAAIAAJ)
 
-Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938]()
+Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
 
-Burns, J. P. (1988). Augustine on the Origin and Progress of Evil. *The Journal of Religious Ethics 16* (1): 9–27. [http://www.jstor.org/stable/40015076]()
+———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. [https://books.google.com/books?id=ZooTnQEACAAJ](https://books.google.com/books?id=ZooTnQEACAAJ)
 
-Burton, E. D. (1900). The Purpose and Plan of the Gospel of Luke. *The Biblical World 16* (4): 248–58. [http://www.jstor.org/stable/3136549]()
+Burns, J. P. (1988). Augustine on the Origin and Progress of Evil. *The Journal of Religious Ethics 16* (1): 9–27. [http://www.jstor.org/stable/40015076](http://www.jstor.org/stable/40015076)
 
-———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. [https://books.google.com/books?id=ZooTnQEACAAJ]()
+Burton, E. D. (1900). The Purpose and Plan of the Gospel of Luke. *The Biblical World 16* (4): 248–58. [http://www.jstor.org/stable/3136549](http://www.jstor.org/stable/3136549)
 
-Chambers, K. (2023). Augustine of Hippo. In *Handbook of the History of the Philosophy of Law and Social Philosophy: Volume 1: From Plato to Rousseau*, edited by Zanetti, G., Sellers, M., & Kirste, S., 57–65. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-031-19542-6_8]()
+Chambers, K. (2023). Augustine of Hippo. In *Handbook of the History of the Philosophy of Law and Social Philosophy: Volume 1: From Plato to Rousseau*, edited by Zanetti, G., Sellers, M., & Kirste, S., 57–65. Cham: Springer International Publishing. [https://doi.org/10.1007/978-3-031-19542-6_8](https://doi.org/10.1007/978-3-031-19542-6_8)
 
-Cherchi, P. (2018). The Inventors of Things in Boccaccio’s de Genealogia Deorum Gentilium. In *The Unity of Knowledge in the Pre-Modern World*, edited by Candido, I., 244–69. Berlin, Boston: De Gruyter. [https://doi.org/10.1515/9783110419306-013]()
+Cherchi, P. (2018). The Inventors of Things in Boccaccio’s de Genealogia Deorum Gentilium. In *The Unity of Knowledge in the Pre-Modern World*, edited by Candido, I., 244–69. Berlin, Boston: De Gruyter. [https://doi.org/10.1515/9783110419306-013](https://doi.org/10.1515/9783110419306-013)
 
-Clark, E. A. (1991). Origen of Alexandria: His World and His Legacy. Edited by Kannengiesser, C., & Petersen, W. L. *Church History 60* (1): 88–90. [https://doi.org/10.2307/3168527]()
+Clark, E. A. (1991). Origen of Alexandria: His World and His Legacy. Edited by Kannengiesser, C., & Petersen, W. L. *Church History 60* (1): 88–90. [https://doi.org/10.2307/3168527](https://doi.org/10.2307/3168527)
 
 Clark, M. T. (1984). *Augustine of Hippo, Selected Writings*. Classics of Western Spirituality. Mahwah, NJ: Paulist Press. [https://books.google.com/books?id=uA_vDkEyH14C]()
 
-Coleman-Norton, P. R. (1930). St. Chrysostom and the Greek Philosophers. *Classical Philology 25* (4): 305–17. [http://www.jstor.org/stable/263800]()
+Coleman-Norton, P. R. (1930). St. Chrysostom and the Greek Philosophers. *Classical Philology 25* (4): 305–17. [http://www.jstor.org/stable/263800](http://www.jstor.org/stable/263800)
 
-———. P. R. (1932). St. Chrysostom’s Use of the Greek Poets. *Classical Philology 27* (3): 213–21. [http://www.jstor.org/stable/263828]()
+———. P. R. (1932). St. Chrysostom’s Use of the Greek Poets. *Classical Philology 27* (3): 213–21. [http://www.jstor.org/stable/263828](http://www.jstor.org/stable/263828)
 
-Cooper, D. D. (1906). Some Old Elgin Houses. *Transactions of the Glasgow Archaeological Society 5* (2): 1–21. [http://www.jstor.org/stable/24681403]()
+Cooper, D. D. (1906). Some Old Elgin Houses. *Transactions of the Glasgow Archaeological Society 5* (2): 1–21. [http://www.jstor.org/stable/24681403](http://www.jstor.org/stable/24681403)
 
 Cornford, F. M. (1930a). Anaxagoras’ Theory of Matter-I. *The Classical Quarterly 24* (1): 14–30. [http://www.jstor.org/stable/637051]()
 
