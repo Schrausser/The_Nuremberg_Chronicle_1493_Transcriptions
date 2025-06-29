@@ -71,21 +71,21 @@ Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt als got die ge
 
 Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: das wollen wir kürtzlichen erzelen.
 
-[^1]: c.f. Bates ([1930](http://www.jstor.org/stable/j.ctv4t81g7)), Mierow ([1953]()), Dillon ([2004]()).  
-[^2]: s. Ferchius ([1646]()), Cornford ([1930a](), [b]()), Vlastos ([1950]()), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980]()) or Drozdek ([2005]()).  
+[^1]: c.f. Bates ([1930](http://www.jstor.org/stable/j.ctv4t81g7)), Mierow ([1953]()), Dillon ([2004](http://www.jstor.org/stable/25528401)).  
+[^2]: s. Ferchius ([1646]()), Cornford ([1930a](http://www.jstor.org/stable/637051), [b](http://www.jstor.org/stable/636593)), Vlastos ([1950]()), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980]()) or Drozdek ([2005](http://www.jstor.org/stable/4477647)).  
 [^3]: in Latin, "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible ([1880]()), Link ([1970]()), Baker ([2010]()).  
 [^4]: s. Gregg ([1909]()).  
 [^5]: Burton ([1900](http://www.jstor.org/stable/3136549)), Kuhn ([2010]()).  
 [^6]: Mondésert ([1999]()), Forger ([2018]()).  
 [^7]: SUMMARIES ([2008]()), Baron ([2012](https://doi.org/10.1017/CBO9780511733246.007)).  
 [^8]: Ficinus ([1497]()), Ramsay and Weißmüller ([1737]()), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009]()).  
-[^9]: s. Edwards ([1990]()), also Phillips ([2003]()), Dillon ([2007]()).  
+[^9]: s. Edwards ([1990](http://www.jstor.org/stable/1584247)), also Phillips ([2003]()), Dillon ([2007](http://www.jstor.org/stable/25528401)).  
 [^10]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
-[^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984](https://doi.org/10.2307/3168527)), Finan ([1987]()), Burns ([1988](http://www.jstor.org/stable/40015076)), Lawless ([1990]()), Chambers ([2023](https://doi.org/10.1007/978-3-031-19542-6_8)); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023]()); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
-[^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481](https://doi.org/10.3931/e-rara-4321)), Damon ([1930]()), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983](https://doi.org/10.1016/0315-0860(83)90030-7)), Moulin ([2008]()), Tkacz ([2011]()).  
-[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982]()), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](http://www.jstor.org/stable/24681403), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](http://www.jstor.org/stable/263800), [1932](http://www.jstor.org/stable/263828)), Faros and Ashbrook ([1967]()), Love ([2007]()).  
+[^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984](https://doi.org/10.2307/3168527)), Finan ([1987]()), Burns ([1988](http://www.jstor.org/stable/40015076)), Lawless ([1990]()), Chambers ([2023](https://doi.org/10.1007/978-3-031-19542-6_8)); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023](http://www.jstor.org/stable/jj.4470340)); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
+[^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481](https://doi.org/10.3931/e-rara-4321)), Damon ([1930](http://www.jstor.org/stable/2846359)), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983](https://doi.org/10.1016/0315-0860(83)90030-7)), Moulin ([2008]()), Tkacz ([2011]()).  
+[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982](http://www.jstor.org/stable/1583486)), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](http://www.jstor.org/stable/24681403), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](http://www.jstor.org/stable/263800), [1932](http://www.jstor.org/stable/263828)), Faros and Ashbrook ([1967]()), Love ([2007]()).  
 [^14]: (a) -; (b) -; (c) -.    
-[^15]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](https://digi.vatlib.it/view/MSS_Vat.lat.3098), [1866](https://archive.org/details/sefermilamothash00leviuoft/), [1984](https://books.google.com/books?id=nekEAQAAIAAJ), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](), [1950]())  Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
+[^15]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](https://digi.vatlib.it/view/MSS_Vat.lat.3098), [1866](https://archive.org/details/sefermilamothash00leviuoft/), [1984](https://books.google.com/books?id=nekEAQAAIAAJ), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](http://www.jstor.org/stable/1451990), [1950](http://www.jstor.org/stable/1453124)), Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
 [^16]: c.f. Foresti ([1492](), fol. 8v), Cherchi ([2018](https://doi.org/10.1515/9783110419306-013), p. 255), also Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938), [1487](https://books.google.com/books?id=ZooTnQEACAAJ), res.) and Hyde ([1985]()).  
 
 ## References
@@ -134,7 +134,7 @@ Cherchi, P. (2018). The Inventors of Things in Boccaccio’s de Genealogia Deoru
 
 Clark, E. A. (1991). Origen of Alexandria: His World and His Legacy. Edited by Kannengiesser, C., & Petersen, W. L. *Church History 60* (1): 88–90. [https://doi.org/10.2307/3168527](https://doi.org/10.2307/3168527)
 
-Clark, M. T. (1984). *Augustine of Hippo, Selected Writings*. Classics of Western Spirituality. Mahwah, NJ: Paulist Press. [https://books.google.com/books?id=uA_vDkEyH14C]()
+Clark, M. T. (1984). *Augustine of Hippo, Selected Writings*. Classics of Western Spirituality. Mahwah, NJ: Paulist Press. [https://books.google.com/books?id=uA_vDkEyH14C](https://books.google.com/books?id=uA_vDkEyH14C)
 
 Coleman-Norton, P. R. (1930). St. Chrysostom and the Greek Philosophers. *Classical Philology 25* (4): 305–17. [http://www.jstor.org/stable/263800](http://www.jstor.org/stable/263800)
 
@@ -142,27 +142,27 @@ Coleman-Norton, P. R. (1930). St. Chrysostom and the Greek Philosophers. *Classi
 
 Cooper, D. D. (1906). Some Old Elgin Houses. *Transactions of the Glasgow Archaeological Society 5* (2): 1–21. [http://www.jstor.org/stable/24681403](http://www.jstor.org/stable/24681403)
 
-Cornford, F. M. (1930a). Anaxagoras’ Theory of Matter-I. *The Classical Quarterly 24* (1): 14–30. [http://www.jstor.org/stable/637051]()
+Cornford, F. M. (1930a). Anaxagoras’ Theory of Matter-I. *The Classical Quarterly 24* (1): 14–30. [http://www.jstor.org/stable/637051](http://www.jstor.org/stable/637051)
 
-———. (1930b). Anaxagoras’ Theory of Matter-II. *The Classical Quarterly 24* (2): 83–95. [http://www.jstor.org/stable/636593]()
+———. (1930b). Anaxagoras’ Theory of Matter-II. *The Classical Quarterly 24* (2): 83–95. [http://www.jstor.org/stable/636593](http://www.jstor.org/stable/636593)
 
-Cox, P. (1982). Origen and the Bestial Soul. A Poetics of Nature. *Vigiliae Christianae 36* (2): 115–40. [http://www.jstor.org/stable/1583486]()
+Cox, P. (1982). Origen and the Bestial Soul. A Poetics of Nature. *Vigiliae Christianae 36* (2): 115–40. [http://www.jstor.org/stable/1583486](http://www.jstor.org/stable/1583486)
 
-Damon, S. F. (1930). A Portrait of Albertus Magnus. *Speculum 5* (1): 102–3. [http://www.jstor.org/stable/2846359]()
+Damon, S. F. (1930). A Portrait of Albertus Magnus. *Speculum 5* (1): 102–3. [http://www.jstor.org/stable/2846359](http://www.jstor.org/stable/2846359)
 
-Darby, P., & MacCarron, M. (2023). *Bede the Scholar*. Manchester, England: Manchester University Press. [http://www.jstor.org/stable/jj.4470340]()
+Darby, P., & MacCarron, M. (2023). *Bede the Scholar*. Manchester, England: Manchester University Press. [http://www.jstor.org/stable/jj.4470340](http://www.jstor.org/stable/jj.4470340)
 
-Dillon, J. (2004). Euripides and the Philosophy of His Time. *Classics Ireland 11*: 47–73. [http://www.jstor.org/stable/25528401]()
+Dillon, J. (2004). Euripides and the Philosophy of His Time. *Classics Ireland 11*: 47–73. [http://www.jstor.org/stable/25528401](http://www.jstor.org/stable/25528401)
 
-———. (2007). NUMENIUS: SOME ONTOLOGICAL QUESTIONS. *Bulletin of the Institute of Classical Studies. Supplement, no. 94*: 397–402. [http://www.jstor.org/stable/43767869]()
+———. (2007). NUMENIUS: SOME ONTOLOGICAL QUESTIONS. *Bulletin of the Institute of Classical Studies. Supplement, no. 94*: 397–402. [http://www.jstor.org/stable/43767869](http://www.jstor.org/stable/43767869)
 
-Drozdek, A. (2005). Anaxagoras and the Everythying in Everything Principle. *Hermes 133* (2): 163–77. [http://www.jstor.org/stable/4477647]()
+Drozdek, A. (2005). Anaxagoras and the Everythying in Everything Principle. *Hermes 133* (2): 163–77. [http://www.jstor.org/stable/4477647](http://www.jstor.org/stable/4477647)
 
-Edwards, M. J. (1990). Atticizing Moses? Numenius, the Fathers and the Jews. *Vigiliae Christianae 44* (1): 64–75. [http://www.jstor.org/stable/1584247]()
+Edwards, M. J. (1990). Atticizing Moses? Numenius, the Fathers and the Jews. *Vigiliae Christianae 44* (1): 64–75. [http://www.jstor.org/stable/1584247](http://www.jstor.org/stable/1584247)
 
-Efros, I. (1942). Saadia’s Theory of Knowledge. *The Jewish Quarterly Review 33* (2): 133–70. [http://www.jstor.org/stable/1451990]()
+Efros, I. (1942). Saadia’s Theory of Knowledge. *The Jewish Quarterly Review 33* (2): 133–70. [http://www.jstor.org/stable/1451990](http://www.jstor.org/stable/1451990)
 
-———. (1950). Saadia’s "Book of Beliefs and Opinions" in English. *The Jewish Quarterly Review 40* (4): 413–15. [http://www.jstor.org/stable/1453124]()
+———. (1950). Saadia’s "Book of Beliefs and Opinions" in English. *The Jewish Quarterly Review 40* (4): 413–15. [http://www.jstor.org/stable/1453124](http://www.jstor.org/stable/1453124)
 
 Faros, P., & Ashbrook, J. B. (1967). St. John Chrysostom’s Counseling Techniques. *Pastoral Psychology 18* (9): 55—58. [https://doi.org/10.1007/BF01770242]()
 
