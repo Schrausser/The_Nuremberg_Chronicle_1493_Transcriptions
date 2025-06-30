@@ -78,7 +78,7 @@ Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: d
 [^5]: Burton ([1900](http://www.jstor.org/stable/3136549)), Kuhn ([2010]()).  
 [^6]: Mondésert ([1999]()), Forger ([2018]()).  
 [^7]: SUMMARIES ([2008]()), Baron ([2012](https://doi.org/10.1017/CBO9780511733246.007)).  
-[^8]: Ficinus ([1497]()), Ramsay and Weißmüller ([1737]()), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009]()).  
+[^8]: Ficinus ([1497](https://doi.org/10.3931/e-rara-7132)), Ramsay and Weißmüller ([1737]()), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009]()).  
 [^9]: s. Edwards ([1990](http://www.jstor.org/stable/1584247)), also Phillips ([2003]()), Dillon ([2007](http://www.jstor.org/stable/25528401)).  
 [^10]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
 [^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984](https://doi.org/10.2307/3168527)), Finan ([1987]()), Burns ([1988](http://www.jstor.org/stable/40015076)), Lawless ([1990]()), Chambers ([2023](https://doi.org/10.1007/978-3-031-19542-6_8)); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023](http://www.jstor.org/stable/jj.4470340)); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
@@ -168,7 +168,7 @@ Faros, P., & Ashbrook, J. B. (1967). St. John Chrysostom’s Counseling Techniqu
 
 Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
 
-Ficinus, M. (1497). *De Mysteriis Aegyptiorum, Chaldaeorum, Assyriorum*. Venetiis: Manutius. [https://doi.org/10.3931/e-rara-7132]()
+Ficinus, M. (1497). *De Mysteriis Aegyptiorum, Chaldaeorum, Assyriorum*. Venetiis: Manutius. [https://doi.org/10.3931/e-rara-7132](https://doi.org/10.3931/e-rara-7132)
 
 Finan, T. (1987). St Augustine. *The Furrow 38* (5): 293–303. [http://www.jstor.org/stable/27678477]()
 
