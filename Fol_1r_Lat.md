@@ -297,6 +297,8 @@ Scheible, J. (1880). *The Sixth and Seventh Books of Moses: Or, Moses’ Magical
 
 Semple, W. H. (1965). St Jerome as a Biblical Translator. Edited by Hall, R. *Bulletin of the John Rylands Library, Manchester 48* (1): 227–43. [https://jstor.org/stable/community.28211847]()
 
+Simpson, W. (2023). *Hylomorphism*. Elements in the Philosophy of Biology. Cambridge: Cambridge University Press. [https://doi.org/10.1017/9781009026475](https://doi.org/10.1017/9781009026475)
+
 Sparks, H. F. D. (1970). Jerome as Biblical Scholar. In *The Cambridge History of the Bible*, edited by Ackroyd, P. R., & Evans, C. F., 1:510–41. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CHOL9780521074186.017]()
 
 Spencer, W. W. (1931). St. Augustine and the Influence of Religion on Philosophy. *International Journal of Ethics 41* (4): 461–79. [http://www.jstor.org/stable/2378306]()
