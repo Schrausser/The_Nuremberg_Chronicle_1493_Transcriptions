@@ -72,7 +72,7 @@ Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt als got die ge
 Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: das wollen wir kürtzlichen erzelen.
 
 [^1]: c.f. Bates ([1930](http://www.jstor.org/stable/j.ctv4t81g7)), Mierow ([1953]()), Dillon ([2004](http://www.jstor.org/stable/25528401)).  
-[^2]: s. Ferchius ([1646]()), Cornford ([1930a](http://www.jstor.org/stable/637051), [b](http://www.jstor.org/stable/636593)), Vlastos ([1950]()), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980]()) or Drozdek ([2005](http://www.jstor.org/stable/4477647)).  
+[^2]: s. Ferchius ([1646](https://doi.org/10.3931/e-rara-73987)), Cornford ([1930a](http://www.jstor.org/stable/637051), [b](http://www.jstor.org/stable/636593)), Vlastos ([1950]()), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980]()) or Drozdek ([2005](http://www.jstor.org/stable/4477647)).  
 [^3]: in Latin, "We therefore leave behind the ancient errors of the secret books of Moses concerning the creation of the world and consider the famous works of six days.", c.f. Scheible ([1880]()), Link ([1970]()), Baker ([2010]()).  
 [^4]: s. Gregg ([1909]()).  
 [^5]: Burton ([1900](http://www.jstor.org/stable/3136549)), Kuhn ([2010]()).  
@@ -83,7 +83,7 @@ Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: d
 [^10]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
 [^11]: (a) Maier ([1994]()), McLynn ([1994]()), Mills ([2017]()), Williams ([2017]()); (b) Spencer ([1931]()), Guinagh ([1946]()), Clark ([1984](https://doi.org/10.2307/3168527)), Finan ([1987]()), Burns ([1988](http://www.jstor.org/stable/40015076)), Lawless ([1990]()), Chambers ([2023](https://doi.org/10.1007/978-3-031-19542-6_8)); (c) Strabo ([1469]()), c.f. Pothecary ([1999]()); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023](http://www.jstor.org/stable/jj.4470340)); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
 [^12]: (a) Jerrold ([1845]()); (b) Albertus ([1481](https://doi.org/10.3931/e-rara-4321)), Damon ([1930](http://www.jstor.org/stable/2846359)), Hossfeld ([1978](), [1980]()), Weisheipl ([1979]()), Bello ([1983](https://doi.org/10.1016/0315-0860(83)90030-7)), Moulin ([2008]()), Tkacz ([2011]()).  
-[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982](http://www.jstor.org/stable/1583486)), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](http://www.jstor.org/stable/24681403), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](http://www.jstor.org/stable/263800), [1932](http://www.jstor.org/stable/263828)), Faros and Ashbrook ([1967]()), Love ([2007]()).  
+[^13]: (a) Mondésert ([1999]()), Forger ([2018]()); (b) Cox ([1982](http://www.jstor.org/stable/1583486)), Clark ([1991]()), Storin ([2017]()), Terracciano ([2022]()); (c) Hildebrand ([2011]()); (d) -; (e) Spoerl ([1998]()), Beeley ([2011](http://www.jstor.org/stable/41291365)), Raven ([2014]()); (f) Layton ([2000]()), Radde-Gallwitz ([2011]()); (g) c.f. Cooper ([1906](http://www.jstor.org/stable/24681403), p. 2).; (h) Maynard ([1904]()), Coleman-Norton ([1930](http://www.jstor.org/stable/263800), [1932](http://www.jstor.org/stable/263828)), Faros and Ashbrook ([1967](https://doi.org/10.1007/BF01770242)), Love ([2007]()).  
 [^14]: (a) -; (b) -; (c) -.    
 [^15]: (a) -; (b) -; (c) -; (d) s. Idel ([1977](), p. 291) ; (e) -; (f) Ben Gershon ([1425](https://digi.vatlib.it/view/MSS_Vat.lat.3098), [1866](https://archive.org/details/sefermilamothash00leviuoft/), [1984](https://books.google.com/books?id=nekEAQAAIAAJ), res.), Rabinovitch ([1970]()), Glasner ([1997]()), Goldstein ([1997](), [2002](), [2012](), res.), Mancha ([1997](), [2017]()), Rudavsky ([2007]()), Freudenthal and Fontaine ([2012]()); (g) Friedländer ([1893]()), Efros ([1942](http://www.jstor.org/stable/1451990), [1950](http://www.jstor.org/stable/1453124)), Jacobs ([2011]()); (h) Levy ([2008]()), c.f. Idel ([1977]()).  
 [^16]: c.f. Foresti ([1492](), fol. 8v), Cherchi ([2018](https://doi.org/10.1515/9783110419306-013), p. 255), also Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938), [1487](https://books.google.com/books?id=ZooTnQEACAAJ), res.) and Hyde ([1985]()).  
@@ -164,9 +164,9 @@ Efros, I. (1942). Saadia’s Theory of Knowledge. *The Jewish Quarterly Review 3
 
 ———. (1950). Saadia’s "Book of Beliefs and Opinions" in English. *The Jewish Quarterly Review 40* (4): 413–15. [http://www.jstor.org/stable/1453124](http://www.jstor.org/stable/1453124)
 
-Faros, P., & Ashbrook, J. B. (1967). St. John Chrysostom’s Counseling Techniques. *Pastoral Psychology 18* (9): 55—58. [https://doi.org/10.1007/BF01770242]()
+Faros, P., & Ashbrook, J. B. (1967). St. John Chrysostom’s Counseling Techniques. *Pastoral Psychology 18* (9): 55—58. [https://doi.org/10.1007/BF01770242](https://doi.org/10.1007/BF01770242)
 
-Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987]()
+Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
 
 Ficinus, M. (1497). *De Mysteriis Aegyptiorum, Chaldaeorum, Assyriorum*. Venetiis: Manutius. [https://doi.org/10.3931/e-rara-7132]()
 
