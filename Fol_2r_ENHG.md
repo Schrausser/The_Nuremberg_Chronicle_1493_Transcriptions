@@ -25,16 +25,16 @@ Nwn zaygt Moyses durch die werck d[er] sechs tag nemlich in de[m] ersten die bes
 
 In dem andern vnd dritten die ordnung oder schickung. vnd in den andern die zierung.
 
-[^1]: Genesis 1:1-2, s. Jiménez de Cisneros ([1517](), fol. ar), also c.f. Foresti ([1492](), fol. a2r).  
-[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Edelman et al. ([2012]()) or Leuchter ([2019]()).  
-[^3]: s. De Columnis and Mair ([1510]()), Meister ([1872]()), Haight ([1947]()), Finley et al. ([1964]()), Barnes ([1981]()), Raaflaub ([1998]()) or Cobet ([2009]()).  
-[^4]: s. Trapezuntio ([1453]()), Bruni ([1472]()), Ficinus ([1517]()), Ficinus and Grynäus ([1546]()), Ackermann ([1810]()), Jowett ([1888]()), also Böckh ([1852]()), Boas ([1948]()), McPherran and Fraser ([2011]()), Bergren ([2017]()).  
-[^5]: Aristoteles ([1325]()), Aristoteles and Clichtoveus ([1510]()), Aristoteles and Theophrastus ([1608]()).  
-[^6]: s. Wasserstein ([1978]()).  
-[^7]: c.f. Skrzypek ([2017](), p. 260), also Koslicki ([2008]()), Manning ([2013]()), Carter ([2019]()).  
-[^8]: s. Semple ([1965]()), Sparks ([1970]()), Simpson ([2023]()).    
-[^9]: c.f. Monasterii Wirimutham-Gyruum ([716 AD]()).  
-[^10]: Ovidius ([1515](), fol. IIr), c.f. also Foresti ([1492](), fol. 2r), Steiner ([1951]()).  
+[^1]: Genesis 1:1-2, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. ar), also c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2r).  
+[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Edelman et al. ([2012](https://www.cambridge.org/core/books/opening-the-books-of-moses/D36FA234EB9EF169006A975102EE1220)) or Leuchter ([2019](https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163)).  
+[^3]: s. de Columnis and Mair ([1510](https://doi.org/10.3931/e-rara-79840)), Meister ([1872](https://archive.org/details/dictyscretensise00dictuoft/)), Haight ([1947](http://www.jstor.org/stable/3292066)), Finley et al. ([1964](https://doi.org/10.2307/627688)), Barnes ([1981](http://www.jstor.org/stable/4476220)), Raaflaub ([1998](http://www.jstor.org/stable/4352106)) or Cobet ([2009](http://www.jstor.org/stable/40379081)).  
+[^4]: s. Trapezuntio ([1453](https://digi.vatlib.it/view/MSS_Vat.lat.2062)), Bruni ([1472](https://doi.org/10.3931/e-rara-25443)), Ficinus ([1517](https://doi.org/10.3931/e-rara-69682)), Ficinus and Grynäus ([1546](https://doi.org/10.3931/e-rara-5114)), Ackermann ([1810](https://doi.org/10.3931/e-rara-2881)), Jowett ([1888](https://archive.org/details/a604578400platuoft/)), also Böckh ([1852](https://doi.org/10.3931/e-rara-90691)), Boas ([1948](http://www.jstor.org/stable/2181715)), McPherran and Fraser ([2011](https://doi.org/10.1017/CBO9780511763090)), Bergren ([2017](http://www.jstor.org/stable/44505333)).  
+[^5]: Aristoteles ([1325](https://digi.vatlib.it/view/MSS_Borgh.236)), Aristoteles and Clichtoveus ([1510](https://doi.org/10.3931/e-rara-25809)), Aristoteles and Theophrastus ([1608](https://doi.org/10.3931/e-rara-56887)).  
+[^6]: s. Wasserstein ([1978](http://www.jstor.org/stable/4476074)).  
+[^7]: c.f. Skrzypek ([2017](https://doi.org/10.1111/phib.12104), p. 260), also Koslicki ([2008](https://philpapers.org/rec/KOSTSO-2)), Manning ([2013](http://www.jstor.org/stable/43291297)), Carter ([2019](https://doi.org/10.1017/9781108646321.001)).  
+[^8]: s. Semple ([1965](https://jstor.org/stable/community.28211847)), Sparks ([1970](https://doi.org/10.1017/CHOL9780521074186.017)), Simpson ([2023](https://doi.org/10.1017/9781009026475)).    
+[^9]: c.f. Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)).  
+[^10]: Ovidius ([1515](http://www.jstor.org/stable/4352106), fol. IIr), c.f. also Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. 2r), Steiner ([1951](http://www.jstor.org/stable/283435)).  
 
 ## References
 
@@ -107,4 +107,4 @@ Steiner, G. (1951). Source-Editions of Ovid’s Metamorphoses (1471-1500). *Tran
 
 Trapezuntio, G. (1453). *Platonis Legum libri XII atque Epinomis Latino sermone a Georgio Trapezuntio translata*. Vat.lat. 2062 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.2062](https://digi.vatlib.it/view/MSS_Vat.lat.2062)
 
-Wasserstein, A. (1978). Epicurean Science. *Hermes 106* (3): 484–94. [http://www.jstor.org/stable/4476074](http://www.jstor.org/stable/4476074)
+Wasserstein, A. (1978). Epicurean Science. *Hermes 106* (3): 484–94. [http://www.jstor.org/stable/4476074](http://www.jstor.org/stable/4476074) 
