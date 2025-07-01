@@ -135,50 +135,50 @@ Das sechst heist das verlebt. abkome[n] geneigt von .lxxx. iaren bis zu dem ende
 
 ## References
 
-Alfeyev, H. H. (2003). The Trinitarian Teaching of St. Gregory Nazianzen. In *The Trinity: East/West Dialogue*, edited by Stewart, M. Y., 107–30. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-017-0393-2_11.]()
+Alfeyev, H. H. (2003). The Trinitarian Teaching of St. Gregory Nazianzen. In *The Trinity: East/West Dialogue*, edited by Stewart, M. Y., 107–30. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-017-0393-2_11.](https://doi.org/10.1007/978-94-017-0393-2_11)
 
 Bagster, S. (publ.). (1870). *The Septuagint Version of the Old Testament, with an English Translation; and with Various Readings and Critical Notes*. London: Samuel Bagster; Sons.
-[https://books.google.com/books?id=wMUUAAAAQAAJ]()
+[https://books.google.com/books?id=wMUUAAAAQAAJ](https://books.google.com/books?id=wMUUAAAAQAAJ)
 
-Brenton, L. C. L. (1971). *The Septuagint with Apocryphia: With an English Translation, and with Various Readings and Critical Notes*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=emjouQEACAAJ]()
+Brenton, L. C. L. (1971). *The Septuagint with Apocryphia: With an English Translation, and with Various Readings and Critical Notes*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=emjouQEACAAJ](https://books.google.com/books?id=emjouQEACAAJ)
 
-———. (1986). *The Septuagint with Apocrypha: Greek and English. Companion Texts for Old Testament Studies*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=xsrYAAAAMAAJ]()
+———. (1986). *The Septuagint with Apocrypha: Greek and English. Companion Texts for Old Testament Studies*. Peabody, Massachusetts: Hendrickson Publishers. [https://books.google.com/books?id=xsrYAAAAMAAJ](https://books.google.com/books?id=xsrYAAAAMAAJ)
 
 Corderius, B. (1644). *Sancti Dionysii Areopagitae Operum Omnium Quae Extant, Et Commentariorum Quibus Illustrantur* ... Lutetiae Parisorum: Apud Laurentium Cottereau.
-[https://books.google.com/books?id=SzyAVTu3RI0C]()
+[https://books.google.com/books?id=SzyAVTu3RI0C](https://books.google.com/books?id=SzyAVTu3RI0C)
 
-De Beauvais, V. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC]()
+De Beauvais, V. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC](https://books.google.com/books?id=v9yKk_tdhusC)
 
-De Billy, J. (1609). *Sancti Gregorii Nazianzeni, Cognomento theologi, opera*. Lutetiae Parisorum: Typis regiis, apud Claudium Morellum. [https://books.google.com/books?id=FMtQAAAAcAAJ]()
+De Billy, J. (1609). *Sancti Gregorii Nazianzeni, Cognomento theologi, opera*. Lutetiae Parisorum: Typis regiis, apud Claudium Morellum. [https://books.google.com/books?id=FMtQAAAAcAAJ](https://books.google.com/books?id=FMtQAAAAcAAJ)
 
-De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC]()
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
 
-Detlefsen, D. (1900). Die Werthangaben in Der Naturalis Historia Des Plinius. *Hermes 35* (3): 585–601. [http://www.jstor.org/stable/4472753]()
+Detlefsen, D. (1900). Die Werthangaben in Der Naturalis Historia Des Plinius. *Hermes 35* (3): 585–601. [http://www.jstor.org/stable/4472753](http://www.jstor.org/stable/4472753)
 
-Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/]()
+Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
 
-Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. [https://doi.org/10.3931/e-rara-9747]()
+Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. [https://doi.org/10.3931/e-rara-9747](https://doi.org/10.3931/e-rara-9747)
 
-Gudger, E. W. (1924). Pliny’s Historia Naturalis. The Most Popular Natural History Ever Published. *Isis 6* (3): 269–81. [http://www.jstor.org/stable/224311]()
+Gudger, E. W. (1924). Pliny’s Historia Naturalis. The Most Popular Natural History Ever Published. *Isis 6* (3): 269–81. [http://www.jstor.org/stable/224311](http://www.jstor.org/stable/224311)
 
-Isgro, R. M. (1979). Sixteenth-Century Conception of Harmony. *College Music Symposium 19* (1): 7–52. [http://www.jstor.org/stable/40351750]()
+Isgro, R. M. (1979). Sixteenth-Century Conception of Harmony. *College Music Symposium 19* (1): 7–52. [http://www.jstor.org/stable/40351750](http://www.jstor.org/stable/40351750)
 
-Kircher, A. (1650). *Athanasii Kircheri Fuldensis e soc. Iesu presbyteri musurgia universalis, sive, Ars magna consoni et dissoni in X. libros digesta: qua universa sonorum doctrina, & philosophia, musicaeque tam theoricae, quam practicae scientia, summa varietate traditur; admirandae consoni, & dissoni in mundo, adeoque universa natura vires effectusque, uti nova, ita peregrina variorum speciminum exhibitione ad singulares usus, tum in omni poene facultate, tum potissimum in philologia, mathematica, physica, mechanica, medicina, politica, metaphysica, theologica, aperiuntur & demonstrantur*. Romae: ex typographia haeredum Francisci Corbelletti. [https://doi.org/10.3931/e-rara-26092]()
+Kircher, A. (1650). *Athanasii Kircheri Fuldensis e soc. Iesu presbyteri musurgia universalis, sive, Ars magna consoni et dissoni in X. libros digesta: qua universa sonorum doctrina, & philosophia, musicaeque tam theoricae, quam practicae scientia, summa varietate traditur; admirandae consoni, & dissoni in mundo, adeoque universa natura vires effectusque, uti nova, ita peregrina variorum speciminum exhibitione ad singulares usus, tum in omni poene facultate, tum potissimum in philologia, mathematica, physica, mechanica, medicina, politica, metaphysica, theologica, aperiuntur & demonstrantur*. Romae: ex typographia haeredum Francisci Corbelletti. [https://doi.org/10.3931/e-rara-26092](https://doi.org/10.3931/e-rara-26092)
 
-Knobloch, E. (1994). Harmonie Und Kosmos: Mathematik Im Dienste Eines Teleologischen Weltverständnisses. *Sudhoffs Archiv 78* (1): 14–40. [http://www.jstor.org/stable/20777445]()
+Knobloch, E. (1994). Harmonie Und Kosmos: Mathematik Im Dienste Eines Teleologischen Weltverständnisses. *Sudhoffs Archiv 78* (1): 14–40. [http://www.jstor.org/stable/20777445](http://www.jstor.org/stable/20777445)
 
-Mathiesen, T. (2002). Greek Music Theory. In *The Cambridge History of Western Music Theory*, edited by Christensen, T., 107–35. The Cambridge History of Music. Cambridge: University Press. [https://doi.org/10.1017/CHOL9780521623711]()
+Mathiesen, T. (2002). Greek Music Theory. In *The Cambridge History of Western Music Theory*, edited by Christensen, T., 107–35. The Cambridge History of Music. Cambridge: University Press. [https://doi.org/10.1017/CHOL9780521623711](https://doi.org/10.1017/CHOL9780521623711)
 
-Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia Amiatina*. Kingdom of Northumbria, England: publisher not identified. [https://www.loc.gov/item/2021668243]()
+Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia Amiatina*. Kingdom of Northumbria, England: publisher not identified. [https://www.loc.gov/item/2021668243](https://www.loc.gov/item/2021668243)
 
-Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/]()
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
-———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199]()
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
 
-Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/]()
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
-Ramsdell, T. J. (1894). The Kingdom of Heaven in the Gospel of Matthew. *The Biblical World 4* (2): 124–33. [http://www.jstor.org/stable/3135427]()
+Ramsdell, T. J. (1894). The Kingdom of Heaven in the Gospel of Matthew. *The Biblical World 4* (2): 124–33. [http://www.jstor.org/stable/3135427](http://www.jstor.org/stable/3135427)
 
-Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana 31* (1): 34–54. [http://www.jstor.org/stable/40694499]()
+Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana 31* (1): 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
 
-Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. [https://archive.org/details/gregoryofnazian00ullm]()
+Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. [https://archive.org/details/gregoryofnazian00ullm](https://archive.org/details/gregoryofnazian00ullm)
