@@ -151,12 +151,12 @@ Quina e[st] senect[us] a .50. a[n]no vsq[ue] ad .79.
 
 Sexta e[st] decrepita etas ab a[n]no .80. vsq[ue] dum vita finit[ur].
 
-[^1]: c.f. Plinius Secundus ([1250](), fol. 22r, [1470](), lib. II), De Beauvais ([1494](), fol. i84v - i85r), Rackham ([1967](), p. 227 ff.), also Kircher ([1650]()), Detlefsen ([1900]()), Gudger ([1924]()), Torrellas ([1999]()), Mathiesen ([2002]()), further Isgro ([1979](), p. 23), Knobloch ([1994]()).  
-[^2]: Dionysius ([1350]()), Ficinus ([1503]()), Corderius ([1644]()).  
-[^3]: De Billy ([1609]()), c.f. Ullman ([1851]()), Alfeyev ([2003]()).  
-[^4]: Monasterii Wirimutham-Gyruum ([716 AD]()), Bagster ([1870]()), Brenton ([1971](), [1986]()).  
-[^5]: De Seville ([1802](), p. 285).  
-[^6]: c.f. Ramsdell ([1894]()).
+[^1]: c.f. Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), lib. II), De Beauvais ([1494](https://books.google.com/books?id=v9yKk_tdhusC), fol. i84v - i85r), Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), also Kircher ([1650](https://doi.org/10.3931/e-rara-26092)), Detlefsen ([1900](http://www.jstor.org/stable/4472753)), Gudger ([1924](http://www.jstor.org/stable/224311)), Torrellas ([1999](http://www.jstor.org/stable/40694499)), Mathiesen ([2002](https://doi.org/10.1017/CHOL9780521623711)), further Isgro ([1979](http://www.jstor.org/stable/40351750), p. 23), Knobloch ([1994](http://www.jstor.org/stable/20777445)).  
+[^2]: Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)), Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).  
+[^3]: De Billy ([1609](https://books.google.com/books?id=FMtQAAAAcAAJ)), c.f. Ullman ([1851](https://archive.org/details/gregoryofnazian00ullm)), Alfeyev ([2003](https://doi.org/10.1007/978-94-017-0393-2_11)).  
+[^4]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
+[^5]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
+[^6]: c.f. Ramsdell ([1894](http://www.jstor.org/stable/3135427)).
 
 
 ## References
@@ -192,7 +192,6 @@ Isgro, R. M. (1979). Sixteenth-Century Conception of Harmony. *College Music Sym
 Kircher, A. (1650). *Athanasii Kircheri Fuldensis e soc. Iesu presbyteri musurgia universalis, sive, Ars magna consoni et dissoni in X. libros digesta: qua universa sonorum doctrina, & philosophia, musicaeque tam theoricae, quam practicae scientia, summa varietate traditur; admirandae consoni, & dissoni in mundo, adeoque universa natura vires effectusque, uti nova, ita peregrina variorum speciminum exhibitione ad singulares usus, tum in omni poene facultate, tum potissimum in philologia, mathematica, physica, mechanica, medicina, politica, metaphysica, theologica, aperiuntur & demonstrantur*. Romae: ex typographia haeredum Francisci Corbelletti. [https://doi.org/10.3931/e-rara-26092](https://doi.org/10.3931/e-rara-26092)
 
 Knobloch, E. (1994). Harmonie Und Kosmos: Mathematik Im Dienste Eines Teleologischen Weltverständnisses. *Sudhoffs Archiv 78* (1): 14–40. [http://www.jstor.org/stable/20777445](http://www.jstor.org/stable/20777445)
-
 
 Mathiesen, T. (2002). Greek Music Theory. In *The Cambridge History of Western Music Theory*, edited by Christensen, T., 107–35. The Cambridge History of Music. Cambridge: University Press. [https://doi.org/10.1017/CHOL9780521623711](https://doi.org/10.1017/CHOL9780521623711)
 
