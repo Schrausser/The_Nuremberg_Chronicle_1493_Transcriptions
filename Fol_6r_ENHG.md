@@ -125,12 +125,12 @@ Das fünft altheit vo[n] .l. bis i[n] das .lxxviiij. iar.
 
 Das sechst heist das verlebt. abkome[n] geneigt von .lxxx. iaren bis zu dem ende des lebens.
 
-[^1]: c.f. Plinius Secundus ([1250](), fol. 22r, [1470](), lib. II), De Beauvais ([1494](), fol. i84v - i85r), Rackham ([1967](), p. 227 ff.), also Kircher ([1650]()), Detlefsen ([1900]()), Gudger ([1924]()), Torrellas ([1999]()), Mathiesen ([2002]()), further Isgro ([1979](), p. 23), Knobloch ([1994]()).  
-[^2]: Dionysius ([1350]()), Ficinus ([1503]()), Corderius ([1644]()).  
-[^3]: De Billy ([1609]()), c.f. Ullman (1851), Alfeyev ([2003]()).  
-[^4]: Monasterii Wirimutham-Gyruum ([716 AD]()), Bagster ([1870]()), Brenton ([1971](), [1986]()).  
-[^5]: De Seville ([1802](), p. 285).  
-[^6]: c.f. Ramsdell ([1894]()).
+[^1]: c.f. Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), lib. II), De Beauvais ([1494](https://books.google.com/books?id=v9yKk_tdhusC), fol. i84v - i85r), Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), also Kircher ([1650](https://doi.org/10.3931/e-rara-26092)), Detlefsen ([1900](http://www.jstor.org/stable/4472753)), Gudger ([1924](http://www.jstor.org/stable/224311)), Torrellas ([1999](http://www.jstor.org/stable/40694499)), Mathiesen ([2002](https://doi.org/10.1017/CHOL9780521623711)), further Isgro ([1979](http://www.jstor.org/stable/40351750), p. 23), Knobloch ([1994](http://www.jstor.org/stable/20777445)).  
+[^2]: Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)), Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).  
+[^3]: De Billy ([1609](https://books.google.com/books?id=FMtQAAAAcAAJ)), c.f. Ullman ([1851](https://archive.org/details/gregoryofnazian00ullm)), Alfeyev ([2003](https://doi.org/10.1007/978-94-017-0393-2_11)).  
+[^4]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
+[^5]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
+[^6]: c.f. Ramsdell ([1894](http://www.jstor.org/stable/3135427)).
 
 
 ## References
@@ -181,4 +181,4 @@ Ramsdell, T. J. (1894). The Kingdom of Heaven in the Gospel of Matthew. *The Bib
 
 Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana 31* (1): 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
 
-Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. [https://archive.org/details/gregoryofnazian00ullm](https://archive.org/details/gregoryofnazian00ullm)
+Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. [https://archive.org/details/gregoryofnazian00ullm](https://archive.org/details/gregoryofnazian00ullm) 
