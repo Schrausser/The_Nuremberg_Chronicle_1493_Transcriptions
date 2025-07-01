@@ -57,21 +57,21 @@ In secundo [et] tercio dispositione[m].
 
 In reliquis ornatum Moyses per opera sex die[rum] ostendit.
 
-[^1]: Genesis 1:1-2, s. Jiménez de Cisneros ([1517](), fol. ar), also c.f. Foresti ([1492](), fol. a2r).  
-[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Baker ([2010]()), Edelman et al. ([2012]()) or Leuchter ([2019]()).  
-[^3]: s. De Columnis and Mair ([1510]()), Meister ([1872]()), Haight ([1947]()), Finley et al. ([1964]()), Barnes ([1981]()), Raaflaub ([1998]()) or Cobet ([2009]()).  
-[^4]: or "[con][trarium]", s. Cappelli ([1928](), p. 60-61).  
-[^5]: or "v[er]o", c.f. Cappelli ([1928](), p. 395).  
-[^6]: s. Trapezuntio ([1453]()), Bruni ([1472]()), Ficinus ([1517]()), Ficinus and Grynäus ([1546]()), Ackermann ([1810]()), Jowett ([1888]()), also Böckh ([1852]()), Boas ([1948]()), McPherran and Fraser ([2011]()), Bergren ([2017]()).  
-[^7]: Aristoteles ([1325]()), Aristoteles and Clichtoveus ([1510]()), Aristoteles and Theophrastus ([1608]()).  
-[^8]: s. De Witt ([1932](), [1954]()), Wasserstein ([1978]()), Inwood ([1981]()), also Walker ([1982]()).  
-[^9]: c.f. Skrzypek ([2017](), p. 260), also Weisheipl ([1979]()), Koslicki ([2008]()), Manning ([2013]()), Carter ([2019]()), Simpson ([2023]()).  
-[^10]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, [1910](), p. 91; Cappelli, [1928](), p. 230).  
-[^11]: s. Semple ([1965]()), Sparks ([1970]()).    
-[^12]: or "v[a]l[ete]", v[ide]l[icet], res., c.f. Cappelli ([1928](), p. 392).  
-[^13]: 700(!), Septuaginta (LXX), c.f. Monasterii Wirimutham-Gyruum ([716 AD]()), Jiménez de Cisneros ([1517]()), Ulrich and Holzhalb ([1756]()), Bagster ([1870]()), Brenton ([1971](), [1986]()).  
-[^14]: Ovidius ([1515]()), Steiner, G. ([1951]()).  
-[^15]: c.f Foresti ([1492](), fol. a2r), Ovidius ([1515](), fol. IIr).    
+[^1]: Genesis 1:1-2, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. ar), also c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2r).  
+[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Baker ([2010](http://www.jstor.org/stable/43044772)), Edelman et al. ([2012](https://www.cambridge.org/core/books/opening-the-books-of-moses/D36FA234EB9EF169006A975102EE1220)) or Leuchter ([2019](https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163)).  
+[^3]: s. de Columnis and Mair ([1510](https://doi.org/10.3931/e-rara-79840)), Meister ([1872](https://archive.org/details/dictyscretensise00dictuoft/)), Haight ([1947](http://www.jstor.org/stable/3292066)), Finley et al. ([1964](https://doi.org/10.2307/627688)), Barnes ([1981](http://www.jstor.org/stable/4476220)), Raaflaub ([1998](http://www.jstor.org/stable/4352106)) or Cobet ([2009](http://www.jstor.org/stable/40379081)).  
+[^4]: or "[con][trarium]", s. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 60-61).  
+[^5]: or "v[er]o", c.f. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 395).  
+[^6]: s. Trapezuntio ([1453](https://digi.vatlib.it/view/MSS_Vat.lat.2062)), Bruni ([1472](https://doi.org/10.3931/e-rara-25443)), Ficinus ([1517](https://doi.org/10.3931/e-rara-69682)), Ficinus and Grynäus ([1546](https://doi.org/10.3931/e-rara-5114)), Ackermann ([1810](https://doi.org/10.3931/e-rara-2881)), Jowett ([1888](https://archive.org/details/a604578400platuoft/)), also Böckh ([1852](https://doi.org/10.3931/e-rara-90691)), Boas ([1948](http://www.jstor.org/stable/2181715)), McPherran and Fraser ([2011](https://doi.org/10.1017/CBO9780511763090)), Bergren ([2017](http://www.jstor.org/stable/44505333)).  
+[^7]: Aristoteles ([1325](https://digi.vatlib.it/view/MSS_Borgh.236)), Aristoteles and Clichtoveus ([1510](https://doi.org/10.3931/e-rara-25809)), Aristoteles and Theophrastus ([1608](https://doi.org/10.3931/e-rara-56887)).  
+[^8]: s. de Witt ([1932](http://www.jstor.org/stable/283212), [1954](http://www.jstor.org/stable/10.5749/j.cttts81p)), Wasserstein ([1978](http://www.jstor.org/stable/4476074)), Inwood ([1981](http://www.jstor.org/stable/270296)), also Walker ([1982](http://www.jstor.org/stable/43247256)).  
+[^9]: c.f. Skrzypek ([2017](https://doi.org/10.1111/phib.12104), p. 260), also Weisheipl ([1979](http://www.jstor.org/stable/43155504)), Koslicki ([2008](https://philpapers.org/rec/KOSTSO-2)), Manning ([2013](http://www.jstor.org/stable/43291297)), Carter ([2019](https://doi.org/10.1017/9781108646321.001)), Simpson ([2023](https://doi.org/10.1017/9781009026475)).  
+[^10]: ambiguous "ñ", "n[on]" also "e[n]im", "n[omen]", "n[atura]" etc. (c.f. Martin, [1910](https://archive.org/details/recordinterprete00martuoft), p. 91; Cappelli, [1928](https://archive.org/details/LexiconAbbreviaturarum), p. 230).  
+[^11]: s. Semple ([1965](https://jstor.org/stable/community.28211847)), Sparks ([1970](https://doi.org/10.1017/CHOL9780521074186.017)).    
+[^12]: or "v[a]l[ete]", v[ide]l[icet], res., c.f. Cappelli ([1928](https://archive.org/details/LexiconAbbreviaturarum), p. 392).  
+[^13]: 700(!), Septuaginta (LXX), c.f. Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695)), Ulrich and Holzhalb ([1756](https://doi.org/10.3931/e-rara-65699)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
+[^14]: Ovidius ([1515](https://doi.org/10.3931/e-rara-35248)), Steiner, G. ([1951](http://www.jstor.org/stable/283435)).  
+[^15]: c.f Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2r), Ovidius ([1515](https://doi.org/10.3931/e-rara-35248), fol. IIr).    
 
 ## References
 
@@ -169,4 +169,4 @@ Wasserstein, A. (1978). Epicurean Science. *Hermes 106* (3): 484–94. [http://w
 
 Weisheipl, J. A. (1979). Albertus Magnus and Universal Hylomorphism: Avicebron a Note on Thirteenth-Century Augustinianism. *The Southwestern Journal of Philosophy 10* (3): 239–60. [http://www.jstor.org/stable/43155504](http://www.jstor.org/stable/43155504)
 
-Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699)
+Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699) 
