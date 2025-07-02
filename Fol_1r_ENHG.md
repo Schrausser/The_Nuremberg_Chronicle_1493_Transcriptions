@@ -78,7 +78,7 @@ Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: d
 [^5]: Burton ([1900](http://www.jstor.org/stable/3136549)), Kuhn ([2010](https://books.google.com/books?id=vmJAGk5yyrMC)).  
 [^6]: Mondésert ([1999](https://doi.org/10.1017/CHOL9780521243773.028)), Forger ([2018](https://www.jstor.org/stable/26551248)).  
 [^7]: SUMMARIES ([2008](http://www.jstor.org/stable/23568161)), Baron ([2012](https://doi.org/10.1017/CBO9780511733246.007)).  
-[^8]: Ficinus ([1497](https://doi.org/10.3931/e-rara-7132)), Ramsay and Weißmüller ([1737](https://doi.org/10.3931/e-rara-79352)), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009](https://doi.org/doi:10.1515/9783110216523.1.21)).  
+[^8]: Ficinus ([1497](https://doi.org/10.3931/e-rara-7132)), Ramsay and Weißmüller ([1737](https://doi.org/10.3931/e-rara-79352)), Beatty ([1914](http://www.jstor.org/stable/23036933)), Huffman ([2009](https://doi.org/10.1515/9783110216523.1.21)).  
 [^9]: s. Edwards ([1990](http://www.jstor.org/stable/1584247)), also Phillips ([2003](http://www.jstor.org/stable/4182722)), Dillon ([2007](http://www.jstor.org/stable/25528401)).  
 [^10]: s. Semple ([1965](https://jstor.org/stable/community.28211847)), Sparks ([1970](https://doi.org/10.1017/CHOL9780521074186.017)), Simpson ([2023](https://doi.org/10.1017/9781009026475)).    
 [^11]: (a) Maier ([1994](http://www.jstor.org/stable/23966891)), McLynn ([1994](http://www.jstor.org/stable/10.1525/j.ctt14btg93)), Mills ([2017](https://doi.org/10.1007/978-3-642-27771-9_200029-1)), Williams ([2017](https://doi.org/10.1017/9781139094658)); (b) Spencer ([1931](http://www.jstor.org/stable/2378306)), Guinagh ([1946](http://www.jstor.org/stable/4342262)), Clark ([1984](https://books.google.com/books?id=uA_vDkEyH14C)), Finan ([1987](http://www.jstor.org/stable/27678477)), Burns ([1988](http://www.jstor.org/stable/40015076)), Lawless ([1990](http://www.jstor.org/stable/44992501)), Chambers ([2023](https://doi.org/10.1007/978-3-031-19542-6_8)); (c) Strabo ([1469](https://doi.org/10.3931/e-rara-87965)), c.f. Pothecary ([1999](http://www.jstor.org/stable/4433046)); (d) Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023](http://www.jstor.org/stable/jj.4470340)); (e) Anderdon ([1879a](http://www.jstor.org/stable/20502439), [b](http://www.jstor.org/stable/20502458)), Arias ([2019](https://doi.org/10.1080/13507486.2017.1397108)).    
@@ -200,7 +200,7 @@ Hossfeld, P. (1978). Albertus Magnus Über Die Natur Des Geographischen Orts. *Z
 
 ———. (1980). Die Lehre Des Ālbertus Magnus von Den Kometen. *Angelicum 57* (4): 533–41. [http://www.jstor.org/stable/44618153](http://www.jstor.org/stable/44618153)
 
-Huffman, C. (2009). The Pythagorean Conception of the Soul from Pythagoras to Philolaus. In *Body and Soul in Ancient Philosophy*, edited by Frede, D., & Reis, B., 21–44. Berlin, New York: De Gruyter. [https://doi.org/doi:10.1515/9783110216523.1.21](https://doi.org/doi:10.1515/9783110216523.1.21)
+Huffman, C. (2009). The Pythagorean Conception of the Soul from Pythagoras to Philolaus. In *Body and Soul in Ancient Philosophy*, edited by Frede, D., & Reis, B., 21–44. Berlin, New York: De Gruyter. [https://doi.org/10.1515/9783110216523.1.21](https://doi.org/10.1515/9783110216523.1.21)
 
 Hyde, T. (1985). Boccaccio: The Genealogies of Myth. *PMLA 100* (5): 737–45. [http://www.jstor.org/stable/462094](http://www.jstor.org/stable/462094)
 
