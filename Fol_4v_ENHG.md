@@ -15,7 +15,7 @@ Got hat beschaffen ein lebendige sele. wo aber d[er] wasser gedacht wirt do stee
 [^4]: Plotinus ([1580](https://doi.org/10.3931/e-rara-120889)), c.f. Watson ([1928](http://www.jstor.org/stable/2179841)).  
 
 
-# References
+## References
 
 Baron, C. A. (2012). The Missing Link? Pythagoras and Pythagoreans in Timaeus. In *Timaeus of Tauromenium and Hellenistic Historiography*, 138–69. Cambridge University Press. [https://doi.org/10.1017/CBO9780511733246.007](https://doi.org/10.1017/CBO9780511733246.007)
 
