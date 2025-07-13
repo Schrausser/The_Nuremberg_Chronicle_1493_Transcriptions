@@ -47,7 +47,7 @@ quotidie in varijs locis datur.
 [^5]: or "E[odem]", "[Oboli quinque]", (s. Martin, [1910](https://archive.org/details/recordinterprete00martuoft), p. 43; Cappelli, [1928](https://archive.org/details/LexiconAbbreviaturarum), p. 113).  
 
 
-# References
+## References
 
 Baron, C. A. (2012). The Missing Link? Pythagoras and Pythagoreans in Timaeus. In *Timaeus of Tauromenium and Hellenistic Historiography*, 138–69. Cambridge University Press. [https://doi.org/10.1017/CBO9780511733246.007](https://doi.org/10.1017/CBO9780511733246.007)
 
