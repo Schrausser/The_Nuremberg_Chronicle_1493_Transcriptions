@@ -4,7 +4,7 @@
 
 >### Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus 
 
->### Ein kurtze bescherybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+>### Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
 
 >### A Brief Description of the Work of Six Days from the Creation of the World - The Preface
 
