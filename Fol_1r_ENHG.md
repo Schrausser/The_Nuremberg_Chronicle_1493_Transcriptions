@@ -1,5 +1,5 @@
 # Fo. .1.r
-## Ein kurtze bescherybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+## Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
 
 **D**Ieweill bey den allergelertiste[n] vnd fürnamste[n] manne[n] die die ware[n] natur vnd geschicht beschriben habe[n] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist. 
 
