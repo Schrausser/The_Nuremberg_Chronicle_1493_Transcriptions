@@ -31,7 +31,7 @@ Factu[m]q[ue] est vespere [et] mane dies vnus.*
 Moyses miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretus apte co[n]uienie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.  
 Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.  
 Mu[n]di fabrica[m] a luce rectissime inchoauit.  
-Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formara sunt) circuito suo diem naturale[m] p[er]egit.  
+Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formata sunt) circuito suo diem naturale[m] p[er]egit.  
 
 
 >*Es werd das liecht. vnd das liecht ist worde[n]. vn[d] got sahe das liecht das es gůt wer. vn[d] teylet das liecht vo[n] de[n] finsternussen. vn[d] ne[n]net das liecht den tag vn[d] die finsternus die nacht. vn[d] abent vn[d] früe ist worde[n] ein tag.* moyses hat ein wunderperlich kunstwerck vo[n] götlicher vnd nit menschlicher emßikeit den heimlichkeiten d[er] ga[n]tze[n] natur schickerlich gezimme[r]de gezaigt in seine[m] buch. das alle lere vn[d] außprechlichkeit vn[d] sinnreichikeit ubertrifft. dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n]. vn[d] die selben an dreye[n] tage[n] bis an den vierden (dar an die großen liecht geformt sind) in ire[n] umkreis eine[n] naturlichen tag volbracht. 
