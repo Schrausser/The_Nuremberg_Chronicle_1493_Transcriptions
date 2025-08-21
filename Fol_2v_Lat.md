@@ -16,7 +16,7 @@ Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]i
 
 Mu[n]di fabrica[m] a luce rectissime inchoauit.
 
-Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formara sunt) circuito suo diem naturale[m] p[er]egit.
+Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formata sunt) circuito suo diem naturale[m] p[er]egit.
 
 Extatq[ue] nobilissimu[m] corpo[rum] sp[irit]uali creature finitimum atq[ue] optimu[m]. sua[m] pulcritudinem maxi[m]e co[mun]icans.
 
