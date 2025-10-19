@@ -4,7 +4,7 @@
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, [2002](http://www.jstor.org/stable/1262133), p. 1422).
 >
-Annotated transcriptions from the *Nuremberg Chronicle*, fol. Ir to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat`-`Fol_7r_Lat` (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), *Early New High German*, ENHG, `Fol_1r_ENHG`-`Fol_7r_ENHG` (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) in comparison, `Fol_1r_cmp`-`Fol_7r_cmp`.  
+Annotated transcriptions from the *Nuremberg Chronicle*, fol. Ir to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat`-`Fol_7r_Lat` (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), *Early New High German*, ENHG, `Fol_1r_ENHG`-`Fol_7r_ENHG` (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) in comparison, `Fol_1r_cmp`-`Fol_7r_cmp`.  
 Where the division of the paragraphs *P* in the comparative presentations is based on the ENHG version.
 
 Table 1. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
@@ -40,11 +40,11 @@ On the interpretation of Latin abbreviations see e.g. Martin ([1910](https://arc
 
 ## References
 
-Bernstein, E. (2002). Review. *Renaissance Quarterly 55* (4): 1422–24. [http://www.jstor.org/stable/1262133](http://www.jstor.org/stable/1262133)
+Bernstein, E. (2002). Review. *Renaissance Quarterly, 55*(4), 1422–24. [http://www.jstor.org/stable/1262133](http://www.jstor.org/stable/1262133)
 
 Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Cushing Duniway, D. (1941). A Study of the Nuremberg Chronicle. *The Papers of the Bibliographical Society of America 35* (1): 17–34. [http://www.jstor.org/stable/24296510](http://www.jstor.org/stable/24296510)
+Cushing Duniway, D. (1941). A Study of the Nuremberg Chronicle. *The Papers of the Bibliographical Society of America, 35*(1), 17–34. [http://www.jstor.org/stable/24296510](http://www.jstor.org/stable/24296510)
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
