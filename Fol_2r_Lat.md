@@ -83,16 +83,15 @@ Aristoteles, & Clichtoveus, J. (1510). *Commentariorum metaphysice introductio i
 
 Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libri XIIII. Theophrasti Metaphysicorum liber: quorum omnium recognitionem et additamentum versa pagina ostendit*. Genevae: apud Jacobum Stoer. [https://doi.org/10.3931/e-rara-56887](https://doi.org/10.3931/e-rara-56887)
 
-Bagster, S. (publ.). (1870). *The Septuagint Version of the Old Testament, with an English Translation; and with Various Readings and Critical Notes*. London: Samuel Bagster; Sons.
-[https://books.google.com/books?id=wMUUAAAAQAAJ](https://books.google.com/books?id=wMUUAAAAQAAJ)
+Bagster, S. (publ.). (1870). *The Septuagint Version of the Old Testament, with an English Translation; and with Various Readings and Critical Notes*. London: Samuel Bagster; Sons. [https://books.google.com/books?id=wMUUAAAAQAAJ](https://books.google.com/books?id=wMUUAAAAQAAJ)
 
-Baker, R. G. (2010). Review of the Five Books of Moses: A Translation with Commentary, by R. Alter. *Brigham Young University Studies 49* (1): 180–83. [http://www.jstor.org/stable/43044772](http://www.jstor.org/stable/43044772)
+Baker, R. G. (2010). Review of the Five Books of Moses: A Translation with Commentary, by R. Alter. *Brigham Young University Studies, 49*(1), 180–83. [http://www.jstor.org/stable/43044772](http://www.jstor.org/stable/43044772)
 
-Barnes, W. R. (1981). The Trojan War in Valerius Flaccus’ Argonautica. *Hermes 109* (3): 360–70. [http://www.jstor.org/stable/4476220](http://www.jstor.org/stable/4476220)
+Barnes, W. R. (1981). The Trojan War in Valerius Flaccus’ Argonautica. *Hermes, 109*(3), 360–70. [http://www.jstor.org/stable/4476220](http://www.jstor.org/stable/4476220)
 
-Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen, 64*(2/3), 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
 
-Boas, G. (1948). Fact and Legend in the Biography of Plato. *The Philosophical Review 57* (5): 439–57. [http://www.jstor.org/stable/2181715](http://www.jstor.org/stable/2181715)
+Boas, G. (1948). Fact and Legend in the Biography of Plato. *The Philosophical Review, 57*(5), 439–57. [http://www.jstor.org/stable/2181715](http://www.jstor.org/stable/2181715)
 
 Böckh, A. (1852). *Untersuchungen Über Das Kosmische System Des Platon: Mit Bezug Auf Hrn. Gruppe’s Kosmische Systeme Der Griechen ; Sendschreiben an Alexander von Humboldt*. Berlin: Verlag von Veit & Comp. [https://doi.org/10.3931/e-rara-90691](https://doi.org/10.3931/e-rara-90691)
 
@@ -104,14 +103,13 @@ Bruni, L. (1472). *Epistolae*. Paris: Ulrich Gering, Martin Crantz und Michael F
 
 Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
-Carter, J. W. (2019). Introduction to Hylomorphic Psychology. In *Aristotle on Earlier Greek Psychology: The Science of Soul*, 1–18. Cambridge: Cambridge University Press.
-[https://doi.org/10.1017/9781108646321.001](https://doi.org/10.1017/9781108646321.001)
+Carter, J. W. (2019). Introduction to Hylomorphic Psychology. In *Aristotle on Earlier Greek Psychology: The Science of Soul*, 1–18. Cambridge: Cambridge University Press. [https://doi.org/10.1017/9781108646321.001](https://doi.org/10.1017/9781108646321.001)
 
-Cobet, J. (2009). Orosius’ Weltgeschichte: Tradition Und Konstruktion. *Hermes 137* (1): 60–92. [http://www.jstor.org/stable/40379081](http://www.jstor.org/stable/40379081)
+Cobet, J. (2009). Orosius’ Weltgeschichte: Tradition Und Konstruktion. *Hermes, 137*(1), 60–92. [http://www.jstor.org/stable/40379081](http://www.jstor.org/stable/40379081)
 
 De Columnis, G., & Mair, H. (1510). *Ein Hübsche Histori von Der Künigclichen Stat Troy Wie Si Zerstorett Wart*. Strassburg: s.n. [https://doi.org/10.3931/e-rara-79840](https://doi.org/10.3931/e-rara-79840)
 
-De Witt, N. W. (1932). Notes on the History of Epicureanism. Transactions and Proceedings of the American Philological Association 63: 166–76. [http://www.jstor.org/stable/283212](http://www.jstor.org/stable/283212)
+De Witt, N. W. (1932). Notes on the History of Epicureanism. Transactions and Proceedings of the American Philological Association, 63, 166–76. [http://www.jstor.org/stable/283212](http://www.jstor.org/stable/283212)
 
 ———. (1954). Epicurus and His Philosophy. Minnesota: University Press. [http://www.jstor.org/stable/10.5749/j.cttts81p](http://www.jstor.org/stable/10.5749/j.cttts81p)
 
@@ -121,13 +119,13 @@ Ficinus, M. (1517). *Platonis Opera*. Venetiis. [https://doi.org/10.3931/e-rara-
 
 Ficinus, M., & Grynäus, S. (1546). *Omnia Divini Platonis Opera*. Basileae: In officina Frobeniana. [https://doi.org/10.3931/e-rara-5114](https://doi.org/10.3931/e-rara-5114)
 
-Finley, M. I., Caskey, J. L., Kirk, G. S., & Page, D. L. (1964). The Trojan War. *The Journal of Hellenic Studies 84*: 1–20. [https://doi.org/10.2307/627688](https://doi.org/10.2307/627688)
+Finley, M. I., Caskey, J. L., Kirk, G. S., & Page, D. L. (1964). The Trojan War. *The Journal of Hellenic Studies, 84*, 1–20. [https://doi.org/10.2307/627688](https://doi.org/10.2307/627688)
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Haight, E. H. (1947). The Tale of Troy: An Early Romantic Approach. *The Classical Journal 42* (5): 261–69. [http://www.jstor.org/stable/3292066](http://www.jstor.org/stable/3292066)
+Haight, E. H. (1947). The Tale of Troy: An Early Romantic Approach. *The Classical Journal, 42*(5), 261–69. [http://www.jstor.org/stable/3292066](http://www.jstor.org/stable/3292066)
 
-Inwood, B. (1981). The Origin of Epicurus’ Concept of Void. *Classical Philology 76* (4): 273–85. [http://www.jstor.org/stable/270296](http://www.jstor.org/stable/270296)
+Inwood, B. (1981). The Origin of Epicurus’ Concept of Void. *Classical Philology, 76*(4), 273–85. [http://www.jstor.org/stable/270296](http://www.jstor.org/stable/270296)
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
@@ -135,9 +133,9 @@ Jowett, B. (1888). *The Republic of Plato*. 3rd ed. Oxford: At the Clarendon Pre
 
 Koslicki, K. (2008). *The Structure of Objects*. New York: Oxford University Press. [https://philpapers.org/rec/KOSTSO-2](https://philpapers.org/rec/KOSTSO-2)
 
-Leuchter, M. (2019). Moses Between the Pentateuch and the Book of the Twelve. *Hebrew Union College Annual 90*: 163–84. [https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163](https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163)
+Leuchter, M. (2019). Moses Between the Pentateuch and the Book of the Twelve. *Hebrew Union College Annual, 90*, 163–84. [https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163](https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163)
 
-Manning, G. (2013). The History of "Hylomorphism". *Journal of the History of Ideas 74* (2): 173–87. [http://www.jstor.org/stable/43291297](http://www.jstor.org/stable/43291297)
+Manning, G. (2013). The History of "Hylomorphism". *Journal of the History of Ideas, 74*(2), 173–87. [http://www.jstor.org/stable/43291297](http://www.jstor.org/stable/43291297)
 
 McPherran, M. L., & Fraser, S., ed. (2011). *Plato’s ’Republic’: A Critical Guide*. Cambridge: University Press. [https://doi.org/10.1017/CBO9780511763090](https://doi.org/10.1017/CBO9780511763090)
 
@@ -149,13 +147,13 @@ Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia
 
 Ovidius, N. P. (1515). *P. Ovidii Metamorphoseon Libri XV: ; in Fronte Denique Operis Vita Ovidii Ex Ipsius Operibus [Ab Aldo m.] : Index Fabularum, Et Caeterorum, Quae in Hoc Libro Continentur, Secundum Ordinem Alphabeti*. Argentorati: ex aedibus Matthiae Schurerii. [https://doi.org/10.3931/e-rara-35248](https://doi.org/10.3931/e-rara-35248)
 
-Raaflaub, K. A. (1998). Homer, the Trojan War, and History. *The Classical World 91* (5): 386–403. [http://www.jstor.org/stable/4352106](http://www.jstor.org/stable/4352106)
+Raaflaub, K. A. (1998). Homer, the Trojan War, and History. *The Classical World, 91*(5), 386–403. [http://www.jstor.org/stable/4352106](http://www.jstor.org/stable/4352106)
 
-Semple, W. H. (1965). St Jerome as a Biblical Translator. Edited by Hall, R. *Bulletin of the John Rylands Library, Manchester 48* (1): 227–43. [https://jstor.org/stable/community.28211847](https://jstor.org/stable/community.28211847)
+Semple, W. H. (1965). St Jerome as a Biblical Translator. Edited by Hall, R. *Bulletin of the John Rylands Library, Manchester, 48*(1), 227–43. [https://jstor.org/stable/community.28211847](https://jstor.org/stable/community.28211847)
 
 Simpson, W. (2023). *Hylomorphism*. Elements in the Philosophy of Biology. Cambridge: Cambridge University Press. [https://doi.org/10.1017/9781009026475](https://doi.org/10.1017/9781009026475)
 
-Skrzypek, J. (2017). Three Concerns for Structural Hylomorphism. *Analytic Philosophy 58* (4): 360–408. [https://doi.org/10.1111/phib.12104](https://doi.org/10.1111/phib.12104)
+Skrzypek, J. (2017). Three Concerns for Structural Hylomorphism. *Analytic Philosophy, 58*(4), 360–408. [https://doi.org/10.1111/phib.12104](https://doi.org/10.1111/phib.12104)
 
 Sparks, H. F. D. (1970). Jerome as Biblical Scholar. In *The Cambridge History of the Bible*, edited by Ackroyd, P. R., & Evans, C. F., 1:510–41. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CHOL9780521074186.017](https://doi.org/10.1017/CHOL9780521074186.017)
 
@@ -163,10 +161,10 @@ Steiner, G. (1951). Source-Editions of Ovid’s Metamorphoses (1471-1500). *Tran
 
 Trapezuntio, G. (1453). *Platonis Legum libri XII atque Epinomis Latino sermone a Georgio Trapezuntio translata*. Vat.lat. 2062 ed. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.2062](https://digi.vatlib.it/view/MSS_Vat.lat.2062)
 
-Walker, I. (1982). The Problem of Evil and the Activity of God. *New Blackfriars 63* (739): 25–31. [http://www.jstor.org/stable/43247256](http://www.jstor.org/stable/43247256)
+Walker, I. (1982). The Problem of Evil and the Activity of God. *New Blackfriars, 63*(739), 25–31. [http://www.jstor.org/stable/43247256](http://www.jstor.org/stable/43247256)
 
-Wasserstein, A. (1978). Epicurean Science. *Hermes 106* (3): 484–94. [http://www.jstor.org/stable/4476074](http://www.jstor.org/stable/4476074)
+Wasserstein, A. (1978). Epicurean Science. *Hermes, 106*(3), 484–94. [http://www.jstor.org/stable/4476074](http://www.jstor.org/stable/4476074)
 
-Weisheipl, J. A. (1979). Albertus Magnus and Universal Hylomorphism: Avicebron a Note on Thirteenth-Century Augustinianism. *The Southwestern Journal of Philosophy 10* (3): 239–60. [http://www.jstor.org/stable/43155504](http://www.jstor.org/stable/43155504)
+Weisheipl, J. A. (1979). Albertus Magnus and Universal Hylomorphism: Avicebron a Note on Thirteenth-Century Augustinianism. *The Southwestern Journal of Philosophy, 10*(3), 239–60. [http://www.jstor.org/stable/43155504](http://www.jstor.org/stable/43155504)
 
-Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699) 
+Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699)

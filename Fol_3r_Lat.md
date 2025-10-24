@@ -58,9 +58,9 @@ Beda. (1125). *Beda, de Natura Rerum, de Temporibus, Etc*. Latin 16361. Paris: B
 
 ———. (1529). *Bedae Presbyteri Anglosaxonis Viri Ervditissimi de Natvra Rervm Et Temporvm Ratione Libri Dvo*. Edited by Sichard J. Basileae: Excvdebat Henricvs Petrvs Mense Martio, An: M. D. XXIX. [https://doi.org/10.3931/e-rara-63790](https://doi.org/10.3931/e-rara-63790)
 
-Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen, 64*(2/3), 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
 
-Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. [http://www.jstor.org/stable/3259859](http://www.jstor.org/stable/3259859)
+Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature, 58*(2), 163–75. [http://www.jstor.org/stable/3259859](http://www.jstor.org/stable/3259859)
 
 Cappelli, A. (1928). *Lexicon Abbreviaturarum: Wörterbuch lateinischer und italienscher Abkürzungen*. 2nd ed. Leipzig: Verlagsbuchhandlung von J. J. Weber. [https://archive.org/details/LexiconAbbreviaturarum](https://archive.org/details/LexiconAbbreviaturarum)
 
@@ -68,7 +68,7 @@ Darby, P., & MacCarron, M. (2023). *Bede the Scholar*. Manchester, England: Manc
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes 40*: 290–92. [http://www.jstor.org/stable/751003](http://www.jstor.org/stable/751003)
+Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes, 40*, 290–92. [http://www.jstor.org/stable/751003](http://www.jstor.org/stable/751003)
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
@@ -78,8 +78,8 @@ Levy, T. (2008). Abraham Bar Ḥiyya (Savasorda). In *Encyclopaedia of the Histo
 
 Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft](https://archive.org/details/recordinterprete00martuoft)
 
-Pothecary, S. (1999). Strabo the Geographer: His Name and Its Meaning. *Mnemosyne 52* (6): 691–704. [http://www.jstor.org/stable/4433046](http://www.jstor.org/stable/4433046)
+Pothecary, S. (1999). Strabo the Geographer: His Name and Its Meaning. *Mnemosyne, 52*(6), 691–704. [http://www.jstor.org/stable/4433046](http://www.jstor.org/stable/4433046)
 
-Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research 38* (2): 200–208. [https://doi.org/10.1016/j.asr.2005.03.158](https://doi.org/10.1016/j.asr.2005.03.158)
+Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research, 38*(2), 200–8. [https://doi.org/10.1016/j.asr.2005.03.158](https://doi.org/10.1016/j.asr.2005.03.158)
 
 Strabo. (1469). *Geographia, libri XVI*. Roma: Conradus Sweynheym und Arnoldus Pannartz. [https://doi.org/10.3931/e-rara-87965](https://doi.org/10.3931/e-rara-87965)

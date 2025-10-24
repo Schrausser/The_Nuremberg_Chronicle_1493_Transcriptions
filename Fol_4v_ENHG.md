@@ -29,4 +29,4 @@ Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficin, M.
 
 Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
 
-Watson, J. (1928). The Philosophy of Plotinus. *The Philosophical Review 37* (5): 482–500. [http://www.jstor.org/stable/2179841](http://www.jstor.org/stable/2179841)
+Watson, J. (1928). The Philosophy of Plotinus. *The Philosophical Review, 37*(5), 482–500. [http://www.jstor.org/stable/2179841](http://www.jstor.org/stable/2179841)

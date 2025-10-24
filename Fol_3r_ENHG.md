@@ -26,14 +26,14 @@ So sind ettliche under der mitteln fürscheinenden stat des lufts. als bey uns. 
 
 ## References
 
-Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen 64* (2/3): 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
+Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen, 64*(2/3), 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
 
-Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature 58* (2): 163–75. [http://www.jstor.org/stable/3259859](http://www.jstor.org/stable/3259859)
+Berry, G. R. (1939). The Composition of the Book of Ezekiel. *Journal of Biblical Literature, 58*(2), 163–75. [http://www.jstor.org/stable/3259859](http://www.jstor.org/stable/3259859)
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
-Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes 40*: 290–92. [http://www.jstor.org/stable/751003](http://www.jstor.org/stable/751003)
+Idel, M. (1977). The Throne and the Seven-Branched Candlestick: Pico Della Mirandola’s Hebrew Source. *Journal of the Warburg and Courtauld Institutes, 40*, 290–92. [http://www.jstor.org/stable/751003](http://www.jstor.org/stable/751003)
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
-Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research 38* (2): 200–208. [https://doi.org/10.1016/j.asr.2005.03.158](https://doi.org/10.1016/j.asr.2005.03.158)
+Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research, 38*(2), 200–8. [https://doi.org/10.1016/j.asr.2005.03.158](https://doi.org/10.1016/j.asr.2005.03.158)
