@@ -7,21 +7,21 @@
 Annotated transcriptions from the *Nuremberg Chronicle*, fol. Ir to  VIIr (Tab. 1), in *Latin*,  `Fol_1r_Lat`-`Fol_7r_Lat` (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), *Early New High German*, ENHG, `Fol_1r_ENHG`-`Fol_7r_ENHG` (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) in comparison, `Fol_1r_cmp`-`Fol_7r_cmp`.  
 Where the division of the paragraphs *P* in the comparative presentations is based on the ENHG version.
 
-Table 1. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
+**Table 1**. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
 ~~~
-page			content
+page					contents
 
-Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
-Folium   II	recto	
-		verso	De opere prime diei.
+Foliu[m] I		recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
+Folium   II		recto	
+				verso	De opere prime diei.
 Foliu[m] III	recto	De opere secunde diei.
-		verso	De opere tercie diei.
+				verso	De opere tercie diei.
 Foliu[m] IIII	recto	De opere quarte diei.
-		verso	De opere quinte diei.
-Foliu[m] V	recto	De opere sexte diei.
-		verso	De sanctificatione septime diei
-Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
-		verso	Prima etas mundi
+				verso	De opere quinte diei.
+Foliu[m] V		recto	De opere sexte diei.
+				verso	De sanctificatione septime diei
+Foliu[m] VI		recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+				verso	Prima etas mundi
 Folium   VII	recto	Etas prima mundi
 ~~~
 
