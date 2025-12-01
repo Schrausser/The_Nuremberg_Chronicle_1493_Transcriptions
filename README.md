@@ -29,7 +29,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 
 >„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, [1941]([http://www.jstor.org/stable/24296510), p. 17).
 
-Figure 1. Animated illustrations from the *Nuremberg Chronicle*, fol. Ir to VIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
+**Figure 1**. Animated illustrations from the *Nuremberg Chronicle*, fol. Ir to VIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
 
 ![figure.\label{mov1}](mov1.gif)
 
