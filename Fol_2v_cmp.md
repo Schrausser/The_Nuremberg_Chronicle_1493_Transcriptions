@@ -74,7 +74,7 @@ In tenebris aute[m] mors [et] interit[us] [con]tinet[ur].
 ## P 5
 
 >Deinde alteras p[ar]tes eade[m] r[ati]one dime[n]sus e[st]: meridie[m] ac septe[m]trione[m] q[uae] p[ar]tes illis duab[us] societate iungu[n]t[ur].  
-Ea e[n]i[m] q[uae] e[st] sol[um][^4] calore flagra[n]tior p[ro]xi[m]a e[st]: [et] coheret orie[n]ti.  
+Ea e[n]i[m] q[uae] e[st] sol[um] calore flagra[n]tior p[ro]xi[m]a e[st]: [et] coheret orie[n]ti.  
 At illa q[uae] frigoribus [et] p[er]petuo gelutorpet eiusdem e[st] cui[us] extrem[us] occasus.  
 Na[m] sic[ut] [con][ua]rie sunt lumini tenebre: ita frig[us] calori.  
 Ut igit[ur] calor lumini e[st] p[ro]ximus: sic meridies orie[n]ti: vt frig[us] tenebris. ita plaga septe[m]trionis occasui.  
