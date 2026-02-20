@@ -200,9 +200,9 @@ Gregg, J. A. F. (1909). *The Wisdom of Solomon*. Cambridge: at the University Pr
 
 Guinagh, K. (1946). Saint Augustine and Evolution. *The Classical Weekly, 40*(4), 26–31. [http://www.jstor.org/stable/4342262](http://www.jstor.org/stable/4342262)
 
-Harvey, S. A. (1988). The Sense of a Stylite: Perspectives on Simeon the Elder. *Vigiliae Christianae, 42*(4), 376–94. [http://www.jstor.org/stable/1584285](http://www.jstor.org/stable/1584285)
-
 Haring, N. M. (1958). THE LECTURES OF THIERRY OF CHARTRES ON BOETHIUS’ DE TRINITATE. *Archives d’histoire Doctrinale Et Littéraire Du Moyen Âge, 25*, 113–226. [http://www.jstor.org/stable/44403089](http://www.jstor.org/stable/44403089)
+
+Harvey, S. A. (1988). The Sense of a Stylite: Perspectives on Simeon the Elder. *Vigiliae Christianae, 42*(4), 376–94. [http://www.jstor.org/stable/1584285](http://www.jstor.org/stable/1584285)
 
 Hatlie, P. (2012). Symeon the Stylite the Elder. In *The Encyclopedia of Ancient History*. John Wiley & Sons, Ltd. [https://doi.org/10.1002/9781444338386.wbeah03231](https://doi.org/10.1002/9781444338386.wbeah03231)
 
