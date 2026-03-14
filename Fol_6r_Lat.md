@@ -153,15 +153,13 @@ Sexta e[st] decrepita etas ab a[n]no .80. vsq[ue] dum vita finit[ur].
 
 [^1]: c.f. Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), lib. II), De Beauvais ([1494](https://books.google.com/books?id=v9yKk_tdhusC), fol. i84v - i85r), Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), also Kircher ([1650](https://doi.org/10.3931/e-rara-26092)), Detlefsen ([1900](http://www.jstor.org/stable/4472753)), Gudger ([1924](http://www.jstor.org/stable/224311)), Torrellas ([1999](http://www.jstor.org/stable/40694499)), Mathiesen ([2002](https://doi.org/10.1017/CHOL9780521623711)), further Isgro ([1979](http://www.jstor.org/stable/40351750), p. 23), Knobloch ([1994](http://www.jstor.org/stable/20777445)).  
 [^2]: Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)), Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).  
-[^3]: De Billy ([1609](https://books.google.com/books?id=FMtQAAAAcAAJ)), c.f. Ullman ([1851](https://archive.org/details/gregoryofnazian00ullm)), Alfeyev ([2003](https://doi.org/10.1007/978-94-017-0393-2_11)).  
+[^3]: Étaix ([1999](https://books.google.com/books?id=r4ERnwEACAAJ)), c.f. Petersen ([1987](http://www.jstor.org/stable/2846381)) and Hoel ([2020](https://doi.org/10.1177/0012580620910973)).  
 [^4]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
 [^5]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
 [^6]: c.f. Ramsdell ([1894](http://www.jstor.org/stable/3135427)).
 
 
 ## References
-
-Alfeyev, H. H. (2003). The Trinitarian Teaching of St. Gregory Nazianzen. In *The Trinity: East/West Dialogue*, edited by Stewart, M. Y., 107–30. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-017-0393-2_11](https://doi.org/10.1007/978-94-017-0393-2_11)
 
 Bagster, S. (publ.). (1870). *The Septuagint Version of the Old Testament, with an English Translation; and with Various Readings and Critical Notes*. London: Samuel Bagster; Sons.
 [https://books.google.com/books?id=wMUUAAAAQAAJ](https://books.google.com/books?id=wMUUAAAAQAAJ)
@@ -175,17 +173,19 @@ Corderius, B. (1644). *Sancti Dionysii Areopagitae Operum Omnium Quae Extant, Et
 
 De Beauvais, V. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC](https://books.google.com/books?id=v9yKk_tdhusC)
 
-De Billy, J. (1609). *Sancti Gregorii Nazianzeni, Cognomento theologi, opera*. Lutetiae Parisorum: Typis regiis, apud Claudium Morellum. [https://books.google.com/books?id=FMtQAAAAcAAJ](https://books.google.com/books?id=FMtQAAAAcAAJ)
-
 De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
 
 Detlefsen, D. (1900). Die Werthangaben in Der Naturalis Historia Des Plinius. *Hermes, 35*(3), 585–601. [http://www.jstor.org/stable/4472753](http://www.jstor.org/stable/4472753)
 
 Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
 
+Étaix, R. (1999). *Gregorius Magnus, Homiliae in Evangelia*. Corpus Christianorum Series Latina. Vol. 141. Turnhout: Brepols. [https://books.google.com/books?id=r4ERnwEACAAJ](https://books.google.com/books?id=r4ERnwEACAAJ)
+
 Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. [https://doi.org/10.3931/e-rara-9747](https://doi.org/10.3931/e-rara-9747)
 
 Gudger, E. W. (1924). Pliny’s Historia Naturalis. The Most Popular Natural History Ever Published. *Isis, 6*(3), 269–81. [http://www.jstor.org/stable/224311](http://www.jstor.org/stable/224311)
+
+Hoel, N. O. (2020). Hues of Martyrdom: Monastic and Lay Asceticism in Two Homilies of Gregory the Great on the Gospels. *The Downside Review, 138*(1), 3–18. [https://doi.org/10.1177/0012580620910973](https://doi.org/10.1177/0012580620910973)
 
 Isgro, R. M. (1979). Sixteenth-Century Conception of Harmony. *College Music Symposium, 19*(1), 7–52. [http://www.jstor.org/stable/40351750](http://www.jstor.org/stable/40351750)
 
@@ -197,6 +197,8 @@ Mathiesen, T. (2002). Greek Music Theory. In *The Cambridge History of Western M
 
 Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia Amiatina*. Kingdom of Northumbria, England: publisher not identified. [https://www.loc.gov/item/2021668243](https://www.loc.gov/item/2021668243)
 
+Petersen, J. M. (1987). "Homo Omnino Latinus"? The Theological and Cultural Background of Pope Gregory the Great. *Speculum, 62*(3), 529–51. [http://www.jstor.org/stable/2846381](http://www.jstor.org/stable/2846381)
+
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
 ———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
@@ -206,5 +208,3 @@ Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, M
 Ramsdell, T. J. (1894). The Kingdom of Heaven in the Gospel of Matthew. *The Biblical World, 4*(2), 124–33. [http://www.jstor.org/stable/3135427](http://www.jstor.org/stable/3135427)
 
 Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana, 31*(1), 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
-
-Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. [https://archive.org/details/gregoryofnazian00ullm](https://archive.org/details/gregoryofnazian00ullm)
