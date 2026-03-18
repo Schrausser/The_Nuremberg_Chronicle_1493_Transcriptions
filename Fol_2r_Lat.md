@@ -13,9 +13,9 @@ In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petuam.
 
 Et [con][tumacia][^4] in terra tenebras [et] inferos [et] morte[m].
 
-Moyses v[erb]o[^5] cu[m] deu[m] creasse [con]memorat tres errores **Platonis**[^6] .s[cilicet]. **Arestotilis**[^7] [et] **epicuri**[^8] elidit. 
+***Moyses*** v[erb]o[^5] cu[m] deu[m] creasse [con]memorat tres errores ***Platonis***[^6] .s[cilicet]. **Arestotilis**[^7] [et] **epicuri**[^8] elidit. 
 
-Plato e[ni]m ab eterno deu[m] ydeas ylen[^9]. 
+***Plato*** e[ni]m ab eterno deu[m] ydeas ylen[^9]. 
 
 Et in p[ri]ncipio de yle mu[n]du[m] fuisse factu[m] testa[tur]. ylen greci p[ri]ma[m] materia[m] re[rum] no[n] formatam appella[n]t. 
 
@@ -35,7 +35,7 @@ In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] perma[n]sit.
 
 Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us].
 
-Terra erat i[n]anis (vt tra[n]stulit diu[us] **Hiero**[^11]. v[el][^12] vt **septinge[n]ta**[^13]) inuisibil[e] [et] i[n]co[m]posita: 
+Terra erat i[n]anis (vt tra[n]stulit diu[us] ***Hiero***[^11]. v[el][^12] vt **septinge[n]ta**[^13]) inuisibil[e] [et] i[n]co[m]posita: 
 
 Qua[m] p[ro] sui [con]fusio[n]e abyssum vocat: qua[m] [et] greci chaos dicu[n]t. 
 
@@ -55,7 +55,7 @@ In primo creatione[m].
 
 In secundo [et] tercio dispositione[m].
 
-In reliquis ornatum Moyses per opera sex die[rum] ostendit.
+In reliquis ornatum ***Moyses*** per opera sex die[rum] ostendit.
 
 [^1]: Genesis 1:1-2, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. ar), also c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2r).  
 [^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Baker ([2010](http://www.jstor.org/stable/43044772)), Edelman et al. ([2012](https://www.cambridge.org/core/books/opening-the-books-of-moses/D36FA234EB9EF169006A975102EE1220)) or Leuchter ([2019](https://www.jstor.org/stable/10.15650/hebruniocollannu.90.2019.0163)).  

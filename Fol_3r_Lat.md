@@ -21,11 +21,11 @@ Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superi
 
 Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant inerrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.
 
-Neque hoc tantum creditum a nostris: maxime iunioribus **Strabo**[^3] [et] **Beda**[^4]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam: 
+Neque hoc tantum creditum a nostris: maxime iunioribus ***Strabo***[^3] [et] ***Beda***[^4]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam: 
 
-E[st][^5] quibus satis duos sit attulisse: **Abraam hispanum**[^6] astrologum maximu[m] [et] **ysaac philosophu[m]**[^7]: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele**[^8] designatum intelligit per zaphiru[m] in similitudine[m] throni: vt color zaphiri lucis nitorem: throni similitudo immobilitatem significet.
+E[st][^5] quibus satis duos sit attulisse: ***Abraam hispanum***[^6] astrologum maximu[m] [et] ***ysaac philosophu[m]***[^7]: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele**[^8] designatum intelligit per zaphiru[m] in similitudine[m] throni: vt color zaphiri lucis nitorem: throni similitudo immobilitatem significet.
 
-Sed redeamus ad Moysem diuidentem aqua[m] ab aquis medio firmame[n]to.
+Sed redeamus ad ***Moysem*** diuidentem aqua[m] ab aquis medio firmame[n]to.
 
 Triplex e[ni]m partitio corpo[rum] sublunariu[m].
 

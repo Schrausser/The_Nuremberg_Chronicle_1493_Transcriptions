@@ -2,7 +2,7 @@
 
 ### Prima etas mundi[^1]
 
-**P**Rima etas mundi ab Ada[m] vsq[ue] ad diluuiu[m] habet s[ecundu]m Hebreos a[n]nos i656. s[ecundu]m **septuaginta interp[re]tes**[^2] **Isidorum**[^3] [et] plures alios quorum numerus in etatibus conseque[n]ter ponitur habuit annos .2242.
+**P**Rima etas mundi ab Ada[m] vsq[ue] ad diluuiu[m] habet s[ecundu]m Hebreos a[n]nos i656. s[ecundu]m ***septuaginta interp[re]tes***[^2] ***Isidorum***[^3] [et] plures alios quorum numerus in etatibus conseque[n]ter ponitur habuit annos .2242.
 
 **S**Umma bonitas volens co[m]mu[n]icare suum bonu[m] [et] alijs fecit creaturam rationalem q[ue] summu[m] bonu[m]
 intelligeret: i[n]tellige[n]do amaret: ama[n]do possideret: possidendo beata e[ss]et.

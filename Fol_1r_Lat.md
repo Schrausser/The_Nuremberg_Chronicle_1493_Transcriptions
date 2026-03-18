@@ -49,7 +49,7 @@ Sunt apud nostros **Lucas**[^6] [et] **philon**[^7] autores grauissimi: illu[m] 
 
 Sed [et] **hermippus**[^8] attestat[ur] **Pythagoram**[^9] de mosayca lege plurima in sua[m] philosophia[m] transtulisse.
 
-Notu[m] illud **Numenij philosophi**[^10]: no[n] aliud esse platone[m] q[uonia]m atticu[m] moysem.
+Notu[m] illud **Numenij philosophi**[^10]: no[n] aliud esse **platone[m]** q[uonia]m atticu[m] ***moysem***.
 
 In primordio deniq[ue] sui operis de natura: de totius opificio  mu[n]di velut agri cuiuspiam thesauri: omnis vere philosophie defossi sunt.
 
@@ -64,14 +64,14 @@ Que aut[em] sup[er] hoc libro viri sanctissimi **Ambrosius** [et] **Augustinus**
 
 Et ex iunioribus **Egidius** [et] **Albertus**.[^13]
 
-Que item apud grecos **Philon**. **Origenes**. **Basilius**. **theodoric[us]**. **Appollinarius**. **Dydimus**. **Ge[r]nadius**. **Crisostomus** [et] c[etera]. scripserunt intacta penitus a nobis relinquent[ur].[^14]
+Que item apud grecos ***Philon***. **Origenes**. **Basilius**. **theodoric[us]**. **Appollinarius**. **Dydimus**. **Ge[r]nadius**. **Crisostomus** [et] c[etera]. scripserunt intacta penitus a nobis relinquent[ur].[^14]
 
 De bis item que vel **Jonethes** vel **Anchelos** vel **Symeon antiquus**[^15] chaldaice tradideru[n]t: vel ex hebreis aut veteres **Eleazarus**. **Aba iohannes**. **Neonius**. **Isaac**. **Ioseph**: aut iuniores **Gersonides**. **Sadias**. 
 **Abraam**[^16] [et] c[etera]. [con]scripserunt: nullam nos in p[re]sentia ment[i]onem habebimus. 
 
 Afferemusq[ue] p[er] modum epitomatis.
 
-Ex moyse seriem sex dierum: de diuina mundi fabrica: de qua in archanis sancte religionis literis traditur. 
+Ex ***moyse*** seriem sex dierum: de diuina mundi fabrica: de qua in archanis sancte religionis literis traditur. 
 
 Exorsus igitur deus fabricam mundi illum prima[m] [et] maximum filium prefecit operi immenso.
 
@@ -95,7 +95,7 @@ Est et preter tres quartus alius mundus: in quo [et] ea omnia inuenia[n]tur que 
 
 Tritum in scolis verbum est esse hominem minorem mundum in quo mixtum ex elementis corpus: et celestis sp[irit]us: [et] planta[rum] anima vegetalis: [et] bruto[rum] sensus: et ratio et angelica mens: [et] dei similitudo conspicit[ur].
 
-De his quatuor mundis moyses sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec Moseos imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
+De his quatuor mundis ***moyses*** sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec Moseos imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
 
 Quid tandem mosaica littera de celebratis operibus sex dieru[m] edocet: cursim absoluemus.
 

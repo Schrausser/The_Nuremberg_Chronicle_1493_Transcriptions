@@ -80,7 +80,7 @@ Nw sind scehs alter der werlt.
 
 Das erst vo[n] der beschaffung der werlt bis zu der sintflus. vnd hett nach hebreyscher warheit .i<sup>m</sup>.v<sup>c</sup>. lvi. iar. 
 
-Aber nach sag der **.lxx. ausleger**[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^5] setzt und vil ander den wir hirinn nachfolge[n]
+Aber nach sag der ***.lxx. ausleger***[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^5] setzt und vil ander den wir hirinn nachfolge[n]
 
 Also haben die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi. iar mynder vnd nach diser rechnung ist matusaleh gestorben vor der sintflus in dem iar als dye was.
 

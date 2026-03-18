@@ -37,7 +37,7 @@ Diser ist (als **Lucas**[^5] vnd **Philon**[^6] bey den vnsern[n] fast tapfer le
 
 So spricht **hermippus**[^7] das **Pitagoras**[^8] vil dings in sein philosophey auß de[n] mosayschen gesetz gewendt hab. 
 
-**Numenius philosophus**[^9] sagt. nichts anders platone[n] sein dan[n] de[n] atticischen moysen. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
+**Numenius philosophus**[^9] sagt. nichts anders **platone[n]** sein dan[n] de[n] atticischen ***moysen***. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
 
 Darümb was es bey den alten hebreyschen ein gesetz (des auch **Ieronimus**[^10] gedenckt) das niemant dan der zeitigs alters[cite] wer zu diser beschöpfung d[er] werlt raichen solt. 
 
@@ -45,9 +45,9 @@ Was aber die heiligsten mann **Ambrosius** vnd **Augustinus**.
 
 Item **Strabo** vn[d] **Beda** vn[d] **Remigius**.[^11]
 
-Vnd auß den iungern[n] **Egidius** vn[d] **Albertus**[^12]. vnd auch bey den kriechischen **Philon Origenes Basilius Theodorus Appolinarius Didimus Gernadius Crisostomus** etc.[^13] vber diss buch geschriben haben das wirt von vns ganz vnberüt bleiben.
+Vnd auß den iungern[n] **Egidius** vn[d] **Albertus**[^12]. vnd auch bey den kriechischen ***Philon*** **Origenes Basilius Theodorus Appolinarius Didimus Gernadius Crisostomus** etc.[^13] vber diss buch geschriben haben das wirt von vns ganz vnberüt bleiben.
 
-Auch wöllen wir vo[n] de[n] dinge[n] die **Ionethes** oder **anchelos** oder **Simeo[n] d[er] alt** in Caldeysche[n] gezüng[^14]: oder auß de[n] hebreysche[n] **Eleazadus Aba Ioannes Neonius ysaac Iosephus Gersonides Sadias Abraham** etc.[^15] haben beschriben hie bey keyn meldu[n]g thun sunder in gestalt kurtzer beschreibu[n]g auß de[m] prophete[n] moyse einfüre[n] die ordnu[n]g d[er] sechs tag vo[n] gotlichem geschöpff der werlt. do vo[n] in den verporgen schrifften des heilige[n] glawbe[n]s meldung geschicht.
+Auch wöllen wir vo[n] de[n] dinge[n] die **Ionethes** oder **anchelos** oder **Simeo[n] d[er] alt** in Caldeysche[n] gezüng[^14]: oder auß de[n] hebreysche[n] **Eleazadus Aba Ioannes Neonius ysaac Iosephus Gersonides Sadias Abraham** etc.[^15] haben beschriben hie bey keyn meldu[n]g thun sunder in gestalt kurtzer beschreibu[n]g auß de[m] prophete[n] ***moyse*** einfüre[n] die ordnu[n]g d[er] sechs tag vo[n] gotlichem geschöpff der werlt. do vo[n] in den verporgen schrifften des heilige[n] glawbe[n]s meldung geschicht.
 
 Als nw got das geschöpff der werlt gemacht hett do hot er den ersten vnd grösisten sun fürgesetzt dem vnermesse[n] werck vnd sich des selbe[n] als eins radtgebe[r] vnd werckmeisters in ertrachtu[n]g. zierung vnd machung d[er] ding gepraucht. 
 
@@ -67,7 +67,7 @@ On diese drey ist noch ein vierde werlt in der auch alle die ding die in den and
 
 In der schul ist ein gemains spruchwort das der mensch die kleine werlt sey. dar inn ein auß den elemente[n] vermischter leib vnd himlischer gaist vnd die wachsende sele der pflanze[n]. vn[d] die sinlichkeit d[er] vnuernüftige[n] thier vnd die vernunfft vnd englisch gemüt vn[d] gotes gleichnus gesche[n] wirdt. 
 
-Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt als got die georde[n]t hat in massen im auch (als wir lesen) auff de[n] perg do er das gelernt hat gepotte[n] ward alle ding nach de[m] ebe[n]pild das er auff dem perg sahe zemache[n].
+Vo[n] dise[n] dreye[n] werlte[n] hat ***moyses*** genugsa[m]lich gesagt als got die georde[n]t hat in massen im auch (als wir lesen) auff de[n] perg do er das gelernt hat gepotte[n] ward alle ding nach de[m] ebe[n]pild das er auff dem perg sahe zemache[n].
 
 Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: das wollen wir kürtzlichen erzelen.
 

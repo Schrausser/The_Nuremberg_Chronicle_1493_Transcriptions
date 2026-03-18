@@ -15,10 +15,10 @@ Et quicquid in vlla parte nature nascitur: [et] in mari esse vulgi opinio fert.
 
 Manifesta iam que sequuntur de animalium productione: post plantas enim ea sunt mixta que sentiunt [et] mouentur: quamq[uoniam] [et] in plantis stupidum sensum adscribant pitagorici.
 
-Hec aut[em] animantia que citra omnem controuersiam motu sensuq[ue] participant: [et] hic a Moyse: [et] in **Timeo**[^3]
+Hec aut[em] animantia que citra omnem controuersiam motu sensuq[ue] participant: [et] hic a ***Moyse***: [et] in **Timeo**[^3]
 in volatilia: [et] in aquis dege[n]tia: [et] terrestria distinguu[n]tur.
 
-Ueniamus igitur ad Moysem qui postq[uoniam] de celestibus dixit terrestrium  animaliu[m] meminit ordine co[n]gruenti: que vel aquas vel terram vel aerem inhabitant.
+Ueniamus igitur ad ***Moysem*** qui postq[uoniam] de celestibus dixit terrestrium  animaliu[m] meminit ordine co[n]gruenti: que vel aquas vel terram vel aerem inhabitant.
 
 Si tamen inhabitare aerem volucres dici possunt.
 
@@ -26,7 +26,7 @@ Relinquamus hic disputationem: quo pacto corpora animalium ex elementis: aut qui
 
 Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea creauit deus omne anima[m] viuente[m]: vbi no[n] id du[m]taxat quispia[m] obserueret q[uia] [et] aq[ue] p[ro]duca[n]t deo iubente: [et] deinde etia[m] deus p[ro]ducat: ve[rum] [et] illud q[uo]d vbi de dei op[er]e agit[ur] scriptu[m] est: creauit deus anima[m] viuente[m]. vbi aut[em] de aq[ui]s no[n] a[n]imam. s[ecundum] reptile a[n]i[m]e viuentis q[ua]si aquis vehiculu[m].
 
-Inter animalis terre tria memorat Moyses q[uae] in seq[ue]nti die infinuat.
+Inter animalis terre tria memorat ***Moyses*** q[uae] in seq[ue]nti die infinuat.
 
 Plurima aut[em] [et] maxima in indico mare a[n]i[m]alia.
 
@@ -61,7 +61,7 @@ Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Ar
 
 Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, Latin Words and Names Used in English Historical Manuscripts and Records*. 2nd ed. London: Stevens and sons, limited. [https://archive.org/details/recordinterprete00martuoft](https://archive.org/details/recordinterprete00martuoft)
 
-Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficin, M., Corradi, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
+Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
 
 Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
 

@@ -108,7 +108,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 Qua[rum] prima incipit a mu[n]di creat[i]one [et] durat vsq[ue] ad diluuiu[m]: [et] habuit s[ecundu]m hebraicam veritate[m] annos .i656.
 
-S[e]c[un]d[u]m **septuagi[n]ta interp[re]tes**[^4] (sicut **Isidorus**[^5] exponit) [et] alios q[uonia]m plurimos quos hic seq[ui]mur h[ab]uit annos .2242 [et] sic differu[n]t in a[n]nis .586. quos hebrei minus h[abu]nt in hac etate: et iuxta hanc co[m]putum matusale mortuus est ante diluuiu[m]: eode[m] t[ame]n anno quo diluuium fuit.
+S[e]c[un]d[u]m ***septuagi[n]ta interp[re]tes***[^4] (sicut **Isidorus**[^5] exponit) [et] alios q[uonia]m plurimos quos hic seq[ui]mur h[ab]uit annos .2242 [et] sic differu[n]t in a[n]nis .586. quos hebrei minus h[abu]nt in hac etate: et iuxta hanc co[m]putum matusale mortuus est ante diluuiu[m]: eode[m] t[ame]n anno quo diluuium fuit.
 
 S[e]c[un]da etas incipit a diluuio: et durat vsq[ue] ad natiuitatem abrahe: [et] habuit s[ecundu]m hebreos annos .292. s[ecundu]m septuaginta .942. et sic differu[n]t in annis .650. quos iteru[m] hebrei minus h[abu]nt.
 

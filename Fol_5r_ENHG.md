@@ -6,7 +6,7 @@
 
 Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.
 
-Under de[n] thiern der erde[n] bedenckt Moyses dreier. als iohthier kriechende vnd wildthier. da bey er uns dreyerley unterschied der unvernüftigen thier in gemain zeerkenen gibt. da[n] diss sind wildthier die in volko[m]ner fantasey vn[d] einpildnus wesende die mitteln stat under de[n] unfernüftigen thieren halte[n] vn[d] könne[n] doch vo[n] die mensche[n] nit gezamet noch pe[n]dig gemacht werde[n].
+Under de[n] thiern der erde[n] bedenckt ***Moyses*** dreier. als iohthier kriechende vnd wildthier. da bey er uns dreyerley unterschied der unvernüftigen thier in gemain zeerkenen gibt. da[n] diss sind wildthier die in volko[m]ner fantasey vn[d] einpildnus wesende die mitteln stat under de[n] unfernüftigen thieren halte[n] vn[d] könne[n] doch vo[n] die mensche[n] nit gezamet noch pe[n]dig gemacht werde[n].
 
 So sind kriechende thier die unvulkomene fa[n]tasey vnd einpildnus. als die mitteln zwische[n] de[n] vieh vn[d] pfla[n]tze[n] habe[n].
 

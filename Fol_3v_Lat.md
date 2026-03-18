@@ -17,11 +17,11 @@ Innumera preterea fluuiorum: fontium lacuumq[ue] flue[n]ta longissima locorum in
 
 Sed ideo ad locum vnum congregate aque dicu[n]tur.
 
-Qiua particulares [hoc est][^4] atq[ue] diuise aquarum collectiones vel marine vel fluuiatiles: omnes vt inquit **Salomon**[^5] ad primarium mare tendentes: in vnum occeani locum vniu[n]tur [et] coeunt.
+Qiua particulares [hoc est][^4] atq[ue] diuise aquarum collectiones vel marine vel fluuiatiles: omnes vt inquit ***Salomon***[^5] ad primarium mare tendentes: in vnum occeani locum vniu[n]tur [et] coeunt.
 
 Terra autem cum maris vndis obruitur: nec vtilis nobis: nec vsibilis item est: sed tunc [et] animalium [et] nostris vsibus idonea: cum ab eo secedens mari magis magisq[ue] sub aspectum venit: tu[n]c fertilis: tunc fecunda.
 
-Q[uo]d hic a Moyse apertissime demonstratur.
+Q[uo]d hic a ***Moyse*** apertissime demonstratur.
 
 Cum eam simul atq[ue] apparet: [et] herbarum [et] fruticum et arborum parentem facit.
 

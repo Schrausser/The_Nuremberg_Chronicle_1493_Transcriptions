@@ -10,7 +10,7 @@ Appelauitq[ue] luce[m] die[m].
 Et tenebras nocte[m].
 Factu[m]q[ue] est vespere [et] mane dies vnus*.[^2]
 
-Moyses miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretus apte co[n]uienie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.
+***Moyses*** miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretus apte co[n]uienie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.
 
 Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.
 

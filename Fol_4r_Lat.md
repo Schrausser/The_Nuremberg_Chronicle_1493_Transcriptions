@@ -8,7 +8,7 @@ Et sint in signa [et] t[em]p[er]a: [et] dies: [et] a[n]nos:  vt lucea[n]t in fir
 Et factu[m] e[st] ita.
 Fecitq[ue] deus duos luminaria magna: luminare maius: vt p[re]esset diei: [et] luminare min[us]: vt p[er]esset nocti [et] stellas: vt duiderent luce[m] [et] tenebras*.[^2]
 
-Moyses p[r]imo celestium meminit q[uae] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].
+***Moyses*** p[r]imo celestium meminit q[uae] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].
 
 Cu[m] e[ni]m de natura firmame[n]ti dixerat: restabat vt de op[er]ib[us] sideru[m]: deq[ue] eo[rum] officio dissereret: declara[n]s in que[m] vsum fundata: [et] cui muneri delegata a deo fuerint.
 
@@ -25,7 +25,7 @@ Ille die[m] facit: vnde [et] diurnus d[ividitu]r[^3]: hic autem annu[m].
 
 Reliqui sideru[m] motus varijs tempo[rum] interuallis p[er]aguntur.
 
-Recte igitur [et] breuiter nos o[mn]i[u]m admonuit Moyses cu[m] dixit posita sidera in firmame[n]to in dies annos et temp[or]a.
+Recte igitur [et] breuiter nos o[mn]i[u]m admonuit ***Moyses*** cu[m] dixit posita sidera in firmame[n]to in dies annos et temp[or]a.
 
 Indicauit p[rae]terea expresse reliqua[m] op[er]atione[m] side[rum].
 
@@ -41,7 +41,7 @@ Q[uam]uis[^5] e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n]
 
 Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenda[n]da [et] gignenda omnia excogitauit.
 
-Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis[^6] sibi exposceret diuina[n]di per astra. [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am[^7] hinc [con]firmatib[us] q[uia] Moyses sidera  i[n] signa posita a deo dixerit[ur].
+Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis[^6] sibi exposceret diuina[n]di per astra. [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am[^7] hinc [con]firmatib[us] q[uia] ***Moyses*** sidera  i[n] signa posita a deo dixerit[ur].
 
 Que rendu[m] hic etia[m] de natura sideru[m]: de motu: de p[ri]ncipatu: de lune maculis deq[ue] om[n]i siderali scie[n]tia.
 

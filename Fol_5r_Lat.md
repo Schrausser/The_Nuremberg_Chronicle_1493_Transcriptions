@@ -9,7 +9,7 @@ Et creuit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m]*.[^2]
 
 Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.
 
-Inter a[n]i[m]alia terre tria memorat moyses. iume[n]ta. reptilia. [et] bestias. 
+Inter a[n]i[m]alia terre tria memorat ***moyses***. iume[n]ta. reptilia. [et] bestias. 
 
 In q[ui]b[us] tres d[iue]r[s]ias bruto[rum] irr[ati]onabiliu[m] in co[mmun]e nob[is] insinuat.
 
@@ -43,7 +43,7 @@ Et innu[m]erabiles a[n]i[m]as p[re]creare. q[ui]b[us] i[m]mortalitate[m] daret.
 
 Tum fecit ipse simulac[rum] sens[i]bile at[que] i[n]tellige[n]s. i[d est]. ad imaginis sue forma[m]. q[ua] nihil p[otes]t e[ss]e p[er]fecti[us]: ho[m]i[n]em figurauit ex limo terre: vn[de][^4] ho[mo] nu[n]cupat[us] e[st]. q[uia] sit factus ex humo.
 
-De[us] reru[m] o[mn]i[u]m machinator fecit hominem (q[uo]d **Cicero** [quam]uis(?) expers celestiu[m] l[ite]ra[rum]: vidit t[ame]n) q[ui] libro de legibus p[ri]mo l[ibro] ide[m] tradidit q[uo]d p[ro]ph[et]e Cui[us] verba s[u]biecim[us].[^5]
+De[us] reru[m] o[mn]i[u]m machinator fecit hominem (q[uo]d ***Cicero*** [quam]uis(?) expers celestiu[m] l[ite]ra[rum]: vidit t[ame]n) q[ui] libro de legibus p[ri]mo l[ibro] ide[m] tradidit q[uo]d p[ro]ph[et]e Cui[us] verba s[u]biecim[us].[^5]
 
 *Hoc a[n]i[m]al p[ro]uidu[m]: sagax: m[u]ltiplex: acutu[m]: memor: plenu[m] r[ati]o[n]is [et] [con]silij. que[m] vocam[us] homine[m]: p[re]clara q[ua]da[m] [con]dit[i]o[n]e generatu[m] e[ss]e a summo deo solu[m].  
 Est e[ni]m ex tot a[n]i[m]antiu[m] generib[us] at[que] natur[is]: p[ar]ticeps r[ati]o[n]is [et] cogitat[i]o[n]is. cu[m] cetera sint o[mn]ia exp[er]tia*.

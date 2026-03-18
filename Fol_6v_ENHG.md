@@ -2,7 +2,7 @@
 
 ## Das erst alter.[^1]
 
-**D**as erst alter d[er] werlt von Ada[m] bis zu der sintflus hat nach d[er] hebreyschen schrifft .j<sup>m</sup>.vi<sup>c</sup>.lvi. iar. aber nach sag der **.lxx. außleger**[^2] auch **ysidori**[^3] vn[d] anderer d[er] zal her nach in disem buch besti[m]bt ist hat es gehabt .ij<sup>m</sup>.ij<sup>c</sup>.xlij. iar.
+**D**as erst alter d[er] werlt von Ada[m] bis zu der sintflus hat nach d[er] hebreyschen schrifft .j<sup>m</sup>.vi<sup>c</sup>.lvi. iar. aber nach sag der ***.lxx. außleger***[^2] auch ***ysidori***[^3] vn[d] anderer d[er] zal her nach in disem buch besti[m]bt ist hat es gehabt .ij<sup>m</sup>.ij<sup>c</sup>.xlij. iar.
 
 **D**Ie höhst gůthait wolt ir gut auch andern mittaile[n] daru[m]b beschuff sie ein vernünftige creatur die das höhst gut verstünd. versteende liebhet. lieb habende beseße vnd besitzende selig wer. 
 

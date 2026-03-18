@@ -9,11 +9,11 @@ Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffen
 
 Nw wird die spera des himels mit de[n] dar inn angehefften gestirne in zwaie[n] axen (der eine die mitternachtlich vn[d] die ander die mittaglich haißt( vo[m] auffgang in de[n] nidergang mit sölcher schnellikeit umbgeweltzt. das sye die werlt zerpreche wo die planeten mit ire[n] gege[n]lawff sie nit verhinderte[n]. vn[d] d[er] werckmeister d[er] werlt hat die natur des himels mit wassern gemessigt das sie mit d[er] hitz des obern feürs die undern eleme[n]t nit anzündete.
 
-Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt das uber die speras d[er] sibe[n] planete[n]. vn[d] uber die achte[n] spera[m]. die sie die unirrende[n] nenne[n]. vn[d] auch uber die newnten speram. die mit vernunft vn[d] nit mit entpfindung erraicht werde[n]. vn[d] die erst undter den beweglichen leiplichen dingen ist noch d[er] zehend unbeweglich bleibend vn[d] gerüig himel sey. in massen dem **Isaac d[er] weise**[^3] einer aus d[er] bemelte[n] lerrern helt. das sölcher zehend himel von **Ezechiele**[^4] durch den zaphir in gleichnus eines throns bezeichend sey.
+Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt das uber die speras d[er] sibe[n] planete[n]. vn[d] uber die achte[n] spera[m]. die sie die unirrende[n] nenne[n]. vn[d] auch uber die newnten speram. die mit vernunft vn[d] nit mit entpfindung erraicht werde[n]. vn[d] die erst undter den beweglichen leiplichen dingen ist noch d[er] zehend unbeweglich bleibend vn[d] gerüig himel sey. in massen dem ***Isaac d[er] weise***[^3] einer aus d[er] bemelte[n] lerrern helt. das sölcher zehend himel von **Ezechiele**[^4] durch den zaphir in gleichnus eines throns bezeichend sey.
 
 Also das die farb des zaphirs den glantz des liechts vnd die gleichnus des throns die unbeweglichkeit bedewtten solt.
 
-Aber widerzekomen auff den moysen. der das wasser von wassern teilet so ist dreyerlay teylung der leyplichen ding under de[m] mo[n]d.
+Aber widerzekomen auff den ***moysen***. der das wasser von wassern teilet so ist dreyerlay teylung der leyplichen ding under de[m] mo[n]d.
 
 Etlich sind ob d[er] mitteln gege[n]t des lufts. als d[er] oberst teil desselbe[n] elements. vn[d] das allerlewterst feüers. vn[d] das selbst lawtere unvermischte vnd rechte element.
 

@@ -7,7 +7,7 @@ Aber die finsternüssen hat er gesetzt in der erden dan[n] sie begreüft durch s
 
 In dez hat er gesetzt das ewig liecht vn[d] die obern gaist und das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüs vnd die vndern gaist und de[n] tod. 
 
-Aber in dem das Moyses spricht das got beschaffen hab so stelt er damit aber drey irru[n]g **Platonis**[^4] **Arestotilis**[^5] vn[d] **Epicuris**[^6]. dan[n] Plato hielt das got vnd die vorpildnus oder gestaltnus seiner geschöpff vn[d] yle[^7] von ewigkeit gewessen vnd im anfang die werlt vo[n] de[m] selbe[n] yle gemacht worde[n] wer. 
+Aber in dem das ***Moyses*** spricht das got beschaffen hab so stelt er damit aber drey irru[n]g ***Platonis***[^4] **Arestotilis**[^5] vn[d] **Epicuris**[^6]. dan[n] ***Plato*** hielt das got vnd die vorpildnus oder gestaltnus seiner geschöpff vn[d] yle[^7] von ewigkeit gewessen vnd im anfang die werlt vo[n] de[m] selbe[n] yle gemacht worde[n] wer. 
 
 Die krieche[n] spreche[n] yle sey die erst ungeformt materi aus der :alle ding geschöpfft: vnd diese sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die anderen spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
 
@@ -17,11 +17,11 @@ Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n
 
 Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi daraus er machet. fürberaittet auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got aus de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind aus aigner verkerung vo[m] gůtten zum ubel getretten vn[d] zu teüfeln worde[n]. 
 
-Die erde was eytel. das ist (als **Ieronimus**[^8] ode[r] die .**lxx. auslege[r]**[^9]) vnsyhtperlich un[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechische[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff ausgepraittet. 
+Die erde was eytel. das ist (als ***Ieronimus***[^8] ode[r] die .**lxx. auslege[r]**[^9]) vnsyhtperlich un[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechische[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff ausgepraittet. 
 
 Da von auch **Ouidius**[^10] der poet in seine[m] gedicht gar schön meldung thüt. vnd der gaist des herre[n] ein werckzewg gotlicher ku[n]st swebet ob de[n] wassern: als d[er] wil eins pawherre[n] so er yde ding zemache[n] verordent. so die werck gottes volkomme[n] sind. so wirdt die beschöpffu[n]g d[er] ding außgedrückt in sechser zall. des teill sind. ains zway drey. 
 
-Nwn zaygt Moyses durch die werck d[er] sechs tag nemlich in de[m] ersten die beschöpfung.
+Nwn zaygt ***Moyses*** durch die werck d[er] sechs tag nemlich in de[m] ersten die beschöpfung.
 
 In dem andern vnd dritten die ordnung oder schickung. vnd in den andern die zierung.
 
