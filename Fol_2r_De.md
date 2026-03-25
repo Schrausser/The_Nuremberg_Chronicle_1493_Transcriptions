@@ -13,16 +13,16 @@ Dadurch, dass Moses eine göttliche *Schöpfung* beschreibt, zeigt er die drei I
 (ad 3) Dennoch[^4] erschuf Gott die Welt ohne verfügbares und zuvor vorbereitetes Material; denn *er* ist als der klügste[^5] und weiseste Schöpfer anzusehen, bevor er das Werk der Welt vollführte. In ihm selbst war der Quell vollkommener und vollbrachter Güte, damit[^6] daraus Gutens gleich einem *Strom*[^7] hervorgebracht wird. 
 
 (ad 2) Von allen Wesen erschuf er ursprünglich die *Engel*[^8] aus dem was *Nicht* (n[]) ist[^9]. So ist *er* durch die *Ewigkeit* mächtig und durch die Stärke dieser immensen Macht (welche grenzenlos und unermesslich ist[^10]) *gleich* dem Leben des Schöpfers[^11].
-Daher mag es verwunderlich sein, dass zu Schöpfung der Welt im Vorhinein eine Roh-Materie[^12] aus dem *Nicht*, vorzubereitet ist.
+Daher mag es verwunderlich sein, dass zur Schöpfung der Welt im Vorhinein eine Roh-Materie[^12] aus dem *Nicht* vorzubereitet ist.
 So haben es wohl auch die Sarazenen verstanden als sie sagten, dass die Engel von Gott aus der *Finsternis* ins Licht geführt und mit ewiger Freude erfüllt worden seien. Jedoch vergaßen einige von ihnen ihren göttliche Charkter[^13], wandten sich durch *eigene* Abkehr[^14] vom Guten zu Übel[^15] und wurden zu Teufeln (was wir Verbrecher[^16] nennen).
 
-(ad 1) Die Erde war leer, das heißt (wie **Hieronymus** und **die Siebzig**[^17] es deuten) unsichtbar und nicht zusammengefügt[^18] und aufgrund dieses konfusen [^19] Zustandes *Abgrund* (*Abyssum*) genannt, was die Griechen *Chaos* nennen. Das ist[^20] *dreidimensionale* Materie[^21], in grösste Tiefe ausgedehnt[^22]. 
+(ad 1) Die Erde war leer, das heißt (wie **Hieronymus** und **die Siebzig**[^17] es deuten) unsichtbar und nicht zusammengefügt[^18] und aufgrund dieses konfusen[^19] Zustandes *Abgrund* (*Abyssum*) genannt, was die Griechen *Chaos* nennen. Das ist[^20] *dreidimensionale* Materie[^21], in grösste Tiefe ausgedehnt[^22]. 
 
 Auch Ovid erinnert sich daran:
 
 >Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.
 
-So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wassern, wie der Wille eines Baumeisters, der alles organisiert was zu tun ist. Dadurch sind die Werke Gottes vollkommen und drückt sich die Schöpfung in der *Sechserzahl*[^23] aus, deren Bestandteile 1, 2 und 3 sind, welche sich zu einem Dreieck erheben[^24]. Moses widmet in seinem Bericht über die sechs Tage den ersten Tag (i) der Schöpfung, den zweiten und dritten Tag (ii) der Ordnung und Gestaltung und (iii) die übrigen Tage der Zierde der Welt.
+So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wassern, wie der *Wille* eines Baumeisters, der alles organisiert was zu tun ist. Dadurch sind die Werke Gottes vollkommen und drückt sich die Schöpfung in der *Sechserzahl*[^23] aus, deren Bestandteile 1, 2 und 3 sind, welche sich zu einem Dreieck erheben[^24]. Moses widmet in seinem Bericht über die sechs Tage den ersten Tag (i) der Schöpfung, den zweiten und dritten Tag (ii) der Ordnung und Gestaltung und (iii) die übrigen Tage der Zierde der Welt.
 
 [^1]: 'dan[n] sie begreüft durch sich selbs nichtzit'.  
 [^2]: 'ydeas' und 'die vorpildnus oder gestaltnus seiner geschöpff'.  
