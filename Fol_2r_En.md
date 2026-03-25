@@ -22,7 +22,7 @@ Ovid also remembers this:
 
 >Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.
 
-Thus, the Spirit of the Lord (as an instrument of divine art) floated  over the waters, like the will of a master builder who organizes all that needs to be done. Through this, God's works are perfect and creation is expressed in the *number six*[^23], whose components are 1, 2, and 3, which rise to form a triangle[^24]. In his account of the six days, Moses dedicates the first day (i) to creation, the second and third days (ii) to order and design and (iii) the remaining days to the adornment of the world.
+Thus, the Spirit of the Lord (as an instrument of divine art) floated  over the waters, like the will of a master builder who organizes all that needs to be done. Through this, God's works are perfect and creation is expressed in the *number six*[^23], whose components are 1, 2 and 3, which rise to form a triangle[^24]. In his account of the six days, Moses dedicates the first day (i) to creation, the second and third days (ii) to order and design and (iii) the remaining days to the adornment of the world.
 
 [^1]: 'dan[n] sie begreüft durch sich selbs nichtzit'.  
 [^2]: 'ydeas' and 'die vorpildnus oder gestaltnus seiner geschöpff'.  
