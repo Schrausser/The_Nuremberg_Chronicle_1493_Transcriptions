@@ -44,7 +44,7 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^18]: 'i[n]co[m]posita' und 'vnzesamen gefügt'.  
 [^19]: '[con]fusio[n]e' und 'zestrewlichkeit'.  
 [^20]: 'i[d est]'.  
-[^21]: 'materia[m] trino dime[n]su'.  
+[^21]: 'materia[m] trino dime[n]su' und 'materi mit driueltiger ermessung'.  
 [^22]: 'i[n] altissimas profunditates extensam'.  
 [^23]: 'senario numero' und 'in sechser zall'.  
 [^24]: 'que in trigonu[m] surga[n]t'.
