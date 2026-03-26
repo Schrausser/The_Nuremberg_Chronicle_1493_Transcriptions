@@ -37,7 +37,7 @@ Danach bestimmte Gott die anderen Regionen, den Süden und den Norden in der sel
 [^10]: 'purgat' und 'rainigt'.  
 [^11]: 'Appellauit luce[m] die[m]' vgl. 'Dimmen' und 'liecht hies er den tag'.  
 [^12]: 'tenebras a noce[n]do nocte[m]' und 'finsternus vo[n] beschedigung'.  
-[^13]: Rein physikalisch betrachtet erscheint dies unlogisch, insbesondere da übermäßig starkes Licht wohl schädliche Auswirkungen hätte, was bei übermäßiger Dunkelheit kaum der Fall wäre. Im übertragenen Sinne hingegen erscheint es nachvollziebar, da 'Licht' im Sinne von  'Verstand', Dunkelheit im Sinne von 'Unwissenheit' erhellt und somit 'reinigt'.  
+[^13]: Rein physikalisch betrachtet erscheint dies unlogisch, insbesondere da übermäßig starkes Licht wohl schädliche Auswirkungen hätte, was bei übermäßiger Dunkelheit kaum der Fall wäre. Im übertragenen Sinne hingegen erscheint es nachvollziebar, da *Licht* im Sinne von *Wissen* eine *Dunkelheit* im Sinne von *Unwissenheit* durchaus *erhellt* und somit *reinigt*.  
 [^14]: 'seculi' (!).  
 [^15]: 'p[ri]m[us] dio[rum] o[mn]i[u]m' und 'der erst aller tag'.  
 [^16]: 'sic'.  
