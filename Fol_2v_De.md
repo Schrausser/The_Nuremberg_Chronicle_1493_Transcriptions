@@ -4,7 +4,8 @@ Eine zeitgenössische deutsche Übersetzung wird präsentiert, die auf einem Ver
 
 ## Vom Werk des ersten Tages  
 
->De opera prime diei. fiat lux.  
+>**D**Ixit deus.
+fiat lux.  
 Et facta e[st] lux.
 Et vidit deus lucem q[uia] esset bona.  
 Et diuisit luce[m] a tenebris.  
