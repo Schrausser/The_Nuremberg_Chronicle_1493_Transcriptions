@@ -10,7 +10,7 @@ Eine zeitgenössische deutsche Übersetzung wird präsentiert, die auf einem Ver
 
 Lasst uns den Propheten über himmlische Mystetien sprechen hören. Gott schuf ein *radförmig*[^1], bewegliches Firmament, in dem sich weitere sinnlich wahrnehmbare Dinge befanden. Aus gefrorenem Wasser erstarrte es zu einem Kristall, in diesem wurden die Sterne befestigt. Die Achsen der Sphäre des Himmels, an welcher die Sterne fixiert sind, sollen aber *zwei* sein. Diese, die (i) nördliche (*Boreas*[^2]) und die (ii) südliche (*Nothus*[^3]), *rollen* mit solcher Geschwindigkeit von Osten nach Westen, dass dies zum Zusammenbruch der Welt führte, würden die Planeten diese Bewegung nicht in entgegengesetzte Richtung abbremsen. Darüberhinaus mäßigte der Schöpfer der Welt die Natur des Himmels mit Wassern, damit die Feuersbrunst des Himmels nicht die unteren Elemente in Brand setze.
 
-[...][^4] *Über*[^5] den neun Himmelsorben, das heisst (i) den sieben Planeten, (ii) der achten Sphäre, der *unirrenden*[^6], (iii) dem neunte Orbit, durch die Vernunft, nicht durch die Sinne erfassbar, sowie der erste unter den *bewegten* Körpern, nimmt man an, dass (iv) der zehnte Himmel unveränderlich, ruhend und still ist, da dieser an keiner Bewegung teilnimmt.
+[...][^4] *Über*[^5] den neun Himmelsorben, das heisst (i) den sieben Planeten, (ii) der achten Sphäre, der *unirrenden*[^6], (iii) dem neunten Orbit, durch die Vernunft, nicht durch die Sinne erfassbar, sowie der erste unter den *bewegten* Körpern, nimmt man an, dass (iv) der zehnte Himmel unveränderlich, ruhend und still ist, da dieser an keiner Bewegung teilnimmt.
 
 ...
 
