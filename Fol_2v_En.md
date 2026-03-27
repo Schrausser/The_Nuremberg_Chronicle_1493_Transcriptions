@@ -4,7 +4,8 @@ A *contemporary* English translation is presented from comparing the existing La
 
 ## Of the Work of the First Day  
 
->De opera prime diei. fiat lux.  
+>**D**Ixit deus.
+fiat lux.  
 Et facta e[st] lux.
 Et vidit deus lucem q[uia] esset bona.  
 Et diuisit luce[m] a tenebris.  
