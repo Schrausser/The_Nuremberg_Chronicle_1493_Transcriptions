@@ -4,8 +4,8 @@ A *contemporary* English translation is presented from comparing the existing La
 
 ## Of the Work of the  Second (other) Day  
 
->***S**Ecundo die dixit deus.*
-*Fiat firmamentum in medio aquaru[m]: et diuidat aquas ab aquis: vocauitq[ue] firmamentum celum.*
+>**S**Ecundo die dixit deus.
+Fiat firmamentum in medio aquaru[m]: et diuidat aquas ab aquis: vocauitq[ue] firmamentum celum.
 
 
 Let us hear the prophet speak of celestial mysteries. God created a *wheel-shaped*[^1], movable firmament, in which other perceptible things were located. From frozen water, it solidified into a crystal, and in this, the stars were fixed. The axes of the sphere of heaven, to which the stars are fixed, are said to be *two*. These, the (i) northern (*Boreas*[^2]) and the (ii) southern (*Nothus*[^3]), *roll* from east to west at such a speed that this would lead to the collapse of the world were it not for the planets slowing this movement in the opposite direction. Furthermore, the Creator of the world tempered the nature of the heavens with waters, so that the conflagration of the heavens would not set the lower elements ablaze.
