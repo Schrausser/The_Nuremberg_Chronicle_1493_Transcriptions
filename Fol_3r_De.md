@@ -18,7 +18,7 @@ Lasst uns den Propheten über himmlische Mystetien sprechen hören. Gott schuf e
 [^1]: 'rotundum' und 'gescheibelt', scheibenförmig.  
 [^2]: Griechischer Gott des Nordwinds und Personifizierung des Winters.  
 [^3]: *Notus*, der griechische Gott und die Personifizierung des Südwindes oder *nothus*, *unehelich*, *falsch*, *gemischt*, *hybrid*.  
-[^4]: 'Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt', Einige Lehrer, nicht nur unsere, sondern auch unter den Hebräern und anderen glaubten, dass…  
+[^4]: 'Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt', Etliche Lehrer, nicht nur unsere, sondern auch unter den Hebräern und anderen glaubten, dass…  
 [^5]: 'Supra', vorher vs. 'uber'.  
 [^6]: 'inerrantem' und 'die unirrende[n]'.  
 
