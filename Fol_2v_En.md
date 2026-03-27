@@ -35,7 +35,7 @@ Then God determined the other regions, the south and the north, in the same dime
 [^8]: 's[u]biectu[m]' and 'underwurff'.  
 [^9]: 'artificis' and 'werckmeisters'.  
 [^10]: 'purgat' and 'rainigt'.  
-[^11]: 'Appellauit luce[m] die[m]' c.f. 'Dimm' and 'liecht hies er den tag'.  
+[^11]: 'Appellauit luce[m] die[m]' c.f. 'dimm' and 'liecht hies er den tag'.  
 [^12]: 'tenebras a noce[n]do nocte[m]' and 'finsternus vo[n] beschedigung'.  
 [^13]: From a purely physical perspective, this seems illogical, especially since excessively bright light would likely have harmful effects, which would hardly be the case with excessive darkness. Figuratively speaking, however, it seems plausible, since *light* in the sense of *knowledge* can indeed *illuminate* and thus *purify* *darkness* in the sense of *ignorance*.  
 [^14]: 'seculi' (!).  
