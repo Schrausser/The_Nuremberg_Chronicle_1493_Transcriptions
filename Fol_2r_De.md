@@ -1,4 +1,4 @@
-# Foliu[m]/Blat IIr
+# Folium/Blat IIr
 
 Eine zeitgenössische deutsche Übersetzung wird präsentiert, die auf einem Vergleich der bestehenden lateinischen, frühneuhochdeutschen (ENHG) und englischen (Übersetzungs-) Texte basiert, um ein besseres Verständnis zu ermöglichen. Insbesondere da der ENHG-Text im Vergleich zum modernen Hochdeutschen schwer verständlich ist, da dieser fundierte Deutschkenntnisse (als Muttersprache) sowie Kenntnisse verschiedener Dialekte voraussetzt.
 

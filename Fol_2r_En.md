@@ -1,4 +1,4 @@
-# Foliu[m]/Blat IIr
+# Folium/Blat IIr
 
 A *contemporary* English translation is presented from comparing the existing Latin, Early New High German (ENHG) and English (translation) texts for better comprehensibility. Especially since the ENHG text is difficult to understand compared to modern High German, as a *profound* knowledge of German (as a mother tongue) as well as already aknowledge of various *dialects* is required.
 
