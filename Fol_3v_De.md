@@ -11,7 +11,7 @@ germinet terra herbam virentem: [et] semen facientem: [et] lignum pomiferum faci
 
 Nach dem Firmament zur Integrität, Position und Ordnung der Elemente, erinnert er uns kurz an das Zusammenfließen der Wasser an einen Ort und die Gesetze, welche dem Meer vorgeschrieben, so es nicht das Land überflute.
 
-War die Erde  einst unsichtbar und soll diese in das Angesicht[^1] kommt, so ist es notwendig, dass die Wasser, die sich unter dem Himmel bzw. unter der mittleren Luftschicht befinden, an einen Ort zusammengeführt werden, in ein gemeinsames Mischbecken, wo sie gemäß bestimmten Gesetzen zusammenfließen, wie für die Küsten quasi vorgeschrieben ist, sich an einer Stelle zu einem *Damm*[^2] zusammenfügen. 
+War die Erde  einst unsichtbar und soll diese in das Angesicht[^1] kommt, so ist es notwendig, dass die Wasser, die sich unter dem Himmel bzw. unter der mittleren Luftschicht befinden, an einen Ort zusammengeführt werden, in ein gemeinsames Mischbecken, wo sie gemäß bestimmten Gesetzen zusammenfließen, wie für die Küsten quasi vorgeschrieben ist, sich an einer Stelle zu einem *Damm*[^2] zusammenzufügen. 
 
 Unwahr ist nämlich, dass nirgendwo an abgelegenen und isolierten Orten Wasser gefunden wird, da das indische Meer vom hircanischen Meer, das hircanischen Meer vom adriatischen Meer, das adriatischen Meer vom euxinischen Meer neben unzähligen entlegene fließenden Quellen und Seen, durch Wehre[^3] von einander geschieden wird. Nachdem es sich hierbei um eine gesonderte und unterteilte Ansammlung von Meeres- oder Flussgewässern handelt, sollten sie wohl an einem gemeinsamen Ort versammelt sein. Alle, wie **Salomon** sagt, tendieren zum primären Meer, werden an einen Ort der Ozeanen geführt und vereint. 
 
