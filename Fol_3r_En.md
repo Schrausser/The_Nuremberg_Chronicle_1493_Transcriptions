@@ -18,7 +18,7 @@ But let us return to *Moses*, who separated the waters from the waters in the mi
 The (iii) intermediate layer of air, *also* called *firmament*, from which birds originate, being introduced by the firmament of the heaven in flight, is the region in which the *etheric*[^16] impressions such as rain, snow, lightning, thunder, comets, or the like appear. *This* firmament (iii) therefore rightly separates the higher elements (i) from the lower ones (ii), not only because of its position but also because of its natural properties of different *waters*. Above[^17] it are the pure elements, below them, *completely* mixed in elemental simplicity[^18] separated[^19]. Thus, he named this firmament, derived from koylon (concave), as the *heaven*[^20], since it encompasses all perceptible[^21] and invisible things.
 
 
-[^1]: 'rotundum' and 'gescheibelt', scheibenförmig.  
+[^1]: 'rotundum' and 'gescheibelt', disc-shaped.  
 [^2]: 'sensibilia' and 'empfintliche'.  
 [^3]: 'sidera' and 'gestirne'.  
 [^4]: Greek god of the north wind and personification of winter.
