@@ -45,7 +45,7 @@ Maybe we will hear *this* **Horace**, but here was not the right place.
 [^18]: 'fulgore clarissimo' und 'allerklarste[m] schein'.  
 [^19]: 'humor' und 'feüchtigkeit' (to dispel the darkness).  
 [^20]: 'a[n]![m]alia'(sic) und 'geschöpff'.  
-[^21]: This reflects a classic philosophical debate of the Middle Ages: are celestial bodies merely physical components of the heaven, or do they possess their own *soul*? 
+[^21]: This reflects a classic philosophical debate of the Middle Ages: are celestial bodies merely physical components of the heaven, or do they possess their own *soul*?  
 [^22]: 'Genethliacis'.  
 [^23]: 'maculis'.  
 [^24]: 'siderali scie[n]tia'.  
