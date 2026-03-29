@@ -43,7 +43,7 @@ Vielleicht werden wir *diesen* **Horaz** noch hören, aber jetzt war nicht der r
 [^16]: bezieht sich auf *De Natura Deorum* (2.68), wo angedeutet wird, dass die Sonne *sol* (solus) genannt wird, weil sie die einzige ihrer Art ist, oder weil sie allein *erscheint*, nachdem sie alle anderen Sterne verdeckt hat.  
 [^17]: 'sideribus'.  
 [^18]: 'fulgore clarissimo' und 'allerklarste[m] schein'.  
-[^19]: 'humor' und 'feüchtigkeit' (!).  
+[^19]: 'humor' und 'feüchtigkeit' (um die Dunkelheit zu vertreiben).  
 [^20]: 'a[n]![m]alia'(sic) und 'geschöpff'.  
 [^21]: spiegelt eine klassische philosophische Debatte des Mittelalters wider, sind Himmelskörper lediglich physische Bestandteile des Himmels oder verfügten sie über eine eigene *Seele*.  
 [^22]: 'Genethliacis'.  
