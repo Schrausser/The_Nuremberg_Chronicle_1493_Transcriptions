@@ -67,7 +67,7 @@ quotidie in varijs locis datur.[^24]
 [^21]: Den Wendekreisen.  
 [^22]: 'generis strucio cameli'.  
 [^23]: Plinius, 'Historia Naturalis' (Buch 9, 10).  
-[^24]: Viel schöner ist es, die Natur der Vögel und Fische jeden Tag an verschiedenen Orten zu beobachten', Roger Bacon 'Opus Majus, Pars VI: Scientia Experimentalis'.
+[^24]: 'Viel schöner ist es, die Natur der Vögel und Fische jeden Tag an verschiedenen Orten zu beobachten', Roger Bacon 'Opus Majus, Pars VI: Scientia Experimentalis'.
 
 
 
