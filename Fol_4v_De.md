@@ -11,7 +11,7 @@ Crescite [et] multiplicamini [et] replete aquas maris: auesq[ue] multiplicentur 
 
 So schmückte Gott an diesem Tag die Luft und das Wasser, geflügelte Wesen gab er der Luft und schwimmende Wesen dem Wasser, die man Kriechtiere[^1] nennt, mit einer gewissen Ungestümtheit umhereilend. In der Tat findet man große Wale und Wasserlebewesen im Meer, von monströser Gestalt, größer als Landtiere aufgrund ihrer Fülle an Feuchtigkeit[^2].[^3] Man sagt, was immer in irgendeinem Teil der Natur entsteht, existiert auch im Meer.[^4]
 
-Nun zu folgenden Dingen, die hinsichtlich der Entstehung der Tiere offenkundig sind: *Nach* den (i) Pflanzen kommen jene (ii) Wesen, die fühlen und sich bewegen; obwohl selbst den Pflanzen die Pythagoreer einen stumpfen[*5] Sinn zuschreiben. Solche Lebewesen, die eindeutig Bewegung und Empfindung aufweisen, werden von **Moses** und im ***Timaios*** in fliegende Tiere, Wassertiere und Landtiere unterteilt.[^6]
+Nun zu folgenden Dingen, die hinsichtlich der Entstehung der Tiere offenkundig sind: *Nach* den (i) Pflanzen kommen jene (ii) Wesen, die fühlen und sich bewegen; obwohl selbst den Pflanzen die Pythagoreer einen stumpfen[^5] Sinn zuschreiben. Solche Lebewesen, die eindeutig Bewegung und Empfindung aufweisen, werden von **Moses** und im ***Timaios*** in fliegende Tiere, Wassertiere und Landtiere unterteilt.[^6]
 
 Kommen wir nun zu *Moses*, der, nachdem er über die himmlischen Dingen gesprochen hatte, die irdischen Tiere in angemessener Reihenfolge erwähnte, die entweder im Wasser, auf der Erde oder in der Luft leben.[^7]
 
@@ -39,10 +39,10 @@ von
 
 also einem *Vehikel* für die vom Wasser bereitgestellte Seele.[^17]
 
-Wie Moses im folgenden Schöpfungstag *drei* Tierarten auf der Erde erwähnt, befinden sich die zahlreichsten und größten Tiere im Meer der Inder, darunter sind *große Fische*[^18] in der Größe von vier *Iugera*[^19], auch sieht man *Wale*[^20] im Meer dort, wo die Sonne ihren Lauf nimmt[^21]. Hier werden sie von gewaltigen Wellenbergen aus den Tiefen des Meeres emporgetragen, bis sie den Menschen sichtbar werden. Dann toben Wirbelwinde, kommt der Regen, daraufhin Stürme, herabgestürzt von den Bergkämmen, wirbeln die Meere vom Grund auf und reißen Meerestiere mit den Wellen aus der Tiefe. Auch unter den Vögeln sind die größten, beinahe die größten aller Tiere, die afrikanischen oder äthiopischen Strauße[^22], die einen Reiter auf einem Pferd überragen und an Geschwindigkeit übertreffen.[^22] Noch viele weitere wundebare Dinge über die Natur der Vögel und Fische werden täglich an vielen verschiedenen Orten erlebt.
+Wie Moses im folgenden Schöpfungstag *drei* Tierarten auf der Erde erwähnt, befinden sich die zahlreichsten und größten Tiere im Meer der Inder, darunter sind *große Fische*[^18] in der Größe von vier *Iugera*[^19], auch sieht man *Wale*[^20] im Meer dort, wo die Sonne ihren Lauf nimmt[^21]. Hier werden sie von gewaltigen Wellenbergen aus den Tiefen des Meeres emporgetragen, bis sie den Menschen sichtbar werden. Dann toben Wirbelwinde, kommt der Regen, daraufhin Stürme, herabgestürzt von den Bergkämmen, wirbeln die Meere vom Grund auf und reißen Meerestiere mit den Wellen aus der Tiefe. Auch unter den Vögeln sind die größten, beinahe die größten aller Tiere, die afrikanischen oder äthiopischen Strauße[^22], die einen Reiter auf einem Pferd überragen und an Geschwindigkeit übertreffen.[^23] Noch viele weitere wundebare Dinge über die Natur der Vögel und Fische werden täglich an vielen verschiedenen Orten erlebt.
 
 >Multo mirabilius de naturis auium [et] piscium ratio experiendi 
-quotidie in varijs locis datur.[^9]
+quotidie in varijs locis datur.[^24]
 
 [^1]: 'reptilia'.  
 [^2]: 'habundantia humoris' und 'uberflüssigkeit irer feuchtigkeit'.  
@@ -63,7 +63,7 @@ quotidie in varijs locis datur.[^9]
 [^17]: Dieser Text ist eine Passage aus Augustinus' 'Genesis ad litteram' (Buch 3, Kapitel 13). Er behandelt die sprachlichen und theologischen Nuancen der Schöpfung des Wasserlebens in Genesis 1,20-21.
 [^18]: 'balene'.  
 [^19]: 1 Iugerum = 0.25 Hektar, wohl eher ein Fischschwarm.  
-[^21]: 'bellue' und 'wu[n]der thier'.  
+[^20]: 'bellue' und 'wu[n]der thier'.  
 [^21]: Den Wendekreisen.  
 [^22]: 'generis strucio cameli'.  
 [^23]: Plinius, 'Historia Naturalis' (Buch 9, 10).  
