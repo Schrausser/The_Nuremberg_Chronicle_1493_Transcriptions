@@ -40,10 +40,7 @@ of
 
 that is, a *vehicle* for the soul provided by the water.[^17]
 
-As Moses mentions *three* animal species on Earth in the following day of creation, the most numerous and largest animals are in the sea of ​​the Indians, including *large fish*[^18] the size of four *Iugera*[^19], and *whales*[^20] can also be seen in the sea where the sun takes its course[^21]. Here, they are carried up from the depths of the sea by enormous waves until they become visible to humans. Then whirlwinds rage, the rain comes, followed by storms; tumbling down from the mountain ridges, they churn the seas from the bottom and tear marine animals from the depths with the waves. Among the birds, the largest, almost the largest of all animals, are the African or Ethiopian ostriches[^22], which tower over a rider on a horse and surpass them in speed.[^23] Many more wonderful things about the nature of birds and fish are experienced daily in many different places.
-
->Multo mirabilius de naturis auium [et] piscium ratio experiendi 
-quotidie in varijs locis datur.[^24]
+As Moses mentions *three* animal species on Earth in the following day of creation, the most numerous and largest animals are in the sea of ​​the Indians, including *large fish*[^18] the size of four *Iugera*[^19], and *whales*[^20] can also be seen in the sea where the sun takes its course[^21]. Here, they are carried up from the depths of the sea by enormous waves until they become visible to humans. Then whirlwinds rage, the rain comes, followed by storms; tumbling down from the mountain ridges, they churn the seas from the bottom and tear marine animals from the depths with the waves. Among the birds, the largest, almost the largest of all animals, are the African or Ethiopian ostriches[^22], which tower over a rider on a horse and surpass them in speed.[^23] Many more wonderful things about the nature of birds and fish are experienced daily in many different places[^24].
 
 [^1]: 'reptilia'.  
 [^2]: 'habundantia humoris' and 'uberflüssigkeit irer feuchtigkeit'.  
@@ -68,4 +65,5 @@ quotidie in varijs locis datur.[^24]
 [^21]: The tropics.  
 [^22]: 'generis strucio cameli'.  
 [^23]: Plinius, 'Historia Naturalis' (Book 9, 10).  
-[^24]: 'It is much nicer to observe the nature of birds and fish in different places every day', Roger Bacon 'Opus Majus, Pars VI: Scientia Experimentalis'.  
+[^24]: 'Multo mirabilius de naturis auium [et] piscium ratio experiendi 
+quotidie in varijs locis datur', Roger Bacon 'Opus Majus, Pars VI: Scientia Experimentalis'.  
