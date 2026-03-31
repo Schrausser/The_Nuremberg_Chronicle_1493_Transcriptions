@@ -20,13 +20,13 @@ Gott, der Schöpfer aller Dinge, schuf den Menschen, (was auch **Cicero** erkann
 >Hoc a[n]i[m]al p[ro]uidu[m]: sagax: m[u]ltiplex: acutu[m]: memor: plenu[m] r[ati]o[n]is [et] [con]silij. que[m] vocam[us] homine[m]: p[re]clara q[ua]da[m] [con]dit[i]o[n]e generatu[m] e[ss]e a summo deo solu[m].  
 Est e[ni]m ex tot a[n]i[m]antiu[m] generib[us] at[que] natur[is]: p[ar]ticeps r[ati]o[n]is [et] cogitat[i]o[n]is. cu[m] cetera sint o[mn]ia exp[er]tia.[^19]
 
-Übrigens ist ein weit verbreiteter Brauch unter Königen oder Fürsten der Erde, dass sie, würden sie eine *prächtige*, *edle* Stadt erdacht und gebaut haben, nach der Fertigstellung ihr eigenes Bildnis in der Stadtmitte errichteten, dass es von allen gesehen und betrachtet werden könne. Ebenso hat auch Gott, der *Fürst* aller Dinge, gehandelt, als er, nachdem das gesamte Gefüge[^18] der Welt konstruiert war,  schließlich den Menschen *inmitten* von all diesem setzte, geschaffen nach seinem Bild und in seinem Gleichnis geformt, dass man es wohl wie *dieser* **Merkur** ausrufen möchte:[^20]
+Übrigens ist ein weit verbreiteter Brauch unter Königen oder Fürsten der Erde, dass sie, würden sie eine *prächtige*, *edle* Stadt erdacht und gebaut haben, nach der Fertigstellung ihr eigenes Bildnis in der Stadtmitte errichteten, dass es von allen gesehen und betrachtet werden könne. Ebenso hat auch Gott, der *Fürst* aller Dinge, gehandelt, als er, nachdem das gesamte Gefüge[^20] der Welt konstruiert war,  schließlich den Menschen *inmitten* von all diesem setzte, geschaffen nach seinem Bild und in seinem Gleichnis geformt, dass man es wohl wie *dieser* **Merkur** ausrufen möchte:[^21]
 
 >Magnu[m] o asclepi mirac[u]l[u]m e[st] ho[mo].  
 Hoc p[re]cipuo no[m]i[n]e gl[or]iari hu[m]ana [con]ditio p[otes]t: q[uo] et[iam] f[a]ct[u]m]: vt s[er]uire illi: nulla creata s[u]b[stanti]a dedignet[ur]: huic terra et elem[en]ta: huic bruta sunt p[re]sto: [et] famulant[ur]. huic militat celu[m]: huic salute[m]: p[ro]cura[n]t a[n]gelices me[n]tes.  
 Nec miru[m] alicui videri debet: amari illu[m] ab om[n]ibus.  
 In quo om[n]ia suu[m] aliq[ui]d:  
-Immo se tota [et] sua om[n]ia agnoscu[n]t.[^21]
+Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 
 
 [^1]: 'generib[us] a[n]i[m]aliu[m]' und 'geschlechte[n] der thier'.  
@@ -38,16 +38,16 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^21]
 [^7]: 'bruta' und 'vihe'.  
 [^8]: 'A[n]i[m]alia' und 'thier'.  
 [^9]: 'diuersi sex[us] sing[u]la' und 'bede me[n]dlein vnd freülein'.  
-[^9]: 'nimi[orum] ad cibos' und 'als etlich zu speysung', wohl die tierischen *Produkte* wie Eier oder Milch.  
-[^10]: 'v[er]o ad vestime[n]tu[m]' und 'ettlich zebeklaidung', wie Wolle etc.  
-[^11]: 'vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.'  
-[^12]: Von St. Isidore of Seville's 'Etymologies' (Buch XII, 1.7).  
-[^13]: 'imaginis sue forma[m]' und 'zu form oder gestalt seiner pildnus'.  
-[^14]: 'ho[mo]' und  'mensche[n]'  
-[^15]: 'humo' und  'lette[n] oder kloße der erde[n]'.  
-[^16]: spiegelt eine gängige mittelalterliche etymologische Vorstellung wider, die *Homo* mit *Humus* in Verbindung bringt.  
-[^17]: vgl. den christliche Apologet Lactantius in seinen 'Instituta Divina'.  
-[^18]: 'Dieses Lebewesen(!) das wir Mensch nennen: vorsichtig, flink, vielfältig, scharf im Gedächtnis, voll Vernunft und Rat; in klarer Art und Eigenschaft allein von dem höchsten Gott geboren. Denn es hat an allen Geschlechtern und Naturen der beseelten Geschöpfe teil, [besonders aber] an der Vernunft und dem Verstand, was allen anderen Geschöpfen fehlt', Cicero 'De Legibus' (Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem *Göttlichen* verbinde.  
-[^19]: 'machi[n]a' und  'paw'.  
-[^20]: Aus Ficino 'De Vita Coelitus Comparanda'.  
-[^21]: 'O Asklepios, der Mensch ist ein großes Wunder. Durch diesen außergewöhnlichen Namen kann sich das menschliche Dasein rühmen: Denn es ist geschehen, dass kein Geschöpf es verschmäht, ihm zu dienen. Erde und Elemente stehen ihm zur Seite; die Tiere sind bereit für ihn und dienen ihm. Für ihn kämpfen die Himmel; für ihn bringen Engel Heil. Es sollte niemanden verwundern, dass er von allen geliebt wird, in dem alles etwas Eigenes findet; ja, alles und alles Eigene erkennen sie in ihm', aus dem 'Asklepios' (Abschnitt 6), einem hermetischen Text, Hermes Trismegistos zugeschrieben, auch zitiert in Picos 'Oratio de hominis dignitate'.
+[^10]: 'nimi[orum] ad cibos' und 'als etlich zu speysung', wohl die tierischen *Produkte* wie Eier oder Milch.  
+[^11]: 'v[er]o ad vestime[n]tu[m]' und 'ettlich zebeklaidung', wie Wolle etc.  
+[^12]: 'vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.'  
+[^13]: Von St. Isidore of Seville's 'Etymologies' (Buch XII, 1.7).  
+[^14]: 'imaginis sue forma[m]' und 'zu form oder gestalt seiner pildnus'.  
+[^15]: 'ho[mo]' und  'mensche[n]'  
+[^16]: 'humo' und  'lette[n] oder kloße der erde[n]'.  
+[^17]: spiegelt eine gängige mittelalterliche etymologische Vorstellung wider, die *Homo* mit *Humus* in Verbindung bringt.  
+[^18]: vgl. den christliche Apologet Lactantius in seinen 'Instituta Divina'.  
+[^19]: 'Dieses Lebewesen(!) das wir Mensch nennen: vorsichtig, flink, vielfältig, scharf im Gedächtnis, voll Vernunft und Rat; in klarer Art und Eigenschaft allein von dem höchsten Gott geboren. Denn es hat an allen Geschlechtern und Naturen der beseelten Geschöpfe teil, [besonders aber] an der Vernunft und dem Verstand, was allen anderen Geschöpfen fehlt', Cicero 'De Legibus' (Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem *Göttlichen* verbinde.  
+[^20]: 'machi[n]a' und  'paw'.  
+[^21]: Aus Ficino 'De Vita Coelitus Comparanda'.  
+[^22]: 'O Asklepios, der Mensch ist ein großes Wunder. Durch diesen außergewöhnlichen Namen kann sich das menschliche Dasein rühmen: Denn es ist geschehen, dass kein Geschöpf es verschmäht, ihm zu dienen. Erde und Elemente stehen ihm zur Seite; die Tiere sind bereit für ihn und dienen ihm. Für ihn kämpfen die Himmel; für ihn bringen Engel Heil. Es sollte niemanden verwundern, dass er von allen geliebt wird, in dem alles etwas Eigenes findet; ja, alles und alles Eigene erkennen sie in ihm', aus dem 'Asklepios' (Abschnitt 6), einem hermetischen Text, Hermes Trismegistos zugeschrieben, auch zitiert in Picos 'Oratio de hominis dignitate'.
