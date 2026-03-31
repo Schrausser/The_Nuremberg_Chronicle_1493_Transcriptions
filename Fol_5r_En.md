@@ -9,7 +9,7 @@ Et vidit de[us] q[uo]d  e[ss]et bonu[m]: ait. Faciam[us] ho[m]i[n]em ad imagine[
 Et p[er]sit piscib[us] mar[is]. [et] volatilib[us] celi. [et] bestijs vniuerse terre.
 Et creuit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m].
 
-After the upper parts of the world had been decorated, on the sixth day he finally decorated the earth with the races of living beings[^1]. Among the *animals* of the earth, **Moses** mentions three: (i) *beasts of burden*, (ii) *creeping animals*, and (iii) *wild animals*[^2]. He thus refers generally to three different types of *irrational*[^3] animals. *Wild animals* (iii) with perfect *imagination*[^4] occupy an intermediate position among irrational *things*[^5], although they can neither be taught nor tamed by humans. Thus, *crawling animals* (ii) with *im*perfect *imagination* stand between cattle[^6] and plants. *Beasts of burden* (i) lack reason, but can nevertheless be largely tamed by humans, so they seem to share in some reason. These occupy, as it were, an intermediate position between cattle[^7] and humans.
+After the upper parts of the world had been decorated, on the sixth day he finally decorated the earth with the races of living beings[^1]. Among the *animals* of the earth, **Moses** mentions three: (i) *beasts of burden*, (ii) *creeping animals*, and (iii) *wild animals*[^2]. He thus refers generally to three different types of *irrational*[^3] animals. *Wild animals* (iii) with perfect *imagination*[^4] occupy an intermediate position among irrational *things*[^5], although they can neither be taught nor tamed by humans. Thus, *crawling animals* (ii) with *im*perfect *imagination* stand between cattle[^6] and plants. *Beasts of burden* (i) lack reason, but can nevertheless be largely tamed by humans, so they seem to share in *some* reason. These occupy, as it were, an intermediate position between cattle[^7] and humans.
 
 Furthermore, he decreed that *living beings*[^8] of every kind and shape, great and small, should be created in pairs, of both sexes[^9]. Their offspring filled the air, earth, and seas. God gave all of them sustenance from the earth from generation to generation, so that they could also be *useful* to humans: surplus for food[^10], certainly also for clothing[^11], those who possess great strength to help in plowing the land; for this reason, they are also called (in Latin) *iumenta*[^12].[^13]
 
@@ -32,7 +32,7 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 [^1]: 'generib[us] a[n]i[m]aliu[m]' and 'geschlechte[n] der thier'.  
 [^2]: 'iume[n]ta. reptilia. [et] bestias' and 'iohthier kriechende vnd wildthier'.  
 [^3]: 'irr[ati]onabiliu[m]' and 'unvernüftigen'.  
-[^4]: 'pha[n]tasia' and 'fantasey', In medieval philosophy, this refers to the imagination.  
+[^4]: 'pha[n]tasia' and 'fantasey', in medieval philosophy, this refers to the imagination.  
 [^5]: 'sortite' and 'thieren'.  
 [^6]: 'bruta' and 'vieh'.  
 [^7]: 'bruta' and 'vihe'.  
