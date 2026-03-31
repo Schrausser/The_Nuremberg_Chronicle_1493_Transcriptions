@@ -11,7 +11,7 @@ Et creuit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m].
 
 Nachdem die oberen Teile der Welt geschmückt waren, schmückte er schließlich am sechsten Tag die Erde mit den Geschlechtern der Tieren[^1]. Unter diesen Tieren der Erde erwähnt **Moses** drei: (i) *Lasttiere*, (ii) *kriechende* und (iii) *wilde Tiere*[^2]. Er deutet damit allgemein auf drei verschiedene Arten von *unvernünftigen*[^3] Tieren hin. *Wildtiere* (iii) mit  vollkommen *Vorstellungskraft*[^4] nehmen unter den unvernünftigen Lebewesen eine Zwischenstellung ein, obgleich sie sich vom Menschen weder belehren noch zähmen lassen. So  stehen die *kriechenden Tiere* (ii) mit *un*vollkommener *Vorstellungskraft* zwischen unvernünftigem Tier[^5] und Pflanzen. *Lasttieren* (i) mangelt es zwar an Vernunft, können aber dennoch  vom Menschen weitgehend gezähmt werden, so scheinen sie an etwas Vernunft teilzuhaben. Diese nehmen gleichsam eine Zwischenstellung zwischen unvernünftigen Tieren[^6] und den Menschen ein.
 
-Weiters ordnete er an, dass Tiere aller Art und Gestalt, groß und klein, paarweise geschaffen werden sollten, von beiderlei Geschlecht[^7]. Von ihren Nachkommen wurden Luft, Erde und Meere erfüllt. Gott gab allen von Generation zu Generation Ernährung von der Erde, so könnten sie auch den Menschen *nützlich* seien: Überzählige als Nahrung[^8], wahrlich sonst für Kleidung[^9], diejenigen, die über große Kraft verfügen, um beim Pflügen des Landes zu helfen, aus diesem Grund werden sie auch (im Lateinischen) *iumenta*[^10] genannt[^11].
+Weiters ordnete er an, dass Tiere aller Art und Gestalt, groß und klein, paarweise geschaffen werden sollten, von beiderlei Geschlecht[^7]. Von ihren Nachkommen wurden Luft, Erde und Meere erfüllt. Gott gab allen von Generation zu Generation Ernährung von der Erde, so könnten sie auch den Menschen *nützlich* seien: Überzähliges als Nahrung[^8], wahrlich sonst für Kleidung[^9], diejenigen, die über große Kraft verfügen, um beim Pflügen des Landes zu helfen, aus diesem Grund werden sie auch (im Lateinischen) *iumenta*[^10] genannt[^11].
 
 Bislang haben wir (erst) von den *drei* Welten gesprochen, der (i) *überhimmlischen*, der (ii) *himmlischen* und der (iii) *sublunaren*, nun wollen wir den (iv) *Menschen* als Teil einer vierten Welt betrachten. Nachdem nun alles in wunderbarer Weise geordnet war, beschloss er sich ein ewiges Reich zu bereiten, im Voraus unzählige Seelen zu erschaffen, denen er Unsterblichkeit verleihen konnte. Daraufhin schuf er sich ein Gleichnis seiner Selbst, empfindsam und intelligent, geformt nach seinem eigenen Bild[^12], dem nichts vollkommener gleicht. So formte er den Menschen aus dem Lehm der Erde, daher auch der Name *Mensch*[^13], geschaffen aus *Erde*[^14].[^15] 
 
@@ -36,8 +36,8 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^20]
 [^5]: 'bruta' und 'vieh'.  
 [^6]: 'bruta' und 'vihe'.  
 [^7]: 'diuersi sex[us] sing[u]la' und 'bede me[n]dlein vnd freülein'.  
-[^8]: 'nimio[rum] ad cibos' und 'als etlich zu speysung'.  
-[^9]: 'v[er]o ad vestime[n]tu[m]' und 'ettlich zebeklaidung'.  
+[^8]: 'nimi[orum] ad cibos' und 'als etlich zu speysung', wohl die tierischen Produkte wie Eier oder Milch.  
+[^9]: 'v[er]o ad vestime[n]tu[m]' und 'ettlich zebeklaidung', wie Wolle etc. 
 [^10]: 'vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.'  
 [^11]: from St. Isidore of Seville's Etymologies (Book XII, 1.7).  
 [^12]: 'imaginis sue forma[m]' und 'zu form oder gestalt seiner pildnus'.  
@@ -45,7 +45,7 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^20]
 [^14]: 'humo' und  'lette[n] oder kloße der erde[n]'.  
 [^15]: spiegelt eine gängige mittelalterliche etymologische Vorstellung wider, die *Homo* mit *Humus* in Verbindung bringt.  
 [^16]: vgl. den christliche Apologet Lactantius in seinen 'Instituta Divina'.  
-[^17]: Cicero's, 'De Legibus' (Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem Göttlichen verbinde.  
+[^17]: 'Dieses Lebewesen das wir Mensch nennen: vorsichtig, flink, vielfältig, scharf im Gedächtnis, voll Vernunft und Rat; in klarer Art und Eigenschaft allein von dem höchsten Gott geboren. Denn es hat an allen Geschlechtern und Naturen der beseelten Geschöpfe teil, [besonders aber] an der Vernunft und dem Verstand, was allen anderen Geschöpfen fehlt', Cicero 'De Legibus' (Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem Göttlichen verbinde.  
 [^18]: 'machi[n]a' und  'paw'.  
 [^19]: Aus Ficino 'De Vita Coelitus Comparanda'.  
 [^20]: 'O Asklepios, der Mensch ist ein großes Wunder. Durch diesen außergewöhnlichen Namen kann sich das menschliche Dasein rühmen: Denn es ist geschehen, dass kein Geschöpf es verschmäht, ihm zu dienen. Erde und Elemente stehen ihm zur Seite; die Tiere sind bereit für ihn und dienen ihm. Für ihn kämpfen die Himmel; für ihn bringen Engel Heil. Es sollte niemanden verwundern, dass er von allen geliebt wird, in dem alles etwas Eigenes findet; ja, alles und alles Eigene erkennen sie in ihm', aus dem 'Asklepios' (Abschnitt 6), einem hermetischen Text, Hermes Trismegistos zugeschrieben, auch zitiert in Picos 'Oratio de hominis dignitate'.
