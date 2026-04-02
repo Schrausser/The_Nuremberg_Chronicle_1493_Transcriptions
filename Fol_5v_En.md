@@ -4,7 +4,7 @@ A *contemporary* English translation is presented from comparing the existing La
 
 ## Of the Sanctification of the Seventh Day
 
-When the world, a work of *divine wisdom*, was completed in six days, heaven and earth created, ordered, and finally adorned, the glorious God finished his work and rested from his (manual) labors on the *seventh* day. This completion, however, did not mean a *ending*, as if he were *tired* of the work, but rather to *not*[^1] create any further creature of other matter or likenesses, especially since the work of creation does not cease to have an effect.
+When the world, a work of *divine wisdom*, was completed in six days, heaven and earth created, ordered, and finally adorned, the glorious God finished his work and rested from his (manual) labors on the *seventh* day. This completion, however, did not mean an *ending*, as if he were *tired* of the work, but rather to *not*[^1] create any further creature of other matter or likenesses, especially since the work of creation does not cease to have an effect.
 
 The Lord blessed and sanctified *this* day and called it *Sabbatum*, which in Hebrew means *rest*[^2], as he rested on that day from all his work. 
 
