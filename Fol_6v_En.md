@@ -6,7 +6,7 @@ A *contemporary* English translation is presented from comparing the existing La
 
 According to the Hebrews, the first age of the world, from *Adam* to the *Flood*, comprised 1656 years, while according to the **Septuagint**, **Isidore** and many others, it was 2242 years, which consequently became the standard time reckoning.
 
-The *supreme goodness*[^1] wishes to impart this goodness to others, therefore it created a rational being who would understand the supreme goodness and thereby love it[^2], possess [the supreme goodness] through this love and be blessed[^3].[^4]
+The *supreme goodness*[^1] wishes to impart this goodness to others, therefore it created a rational being who would understand the supreme goodness and thereby love it[^2], possess it [the supreme goodness] through this love and be blessed[^3].[^4]
 
 God *now*[^5] created the first man by forming his body with the help of the angels from the clay of the earth in the field of *Damascus* and inspiring[^7] his *face* with the *breath of life*[^6], that is[^8], he created a soul[^9] which he united with the formed body. Thus, man was created in his natural attributes in the *image*[^10] of God and in his spiritual gifts[^11] in his *likeness*[^12]. Behold, the Lord bestows wonderful favor[^13] upon us.
 
@@ -37,7 +37,7 @@ God, the supreme creator of all things, thus created on the sixth day of the wor
 [^13]: 'gra[tia]' and 'gnad'.  
 [^14]: 'So when he had first created man in his own image, he also created woman in the image of man, so that the two sexes, united, might produce offspring and fill the whole earth with multitudes', from Lactantius 'Divine Institutes' (Book 2, Chapter 10).  
 [^15]: 'After God had created the living creatures of the earth and the birds, he brought them to Adam so that he might see them. Since no suitable helper was found for Adam, the Lord caused Adam to fall into a deep sleep, took one of his ribs, filled it with flesh, and fashioned a woman from it. When Adam saw her, he said, This is now bone of my bone; she shall be called *Issa*, which in Latin means woman, because she was taken from man', Hebrew *Ishah* (woman) from *Ish* (man), 'Vulgata', Genesis 2:19-23.  
-[^16]: 'costa' and 'ripp', Hebräisch *tsela* (Seite).  
+[^16]: 'costa' and 'ripp', Hebrew *tsela* (side).  
 [^17]: 'capite' and 'haubt'.  
 [^18]: 'latere' and 'seyten'.  
 [^19]: 'p[ro]baret[ur]' and 'zu bewerung'.  
