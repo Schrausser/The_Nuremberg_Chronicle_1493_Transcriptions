@@ -14,15 +14,15 @@ Dadurch, dass Moses eine göttliche *Schöpfung* beschreibt, zeigt er die drei I
 
 (ad 2) Von allen Wesen erschuf er ursprünglich die *Engel*[^8] aus dem was *Nicht* (n[]) ist[^9]. So ist *er* durch die *Ewigkeit* mächtig und durch die Stärke dieser immensen Macht (welche grenzenlos und unermesslich ist[^10]) *gleich* dem Leben des Schöpfers[^11].
 Daher mag es verwunderlich sein, dass zur Schöpfung der Welt im Vorhinein eine Roh-Materie[^12] aus dem *Nicht* vorzubereitet ist.
-So haben es wohl auch die Sarazenen verstanden als sie sagten, dass die Engel von Gott aus der *Finsternis* ins Licht geführt und mit ewiger Freude erfüllt worden seien. Jedoch vergaßen einige von ihnen ihren göttliche Charkter[^13], wandten sich durch *eigene* Abkehr[^14] vom Guten zu Übel[^15] und wurden zu Teufeln (was wir Verbrecher[^16] nennen).
+So haben es wohl auch die Sarazenen verstanden als sie sagten, dass die Engel von Gott aus der *Finsternis* ins Licht geführt und mit ewiger Freude erfüllt worden seien. Jedoch vergaßen einige von ihnen ihren göttliche Charkter[^13], wandten sich durch *eigene* Abkehr[^14] vom Guten zu Übel[^15] und wurden zu Teufeln (was wir Verbrecher[^16] nennen)[^17].
 
-(ad 1) Die Erde war leer, das heißt (wie **Hieronymus** und **die Siebzig**[^17] es deuten) unsichtbar und nicht zusammengefügt[^18] und aufgrund dieses konfusen[^19] Zustandes *Abgrund* (*Abyssum*) genannt, was die Griechen *Chaos* nennen. Das ist[^20] *dreidimensionale* Materie[^21], in grösste Tiefe ausgedehnt[^22]. 
+(ad 1) Die Erde war leer, das heißt (wie **Hieronymus** und **die Siebzig**[^18] es deuten) unsichtbar und nicht zusammengefügt[^19] und aufgrund dieses konfusen[^20] Zustandes *Abgrund* (*Abyssum*) genannt, was die Griechen *Chaos* nennen. Das ist[^21] *dreidimensionale* Materie[^22], in grösste Tiefe ausgedehnt[^23]. 
 
 Auch Ovid erinnert sich daran:
 
 >Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.
 
-So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wassern, wie der *Wille* eines Baumeisters, der alles organisiert was zu tun ist. Dadurch sind die Werke Gottes vollkommen und drückt sich die Schöpfung in der *Sechserzahl*[^23] aus, deren Bestandteile 1, 2 und 3 sind, welche sich zu einem Dreieck erheben[^24]. Moses widmet in seinem Bericht über die sechs Tage den ersten Tag (i) der Schöpfung, den zweiten und dritten Tag (ii) der Ordnung und Gestaltung und (iii) die übrigen Tage der Zierde der Welt.
+So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wassern, wie der *Wille* eines Baumeisters, der alles organisiert was zu tun ist. Dadurch sind die Werke Gottes vollkommen und drückt sich die Schöpfung in der *Sechserzahl*[^24] aus, deren Bestandteile 1, 2 und 3 sind, welche sich zu einem Dreieck erheben[^25]. Moses widmet in seinem Bericht über die sechs Tage den ersten Tag (i) der Schöpfung, den zweiten und dritten Tag (ii) der Ordnung und Gestaltung und (iii) die übrigen Tage der Zierde der Welt.
 
 [^1]: 'dan[n] sie begreüft durch sich selbs nichtzit'.  
 [^2]: 'ydeas' und 'die vorpildnus oder gestaltnus seiner geschöpff'.  
@@ -31,23 +31,24 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^5]: 'prude[n]tissim[us]'.  
 [^6]: 'vt'.  
 [^7]: 'tam[que]m riu[us]' und 'als ein pach'.  
-[^8]: Die intellektuelle Welt, s. fol. 1r 'quem theologi angelicum: philosophi: autem intellectualem vocant'.
+[^8]: Die intellektuelle Welt, s. fol. 1r 'quem theologi angelicum: philosophi: autem intellectualem vocant'.  
 [^9]: 'ex eo q[uo]d n[] e[st]' und 'auß de[n] das nicht ist'.  
 [^10]: 'q[uam] fine ac mo[do] caret' und  'die des ends vn[d] der maß mangelt'.  
 [^11]: 'sic[ut] vita facturis' vs. 'als das lebe[n] des Schöpffers'.  
 [^12]: 'materia[m] de q[ua] faceret' und 'ein materi daraus er machet'.   
 [^13]: 'indolis' und 'einpildung'.  
-[^14]: 'verkerung'.  
+[^14]: 'verkerung', pervertierung.  
 [^15]: 'ex bono p[er] se malu[m] effectu[m]' und 'vo[m] gůtten zum ubel getretten'.   
 [^16]: 'greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us]'.  
-[^17]: 'septinge[n]ta', 700 vs. 'die .lxx. auslege[r]'.  
-[^18]: 'i[n]co[m]posita' und 'vnzesamen gefügt'.  
-[^19]: '[con]fusio[n]e' und 'zestrewlichkeit'.  
-[^20]: 'i[d est]'.  
-[^21]: 'materia[m] trino dime[n]su' und 'materi mit driueltiger ermessung'.  
-[^22]: 'i[n] altissimas profunditates extensam'.  
-[^23]: 'senario numero' und 'in sechser zall'.  
-[^24]: 'que in trigonu[m] surga[n]t'.
+[^17]:  Im Kontext des *4. Jahrhunderts* verwendete man die Bezeichnung *Sarazenen*, für nomadische Stämme der syrisch-arabischen Wüste, die über eine durchaus *nenneswerte* militärische Stärke verfügten. ***Mavia*** (*Mawiyya*) eine arabische Herrscherin, führte im südlichen Syrien einen Aufstand gegen das Römische Imperium an.  
+[^18]: 'septinge[n]ta', 700 vs. 'die .lxx. auslege[r]'.  
+[^19]: 'i[n]co[m]posita' und 'vnzesamen gefügt'.  
+[^20]: '[con]fusio[n]e' und 'zestrewlichkeit'.  
+[^21]: 'i[d est]'.  
+[^22]: 'materia[m] trino dime[n]su' und 'materi mit driueltiger ermessung'.  
+[^23]: 'i[n] altissimas profunditates extensam'.  
+[^24]: 'senario numero' und 'in sechser zall'.  
+[^25]: 'que in trigonu[m] surga[n]t'.
 
 
 
