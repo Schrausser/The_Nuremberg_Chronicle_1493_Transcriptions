@@ -28,9 +28,9 @@ From these, one forms *twelve orbits*[^24] of the world that surround *earth and
 [^3]: 'empyreum' and 'feürigen'.  
 [^4]: 'vero'.  
 [^5]: 'celu[m] stellarum' and 'gestirnt himel'.  
-[^6]: 'aquei', in medieval thought, this was the sphere above the stars, often associated with the *waters above the firmament* mentioned in Genesis.
+[^6]: 'aquei', in medieval thought, this was the sphere above the stars, often associated with the *waters above the firmament* mentioned in Genesis.  
 [^7]: 'materie prime' and 'erste[n] materi'  
-[^8]: 's[ecundum] philosophu[m]' and 'nach sag des weysen', in this context, it almost always refers to Aristotle. 
+[^8]: 's[ecundum] philosophu[m]' and 'nach sag des weysen', in this context, it almost always refers to Aristotle.  
 [^9]: 'mouent[ur]' and 'bewegt werden'.  
 [^10]: 'vero' and 'Aber'.  
 [^11]: 'olimpium' and 'liecht'.  
