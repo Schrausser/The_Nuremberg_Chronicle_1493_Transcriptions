@@ -24,7 +24,7 @@ Regarding the *heavenly* nature (I), several authors have indeed made a *threefo
 
 The superheavenly hierarchy (i) exists in three persons, as some have claimed, *however erroneously*, because according to **Dionysius**, *hierarchy* implies an order, but such an order does not exist absolutely in the three persons, except as a natural order.[^31]
 
-The *heavenly* (ii) is divided into the *Order of Angels*, the *lesser heavenly* (iii) into *holy persons*. Furthermore, the *heavenly* hierarchy (ii) is divided into the (a) upper, the (b) middle and the (c) lower levels. The upper level (a) comprises three orders, the (a1) *Seraphim*, the (a2) *Cherubim* and the (a3) ​​*Throne Angels*.
+The *heavenly* (ii) is divided into the *Order of Angels*, the *subheavenly* (iii) into *holy persons*. Furthermore, the *heavenly* hierarchy (ii) is divided into the (a) upper, the (b) middle and the (c) lower levels. The upper level (a) comprises three orders, the (a1) *Seraphim*, the (a2) *Cherubim* and the (a3) ​​*Throne Angels*.
 
 
 ### From time or ages.
