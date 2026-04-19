@@ -46,7 +46,7 @@ Aus diesen bilde man *zwölf Umlaufbahn*[^24] der Welt, die *Erde und Wasser* (i
 [^18]: 'demones' und 'teüfel'.  
 [^19]: 'caliginosum' und 'tunckeln'.  
 [^20]: 'detrusi' und 'verstössen'.  
-[^21]: findet sich insbesondere im Handbuch der christlichen Lehre, dem 'Elucidarium', ein häufiger theologischer Bezug auf das *atmosphärische Gefängnis*, in dem gefallene Engel bis zum Jüngsten Gericht verweilen, vgl. Epheser oder 2 Petrus 2,4 'da Gott die Engel, die gesündigt hatten, nicht verschonte, sondern sie in die <ins>*Hölle*</ins> stieß und sie in *finstere Ketten* legte, [...]'. Man Beachten hier besonders die '*finstere Ketten*', welche die vollständige Gefangenschaft und *Trennung von* <ins>*Gottes Licht*</ins> symbolisieren.  
+[^21]: findet sich insbesondere im Handbuch der christlichen Lehre, dem 'Elucidarium', ein häufiger theologischer Bezug auf das *atmosphärische Gefängnis*, in dem gefallene Engel bis zum Jüngsten Gericht verweilen, vgl. Epheser oder 2 Petrus 2,4 'da Gott die Engel, die gesündigt hatten, nicht verschonte, sondern sie in die <ins>*Hölle*</ins> stieß und sie in *finstere Ketten* legte, [...]'. Man Beachten hier besonders die '*finsteren Ketten*', welche die vollständige Gefangenschaft und *Trennung von* <ins>*Gottes Licht*</ins> symbolisieren.  
 [^22]: 'tempestates' und 'ungestümigkeit'.  
 [^23]: vgl. Francesco Maria Guazzos 'Compendium Maleficarum'.  
 [^24]: 'orbes' und 'umbkrais'.  
