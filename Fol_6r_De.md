@@ -16,10 +16,12 @@ In ähnlicher Weise hat die Luft (ii) drei Abschnitte, den (a) *obersten*, der a
 
 Aus diesen bilde man *zwölf Umlaufbahn*[^24] der Welt, die *Erde und Wasser* (iii, iv) umgeben, welche alle *Himmel* genannt werden können. Doch diese übertrifft[^25] der *Himmel der Dreifaltigkeit*, <ins>*Gott selbst*</ins>[^26], der *unter allen* Dinge[^27] und *jenseits aller* Dinge[^28] ist.
 
-
-
+Die Entfernungen der *vorgenannten*[^29] Umlaufbahnen und Planeten betragen von der Erde zum Mond 15625 Meilen; *Meilen, das sind* ***126*** *Stadien*[^30]. Vom Mond zum Merkur sind es 7812.5 Meilen. Vom Merkur zur Venus ist es die gleiche Entfernung. Von der Venus zur Sonne sind es 22436 Meilen. Von der Sonne zum Mars sind es 15625 Meilen. Vom Mars zum Jupiter sind es 7812 Meilen. Vom Jupiter zum Saturn ist es die gleiche Entfernung. Vom Saturn zum Firmament sind es 22436 Meilen. Daraus ergibt sich, dass die Entfernung von der Erde zum Sternenhimmel 109375 Meilen beträgt.
 
 ### Die Unterscheidung der himmlischen Hierarchien [Macht oder Fürstentümer]
+
+Was die *himmlische* Natur (I) betrifft, so haben etliche Autoren in der Tat eine *dreifache* Unterscheidung getroffen, in eine (i) *überhimmlische* (oder das *Übernatürliche*), eine (ii) *himmlische* und eine (iii) *unterhimmlische*.
+
 
 ### Von der Zeit oder den Zeitaltern.
 
@@ -54,6 +56,8 @@ Aus diesen bilde man *zwölf Umlaufbahn*[^24] der Welt, die *Erde und Wasser* (i
 [^26]: 'ipse deus' und 'der got'.  
 [^27]: 'in omnibus' und 'in allen'.  
 [^28]: 'super om[n]ia' und 'über alle'.  
+[^29]: 'predictorum' und 'vorgenante[n]'.  
+[^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750  = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies entspricht jedoch der Entfernung des Mond vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
 
 
 

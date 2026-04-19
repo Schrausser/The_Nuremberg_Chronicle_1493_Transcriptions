@@ -16,8 +16,11 @@ Similarly, the air (ii) has three sections, the (a) *uppermost*, which is called
 
 From these, one forms *twelve orbits*[^24] of the world that surround *earth and water* (iii, iv), which can all be called *heavens*. But these are surpassed[^25] by the *heaven of the Trinity*, <ins>*God Himself*</ins>[^26], who is *among all* things[^27] and *beyond all* things[^28].
 
+The distances of the *forementioned*[^29] orbits and planets from the Earth to the Moon are 15625 miles; *miles, that is* ***126*** *stadia*[^30]. The distance from the Moon to Mercury is 7812.5 miles. The distance from Mercury to Venus is the same. The distance from Venus to the Sun is 22436 miles. From the Sun to Mars it is 15625 miles. From Mars to Jupiter it is 7812 miles. The distance from Jupiter to Saturn is the same. From Saturn to the firmament it is 22436 miles. Therefore, the distance from Earth to the stars is 109375 miles.
 
 ### The distinction between the heavenly hierarchies [power or principalities]
+
+Regarding the *heavenly* nature (I), several authors have indeed made a *threefold* distinction between a (i) *superheavenly* (or the *supernatural*), a (ii) *heavenly* and a (iii) *subheavenly*.
 
 
 ### From time or ages.
@@ -51,6 +54,8 @@ From these, one forms *twelve orbits*[^24] of the world that surround *earth and
 [^26]: 'ipse deus' and 'der got'.  
 [^27]: 'in omnibus' and 'in allen'.  
 [^28]: 'super om[n]ia' and 'über alle'.  
+[^29]: 'predictorum' and 'vorgenante[n]'.  
+[^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769375 km. However, this corresponds to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
 
 
 
