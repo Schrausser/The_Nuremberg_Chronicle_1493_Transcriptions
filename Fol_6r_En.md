@@ -22,6 +22,10 @@ The distances of the *forementioned*[^29] orbits and planets from the Earth to t
 
 Regarding the *heavenly* nature (I), several authors have indeed made a *threefold* distinction between a (i) *superheavenly* (or the *supernatural*), a (ii) *heavenly* and a (iii) *subheavenly*.
 
+The superheavenly hierarchy (i) exists in three persons, as some have claimed, *however erroneously*, because according to **Dionysius**, *hierarchy* implies an order, but such an order does not exist absolutely in the three persons, except as a natural order.[^31]
+
+The *heavenly* (ii) is divided into the *Order of Angels*, the *lesser heavenly* (iii) into *holy persons*. Furthermore, the *heavenly* hierarchy (ii) is divided into the (a) upper, the (b) middle and the (c) lower levels. The upper level (a) comprises three orders, the (a1) *Seraphim*, the (a2) *Cherubim* and the (a3) ​​*Throne Angels*.
+
 
 ### From time or ages.
 
@@ -56,6 +60,7 @@ Regarding the *heavenly* nature (I), several authors have indeed made a *threefo
 [^28]: 'super om[n]ia' and 'über alle'.  
 [^29]: 'predictorum' and 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560.625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769.375 km. However, this corresponds to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
+[^31]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite defined whether the term hierarchy can be applied to the Holy Trinity.  
 
 
 

@@ -22,10 +22,12 @@ Die Entfernungen der *vorgenannten*[^29] Umlaufbahnen und Planeten betragen von 
 
 Was die *himmlische* Natur (I) betrifft, so haben etliche Autoren in der Tat eine *dreifache* Unterscheidung getroffen, in eine (i) *überhimmlische* (oder das *Übernatürliche*), eine (ii) *himmlische* und eine (iii) *unterhimmlische*.
 
+Die überhimmlische Hierarchie (i) existiere in drei Personen, wie manche behauptet haben, *jedoch fälschlicherweise*, denn laut **Dionysios** impliziert *Hierarchie* eine Ordnung, jedoch eine solche Ordnung existiert in den drei Personen nicht absolut, außer als Naturordnung.[^31]
+
+Die *himmlische* (ii) ist in den *Orden der Engel*, die *unterhimmlische* (iii) in *heiligen Menschen*. Des Weiteren ist die *himmlische* Hierarchie (ii) in die (a) obere, die (b) mittlere und die (c) untere Ebene unterteilt. Die obere Ebene (a) umfasst drei Ordnungen, die (a1) *Seraphim*, die (a2) *Cherubim* und die (a3) *Thronengel*.
+
 
 ### Von der Zeit oder den Zeitaltern.
-
-
 
 
 [^1]: 'orbitu[m]' und 'umbkreys'.  
@@ -57,7 +59,9 @@ Was die *himmlische* Natur (I) betrifft, so haben etliche Autoren in der Tat ein
 [^27]: 'in omnibus' und 'in allen'.  
 [^28]: 'super om[n]ia' und 'über alle'.  
 [^29]: 'predictorum' und 'vorgenante[n]'.  
-[^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750  = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies entspricht jedoch der Entfernung des Mond vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
+[^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750 = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies entspricht jedoch der Entfernung des Mond vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
+[^31]: '... vt q[ui]dam dixerunt [et] male ...', von Pseudo-Dionysius Areopagita definiert, ob der Begriff Hierarchie auf die Heilige Dreifaltigkeit angewendet werden kann.  
+
 
 
 
