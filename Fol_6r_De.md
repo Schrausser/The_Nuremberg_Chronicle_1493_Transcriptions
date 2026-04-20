@@ -24,14 +24,17 @@ Was die *himmlische* Natur (I) betrifft, so haben etliche Autoren in der Tat ein
 
 Die überhimmlische Hierarchie (i) existiere in drei Personen, wie manche behauptet haben, *jedoch fälschlicherweise*, denn laut **Dionysios** impliziert *Hierarchie* eine Ordnung, jedoch eine solche Ordnung existiert in den drei Personen nicht absolut, außer als Naturordnung.[^31]
 
-Die *himmlische* (ii) ist in den *Orden der Engel*, die *unterhimmlische* (iii) in *heiligen Menschen*. Des Weiteren ist die *himmlische* Hierarchie (ii) in die (a) obere, die (b) mittlere und die (c) untere Ebene unterteilt. Die obere Ebene (a) umfasst drei Ordnungen, die (a1) *Seraphim*, die (a2) *Cherubim* und die (a3) *Thronengel*.
+Die *himmlische* (ii) ist in den *Orden der Engel*, die *unterhimmlische* (iii) in *heiligen Menschen*. Des Weiteren ist die *himmlische* Hierarchie (ii) in die (a) obere, die (b) mittlere und die (c) untere Ebene unterteilt. Die obere Ebene (a) umfasst drei Ordnungen, die (a1) *Seraphim*, die (a2) *Cherubim* und die (a3) *Thronengel*.Die ersten (a1) erwägen[^32] Gottes *Wohlwollen*[^33], die zweiten (a2) seine *Größe*[^34], die dritten (a3) seine *Angemessenheit*[^35]. Dem gemäß *liebt* Gott in den ersten (a1) durch die *Nächstenliebe*[^36], in den zweiten (a2) erkennt er durch *Wahrheit*, in den dritten (a3) residiert[^37] er in *Gerechtigkeit*[^38].[^39]
 
-Die ersten (a1) erwägen[^32] Gottes *Wohlwollen*[^33], die zweiten (a2) seine *Größe*[^34], die dritten (a3) seine *Angemessenheit*[^35]. Ebenso *liebt* Gott in den ersten (a1) durch die *Nächstenliebe*[^36], in den zweiten (a2) erkennt er durch *Wahrheit*, in den dritten (a3) residiert[^37] er in *Gerechtigkeit*[^38].[^39]
+Die mittlere Hierarchie (b) umfasst (b1) *Herrsch-*[^40], (b2) *Fürsten-*[^41] und (b3) *Gewaltengel*[^42]. Die ersten (b1) regieren die Aufgaben der Engel, die *folgenden*[^43] sind *Berater*[^44] der Oberhäupter der Völker. Die *letzten* (b3) unterdrücken[^45] die *Fähigkeit*[^46] der *'Teufel'*[^47]. Ebenso *herrscht* der Herr unter den ersten (b1) als *Majestät*, unter den folgenden[^48] (b2) *regiert* er durch *ein Fürstentum*[^49], durch die letzten (b3) wird er *als 'gesund' gehalten*[^50].
+
+Die untere Hierarchie (c) umfasst ebenfalls drei Ordnungen, (c1) *Kraftengel*[^51], (c2) *Erzengel* und (c3) *Engel*. Den Kraftengeln (c1) obliegt die Vollbringung großer Wunder, den Erzengeln (c2) die *Verkündigung* wichtiger Angelegenheiten, die Engel (c3) sorgen für den *Schutz* der Menschen. So wirkt Gott in den ersten (c1) als eine *Kraft*[^52], in den *folgenden* (c2) offenbart er sich als *Licht*, in den dritten (c3) *nährt* er als *Inspiration*[^53].
+
+Dies laut [Papst] **Gregor**.[^54]. Nach **Dionysios**, jedoch bilden die *Kraftengel* (c1) die mittlere Ordnung der zweiten Hierarchie (b2), die *Fürstenengel* (b2) hingegen die erste Ordnung der dritten Hierarchie (c1). Dies ist zu beachten, damit wird die *Trinität der göttlichen Person*[^55] in *jeder* der *drei* genannten Hierarchien (i, ii, [iii]), auf allen Ebenen, der oberen (1), mittleren (2) und unteren (3) gleichermaßen, so wie[^56] in der himmlischen Hierarchie (ii), sichtbar.[^57]
 
 
 
-
-### Von der Zeit oder den Zeitaltern.
+### Von der Zeit oder den Zeitaltern
 
 
 [^1]: 'orbitu[m]' und 'umbkreys'.  
@@ -73,7 +76,31 @@ Die ersten (a1) erwägen[^32] Gottes *Wohlwollen*[^33], die zweiten (a2) seine *
 [^37]: 'sedet' und 'sitzt'.  
 [^38]: 'equitas' und 'gleicheit'.  
 [^39]: von Pseudo-Dionysius Areopagita, oft auch dem heiligen Gregor dem Großen zugeschrieben, auch adaptiert von Meister Eckhart, widerspiegelt seine trinitarische Theologie, in welcher er die verschiedene Arten der *Gotteswahrnehmung* mit den drei *Personen* der Dreifaltigkeit in Einklang bringt.  
-[^40]: 
+[^40]: 'dominat[i]ones' und 'herschengel'.  
+[^41]: 'principatus' und 'fürstengel'.  
+[^42]: 'potestates' und 'gewaltengel', besser *Fähigkeit*, *Können*.    
+[^43]: 'Sequentes' und 'die andern'.  
+[^44]: 'capitibunt p[re]sunt' und 'pflegen der öbern'.  
+[^45]: 'coercent' und 'zwinge[n]'.  
+[^46]: 'potestatem' und 'macht'.  
+[^47]: 'demonu[m]' und 'teüfel', *der Verbrecher*.  
+[^48]: 'in sequentibus' und 'in den andern'.  
+[^49]: 'principat[us]' und 'fürstenthumb'.  
+[^50]: 'tenet[ur] vt salus' und 'gehalte[n] als das hail'.  
+[^51]: 'virtutes' und 'kreftengel'.  
+[^52]: 'virt[us]' und 'kraft'.  
+[^53]: 'inspira[n]s' und 'eyngeystender'.  
+[^54]: 'Hec dicta sunt s[ecundu]m Gregoriu[m]', in mittelalterlichen Handschriften üblich, kennzeichnete die vorhergehende Passage als zitiert vom Werk Papst Gregors I.  
+[^55]: 'trinitas p[er]sonarum diuinarum' und 'trinitet der gottliche[n] person'.  
+[^56]: 'vt patet'.  
+[^57]: Thomas von Aquin führte dies in Werken wie der 'Summa Theologica' weiter aus und folgte der dionysischen Struktur. Dass jede Hierarchie die *Trinität göttlicher Personen* widerspiegelt, ist ein zentrales Thema der mittelalterlichen Scholastik.  
+
+
+
+
+
+
+
 
 
 
