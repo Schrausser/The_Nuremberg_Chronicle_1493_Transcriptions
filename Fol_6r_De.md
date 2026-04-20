@@ -26,6 +26,10 @@ Die überhimmlische Hierarchie (i) existiere in drei Personen, wie manche behaup
 
 Die *himmlische* (ii) ist in den *Orden der Engel*, die *unterhimmlische* (iii) in *heiligen Menschen*. Des Weiteren ist die *himmlische* Hierarchie (ii) in die (a) obere, die (b) mittlere und die (c) untere Ebene unterteilt. Die obere Ebene (a) umfasst drei Ordnungen, die (a1) *Seraphim*, die (a2) *Cherubim* und die (a3) *Thronengel*.
 
+Die ersten (a1) erwägen[^32] Gottes *Wohlwollen*[^33], die zweiten (a2) seine *Größe*[^34], die dritten (a3) seine *Angemessenheit*[^35]. Ebenso *liebt* Gott in den ersten (a1) durch die *Nächstenliebe*[^36], in den zweiten (a2) erkennt er durch *Wahrheit*, in den dritten (a3) residiert[^37] er in *Gerechtigkeit*[^38].[^39]
+
+
+
 
 ### Von der Zeit oder den Zeitaltern.
 
@@ -61,6 +65,18 @@ Die *himmlische* (ii) ist in den *Orden der Engel*, die *unterhimmlische* (iii) 
 [^29]: 'predictorum' und 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750 = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies entspricht jedoch der Entfernung des Mond vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
 [^31]: '... vt q[ui]dam dixerunt [et] male ...', von Pseudo-Dionysius Areopagita definiert, ob der Begriff Hierarchie auf die Heilige Dreifaltigkeit angewendet werden kann.  
+[^32]: '[con]siderant' und 'betrachten'.  
+[^33]: 'bonitate[m]' und 'guttheit'.  
+[^34]: 'virtute[m]' und 'kraft'.  
+[^35]: 'equitate[m]' und 'gleicheit'.  
+[^36]: 'charitas' und 'lib'.  
+[^37]: 'sedet' und 'sitzt'.  
+[^38]: 'equitas' und 'gleicheit'.  
+[^39]: von Pseudo-Dionysius Areopagita, oft auch dem heiligen Gregor dem Großen zugeschrieben, auch adaptiert von Meister Eckhart, widerspiegelt seine trinitarische Theologie, in welcher er die verschiedene Arten der *Gotteswahrnehmung* mit den drei *Personen* der Dreifaltigkeit in Einklang bringt.  
+[^40]: 
+
+
+
 
 
 

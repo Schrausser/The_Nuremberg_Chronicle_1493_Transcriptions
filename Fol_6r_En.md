@@ -26,6 +26,8 @@ The superheavenly hierarchy (i) exists in three persons, as some have claimed, *
 
 The *heavenly* (ii) is divided into the *Order of Angels*, the *subheavenly* (iii) into *holy persons*. Furthermore, the *heavenly* hierarchy (ii) is divided into the (a) upper, the (b) middle and the (c) lower levels. The upper level (a) comprises three orders, the (a1) *Seraphim*, the (a2) *Cherubim* and the (a3) ​​*Throne Angels*.
 
+The first (a1) consider[^32] God's *benevolence*[^33], the second (a2) his *greatness*[^34], the third (a3) ​​his *appropriateness*[^35]. Likewise, God *loves* in the first (a1) through *charity*[^36], in the second (a2) he recognizes through *truth*, in the third (a3) ​​he resides[^37] in *justice*[^38].[^39]
+
 
 ### From time or ages.
 
@@ -61,6 +63,14 @@ The *heavenly* (ii) is divided into the *Order of Angels*, the *subheavenly* (ii
 [^29]: 'predictorum' and 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560.625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769.375 km. However, this corresponds to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
 [^31]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite defined whether the term hierarchy can be applied to the Holy Trinity.  
+[^32]: '[con]siderant' and 'betrachten'.  
+[^33]: 'bonitate[m]' and 'guttheit'.  
+[^34]: 'virtute[m]' and 'kraft'.  
+[^35]: 'equitate[m]' and 'gleicheit'.  
+[^36]: 'charitas' and 'lib'.  
+[^37]: 'sedet' and 'sitzt'.  
+[^38]: 'equitas' and 'gleicheit'.  
+[^39]: by Pseudo-Dionysius the Areopagite, often also attributed to Saint Gregory the Great, and also adapted by Meister Eckhart, reflects his Trinitarian theology, in which he harmonizes the different ways of *perceiving God* with the three *persons* of the Trinity.  
 
 
 
