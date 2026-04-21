@@ -32,9 +32,23 @@ Die untere Hierarchie (c) umfasst ebenfalls drei Ordnungen, (c1) *Kraftengel*[^5
 
 Dies laut [Papst] **Gregor**.[^54]. Nach **Dionysios**, jedoch bilden die *Kraftengel* (c1) die mittlere Ordnung der zweiten Hierarchie (b2), die *Fürstenengel* (b2) hingegen die erste Ordnung der dritten Hierarchie (c1). Dies ist zu beachten, damit wird die *Trinität der göttlichen Person*[^55] in *jeder* der *drei* genannten Hierarchien (i, ii, [iii]), auf allen Ebenen, der oberen (1), mittleren (2) und unteren (3) gleichermaßen, so wie[^56] in der himmlischen Hierarchie (ii), sichtbar.[^57]
 
-
-
 ### Von der Zeit oder den Zeitaltern
+
+Die Zeitalter der Welt werden sinnbildlich nach den *Altersabschnitten* des Menschen verstanden. Von den sechs Zeitalter[^58] der Welt, beginnt das erste (I) mit der *Welt Schöpfung* und dauert bis zur Sintflut. Gemäß der hebräischen Darstellung[^59] waren es 1656 Jahre[^60], nach der **Septuaginta** (wie **Isidor** erklärt) und vielen anderen, denen wir hier folgen, waren es jedoch 2242 Jahre.
+
+Und so unterscheiden sie sich also um die 586 [*686*] Jahre, welche die Hebräer in diesem Zeitalter weniger haben.[^61] Nach dieser Berechnung starb *Methusalem*[^62] zwar vor der Sintflut, jedoch noch im selben Jahr, in dem die Sintflut stattfand.
+
+Das zweite[^63] Zeitalter (II) beginnt mit der Sintflut und dauert bis zur Geburt Abrahams, nach den Hebräern dauerte es 292 Jahre[^64], nach der Septuaginta 942 Jahre. Somit beträgt der Unterschied 650 [*660*] Jahre, welche die Hebräer wiederum weniger haben. Doch worin der Grund für diese großen Unterschiede liegt, *konnte ich nicht herausfinden*[^65].
+
+Das Dritte Zeitalter (III)  beginnt mit der Geburt Abrahams und dauerte bis zum Beginn der Herrschaft Davids. Nach den Hebräern umfasste es 941 Jahre, nach der Septuaginta 940 Jahre. Das vierte Zeitalter (IV) beginnt mit der Herrschaft Davids und dauert bis zur babylonischen Gefangenschaft[^66], es umfasst 484 Jahre nach den Hebräern und 485 Jahre nach der Septuaginta.
+
+Das fünfte Zeitalter (V) beginnt mit der Babylonischen Gefangenschaft genauer gesagt mit der Zerstörung Jerusalems und der Zerstörung des darin befindlichen Tempels und dauerte bis zur Geburt Christi. Nach dem oben genannten Modus, dem wir hier folgen, umfasst es 590 Jahre. Hier herrscht eine große Uneinigkeit über die Berechnung der Jahre dieses Zeitalters, manche berechnen sie in unterschiedlichen Weisen.
+
+Das sechste Zeitalter (VI) beginnt mit der Geburt Christi und dauert bis zum *Ende der Welt*, dessen *Termin*[^67] allein Gott kennt. Dies wird *Alter*[^68] oder die *jüngste Stunde*[^69] genannt. Zu diesen Zeitaltern aber mag man noch ein *7. Zeitalter* hinzufügen, jenes derer, die nun *ruhen*[^70], welches gleichzeitig mit dem sechsten Zeitalter (VI) stattfindet. Sowie ein *8. Zeitalter*, jenes derer, die *auferstehen*[^71].
+
+Ferner gibt es nach den Hebräern im ersten Zeitalter der Welt (I) 10 Generationen, im zweiten (II) 10, im dritten (III) 14, im vierten (IV) 17, **Matthäus** gibt jedoch um die *mystische Bedeutung*[^72] hervorzuheben 14 an, sowie im fünften 14.
+
+Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindheit*[^73], von der Geburt bis zum 7. Lebensjahr. Das (II) zweite ist die *Kindheit*[^74] bis zum 14. Lebensjahr. Das (III) dritte ist die *'Jugend'*[^75], vom 15. bis zum 38. Lebensjahr. Das (IV) vierte ist das *junge Alter*[^76] bis zum 49. Lebensjahr. Das (V) fünfte ist das *Alter*[^77], vom 50. bis zum 79. Lebensjahr. Das (VI) sechste ist das *hohe Alter*[^78], vom 80. Lebensjahr bis bis zu dem Ende des Lebens.
 
 
 [^1]: 'orbitu[m]' und 'umbkreys'.  
@@ -94,23 +108,26 @@ Dies laut [Papst] **Gregor**.[^54]. Nach **Dionysios**, jedoch bilden die *Kraft
 [^55]: 'trinitas p[er]sonarum diuinarum' und 'trinitet der gottliche[n] person'.  
 [^56]: 'vt patet'.  
 [^57]: Thomas von Aquin führte dies in Werken wie der 'Summa Theologica' weiter aus und folgte der dionysischen Struktur. Dass jede Hierarchie die *Trinität göttlicher Personen* widerspiegelt, ist ein zentrales Thema der mittelalterlichen Scholastik.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^58]: vom Heiligen Augustinus populär gemachtes christliches Geschichtsverständnis. In 'De civitate Dei', legte er die Grundlage für diesen chronologischen Rahmen, während des Niederganges des West Römischen Imperiums, als eine umfassende christliche Interpretation von *Menschheitsgeschichte* und dem Verhältnis zwischen der *geistlichen und weltlichen* Welt.  
+[^59]: 'hebraicam veritate[m]' und 'nach hebreyscher warheit', bezog sich auf den *ursprünglichen* hebräischen Text der Bibel, im Gegensatz zur griechischen *Septuaginta*.  
+[^60]: '.i656.' vs. '.im.vc. lvi.', 1656 vs. 1556.  
+[^61]: charakteristisch für Isidor von Sevilla oder Beda, diese brachten die unterschiedlichen Zeitabläufe in Einklang.  
+[^62]: 'matusale mortuus' und 'matusaleh gestorben', ein häufiges chronologisches Problem in der mittelalterlichen Forschung, ob Methusalem die Sintflut überlebt hatte.  
+[^63]: 'S[e]c[un]da' und 'Das andre'.  
+[^64]: '292' vs. '.ijc.lxxxij.', 292 vs 282.  
+[^65]: 'inuenire no[n] potui' und 'nicht <ins>möge[n]</ins> finden'.  
+[^66]: 'transmigrat[i]o[n]is babilonis' und 'übergang babilonis'.  
+[^67]: 'terminum' und 'zil'.  
+[^68]: 'senectus' und 'das alt'.  
+[^69]: 'hora nouissima' und 'letzt stu[n]d', bekannt als erster Satz von Bernhard von Clunys 'De Contemptu Mundi', in dem er die Verderbnis der Welt und das Herannahen des Endes beschreibt.  
+[^70]: 'quiescentium' und 'die nw ruen'.  
+[^71]: 'resurgentium' und 'auffersteenden'.  
+[^72]: 'gratia misterij' und 'aus verborgener bedeütnus', die historischen Aufzeichnungen hatte zwar 17 Generationen im vierten Zeitalter, das Matthäusevangelium (Matthäus 1,17) teilt jedoch die Genealogie Jesu absichtlich in drei Gruppen zu je 14 ein. Dieses dient weniger zur *historisch korrekten* Darstellung, sondern ist viel mehr eine *mystische* Symbolisierung im Rahmen der *hermeneutischen* Technik der *Gematria* (wobei Buchstaben des Alphabets numerische Werte zugeordnet werden). Bemerkenswert ist hier jedoch, dass Matthäus offensichtlich mehrere Namen aus den historischen Aufzeichnungen *weggelassen* hat, um die Zählung in drei Gruppen von je 14 unterteilen zu *können*.  
+[^73]: 'infantia' und 'ungesprechheyt'.  
+[^74]: 'puericia' und 'kintheit'.  
+[^75]: 'adolesce[n]tia' und 'zeittigkeit'.  
+[^76]: 'iuue[n]t[us]' und 'iuge[n]t'.  
+[^77]: 'senect[us]' und 'altheit'.  
+[^78]: 'decrepita' und 'das verlebt'.  
 
 

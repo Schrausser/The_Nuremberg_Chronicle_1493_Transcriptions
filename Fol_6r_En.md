@@ -34,8 +34,23 @@ The lower hierarchy (c) also includes three orders, (c1) *Virtues*[^51], (c2) *A
 
 This according to [Pope] **Gregor**.[^54]. According to **Dionysius**, however, the *Virtues* (c1) form the middle order of the second hierarchy (b2), while the *Prince Angels* (b2) form the first order of the third hierarchy (c1). This must be taken into account so that the *Trinity of the divine Person*[^55] becomes visible in *each* of the *three* hierarchies mentioned (i, ii, [iii]), on all levels, the upper (1), middle (2) and lower (3) equally, as[^56] in the heavenly hierarchy (ii).[^57]
 
-
 ### From time or ages
+
+The ages of the world are understood symbolically according to the *ages of human life*. Of the six ages of the world[^58], the first (I) begins with the *creation of the world* and lasts until the Great Flood. According to the Hebrew account[^58], it was 1656 years[^59], but according to the **Septuagint** (as **Isidore** explains) and many others whom we follow here, it was 2242 years.
+
+And so they differ by 586 years, which the Hebrews have fewer in this age.[^60] According to this calculation, *Methuselah*[^61] died before the Flood, but in the same year in which the Flood took place.
+
+The second[^62] age (II) begins with the Flood and lasts until the birth of Abraham, according to the Hebrews it lasted 292 years[^63], according to the Septuagint 942 years. Thus, the difference is 650 [*660*] years, which the Hebrews have in fewer years. But I *could not find out*[^65] what the reason for these large differences is.
+
+The Third Age (III) begins with the birth of Abraham and lasted until the beginning of David's reign. According to the Hebrews, it comprised 941 years; according to the Septuagint, 940 years. The fourth age (IV) begins with the reign of David and lasts until the Babylonian captivity[^66], it comprises 484 years according to the Hebrews and 485 years according to the Septuagint.
+
+The fifth age (V) begins with the Babylonian captivity, more precisely with the destruction of Jerusalem and the destruction of the temple within it, and lasted until the birth of Christ. According to the aforementioned mode, which we are following here, it comprises 590 years. There is considerable disagreement regarding the calculation of the years of this era; some calculate them in different ways.
+
+The sixth age (VI) begins with the birth of Christ and lasts until the *end of the world*, the *date*[^67] of which only God knows. This is called *old age*[^68] or *the last hour*[^69]. To these ages, however, one may add a *7th age*, that of those who now *rest*[^70], which takes place at the same time as the sixth age (VI). As well as an *eighth age*, that of those who *resurrect*[^71].
+
+Furthermore, according to the Hebrews, there are 10 generations in the first age of the world (I), 10 in the second (II), 14 in the third (III), and 17 in the fourth (IV). However, **Matthew** gives 14 to emphasize the *mystical significance*[^72], and 14 in the fifth..
+
+These are the ages of man: The (I) first is *early childhood*[^73], from birth to the age of 7. The (II) second is *childhood*[^74] up to the age of 14. The (III) third is *'youth'*[^75], from the age of 15 to 38. The (IV) fourth is the *young age*[^76] up to the 49th year of life. The fifth (V) is *age*[^77], from the 50th to the 79th year of life. The (VI) sixth is *old age*[^78], from the 80th year of life until the end of life.
 
 
 [^1]: 'orbitu[m]' and 'umbkreys'.  
@@ -95,6 +110,27 @@ This according to [Pope] **Gregor**.[^54]. According to **Dionysius**, however, 
 [^55]: 'trinitas p[er]sonarum diuinarum' and 'trinitet der gottliche[n] person'.  
 [^56]: 'vt patet'.  
 [^57]: Thomas Aquinas elaborated on this in works such as the 'Summa Theologica' and followed the Dionysian structure. The idea that every hierarchy reflects the *Trinity of divine persons* is a central theme of medieval Scholasticism.  
+[^58]: The Christian understanding of history popularized by Saint Augustine. In 'De civitate Dei', he laid the foundation for this chronological framework during the decline of the Western Roman Empire as a comprehensive Christian interpretation of *human history* and the relationship between the *spiritual and secular* worlds.  
+[^59]: 'hebraicam veritate[m]' und 'nach hebreyscher warheit', referred to the *original* Hebrew text of the Bible, as opposed to the Greek *Septuagint*.  
+[^60]: '.i656.' vs. '.im.vc. lvi.', 1656 vs. 1556.  
+[^61]: Characteristic of Isidore of Seville or Bede, they harmonized the different time periods.  
+[^62]: 'matusale mortuus' and 'matusaleh gestorben', a common chronological problem in medieval research: whether Methuselah survived the Flood.  
+[^63]: 'S[e]c[un]da' and 'Das andre'.  
+[^64]: '292' vs. '.ijc.lxxxij.', 292 vs 282.  
+[^65]: 'inuenire no[n] potui' and 'nicht <ins>möge[n]</ins> finden'.  
+[^66]: 'transmigrat[i]o[n]is babilonis' and 'übergang babilonis'.  
+[^67]: 'terminum' and 'zil'.  
+[^68]: 'senectus' and 'das alt'.  
+[^69]: 'hora nouissima' and 'letzt stu[n]d', known as the first sentence of Bernard of Cluny's 'De Contemptu Mundi', in which he describes the corruption of the world and the approach of the end.  
+[^70]: 'quiescentium' and 'die nw ruen'.  
+[^71]: 'resurgentium' and 'auffersteenden'.  
+[^72]: 'gratia misterij' and 'aus verborgener bedeütnus', while historical records list 17 generations in the fourth age, the Gospel of Matthew (Matthew 1:17) deliberately divides Jesus' genealogy into three groups of 14 each. This serves less as a *historically accurate* representation and more as a *mystical* symbolization within the *hermeneutical* technique of *gematria* (where letters of the alphabet are assigned numerical values). It is noteworthy, however, that Matthew apparently *omitted* several names from the historical records in order to *be able* to divide the count into three groups of 14 each.  
+[^73]: 'infantia' and 'ungesprechheyt'.  
+[^74]: 'puericia' and 'kintheit'.  
+[^75]: 'adolesce[n]tia' and 'zeittigkeit'.  
+[^76]: 'iuue[n]t[us]' and 'iuge[n]t'.  
+[^77]: 'senect[us]' and 'altheit'.  
+[^78]: 'decrepita' and 'das verlebt'.  
 
 
 
