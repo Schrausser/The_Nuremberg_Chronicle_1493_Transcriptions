@@ -36,11 +36,11 @@ This according to [Pope] **Gregor**.[^54] According to **Dionysius**, however, t
 
 ### From time or ages
 
-The ages of the world are understood symbolically according to the *ages of human life*. Of the six ages of the world[^58], the first (I) begins with the *creation of the world* and lasts until the Great Flood. According to the Hebrew account[^58], it was 1656 years[^59], but according to the **Septuagint** (as **Isidore** explains) and many others whom we follow here, it was 2242 years.
+The ages of the world are understood symbolically according to the *ages of human life*. Of the six ages of the world[^58], the first (I) begins with the *creation of the world* and lasts until the Great Flood. According to the Hebrew account[^59], it was 1656 years[^60], but according to the **Septuagint** (as **Isidore** explains) and many others whom we follow here, it was 2242 years.
 
-And so they differ by 586 years, which the Hebrews have fewer in this age.[^60] According to this calculation, *Methuselah*[^61] died before the Flood, but in the same year in which the Flood took place.
+And so they differ by 586 years, which the Hebrews have fewer in this age.[^61] According to this calculation, *Methuselah*[^62] died before the Flood, but in the same year in which the Flood took place.
 
-The second[^62] age (II) begins with the Flood and lasts until the birth of Abraham, according to the Hebrews it lasted 292 years[^63], according to the Septuagint 942 years. Thus, the difference is 650 [*660*] years, which the Hebrews have in fewer years. But I *could not find out*[^65] what the reason for these large differences is.
+The second[^63] age (II) begins with the Flood and lasts until the birth of Abraham, according to the Hebrews it lasted 292 years[^64], according to the Septuagint 942 years. Thus, the difference is 650 [*660*] years, which the Hebrews have in fewer years. But I *could not find out*[^65] what the reason for these large differences is.
 
 The Third Age (III) begins with the birth of Abraham and lasted until the beginning of David's reign. According to the Hebrews, it comprised 941 years; according to the Septuagint, 940 years. The fourth age (IV) begins with the reign of David and lasts until the Babylonian captivity[^66], it comprises 484 years according to the Hebrews and 485 years according to the Septuagint.
 
