@@ -124,7 +124,7 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^69]: 'hora nouissima' and 'letzt stu[n]d', known as the first sentence of Bernard of Cluny's 'De Contemptu Mundi', in which he describes the corruption of the world and the approach of the end.  
 [^70]: 'quiescentium' and 'die nw ruen'.  
 [^71]: 'resurgentium' and 'auffersteenden'.  
-[^72]: 'gratia misterij' and 'aus verborgener bedeütnus', while historical records list 17 generations in the fourth age, the Gospel of Matthew (Matthew 1:17) deliberately divides Jesus' genealogy into three groups of 14 each. This serves less as a *historically accurate* representation and more as a *mystical* symbolization within the *hermeneutical* technique of *gematria* (where letters of the alphabet are assigned numerical values). It is noteworthy, however, that Matthew apparently *omitted* several names from the historical records in order to *be able* to divide the count into three groups of 14 each.  
+[^72]: 'gratia misterij' and 'aus verborgener bedeütnus', while historical records list 17 generations in the fourth age, the Gospel of Matthew (Matthew 1:17) deliberately divides Jesus' genealogy into three groups of 14 each. This serves less as a *historically accurate* representation than as a *mystical* symbolization within the *hermeneutic* technique of *gematria* (where letters of the alphabet are assigned numerical values). It is noteworthy, however, that Matthew apparently *omitted* several names from the historical records in order to *be able* to divide the count into three groups of 14 each.  
 [^73]: 'infantia' and 'ungesprechheyt'.  
 [^74]: 'puericia' and 'kintheit'.  
 [^75]: 'adolesce[n]tia' and 'zeittigkeit'.  
