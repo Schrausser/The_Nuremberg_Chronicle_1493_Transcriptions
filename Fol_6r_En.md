@@ -32,7 +32,7 @@ The middle hierarchy (b) comprises (b1) *Ruler-*[^40], (b2) *Prince-*[^41] and (
 
 The lower hierarchy (c) also includes three orders, (c1) *Virtues*[^51], (c2) *Archangels* and (c3) *Angels*. The Virtues (c1) are responsible for performing great miracles, the archangels (c2) for *proclaiming* important matters, and the angels (c3) for the *protection* of people. Thus, in the first (c1) God acts as a *force*[^52], in the *following* (c2) he reveals himself as *light*, in the third (c3) he *nourishes* as *inspiration*[^53].
 
-This according to [Pope] **Gregor**.[^54]. According to **Dionysius**, however, the *Virtues* (c1) form the middle order of the second hierarchy (b2), while the *Prince Angels* (b2) form the first order of the third hierarchy (c1). This must be taken into account so that the *Trinity of the divine Person*[^55] becomes visible in *each* of the *three* hierarchies mentioned (i, ii, [iii]), on all levels, the upper (1), middle (2) and lower (3) equally, as[^56] in the heavenly hierarchy (ii).[^57]
+This according to [Pope] **Gregor**.[^54] According to **Dionysius**, however, the *Virtues* (c1) form the middle order of the second hierarchy (b2), while the *Prince Angels* (b2) form the first order of the third hierarchy (c1). This must be taken into account so that the *Trinity of the divine Person*[^55] becomes visible in *each* of the *three* hierarchies mentioned (i, ii, [iii]), on all levels, the upper (1), middle (2) and lower (3) equally, as[^56] in the heavenly hierarchy (ii).[^57]
 
 ### From time or ages
 
