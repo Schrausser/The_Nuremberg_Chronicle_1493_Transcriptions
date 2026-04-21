@@ -30,7 +30,7 @@ Die mittlere Hierarchie (b) umfasst (b1) *Herrsch-*[^40], (b2) *Fürsten-*[^41] 
 
 Die untere Hierarchie (c) umfasst ebenfalls drei Ordnungen, (c1) *Kraftengel*[^51], (c2) *Erzengel* und (c3) *Engel*. Den Kraftengeln (c1) obliegt die Vollbringung großer Wunder, den Erzengeln (c2) die *Verkündigung* wichtiger Angelegenheiten, die Engel (c3) sorgen für den *Schutz* der Menschen. So wirkt Gott in den ersten (c1) als eine *Kraft*[^52], in den *folgenden* (c2) offenbart er sich als *Licht*, in den dritten (c3) *nährt* er als *Inspiration*[^53].
 
-Dies laut [Papst] **Gregor**.[^54]. Nach **Dionysios**, jedoch bilden die *Kraftengel* (c1) die mittlere Ordnung der zweiten Hierarchie (b2), die *Fürstenengel* (b2) hingegen die erste Ordnung der dritten Hierarchie (c1). Dies ist zu beachten, damit wird die *Trinität der göttlichen Person*[^55] in *jeder* der *drei* genannten Hierarchien (i, ii, [iii]), auf allen Ebenen, der oberen (1), mittleren (2) und unteren (3) gleichermaßen, so wie[^56] in der himmlischen Hierarchie (ii), sichtbar.[^57]
+Dies laut [Papst] **Gregor**.[^54] Nach **Dionysios**, jedoch bilden die *Kraftengel* (c1) die mittlere Ordnung der zweiten Hierarchie (b2), die *Fürstenengel* (b2) hingegen die erste Ordnung der dritten Hierarchie (c1). Dies ist zu beachten, damit wird die *Trinität der göttlichen Person*[^55] in *jeder* der *drei* genannten Hierarchien (i, ii, [iii]), auf allen Ebenen, der oberen (1), mittleren (2) und unteren (3) gleichermaßen, so wie[^56] in der himmlischen Hierarchie (ii), sichtbar.[^57]
 
 ### Von der Zeit oder den Zeitaltern
 
