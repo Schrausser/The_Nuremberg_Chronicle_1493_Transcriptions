@@ -40,7 +40,7 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^14]: 'verkerung', pervertierung.  
 [^15]: 'ex bono p[er] se malu[m] effectu[m]' und 'vo[m] gůtten zum ubel getretten'.   
 [^16]: 'greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us]'.  
-[^17]:  Im Kontext des *4. Jahrhunderts* verwendete man die Bezeichnung *Sarazenen*, für nomadische Stämme der syrisch-arabischen Wüste, die über eine durchaus *nenneswerte* militärische Stärke verfügten. ***Mavia*** (*Mawiyya*) eine arabische Herrscherin, führte im südlichen Syrien einen Aufstand gegen das Römische Imperium an.  
+[^17]:  Da die zitierten christlichen Autoren fast ausschließlich aus der Zeit vor dem 6. Jahrhundert stammen, muss in diesem Fall davon ausgegangen werden, dass die *Sarazenen* aus dem 4. Jahrhundert gemeint sind, nomadische Stämme der syrisch-arabischen Wüste und es sich daher nicht um einen Bezug zum *Islam* handeln dürfte. Vielmehr scheint es sich auf die *weichenstellenden* Ereignisse um 378 n. Chr. zu beziehen, im Zusammenhang mit der verheerenden Niederlage des Weströmischen Reiches gegen die Goten bei Adrianopel und der Beteiligung der *Sarazenen* unter *Mavia* (*Mawiyya*), einer arabischen Herrscherin, die kurz zuvor im südlichen Syrien einen Aufstand gegen das Römische Reich angeführt und anschließend <ins>*die Seiten gewechselt hatte*</ins>. Interessanterweise fällt auch die Geschichte vom *Heiligen* ***Moses*** *dem Bischof der Araber* in diesen Kontext - nicht zu verwechseln mit dem gleichnamigen ***Moses*** *dem Schwarzen*, einem <ins>bekehrten Verbrecher</ins>, der zur selben Zeit in der selben Region agierte (ebenfalls bekannt unter den Namen *Moses der Starke*, *Moses der Abessinier*, *Moses der Inder*, weiters *Abba Moses der Räuber*, *Moses Murin* oder *Moses der Äthiopier* etc.).  
 [^18]: 'septinge[n]ta', 700 vs. 'die .lxx. auslege[r]'.  
 [^19]: 'i[n]co[m]posita' und 'vnzesamen gefügt'.  
 [^20]: '[con]fusio[n]e' und 'zestrewlichkeit'.  
@@ -49,7 +49,3 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^23]: 'i[n] altissimas profunditates extensam'.  
 [^24]: 'senario numero' und 'in sechser zall'.  
 [^25]: 'que in trigonu[m] surga[n]t'.
-
-
-
-

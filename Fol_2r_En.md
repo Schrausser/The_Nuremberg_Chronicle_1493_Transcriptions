@@ -40,7 +40,7 @@ Thus, the Spirit of the Lord (as an instrument of divine art) floated  over the 
 [^14]: 'verkerung', perversion.  
 [^15]: 'ex bono p[er] se malu[m] effectu[m]' and 'vo[m] gůtten zum ubel getretten'.   
 [^16]: 'greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us]'.  
-[^17]:  In context of the *4th c.*, the term *Saracens* was used for nomadic tribes of the Syrian-Arabian desert who possessed *considerable* military strength. ***Mavia*** (*Mawiyya*), a female Arab ruler, led a revolt against the Roman Empire in southern Syria.  
+[^17]:  Since the cited Christian authors almost exclusively date from before the 6th century, it must be assumed in this case that the *Saracens* of the 4th century are meant, nomadic tribes of the Syrian-Arabian desert, and therefore the reference is unlikely to be to *Islam*. Rather, it seems to refer to the *pivotal* events around 378 AD, in connection with the devastating defeat of the Western Roman Empire against the Goths at Adrianople and the involvement of the *Saracens* under *Mavia* (*Mawiyya*), a female Arab ruler who had recently led a revolt against the Roman Empire in southern Syria and subsequently <ins>*switched sides*</ins>. Interestingly, the story of the *Saint* ***Moses*** *the Bishop of the Arabs* also falls into this context - not to be confused with the similarly named ***Moses*** *the Black*, a <ins>converted criminal</ins> who operated in the same region at the same time (also known as *Moses the Strong*, *Moses the Abyssinian*, *Moses the Indian*, *Abba Moses the Robber*, *Moses Murin* or *Moses the Ethiopian* etc.).  
 [^18]: 'septinge[n]ta', 700 vs. 'die .lxx. auslege[r]'.  
 [^19]: 'i[n]co[m]posita' and 'vnzesamen gefügt'.  
 [^20]: '[con]fusio[n]e' and 'zestrewlichkeit'.  
