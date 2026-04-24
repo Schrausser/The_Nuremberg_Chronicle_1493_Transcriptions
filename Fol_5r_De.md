@@ -46,7 +46,7 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 [^15]: 'ho[mo]' und  'mensche[n]'  
 [^16]: 'humo' und  'lette[n] oder kloße der erde[n]'.  
 [^17]: spiegelt eine gängige mittelalterliche etymologische Vorstellung wider, die *Homo* mit *Humus* in Verbindung bringt.  
-[^18]: vgl. den christliche Apologet Lactantius in seinen 'Instituta Divina'.  
+[^18]: vgl. Lactantius in seinen 'Instituta Divina'.  
 [^19]: 'Dieses Lebewesen(!) das wir Mensch nennen: vorsichtig, flink, vielfältig, scharf im Gedächtnis, voll Vernunft und Rat; in klarer Art und Eigenschaft allein von dem höchsten Gott geboren. Denn es hat an allen Geschlechtern und Naturen der beseelten Geschöpfe teil, [besonders aber] an der Vernunft und dem Verstand, was allen anderen Geschöpfen fehlt', Cicero 'De Legibus' (Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem *Göttlichen* verbinde.  
 [^20]: 'machi[n]a' und  'paw'.  
 [^21]: Aus Ficino 'De Vita Coelitus Comparanda'.  
