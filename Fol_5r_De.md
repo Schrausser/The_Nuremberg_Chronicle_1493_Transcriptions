@@ -41,7 +41,7 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 [^10]: 'nimi[orum] ad cibos' und 'als etlich zu speysung', wohl die tierischen *Produkte* wie Eier oder Milch.  
 [^11]: 'v[er]o ad vestime[n]tu[m]' und 'ettlich zebeklaidung', wie Wolle etc.  
 [^12]: 'vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.'  
-[^13]: Von St. Isidore of Seville's 'Etymologies' (Buch XII, 1.7).  
+[^13]: aus Isidor von Sevillas 'Etymologies' (Buch XII, 1.7).  
 [^14]: 'imaginis sue forma[m]' und 'zu form oder gestalt seiner pildnus'.  
 [^15]: 'ho[mo]' und  'mensche[n]'  
 [^16]: 'humo' und  'lette[n] oder kloße der erde[n]'.  
