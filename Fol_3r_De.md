@@ -32,7 +32,7 @@ Die (iii) dazwischenliegende Luftschicht, *ebenfalls Firmament* genannt, woher a
 [^9]: 'Supra', vorher vs. 'uber'.  
 [^10]: 'inerrantem' und 'die unirrende[n]'.  
 [^11]: 'similitudo' und 'gleichnus'.  
-[^12]: aus Picos 'Heptaplus' (Buch II, Kapitel 1), erörtert die Struktur des Himmels und die Existenz einer zehnten Sphäre (des *Empyreums* oder der unbeweglichen <ins>*ersten Intelligenz*</ins>) jenseits der traditionellen neun Sphären, wird nicht nur von christlichen, sondern auch von hebräischen Autoritäten vertreten.  
+[^12]: aus Picos 'Heptaplus' (Buch II, Kapitel 1), erörtert die Struktur des Himmels und die Existenz einer zehnten Sphäre (des *Empyreums* oder der unbeweglichen <ins>*ersten Intelligenz*</ins>) jenseits der traditionellen neun Sphären.  
 [^13]: 'etheris'.  
 [^14]: 'immixta' und 'unvermischt'.  
 [^15]: 'legitima' und 'richtige'.  
