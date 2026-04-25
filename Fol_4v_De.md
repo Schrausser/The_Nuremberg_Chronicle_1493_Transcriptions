@@ -13,11 +13,11 @@ So schmückte Gott an diesem Tag die Luft und das Wasser, geflügelte Wesen gab 
 
 Nun zu folgenden Dingen, die hinsichtlich der Entstehung der Tiere offenkundig sind: *Nach* den (i) Pflanzen kommen jene (ii) Wesen, die fühlen und sich bewegen; obwohl selbst den Pflanzen die Pythagoreer einen stumpfen[^5] Sinn zuschreiben. Solche Lebewesen, die eindeutig Bewegung und Empfindung aufweisen, werden von **Moses** und im ***Timaios*** in fliegende Tiere, Wassertiere und Landtiere unterteilt.[^6]
 
-Kommen wir nun zu *Moses*, der, nachdem er über die himmlischen Dingen gesprochen hatte, die irdischen Tiere in angemessener Reihenfolge erwähnte, die entweder im Wasser, auf der Erde oder in der Luft leben.[^7]
+Kommen wir <ins>nun</ins> zu *Moses*, der, nachdem er über die himmlischen Dingen gesprochen hatte, die irdischen Tiere in angemessener Reihenfolge erwähnte, die entweder im Wasser, auf der Erde oder in der Luft leben.[^7]
 
 >Si tamen inhabitare aerem volucres dici possunt.[^8]
 
-Belasse man diese Diskussion hier. Auf welche Weise entstehen die Körper der Tiere[^9] aus den Elementen, was sind die basalen Gründe[^10], die Gott in die Natur der Dinge eingepflanzt hat, wird das Leben der unvernünftigen Tiere ebenfalls aus dem Schoß der Materie hervorgebracht, oder geht alles Leben vielmehr von einem göttlichen Prinzip aus, wie **Plotinus** am entschiedensten behauptet. Eine Aussage, die der Prophet in folgender Passage zu unterstützen scheint, nachdem er sagte:[^11]
+***Belasse man diese Diskussion hier***. Auf welche Weise entstehen die Körper der Tiere[^9] aus den Elementen, was sind die basalen Gründe[^10], die Gott in die Natur der Dinge eingepflanzt hat, wird das Leben der unvernünftigen Tiere ebenfalls aus dem Schoß der Materie hervorgebracht, oder geht alles Leben vielmehr von einem göttlichen Prinzip aus, wie **Plotinus** am entschiedensten behauptet. Eine Aussage, die der Prophet in folgender Passage zu unterstützen scheint, nachdem er sagte:[^11]
 
 >producant aque reptile anime viuentis.[^12]
 

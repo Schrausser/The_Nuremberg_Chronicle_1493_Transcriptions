@@ -14,11 +14,11 @@ So on that day God adorned the air and the water, giving winged creatures to the
 
 Now to the following things, which are evident with regard to the origin of animals: *After* (i) plants come those (ii) beings that feel and move; although even to plants the Pythagoreans ascribe a dull[^5] sense. Such creatures, which clearly exhibit movement and sensation, are divided by **Moses** and in the ***Timaeus*** into flying animals, aquatic animals, and terrestrial animals.[^6]
 
-Now let us turn to *Moses*, who, after speaking about heavenly things, mentioned the earthly animals in proper order, which live either in the water, on the earth, or in the air.[^7]
+<ins>Now</ins> let us turn to *Moses*, who, after speaking about heavenly things, mentioned the earthly animals in proper order, which live either in the water, on the earth, or in the air.[^7]
 
 >Si tamen inhabitare aerem volucres dici possunt.[^8]
 
-Let us leave this discussion here. In what way do the bodies of animals[^9] arise from the elements, what are the basic reasons[^10] that God has implanted in the nature of things, is the life of irrational animals also brought forth from the womb of matter, or does all life rather originate from a divine principle, as **Plotinus** most emphatically asserts? A statement which the prophet seems to support in the following passage, after he said:[^11]
+***Let us leave this discussion here***. In what way do the bodies of animals[^9] arise from the elements, what are the basic reasons[^10] that God has implanted in the nature of things, is the life of irrational animals also brought forth from the womb of matter, or does all life rather originate from a divine principle, as **Plotinus** most emphatically asserts? A statement which the prophet seems to support in the following passage, after he said:[^11]
 
 >producant aque reptile anime viuentis.[^12]
 
@@ -49,7 +49,7 @@ As Moses mentions *three* animal species on Earth in the following day of creati
 [^5]: 'stupidum sensum' and 'unbrüfende empfindlichkeit'.  
 [^6]: Drawing a parallel between the biblical creation account (Moses) and Plato's cosmology in Timaeus was a common theme in Renaissance Neoplatonism or Scholasticism.  
 [^7]: Likely from St. Ambrosius' 'Hexameron'.  
-[^8]: ''If one can even say that birds inhabit the air,' a passage from the 'Heptaplus', it questions the nature of birds and their relationship to the *air* as a habitat in comparison to the *waters* of the biblical creation story.  
+[^8]: 'If one can even say that birds inhabit the air,' a passage from the 'Heptaplus', it questions the nature of birds and their relationship to the *air* as a habitat in comparison to the *waters* of the biblical creation story.  
 [^9]: 'corpora animalium' and 'lieb der thier'.  
 [^10]: 'seminarie rationes' and 'besamunge[n]'.  
 [^11]: From Ficino's commentary on Plotinus' 'Enneads'.  
