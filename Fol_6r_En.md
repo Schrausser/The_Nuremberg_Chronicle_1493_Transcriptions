@@ -48,7 +48,7 @@ The fifth age (V) begins with the Babylonian captivity, more precisely with the 
 
 The sixth age (VI) begins with the birth of Christ and lasts until the *end of the world*, the *date*[^67] of which only God knows. This is called *old age*[^68] or *the last hour*[^69]. To these ages, however, one may add a *7th age*, that of those who now *rest*[^70], which takes place at the same time as the sixth age (VI). As well as an *eighth age*, that of those who *resurrect*[^71].
 
-Furthermore, according to the Hebrews, there are 10 generations in the first age of the world (I), 10 in the second (II), 14 in the third (III), and 17 in the fourth (IV). However, **Matthew** gives 14 to emphasize the *mystical significance*[^72], and 14 in the fifth..
+Furthermore, according to the Hebrews, there are 10 generations in the first age of the world (I), 10 in the second (II), 14 in the third (III), and 17 in the fourth (IV). However, **Matthew** gives 14 to emphasize the *mystical significance*[^72], and 14 in the fifth.
 
 These are the ages of man: The (I) first is *early childhood*[^73], from birth to the age of 7. The (II) second is *childhood*[^74] up to the age of 14. The (III) third is *'youth'*[^75], from the age of 15 to 38. The (IV) fourth is the *young age*[^76] up to the 49th year of life. The fifth (V) is *age*[^77], from the 50th to the 79th year of life. The (VI) sixth is *old age*[^78], from the 80th year of life until the end of life.
 
