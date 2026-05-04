@@ -10,7 +10,7 @@
 
 ## P 1
 
->**I**[nter]D[u]m apud doctissimos et prestantissimos viros q[ui] vera[m] naturam et historiam tradideru[n]t a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur]: 
+>**C**Um apud doctissimos et prestantissimos viros q[ui] vera[m] naturam et historiam tradideru[n]t a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur]: 
 
 >**D**Ieweill bey den allergelertiste[n] vnd fürnamste[n] manne[n] die die ware[n] natur vnd geschicht beschriben habe[n] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.  
 
@@ -171,13 +171,13 @@ consultissimum prodiderunt.
 
 ## P 19
 
->Notu[m] illud **Numenij philosophi**: no[n] aliud esse platone[m] q[uonia]m atticu[m] moysem.  
+>Notu[m] illud **Numenij philosophi**: no[n] aliud esse **platone[m]** q[uonia]m atticu[m] moysem.  
 In primordio deniq[ue] sui operis de natura: de totius opificio  mu[n]di velut agri cuiuspiam thesauri: omnis vere philosophie defossi sunt.  
 Factu[m]q[ue] in primis hoc in hac parte: vbi de rerum omniu[m] emanat[i]one a deo de gradu: de numero: de ordine partium mundanaru[m] altissime philosophat[ur]. 
 
->**Numenius philosophus** sagt. nichts anders platone[n] sein dan[n] de[n] atticischen moysen. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
+>**Numenius philosophus** sagt. nichts anders **platone[n]** sein dan[n] de[n] atticischen moysen. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
 
->**Numenius**, the philosopher, states that Plato was a very Attic Moses; [...] for in the beginning of his works upon nature a wealth of true wisdom lies buried. He speaks learnedly and wisely of all things as emanating from God, of their relationships, their number, and the regulation of their mutations.
+>**Numenius**, the philosopher, states that **Plato** was a very Attic Moses; [...] for in the beginning of his works upon nature a wealth of true wisdom lies buried. He speaks learnedly and wisely of all things as emanating from God, of their relationships, their number, and the regulation of their mutations.
 
 ## P 20
 
@@ -185,7 +185,7 @@ Factu[m]q[ue] in primis hoc in hac parte: vbi de rerum omniu[m] emanat[i]one a d
 Cuius etia[m] meminit **Hieronymus**: ne hanc mu[n]di creato[r]em
 quisq[uonia]m: nisi matura iam etate atingeret. 
 
->Darümb was es bey den alten hebreyschen ein gesetz (des auch **Ieronimus** gedenckt) das niemant dan der zeitigs alters[cite] wer zu diser beschöpfung d[er] werlt raichen solt.
+>Darümb was es bey den alten hebreyschen ein gesetz (des auch **Ieronimus** gedenckt) das niemant dan der zeitigs alters wer zu diser beschöpfung d[er] werlt raichen solt.
 
 >Wherefore it was a law with the old Hebrews (as **Jerome** also thinks) that no one, considering the remoteness of the age, should hark back to the creation. 
 

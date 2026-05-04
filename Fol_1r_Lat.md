@@ -2,7 +2,7 @@
 
 ## Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus 
 
-**I**[nter]D[u]m[^1] apud doctissimos et prestantissimos viros q[ui] vera[m] naturam et historiam tradideru[n]t a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur]: a priscis enim illis t[em]p[er]ib[us] sumpto initio: scribem[us] breuissime q[ua]ntu[m] in ta[ntum] remotis (p[ro]pter a[n]ti[qui]tate[m]) reb[us] licebit.
+**C**Um[^1] apud doctissimos et prestantissimos viros q[ui] vera[m] naturam et historiam tradideru[n]t a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur]: a priscis enim illis t[em]p[er]ib[us] sumpto initio: scribem[us] breuissime q[ua]ntu[m] in ta[ntum] remotis (p[ro]pter a[n]ti[qui]tate[m]) reb[us] licebit.
 
 Quida[m] mu[n]du[m] ingenitum: et incorruptibilem: et genus humanum ab eterno extisse neq[ue] habuisse ortus principiu[m] sensere.
 
