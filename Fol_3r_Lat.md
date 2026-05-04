@@ -29,7 +29,7 @@ Sed redeamus ad ***Moysem*** diuidentem aqua[m] ab aquis medio firmame[n]to.
 
 Triplex e[ni]m partitio corpo[rum] sublunariu[m].
 
-Alia sup[ra] mediam regionem aeris sunt: suprema .s[ilicet]. pars eiusdem elementi [et] purissimus ignis quod totum etheris nomine designatur ibi pura immixta [et] legitima eleme[n]ta.
+Alia sup[ra] mediam regionem aeris sunt: suprema .s[cilicet]. pars eiusdem elementi [et] purissimus ignis quod totum etheris nomine designatur ibi pura immixta [et] legitima eleme[n]ta.
 
 Alia infra ip[s]am aeris meditulliu[m]: que apud nos sunt vbi elementum purum nullum (neq[ue] e[ni]m purum elementum sensibile) sed mixta omnia ex feculenta crassioreq[ue] parte mundani corporis consta[n]t.
 

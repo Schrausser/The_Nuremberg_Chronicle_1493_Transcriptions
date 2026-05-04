@@ -14,12 +14,12 @@ Cu[m] e[ni]m de natura firmame[n]ti dixerat: restabat vt de op[er]ib[us] sideru[
 
 Celestiu[m] eni[m] corpo[rum] due i[n] vniuersum manifeste op[er]atio[n]es mot[us] [et] illumi[n]atio: mot[us] duplex statuit[ur].
 
-Alter mu[n]di totius q[uo] celu[m] [et] ether .24. horis: p[er] totu[m] spaciu[m] vniuersi p[er]fecto ambitu circuu[m]oluu[n]tur.
+Alter mu[n]di totius q[uo] celu[m] [et] ether .24. horis: p[er] totu[m] spaciu[m] vniuersi p[er]fecto ambitu circu[m]uoluu[n]tur.
 
 
 Alter side[rum] p[ro]prium multiplex [et] varius.
 
-Inter q[uo]s p[ri]ncipalis motus solis: q[ui] spatio .xij. mensiu[m] zodiaci signa om[n]ia curcuit.
+Inter q[uo]s p[ri]ncipalis motus solis: q[ui] spatio .xij. mensiu[m] zodiaci signa om[n]ia circuit.
 
 Ille die[m] facit: vnde [et] diurnus d[ividitu]r[^3]: hic autem annu[m].
 

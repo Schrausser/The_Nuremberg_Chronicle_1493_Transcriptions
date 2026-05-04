@@ -46,7 +46,7 @@ So sind die bewegnus zwu.
 
 ## P 5
 
->Alter mu[n]di totius q[uo] celu[m] [et] ether .24. horis: p[er] totu[m] spaciu[m] vniuersi p[er]fecto ambitu circuu[m]oluu[n]tur.
+>Alter mu[n]di totius q[uo] celu[m] [et] ether .24. horis: p[er] totu[m] spaciu[m] vniuersi p[er]fecto ambitu circu[m]uoluu[n]tur.
 
 >Eine d[er] ga[n]tze[n] werlt do mit d[er] himel vn[d] d[er] spera des lufts vn[d] feüers in .xxiiij. stu[n]de[n] durch den gantzen krais d[er] werlt mit volko[m]nen umblawff bewegt werde[n].
 
@@ -55,7 +55,7 @@ So sind die bewegnus zwu.
 ## P 6
 
 >Alter side[rum] p[ro]prium multiplex [et] varius.  
-Inter q[uo]s p[ri]ncipalis motus solis: q[ui] spatio .xij. mensiu[m] zodiaci signa om[n]ia curcuit.  
+Inter q[uo]s p[ri]ncipalis motus solis: q[ui] spatio .xij. mensiu[m] zodiaci signa om[n]ia circuit.  
 Ille die[m] facit: vnde [et] diurnus d[ividitu]r: hic autem annu[m].
 
 >Die ander bewegnus ist des gestirns. vn[d] ist aigen. vilfeltig vnd ma[n]cherlay. under den selbe[n] ist die bewegnus d[er] sunne[n] die fürnamst. dan[n] die sun[n] umblawfft in xij. monaten de[n] zirckel aller zaiche[n]. die sun[n] macht de[n] tag. so macht d[er] lawff d[er] sunnen durch de[n] selbe[n] zirckel ein iar.
