@@ -267,8 +267,8 @@ In tercijs sedet vt equitas.
 ### P 7
 
 >Media co[n]tinet dominat[i]ones principatus potestates.  
-Quorum primi officia regu[n]t algelorum.  
-Sequentes capitibunt p[er]sunt populo[rum]. vltimi potestatem coercent demonu[m].  
+Quorum primi officia regu[n]t angelorum.  
+Sequentes capitibunt p[re]sunt populo[rum]. vltimi potestatem coercent demonu[m].  
 Item in primis d[omi]n[u]s dominat[ur] vt maiestas: in sequentibus regit vt principat[us]: in ultimis tenet[ur] vt salus.
 
 >Die mittel ierarchey helt herschengel fürstengel gewaltengel. die ersten regiere[n] die ambt der engel. die andern pflegen der öbern des volcks. die dritten zwinge[n] der teüfel macht. in den ersten herschet der herr als die maiestat. in den andern regirt er als ein fürstenthumb. in den dritten wird er gehalte[n] als das hail.
@@ -397,7 +397,7 @@ s[ecundu]m septuaginta .940.
 
 >Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]is babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
 
->Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar.
+>Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar.
  
 >The fourth age is from the beginning of David’s Kingdom to the passing of Babylon, and according to the Hebrew, lasted 484 years; but according to the seventy interpreters 485 years. 
 
@@ -419,7 +419,7 @@ s[ecundu]m septuaginta .940.
 
 ### P 13
 
->Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue bora nouissima.
+>Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue hora nouissima.
 
 >Das sechst von der gepurt cristi bis zu der werlt ende. das zil erkent gott allein. vn[d] diss heist das alt alter oder die letzt stu[n]d
 
@@ -496,7 +496,6 @@ In quinta .xiiij.
 >Das andre kintheit bis zu .xiiij. iarn.
 
 >the second, childhood, to fourteen years of age; 
-
 
 ### P 23
 

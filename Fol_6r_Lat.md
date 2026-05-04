@@ -81,9 +81,9 @@ In tercijs sedet vt equitas.
 
 Media co[n]tinet dominat[i]ones principatus potestates.
 
-Quorum primi officia regu[n]t algelorum.
+Quorum primi officia regu[n]t angelorum.
 
-Sequentes capitibunt p[er]sunt populo[rum]. vltimi potestatem coercent demonu[m].
+Sequentes capitibunt p[re]sunt populo[rum]. vltimi potestatem coercent demonu[m].
 
 Item in primis d[omi]n[u]s dominat[ur] vt maiestas: in sequentibus regit vt principat[us]: in ultimis tenet[ur] vt salus.
 
@@ -123,7 +123,7 @@ Quinta etas incipit a transmigrat[i]one babilonis. scil[icet] q[uo]n[iam] hierus
 
 Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimodi co[m]puta[n]t.
 
-Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue bora nouissima.
+Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue hora nouissima.
 
 His aut[em] etatibus pot[est] adiu[n]gi septima etas q[uam] est quiescentium: et currit cum sexta: et octaua etas q[uam] est resurgentium.
 

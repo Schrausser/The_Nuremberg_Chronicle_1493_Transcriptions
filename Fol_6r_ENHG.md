@@ -91,7 +91,7 @@ Doch die ursach so grosser underschaid hab ich nicht möge[n] finden.
 
 Das drit von abrahams gepurt bis zu anfang des reichs david. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] .lxx. auslegern .viiij<sup>c</sup>.xl. iar. 
 
-Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar. 
+Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar. 
 
 Das fünft vom übergang babilonis da hierusalem zerstort vnd der te[m]pel angezünd ward bis zu der gebenedeiten gepurt cristi vnd het nach vorgemelter weis .v<sup>c</sup>.lxxxx. iar. 
 
