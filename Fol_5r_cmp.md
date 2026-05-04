@@ -58,7 +58,7 @@ Su[n]t e[ni]m bestie q[uae] p[er]fecta sunt pha[n]tasia: mediu[m] i[n]ter irr[at
 Et facta sunt bina .i[d est]. diuersi sex[us] sing[u]la.  
 Ex q[uo][rum] fetibus: [et] aer: [et] terra: [et] maria co[m]pleta sunt.  
 Deditq[ue] bis o[mn]ib[us] bis generatim de[us] alime[n]ta de terra: vt vsui e[ss]e ho[min]ib[us] possent.  
-Alia nimio[rum] ad cibos.  
+Alia nimi[orum] ad cibos.  
 Alia v[er]o ad vestime[n]tu[m].  
 Que a[u]t[em] mag[nar]u[m] sunt viriu[m]: vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.
 
