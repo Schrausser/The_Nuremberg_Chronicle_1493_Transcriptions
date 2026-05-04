@@ -12,7 +12,7 @@ Aber d[er] neydig feind irer seligkait hat sie betroge[n] da sie auß weiplicher
 
 
 [^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3v).  
-[^2]: Genesis 2:14-24, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiiij).   
+[^2]: Genesis 3:14-24, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiiij).   
 
 ## References
 
