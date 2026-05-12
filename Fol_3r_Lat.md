@@ -44,7 +44,7 @@ Uocauitq[ue] firmame[n]tum celum: cum tegat omnia sensibilia [et] inuisibilia qu
 
 [^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
 [^2]: Genesis 1:6-8, s. Jiménez de Cisneros ([1517](), fol. ar).   
-[^3]: Strabo ([1469](https://doi.org/10.3931/e-rara-87965)), c.f. Pothecary ([1999](http://www.jstor.org/stable/4433046)).  
+[^3]: Walafrid Strabo.  
 [^4]: Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p), [1529](https://doi.org/10.3931/e-rara-63790), res.), c.f. Darby and MacCarron ([2023](http://www.jstor.org/stable/jj.4470340)).  
 [^5]: or "E[odem]", "[Oboli quinque]", (s. Martin, [1910](https://archive.org/details/recordinterprete00martuoft), p. 43; Cappelli, [1928](https://archive.org/details/LexiconAbbreviaturarum), p. 113).  
 [^6]: Levy ([2008](https://doi.org/10.1007/978-1-4020-4425-0_8469)), c.f. Idel ([1977]()).  
@@ -81,5 +81,3 @@ Martin, C. T. (1910). *The Record Interpreter : A Collection of Abbreviations, L
 Pothecary, S. (1999). Strabo the Geographer: His Name and Its Meaning. *Mnemosyne, 52*(6), 691–704. [http://www.jstor.org/stable/4433046](http://www.jstor.org/stable/4433046)
 
 Silverman, S. M. (2006). Low Latitude Auroras Prior to 1200 c.e. And Ezekiel’s Vision. *Advances in Space Research, 38*(2), 200–8. [https://doi.org/10.1016/j.asr.2005.03.158](https://doi.org/10.1016/j.asr.2005.03.158)
-
-Strabo. (1469). *Geographia, libri XVI*. Roma: Conradus Sweynheym und Arnoldus Pannartz. [https://doi.org/10.3931/e-rara-87965](https://doi.org/10.3931/e-rara-87965)
