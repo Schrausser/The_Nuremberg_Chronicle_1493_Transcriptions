@@ -15,7 +15,7 @@ Also das die farb des zaphirs den glantz des liechts vnd die gleichnus des thron
 
 Aber widerzekomen auff den ***moysen***. der das wasser von wassern teilet so ist dreyerlay teylung der leyplichen ding under de[m] mo[n]d.
 
-Etlich sind ob d[er] mitteln gege[n]t des lufts. als d[er] oberst teil desselbe[n] elements. vn[d] das allerlewterst feüers. vn[d] das selbst lawtere unvermischte vnd rechte element.
+Etlich sind ob d[er] mitteln gege[n]t des lufts. als d[er] oberst teil desselbe[n] elements. vn[d] das allerlewterst feüers. vn[d] daselbst lawtere unvermischte vnd rechte element.
 
 So sind ettliche under der mitteln fürscheinenden stat des lufts. als bey uns. da dan[n] kein lawters element ist. sunder alle element vo[n] faystikeit wege[n] des werltlichen leibs gemischt sind. dazwischen ist ein gegend des lufts auch das firmament genannt. dar inn regen. schne. plitzen. tornersleg. cometen vnd der gleichen erscheiynen. darümb gar recht underschaydet diss firmament. nit allain d[er] gelegenheit sunder auch der aygenschafft halben d[er] natur die obern eleme[n]t vo[n] den undern. als die wasser vo[n] de[n] wassern. darob sind die eleme[n]t pür vnd lawter. aber darunder in volkomner vermischu[n]g vo[n] eleme[n]tischer slechtigkeit obgesünderet. vn[d] er hat das firmament himel geheissen. dan[n] der bedeckt alle empfintliche vnd unsichtpere ding.
 

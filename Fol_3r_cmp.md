@@ -83,7 +83,7 @@ Triplex e[ni]m partitio corpo[rum] sublunariu[m].
 
 >Alia sup[ra] mediam regionem aeris sunt: suprema .s[cilicet]. pars eiusdem elementi [et] purissimus ignis quod totum etheris nomine designatur ibi pura immixta [et] legitima eleme[n]ta.
 
->Etlich sind ob d[er] mitteln gege[n]t des lufts. als d[er] oberst teil desselbe[n] elements. vn[d] das allerlewterst feüers. vn[d] das selbst lawtere unvermischte vnd rechte element.
+>Etlich sind ob d[er] mitteln gege[n]t des lufts. als d[er] oberst teil desselbe[n] elements. vn[d] das allerlewterst feüers. vn[d] daselbst lawtere unvermischte vnd rechte element.
 
 >Some are in the middle region of the air as the uppermost part of the same element, as the brightest fire, and in itself a pure unmixed and proper element.
 
