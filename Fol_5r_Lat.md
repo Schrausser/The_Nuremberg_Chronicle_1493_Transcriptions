@@ -7,7 +7,7 @@ Et vidit de[us] q[uo]d  e[ss]et bonu[m]: ait. Faciam[us] ho[m]i[n]em ad imagine[
 Et p[er]sit piscib[us] mar[is]. [et] volatilib[us] celi. [et] bestijs vniuerse terre.
 Et creuit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m]*.[^2]
 
-Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.
+Ornatis sup[er]iorib[us] mu[n]di p[ar]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.
 
 Inter a[n]i[m]alia terre tria memorat ***moyses***. iume[n]ta. reptilia. [et] bestias. 
 

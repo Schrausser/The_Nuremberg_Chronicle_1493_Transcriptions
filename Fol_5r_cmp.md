@@ -20,7 +20,7 @@ Et creuit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m].*
 
 ## P 2
 
->Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.
+>Ornatis sup[er]iorib[us] mu[n]di p[ar]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.
 
 >Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.
 
