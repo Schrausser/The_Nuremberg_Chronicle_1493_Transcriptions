@@ -20,17 +20,17 @@ Partem aute[m] turbidam atq[ue] terrestrem vnacum humidis ad infima loca ob grau
 
 Ex durioribus vero terram lutosam euasisse: [et] omnino mollem. hec primum cum solis ardore densior euasisset: in quibus putredines tenui co[n]tecte pellicula sint excitate.
 
-Erupisse tandem ab illa colluui varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t: sicciora [et] grauiora: serpentia ac terrestria euaserunt animantia. 
+Erupisse tandem ab illa colluuie varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t: sicciora [et] grauiora: serpentia ac terrestria euaserunt animantia. 
 
-Naturam aquosam nacta in sui generis in elementum delata sunt.
+Naturam aquosam nacta in sui generis elementum delata sunt.
 
-Terra deinceps tum solis ardore tum ventis arefacta: mutua [con]mixtione sextuu[m] p[er]fectiora generant[ur]. 
+Terra deinceps tum solis ardore tum ventis arefacta: mutua [con]mixtione sexuu[m] p[er]fectiora generant[ur]. 
 
 Hoc **Euripides Tragicus**[^2] **Anaxagore**[^3] physici discipulus ita se habuisse testatur.
 
 Eodem modo homines a principio genitos dicunt.
 
-In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [et] arboru[m] fructos vltro victum prebuerunt.
+In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [et] arboru[m] fructus vltro victum prebuerunt.
 
 In huius deniq[ue] enarrat[i]one cum per multos elaborasse latinos grecosq[ue] videmus: preterea chaldeos et hebreos veteres nouosq[ue].
 
@@ -40,7 +40,7 @@ Quibus totius nature secreta co[n]tinent[ur].
 
 Nam **moyses** p[ro]pheta ac historicorum pater: deo plenus: ac celesti dictante spiritu totius magistro veritatis: excepit hec o[mn]ia.
 
-Quem cum nostrorum: tum suorum: tum gentum deniq[ue] testimonia prorsus humane sapientie: doctrinarumq[ue] omnium et litterarum 
+Quem cum nostrorum: tum suorum: tum gentium deniq[ue] testimonia prorsus humane sapientie: doctrinarumq[ue] omnium et litterarum 
 consultissimum prodiderunt.
 
 Apud hebreos **Salomonis**[^5] liber: cui sapi[enti]a titulus: in quo vir naturererum interpres se illiusinodi disciplina[m] de mosayce legis penetralibus accepisse fatet[ur].
@@ -73,7 +73,7 @@ Afferemusq[ue] p[er] modum epitomatis.
 
 Ex ***moyse*** seriem sex dierum: de diuina mundi fabrica: de qua in archanis sancte religionis literis traditur. 
 
-Exorsus igitur deus fabricam mundi illum prima[m] [et] maximum filium prefecit operi immenso.
+Exorsus igitur deus fabricam mundi illum primu[m] [et] maximum filium prefecit operi immenso.
 
 Eoq[ue] simul et co[n]siliatore vsus est [et] artifice: in excogitandis: ornandis: faciendisq[ue] rebus: q[ue]m is prudentia et r[ati]one. et potestate perfectus est.
 
@@ -81,19 +81,19 @@ Nec querendu[m] ex quibus ista tam magna: tam mirifica op[er]a deus fecerit.
 
 Di[midi]a[^17] enim fecit ex nihilo.
 
-Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eos te[n]dere ubi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.
+Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eo te[n]dere ubi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.
 
 Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit et extendi campos: subsidere valles: fronde tegi filuas: lapidosos surgere montes: que vtiq[ue] omnia no[n] **iupiter**[^18] fecit: sed ille opifex re[rum] mu[n]di melioris origo: qui vocat[ur] deus: cuius p[ri]ncipiu[m] q[uonia]m no[n]  potest comprehendi nec q[ua]ri debet.
 
 Satis est homini ad perfectam prudentiam: si deum esse intelligat vt suscipiet [et] honorificet communem parentem generis humani: [et] rerum mirabilium fabricatorem.
 
-Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi: autem intellectualem vocant
+Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi: autem intellectualem vocant.
 
 Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hic tenebrarum mundus: ille aut[em] lucis: celum ex luce [et] tenebris temperat[ur].
 
 Est et preter tres quartus alius mundus: in quo [et] ea omnia inuenia[n]tur que sunt in reliquis: hic ipse est homo. 
 
-Tritum in scolis verbum est esse hominem minorem mundum in quo mixtum ex elementis corpus: et celestis sp[irit]us: [et] planta[rum] anima vegetalis: [et] bruto[rum] sensus: et ratio et angelica mens: [et] dei similitudo conspicit[ur].
+Tritum in scolis verbum est esse hominem minorem mundum: in quo mixtum ex elementis corpus: et celestis sp[irit]us: [et] planta[rum] anima vegetalis: [et] bruto[rum] sensus: et ratio et angelica mens: [et] dei similitudo conspicit[ur].
 
 De his quatuor mundis ***moyses*** sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec Moseos imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
 

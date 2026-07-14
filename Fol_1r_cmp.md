@@ -79,7 +79,7 @@ Ex durioribus vero terram lutosam euasisse: [et] omnino mollem.
 ## P 9
 
 >hec primum cum solis ardore densior euasisset: in quibus putredines tenui co[n]tecte pellicula sint excitate.  
-Erupisse tandem ab illa colluui varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t:  
+Erupisse tandem ab illa colluuie varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t:  
 
 >Als aber das ertreich erstlich auß hitz der sunne[n] dicker worde[n] wer vn[d] dar in faulfeüchtigkeitn[n] mit dynne[n] hewtlein bedeckett erwuchsen do wer alßdan[n] vo[n] solcher pfütsche ma[n]cherlay gestalt der lebe[n]de[n] entstande[n]. vnd die. die souill merer wirm empfange[n] hette[n] geriete[n] zu geflügele hin in die obern gege[n]t. 
 
@@ -89,7 +89,7 @@ Erupisse tandem ab illa colluui varias animantiu[m] formas quorum ea quo maiorem
 ## P 10
 
 >sicciora [et] grauiora: serpentia ac terrestria euaserunt animantia.  
-Naturam aquosam nacta in sui generis in elementum delata sunt.
+Naturam aquosam nacta in sui generis elementum delata sunt.
 
 >Aber die trucknere vnd schwerere warde[n] zu kryche[n]de[n] vnd irdische[n] thieren. die ding die ein wasserige natur erlangt hette[n] warde[n] in das eleme[n]t ires geschlechts getrage[n].
 
@@ -98,7 +98,7 @@ Naturam aquosam nacta in sui generis in elementum delata sunt.
 
 ## P 11
 
->Terra deinceps tum solis ardore tum ventis arefacta: mutua [con]mixtione sextuu[m] p[er]fectiora generant[ur].  
+>Terra deinceps tum solis ardore tum ventis arefacta: mutua [con]mixtione sexuu[m] p[er]fectiora generant[ur].  
 Hoc **Euripides Tragicus** **Anaxagore**  physici discipulus ita se habuisse testatur.
 
 >Als nw darnach das ertreich auß hitz d[er] su[n]ne[n] vn[d] vo[n] de[n] wi[n]de[n] dürr worde[n] was da warde[n] mit versamelter vermischu[n]g ma[n]lichs vn[d] frewliche geschlechts volku[m]ner di[n]g geborn[n]. diss bezewgt **euripides tragicus** ein iu[n]ger **anaxagore** des natürliche[n] maisters. 
@@ -108,7 +108,7 @@ Hoc **Euripides Tragicus** **Anaxagore**  physici discipulus ita se habuisse tes
 ## P 12
 
 >Eodem modo homines a principio genitos dicunt.  
-In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [et] arboru[m] fructos vltro victum prebuerunt.
+In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [et] arboru[m] fructus vltro victum prebuerunt.
 
 >Sie spreche[n] in der selbe[n] weis die me[n]sche[n] vo[n] anfang geporn[n] in de[n] feldern die wayd suchende[n] eins wilde[n] vnd vngeorde[n]te[n] lebe[n]s gelebt. den die krewter vnd frücht der bawm williglich naru[n]g geraicht habe[n].
 
@@ -135,7 +135,7 @@ Quibus totius nature secreta co[n]tinent[ur].
 ## P 15
 
 >Nam **moyses** p[ro]pheta ac historicorum pater: deo plenus: ac celesti dictante spiritu totius magistro veritatis: excepit hec o[mn]ia.  
-Quem cum nostrorum: tum suorum: tum gentum deniq[ue] testimonia prorsus humane sapientie: doctrinarumq[ue] omnium et litterarum 
+Quem cum nostrorum: tum suorum: tum gentium deniq[ue] testimonia prorsus humane sapientie: doctrinarumq[ue] omnium et litterarum 
 consultissimum prodiderunt.
 
 >Dan **Moyses** der prophet ein vater der geschichtbeschreiber gottes vol: vn[d] auß himlischer dichtung des heilige[n] geistes des maisters der gantze[n] warheit hat dise ding alle begriffen. dem nit allain die vnsern. sunder die seine[n] vnd auch die heydnische[n] gezeügnus seiner menschliche[n] weyshait vn[d] erfaru[n]g aller lere. vnd schrifft gegebe[n] habe[n]. 
@@ -214,7 +214,7 @@ Ex moyse seriem sex dierum: de diuina mundi fabrica: de qua in archanis sancte r
 
 ## P 23
 
->Exorsus igitur deus fabricam mundi illum prima[m] [et] maximum filium prefecit operi immenso.  
+>Exorsus igitur deus fabricam mundi illum primu[m] [et] maximum filium prefecit operi immenso.  
 Eoq[ue] simul et co[n]siliatore vsus est [et] artifice: in excogitandis: ornandis: faciendisq[ue] rebus: 
 
 
@@ -235,7 +235,7 @@ Eoq[ue] simul et co[n]siliatore vsus est [et] artifice: in excogitandis: ornandi
 
 >Nec querendu[m] ex quibus ista tam magna: tam mirifica op[er]a deus fecerit.  
 Di[midi]a enim fecit ex nihilo.  
-Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eos te[n]dere ubi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.  
+Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eo te[n]dere ubi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.  
 Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit et extendi campos: subsidere valles: fronde tegi filuas: lapidosos surgere montes: 
 
 >Es ist auch zefragen warauß got dise so grosse vnd so wunderperliche ding gemacht hab. dan[n] er hat alle ding gemacht aus nichte[n]. darümb ist gar uil gerechter vngeachtet d[er] vnentpfintliche[n] vn[d] eiteln ding die auge[n] do hin zuwe[n]de[n] da der stul. da die wonu[n]g des ware[n] gottes ist. der das ertreich mit bestendiger vestikeit. auffgehenckt den himel mit scheinende[n] sterne[n] vnderschide[n] die allerclarste[n] sunne[n] vnd ainig liecht zu beweysung seiner ainige[n] mayestat den me[n]schliche[n] dinge[n] angezündet. das ertreich mit dem mere vmbringet. die wasserflüs mit ewige[n] abfal zefliessen gebotte[n] vnd de[n] feldern[n] sich auß zepraiten. den tallern[n] sich zesencke[n]. de[n] walde[n] sich mit lawbgewachs zebedecke[n]. vn[d] die staynige[n] perg auffzesteige[n] verschaffet hat. 
@@ -261,7 +261,7 @@ Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit
 
 ## P 28
 
->Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi: autem intellectualem vocant  
+>Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi: autem intellectualem vocant.  
 Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hic tenebrarum mundus: 
 
 >Die alte[n] habe[n] von dreyerlay werlt gesagt. vo[n] der oberste[n] als der englische[n] oder vberuerstentlichen. vo[n] der himlischen. vn[d] vo[n] der vnder de[m] monde. dar inn wir wone[n]. diss ist die werlt der finsternus. 
@@ -286,7 +286,7 @@ Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hi
 
 ## P 31
 
->Tritum in scolis verbum est esse hominem minorem mundum in quo mixtum ex elementis corpus: et celestis sp[irit]us: [et] planta[rum] anima vegetalis: [et] bruto[rum] sensus: et ratio et angelica mens: [et] dei similitudo conspicit[ur].
+>Tritum in scolis verbum est esse hominem minorem mundum: in quo mixtum ex elementis corpus: et celestis sp[irit]us: [et] planta[rum] anima vegetalis: [et] bruto[rum] sensus: et ratio et angelica mens: [et] dei similitudo conspicit[ur].
 
 >In der schul ist ein gemains spruchwort das der mensch die kleine werlt sey. dar inn ein auß den elemente[n] vermischter leib vnd himlischer gaist vnd die wachsende sele der pflanze[n]. vn[d] die sinlichkeit d[er] vnuernüftige[n] thier vnd die vernunfft vnd englisch gemüt vn[d] gotes gleichnus gesche[n] wirdt. 
 
