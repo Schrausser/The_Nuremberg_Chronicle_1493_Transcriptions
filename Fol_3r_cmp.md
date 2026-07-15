@@ -40,10 +40,10 @@ Et ex aquis congelatis in modu[m] cristalli solidauid: et in eo fixa sidera.
 
 ## P 4
 
->Spera aut[em] celi cu[m] sideribus in ea fixis duib[us] axis voluit[ur].  
+>Spera aut[em] celi cu[m] sideribus in ea fixis duob[us] axis voluit[ur].  
 Quo[rum] alter septe[m]trionalis boreas:  
 Alter australis nothus dictus voluit[ur] ab orie[n]te in occidente[m] ta[n]ta celeritate: vt nisi planete contra cursum eam tardarent mundi ruinam faceret.  
-Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superioris: elementa inferiora succenderet. 
+Et artifex mundi: celi naturam aquis temperauit: ne conflagrat[i]one ignis superioris: elementa inferiora succenderet. 
 
 >Nw wird die spera des himels mit de[n] dar inn angehefften gestirne in zwaie[n] axen (der eine die mitternachtlich vn[d] die ander die mittaglich haißt( vo[m] auffgang in de[n] nidergang mit sölcher schnellikeit umbgeweltzt. das sye die werlt zerpreche wo die planeten mit ire[n] gege[n]lawff sie nit verhinderte[n]. vn[d] d[er] werckmeister d[er] werlt hat die natur des himels mit wassern gemessigt das sie mit d[er] hitz des obern feürs die undern eleme[n]t nit anzündete.
 
@@ -53,7 +53,7 @@ Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superi
 ## P 5
 
 >Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant inerrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.  
-Neque hoc tantum creditum a nostris: maxime iunioribus **Strabo** [et] **Beda**: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam:  
+Neq[ue] hoc tantum creditum a nostris: maxime iunioribus **Strabo** [et] **Beda**: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam:  
 E[st] quibus satis duos sit attulisse: **Abraam hispanum** astrologum maximu[m] [et] **ysaac philosophu[m]**: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele** designatum intelligit per zaphiru[m] in similitudine[m] throni: 
 
 >Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern haben geglawbt das uber die speras d[er] sibe[n] planete[n]. vn[d] uber die achte[n] spera[m]. die sie die unirrende[n] nenne[n]. vn[d] auch uber die newnten speram. die mit vernunft vn[d] nit mit entpfindung erraicht werde[n]. vn[d] die erst undter den beweglichen leiplichen dingen ist noch d[er] zehend unbeweglich bleibend vn[d] gerüig himel sey. in massen dem **Isaac d[er] weise** einer aus d[er] bemelte[n] lerrern helt. das sölcher zehend himel von **Ezechiele** durch den zaphir in gleichnus eines throns bezeichend sey.
@@ -90,7 +90,7 @@ Triplex e[ni]m partitio corpo[rum] sublunariu[m].
 ## P 9
 
 >Alia infra ip[s]am aeris meditulliu[m]: que apud nos sunt vbi elementum purum nullum (neq[ue] e[ni]m purum elementum sensibile) sed mixta omnia ex feculenta crassioreq[ue] parte mundani corporis consta[n]t.  
-Intercedens regio aeris que etiam dicitur firmame[n]tum. vnde [et] aues sub firmamento celi ab eo volantes introducuntur: ea est regio in qua sublimes ille impressiones apparent: pluuie: niues: fulgura: fulmina: tonitrua comete [et] cetera id genus.  
+Intercedens regio aeris que etiam dicitur firmame[n]tum. vnde [et] aues sub firmamento celi ab eo volantes introducuntur: ea est regio in qua sublimes ille impressiones apparent: pluuie: niues: fulgura: fulmina: tonitrua: comete [et] cetera id genus.  
 Recte igitur no[n] solum situ: sed [et] nature p[ro]prietate hoc firmamentum superiora elementa ab inferioribus: quasi aquas ab aquis discriminat [et] distinguit.  
 Sup[ra] eum pura sunt elementa: infra eam perfecta mixtione ab elementali simplicitate discedunt.  
 Uocauitq[ue] firmame[n]tum celum: cum tegat omnia sensibilia [et] inuisibilia quod a koylon quod est concauu[m] deducu[n]t.

@@ -11,17 +11,17 @@ Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.
 
 Et ex aquis congelatis in modu[m] cristalli solidauid: et in eo fixa sidera.
 
-Spera aut[em] celi cu[m] sideribus in ea fixis duib[us] axis voluit[ur].
+Spera aut[em] celi cu[m] sideribus in ea fixis duob[us] axis voluit[ur].
 
 Quo[rum] alter septe[m]trionalis boreas:
 
 Alter australis nothus dictus voluit[ur] ab orie[n]te in occidente[m] ta[n]ta celeritate: vt nisi planete contra cursum eam tardarent mundi ruinam faceret.
 
-Et artifex mundi: celi naturam aquis temperauit ne conflagrat[i]one ignis superioris: elementa inferiora succenderet.
+Et artifex mundi: celi naturam aquis temperauit: ne conflagrat[i]one ignis superioris: elementa inferiora succenderet.
 
 Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant inerrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.
 
-Neque hoc tantum creditum a nostris: maxime iunioribus ***Strabo***[^3] [et] ***Beda***[^4]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam: 
+Neq[ue] hoc tantum creditum a nostris: maxime iunioribus ***Strabo***[^3] [et] ***Beda***[^4]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam: 
 
 E[st][^5] quibus satis duos sit attulisse: ***Abraam hispanum***[^6] astrologum maximu[m] [et] ***ysaac philosophu[m]***[^7]: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele**[^8] designatum intelligit per zaphiru[m] in similitudine[m] throni: vt color zaphiri lucis nitorem: throni similitudo immobilitatem significet.
 
@@ -33,7 +33,7 @@ Alia sup[ra] mediam regionem aeris sunt: suprema .s[cilicet]. pars eiusdem eleme
 
 Alia infra ip[s]am aeris meditulliu[m]: que apud nos sunt vbi elementum purum nullum (neq[ue] e[ni]m purum elementum sensibile) sed mixta omnia ex feculenta crassioreq[ue] parte mundani corporis consta[n]t.
 
-Intercedens regio aeris que etiam dicitur firmame[n]tum. vnde [et] aues sub firmamento celi ab eo volantes introducuntur: ea est regio in qua sublimes ille impressiones apparent: pluuie: niues: fulgura: fulmina: tonitrua comete [et] cetera id genus.
+Intercedens regio aeris que etiam dicitur firmame[n]tum. vnde [et] aues sub firmamento celi ab eo volantes introducuntur: ea est regio in qua sublimes ille impressiones apparent: pluuie: niues: fulgura: fulmina: tonitrua: comete [et] cetera id genus.
 
 Recte igitur no[n] solum situ: sed [et] nature p[ro]prietate hoc firmamentum superiora elementa ab inferioribus: quasi aquas ab aquis discriminat [et] distinguit.
 
