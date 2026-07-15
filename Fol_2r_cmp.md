@@ -12,7 +12,7 @@
 
 ## P 2
 
->**Moyses** diuinus [propheta] at[que] historic[us]. q[ui] fere troianu[m] bellu[m] septinge[n]tis a[n]nis antecessit edocet. quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit. 
+>**Moyses** diuinus [propheta] at[que] historic[us]. q[ui] troianu[m] bellu[m] septinge[n]tis fere a[n]nis antecessit edocet: quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundauit: ac celo s[u]bdidit. 
 
 >**Moyses** der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>c</sup>. iar vor dem Troyanische[n] krieg gewesen ist leret wie got der macher vnd ordner der dinge als er diss werck fürname zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
 
@@ -32,7 +32,7 @@ Nihil e[ni]m p[er]se [con]tinet lumi[ni]s: nisi accipiat a celo.
 ## P 4
 
 >In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petuam.  
-Et [con][tumacia] in terra tenebras [et] inferos [et] morte[m].
+Et [con][tumacia] in terra tenebras: [et] inferos: [et] morte[m].
 
 >In dez hat er gesetzt das ewig liecht vn[d] die obern gaist und das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüs vnd die vndern gaist und de[n] tod. 
 
@@ -62,7 +62,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 ## P 7
 
->de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creavit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissimus ante[que]m ordiret[ur] hoc opus mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] ordieret[ur].
+>de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creauit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissimus ante[que]m ordiret[ur] hoc op[us] mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] oriret[ur].
 
 >Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[n] selle[n] gůt als ein pach entsprünge. 
 
@@ -80,8 +80,8 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 ## P 9
 
->Quid ergo miru[m] si facturus mu[n]du[m]: p[ri]us materia[m] de q[ua] faceret p[re]p[er]avit: ex eo q[uo]d no[n] erat.  
-Q[uo]d intellexeru[n]t forte [et] saraceni dicentes.  
+>Quid ergo miru[m] si facturus mu[n]du[m]: p[ri]us materia[m] de q[ua] faceret p[re]p[er]auit: ex eo q[uo]d no[n] erat.  
+Q[uo]d intellexeru[n]t forte [et] sarraceni dicentes.  
 Eductos a[n]gelos a deo de tenebris ad luce[m]: ad i[n]pletosq[ue] eterna leticia.  
 In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] perma[n]sit.  
 Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us].
@@ -103,11 +103,11 @@ Abyssum vocat terra[m] .i[d est]. materia[m] trino dime[n]su i[n] altissimas pro
 ## P 11
 
 >de hoc etia[m] **Ouidi[us]** meminit.  
-*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.*  
-Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: ut volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit.  
-Cu[m] p[er]fecta sint opera dei.  
+*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus adhuc mu[n]do p[re]bebat lumina titan.*  
+Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: vt volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit.  
+Cu[m] perfecta sint op[er]a dei.  
 Creatio re[rum] senario numero explicatur.  
-Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.  
+Cuius partes. vnu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.  
 
 >Da von auch **Ouidius** der poet in seine[m] gedicht gar schön meldung thüt. vnd der gaist des herre[n] ein werckzewg gotlicher ku[n]st swebet ob de[n] wassern: als d[er] wil eins pawherre[n] so er yde ding zemache[n] verordent. so die werck gottes volkomme[n] sind. so wirdt die beschöpffu[n]g d[er] ding außgedrückt in sechser zall. des teill sind. ains zway drey.
 

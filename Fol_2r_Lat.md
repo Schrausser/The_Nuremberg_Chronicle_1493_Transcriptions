@@ -3,7 +3,7 @@
 ***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*[^1]
 
 
-**Moyses**[^2] diuinus [propheta] at[que] historic[us]. q[ui] fere troianu[m] bellu[m][^3] septinge[n]tis a[n]nis antecessit edocet. quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit. 
+***Moyses***[^2] diuinus [propheta] at[que] historic[us]. q[ui] troianu[m] bellu[m][^3] septinge[n]tis fere a[n]nis antecessit edocet: quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundauit: ac celo s[u]bdidit. 
 
 Tenebras aut[em] co[n]stituit i[n] terra. 
 
@@ -11,7 +11,7 @@ Nihil e[ni]m p[er]se [con]tinet lumi[ni]s: nisi accipiat a celo.
 
 In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petuam.
 
-Et [con][tumacia][^4] in terra tenebras [et] inferos [et] morte[m].
+Et [con][tumacia][^4] in terra tenebras: [et] inferos: [et] morte[m].
 
 ***Moyses*** v[erb]o[^5] cu[m] deu[m] creasse [con]memorat tres errores ***Platonis***[^6] .s[cilicet]. **Arestotilis**[^7] [et] **epicuri**[^8] elidit. 
 
@@ -21,13 +21,13 @@ Et in p[ri]ncipio de yle mu[n]du[m] fuisse factu[m] testa[tur]. ylen greci p[ri]
 
 Qua visibilia hec eleme[n]ta formata sunt. q[uae] q[ui]da[m] [con]cordia [con]ueniu[n]t. 
 
-A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse: de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creavit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissimus ante[que]m ordiret[ur] hoc opus mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] ordieret[ur].
+A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse: de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creauit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissimus ante[que]m ordiret[ur] hoc op[us] mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] oriret[ur].
 
 Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[][^10] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]mense: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
 
-Quid ergo miru[m] si facturus mu[n]du[m]: p[ri]us materia[m] de q[ua] faceret p[re]p[er]avit: ex eo q[uo]d no[n] erat. 
+Quid ergo miru[m] si facturus mu[n]du[m]: p[ri]us materia[m] de q[ua] faceret p[re]p[er]auit: ex eo q[uo]d no[n] erat. 
 
-Q[uo]d intellexeru[n]t forte [et] saraceni dicentes. 
+Q[uo]d intellexeru[n]t forte [et] sarraceni dicentes. 
 
 Eductos a[n]gelos a deo de tenebris ad luce[m]: ad i[n]pletosq[ue] eterna leticia. 
 
@@ -41,15 +41,15 @@ Qua[m] p[ro] sui [con]fusio[n]e abyssum vocat: qua[m] [et] greci chaos dicu[n]t.
 
 Abyssum vocat terra[m] .i[d est]. materia[m] trino dime[n]su i[n] altissimas profunditates extensam: de hoc etia[m] **Ouidi[us]**[^14] meminit. 
 
-*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan*.[^15] 
+*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus adhuc mu[n]do p[re]bebat lumina titan*.[^15] 
 
-Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: ut volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit. 
+Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: vt volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit. 
 
-Cu[m] p[er]fecta sint opera dei.
+Cu[m] perfecta sint op[er]a dei.
 
 Creatio re[rum] senario numero explicatur. 
 
-Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t. 
+Cuius partes. vnu[m]: duo: tria sunt. que in trigonu[m] surga[n]t. 
 
 In primo creatione[m].
 
