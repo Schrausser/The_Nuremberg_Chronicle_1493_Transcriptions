@@ -13,7 +13,7 @@
 
 >***T**Ercio die deus aquas sub firmamento in locum vnum co[n]gregauit [et] appareat arida: vocauitq[ue] aridam terram.  
 Congretat[i]ones vero aquarum maria appellauit.  
-Videns q[uia] bonum esset: ait*
+Uidens q[uia] bonum esset: ait*
 
 >***A**m[m] dritten tag hat got die wasser under dem firmame[n]t an eine enige stat versamelt. vnd es erschyne die trückne. vn[d] got hies trückne erde[n]. aber die versamlu[n]g der wasser nen[n]et er die meer. vn[d] got sahe das es gůt was vnd sprach.*
 
@@ -32,8 +32,9 @@ Videns q[uia] bonum esset: ait*
 
 >Post firmamentum de elementorum integritate: [et] positura: [et] ordine: nos breuiter admonet per collectionem aquarum ad locum vnum: [et] prescriptas mari leges ne terram obruat.  
 Si igitur que inuisibilis olim fuerat terra: futurum est vt sub
-conspectum veniat: necesse est aquas que sub celo sunt id est sub media aeris regione congregari ad locum unum id est ad co[m]munem mixtionis colluuiem confluentes: certis legibus tamen: quasi littoribus prescriptam in vnum locum: tanq[uam] in matricem coalescere.  
-Neq[ue] enim illud ita est verum: vt nusqua[m] distinctis disclusisq[ue] in locis aque inuenuantur Cum indicum mare ab hircano: hircanum ab adriatico: adriacum ab Euxino.  
+conspectum veniat: necesse est aquas que sub celo sunt id est sub media aeris regione congregari ad locum vnum id est ad co[m]munem mixtionis colluuiem confluentes: certis legibus tamen: quasi littoribus prescriptam in vnum locum: tanq[uam] in matricem coalescere.  
+Neq[ue] enim illud ita est verum: vt nusqua[m] distinctis disclusisq[ue] in locis aque inueniantur.  
+Cum indicum mare ab hircano: hircanum ab adriatico: adriacicum ab Euxino.  
 Innumera preterea fluuiorum: fontium lacuumq[ue] flue[n]ta longissima locorum inuicem intercapedine dispescantur.
 
 >Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele. so nw künftig was das die etwan unsychtlich erde under das gesycht komen solt. so was auch not das die wasser die under dem himel das ist under d[er] miteln gegent des lufts sind an ein stat. das ist an ein gemaine vermischliche zusammenflueßung mit ordnunge[n] vnd gestadten verwaret. versamelt werden solte[n]. vnd also ist das: nit war das nyndert an eniche[n] abgesünderte[n] vnd beflosne[n] enden wassere gefunden werden. dan[n] das iüdisch meer wirt von de[m] hircanischen meer. das hircanisch von dem adriatischen. das adriatisch vo[n] dem euxinischen meer. vnd dannoch sunst unzelich flüß der wasser. prunnen vnd see. durch verre von einander entlegene örter geschiede[n].
@@ -44,10 +45,10 @@ Innumera preterea fluuiorum: fontium lacuumq[ue] flue[n]ta longissima locorum in
 
 >Sed ideo ad locum vnum congregate aque dicu[n]tur.  
 Quia particulares [hoc est] atq[ue] diuise aquarum collectiones vel marine vel fluuiatiles: omnes vt inquit **Salomon** ad primarium mare tendentes: in vnum occeani locum vniu[n]tur [et] coeunt.  
-Terra autem cum maris vndis obruitur: nec vtilis nobis: nec vsibilis item est: sed tunc [et] animalium [et] nostris vsibus idonea: cum ab eo secedens mari magis magisq[ue] sub aspectum venit: tu[n]c fertilis: tunc fecunda.  
+Terra autem cum maris vndis obruitur: nec vtilis nobis: nec visibilis item est: sed tunc [et] animalium [et] nostris vsibus idonea: cum ab eo secedens mari magis magisq[ue] sub aspectum venit: tu[n]c fertilis: tunc fecunda.  
 Q[uo]d hic a Moyse apertissime demonstratur.  
 Cum eam simul atq[ue] apparet: [et] herbarum [et] fruticum et arborum parentem facit.  
-Recte post illam aquarum congregationem inducit statim viridem [et] florescentem.  
+Recte post illam aquarum congregationem terram inducit statim viridem [et] florescentem.  
 In medio autem mundi tanq[uam] centrum posuit: venis metallorum videlicet auro: arge[n]to: ere: cupro: stanno: plumbo: ferro (quod omnia domat) dotauit: cunctis quoq[ue] herbarum generibus summa oblectatione in viridi maturitate illico vestiuit.  
 Herbeq[ue] semina: arbores fructus suauissimos produxerunt.
 

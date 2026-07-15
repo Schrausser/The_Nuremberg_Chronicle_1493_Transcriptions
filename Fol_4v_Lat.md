@@ -2,12 +2,12 @@
 
 ## De opera quinte diei.[^1]
 
-***Q**Uinto die dixit deus: producant aque reptile anime viuentis. [et] volatile super terra[m] sub firmamento celi.
-Cerauitq[ue] de[us] cete grandia: [et] omnem animam viuentem atq[ue] motabilem quas produxera[n]t aque in species suas. [et] om[n]e volatile sec[un]d[u]m genus suum.
+***Q**Uinto die dixit deus: producant aque reptile anime viuentis: [et] volatile super terra[m] sub firmamento celi.
+Cerauitq[ue] de[us] cete grandia: [et] omnem animam viuentem atq[ue] motabilem quas produxera[n]t aque in species suas: [et] om[n]e volatile sec[un]d[u]m genus suum.
 Uide[n]s quod esset bonum benedixit eis dicens.
 Crescite [et] multiplicamini [et] replete aquas maris: auesq[ue] multiplicentur super terram*.[^2]
 
-Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natalilia aquis: q[uae] reptilia dicuntur: cum impetu quodam se rapiunt. 
+Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natatilia aquis: q[uae] reptilia dicuntur: cum impetu quodam se rapiunt. 
 
 Cete enim grandia [et] belluas: maioraq[ue] terrestribus animalibus ex habunda[n]tia humoris [et] mo[n]strifica in mari reperiuntur.
 
@@ -24,11 +24,11 @@ Si tamen inhabitare aerem volucres dici possunt.
 
 Relinquamus hic disputationem: quo pacto corpora animalium ex elementis: aut quid sint indite a deo naturis reru[m] seminarie rationes: sit ne item vita brutoru[m] de finu educata materie: an diuino potius principio om[n]is vita proueniat: vt co[n]stantissime asserit **Plotinus**[^4]: cui sententie fortasse videbit[ur] hoc loco p[ro]pheta suffragari.
 
-Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea creauit deus omne anima[m] viuente[m]: vbi no[n] id du[m]taxat quispia[m] obserueret q[uia] [et] aq[ue] p[ro]duca[n]t deo iubente: [et] deinde etia[m] deus p[ro]ducat: ve[rum] [et] illud q[uo]d vbi de dei op[er]e agit[ur] scriptu[m] est: creauit deus anima[m] viuente[m]. vbi aut[em] de aq[ui]s no[n] a[n]imam. s[ecundum] reptile a[n]i[m]e viuentis q[ua]si aquis vehiculu[m].
+Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea creauit deus omne anima[m] viuente[m]: vbi no[n] id du[m]taxat quispia[m] obserueret q[uia] [et] aq[ue] p[ro]duca[n]t deo iubente: [et] deinde etia[m] deus p[ro]ducat: ve[rum] [et] illud q[uo]d vbi de dei op[er]e agit[ur] scriptu[m] est: creauit deus anima[m] viuente[m]. vbi aut[em] de aq[ui]s: no[n] a[n]imam. s[ecundum] reptile a[n]i[m]e viuentis q[ua]si aquis vehiculu[m].
 
-Inter animalis terre tria memorat ***Moyses*** q[uae] in seq[ue]nti die infinuat.
+Inter animalia terre tria memorat ***Moyses*** q[uae] in seq[ue]nti die insinuat.
 
-Plurima aut[em] [et] maxima in indico mare a[n]i[m]alia.
+Plurima aut[em] [et] maxima in indico mari a[n]i[m]alia.
 
 E[st][^5] quibus balene quaternu[m] iuge[rum].
 

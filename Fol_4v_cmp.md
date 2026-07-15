@@ -9,8 +9,8 @@
 
 ## P 1
 
->***Q**Uinto die dixit deus: producant aque reptile anime viuentis. [et] volatile super terra[m] sub firmamento celi.  
-Cerauitq[ue] de[us] cete grandia: [et] omnem animam viuentem atq[ue] motabilem quas produxera[n]t aque in species suas. [et] om[n]e volatile sec[un]d[u]m genus suum.  
+>***Q**Uinto die dixit deus: producant aque reptile anime viuentis: [et] volatile super terra[m] sub firmamento celi.  
+Cerauitq[ue] de[us] cete grandia: [et] omnem animam viuentem atq[ue] motabilem quas produxera[n]t aque in species suas: [et] om[n]e volatile sec[un]d[u]m genus suum.  
 Uide[n]s quod esset bonum benedixit eis dicens.*
 
 >***A**m[m] fünfften tag hot got gesproche[n]. die wasser sollen bringe[n] krieche[n]des ding lebendiger sele vn[d] geflügel auff die erden under de[m] firmame[n]t des himels. vnd got hat beschaffen groß walfische. vn[d] alle lebendige vnd bewegliche sele. die sye wasser brachten in ihrer gestalt. vnd alles geflügel nach seine[m] geschlecht. vn[d] got sahe das es gůt was. vnd hat die gesegnet sprechende.*
@@ -20,7 +20,7 @@ Uide[n]s quod esset bonum benedixit eis dicens.*
 ## P 2
 
 >*Crescite [et] multiplicamini [et] replete aquas maris: auesq[ue] multiplicentur super terram.*  
-Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natalilia aquis: q[uae] reptilia dicuntur: cum impetu quodam se rapiunt.
+Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natatilia aquis: q[uae] reptilia dicuntur: cum impetu quodam se rapiunt.
 
 >*Ir söllet wachssen vn[d] gefilfeltigt werde[n] vn[d] erfüllen die wasser des meers. vn[d] die fogel vilfeltigend sich ob dem ertraich.* darümb hat got an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].
 
@@ -45,9 +45,9 @@ Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea
 
 ## P 4
 
->creauit deus anima[m] viuente[m]. vbi aut[em] de aq[ui]s no[n] a[n]imam. s[ecundum] reptile a[n]i[m]e viuentis q[ua]si aquis vehiculu[m].  
-Inter animalis terre tria memorat Moyses q[uae] in seq[ue]nti die infinuat.  
-Plurima aut[em] [et] maxima in indico mare a[n]i[m]alia.  
+>creauit deus anima[m] viuente[m]. vbi aut[em] de aq[ui]s: no[n] a[n]imam. s[ecundum] reptile a[n]i[m]e viuentis q[ua]si aquis vehiculu[m].  
+Inter animalia terre tria memorat Moyses q[uae] in seq[ue]nti die insinuat.  
+Plurima aut[em] [et] maxima in indico mari a[n]i[m]alia.  
 E[st] quibus balene quaternu[m] iuge[rum].  
 Et in mari bellue circasolstitia maxime visunt[ur].  
 Tu[n]c illic ruu[n]t turbines: tu[n]c imbres: tu[n]c deiecte mo[n]tiu[m] iugis p[ro]celle ab imo vertu[n]t maria. pulsatasq[ue] ex p[ro]fundo belluas cum fluctibus voluu[n]t. auiu[m] quoq[ue]  gra[n]dissime [et] pene bestiarum generis strucio cameli affrici vel ethiopici altitudinem equitis infidentis equo excedunt: celeritatem vincunt.  
