@@ -6,13 +6,13 @@
 
 **C**Orporalis mundi machina tota consistit in duobus. scilicet in natura celesti: et in natura elementari.
 
-Celestis autem distinguitur in tres celos principalem. scil[icet] empyreum. cristallinum [et] firmamentu[m]. 
+Celestis autem distinguitur in tres celos principales. scil[icet] empyreum. cristallinum [et] firmamentu[m]. 
 
-Intra firmamentum vero quod est celu[m] stellarum co[n]tinent[ur] septem orbes septem planetarum qui sunt Saturnus. Iupiter. Mars. Sol. Uen[us]. Mercurius. Luna. 
+Intra firmamentum vero quod est celum stellarum co[n]tinent[ur] septem orbes septem planetarum qui sunt Saturnus. Iupiter. Mars. Sol. Uen[us]. Mercurius. Luna. 
 
 Nomine autem celi cristallini siue aquei intelligit[ur] prima pars materie prime que s[ecundum] philosophu[m] formata est i[n] duos orbes: quorum sup[er]ior est primu[m] mobile. 
 
-Istorum orbium natura est q[uia] omnes mouent[ur]: excepto empyreo celo: q[uo]d quietu[m] est. 
+Isto[rum] orbium natura est q[uia] omnes mouent[ur]: excepto empyreo celo: q[uo]d quietu[m] est. 
 
 Natura vero eleme[n]taris in q[ua]ttuor speras principales distinguit[ur]. scilic[et] ignis aeris. terre [et] aque. 
 
@@ -36,7 +36,7 @@ Distantia predictorum orbium et planetarum hec est.
 
 A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cxxvi.
 
-A luna vsq[ue] ad Mercurium sunt miliaria .vij.dcc.xij. et semisse.
+A luna vsq[ue] ad Mercurium sunt miliaria .vij.dccc.xij. et semisse.
 
 A mercurium vsq[ue] ad venerem tantu[m].
 
@@ -63,15 +63,15 @@ Celestis in ordinibus angelicis.
 
 Subcelestis in hominibus sanctis.
 
-Porro hierachia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.
+Porro hierarchia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.
 
-Superior continet tres ordines s[ecundu]m] seraphin [et] cherubin [et] thronos.
+Superior continet tres ordines s[ecundu]m seraphin [et] cherubin [et] thronos.
 
 Quor[um] primi [con]siderant dei bonitate[m].
 
 Secundi virtute[m].
 
-Tertij equitate[m].
+Tercij equitate[m].
 
 Item in primis deus amat vt charitas.
 
@@ -97,14 +97,14 @@ In tercijs nutrit vt inspira[n]s.
 
 Hec dicta sunt s[ecundu]m **Gregoriu[m]**.[^3]
 
-Sed s[ecundu]m dyonisium virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tertie hierarchie
+Sed s[ecundu]m dyonisium virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie
 
 Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinitas p[er]sonarum diuinarum: vt patet in celcsti hierarchia tam superiori q[uonia]m media q[uonia]m inferiori.
 
 
 ### De tempore siue etatibus.
 
-**M**Undi etates accipiunt[ur] similitudinarie iuxta etates homis: sunt aut[em] sex etates mu[n]di.
+**M**Undi etates accipiunt[ur] similitudinarie iuxta etates homi[ni]s: sunt aut[em] sex etates mu[n]di.
 
 Qua[rum] prima incipit a mu[n]di creat[i]one [et] durat vsq[ue] ad diluuiu[m]: [et] habuit s[ecundu]m hebraicam veritate[m] annos .i656.
 
@@ -114,14 +114,14 @@ S[e]c[un]da etas incipit a diluuio: et durat vsq[ue] ad natiuitatem abrahe: [et]
 
 Que aut[em] sit ratio tante diuersitatis inuenire no[n] potui.
 
-Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
-s[ecundu]m septuaginta .940.
+Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
+s[ecundu]m septuagi[n]ta .940.
 
-Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]is babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
+Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]em babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
 
-Quinta etas incipit a transmigrat[i]one babilonis. scil[icet] q[uo]n[iam] hierusale[m] destructa fuit: [et] templu[m] in ea incensum: et durauit vsq[ue] ad benedicta[m] natiuitatem [christ]i habens annos s[ecundu]m hunc modum pretactum quem hic sequimur 590.
+Quinta etas incipit a transmigrat[i]one babilonis. scil[icet] q[uo]n[iam] hierusale[m] destructa fuit: [et] templu[m] in ea incensum: et durauit vsq[ue] ad benedicta[m] natiuitatem [christ]i habens annos s[ecundu]m hunc modu[m] pretactum quem hic sequimur 590.
 
-Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimodi co[m]puta[n]t.
+Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimode co[m]puta[n]t.
 
 Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue hora nouissima.
 
@@ -131,7 +131,7 @@ Porro s[ecundu]m hebreos in prima etate mundi sunt generationes .x.
 
 In s[e]c[un]da .x.
 
-In tertia .xiiij.
+In tercia .xiiij.
 
 In quarta .xvij. quas tame[n] **Matheus**[^6] gratia misterij .xiiij. ponit.
 
@@ -143,11 +143,11 @@ Prima e[st] infantia homi[ni]s natiuitate ho[m]i[ni]s vsq[ue] ad a[n]nos .7.
 
 S[e]c[un]da etas est puericia vsq[ue] ad a[n]nos .xiiij.
 
-Tertia etas e[st] adolesce[n]tia vsq[ue] a .i5. anno vsq[ue] in .38.
+Tertia etas e[st] adolesce[n]tia a .i5. anno vsq[ue] in .38.
 
 Quarta e[st] iuue[n]t[us] vsq[ue] ad .49. 
 
-Quina e[st] senect[us] a .50. a[n]no vsq[ue] ad .79.
+Quinta e[st] senect[us] a .50. a[n]no vsq[ue] ad .79.
 
 Sexta e[st] decrepita etas ab a[n]no .80. vsq[ue] dum vita finit[ur].
 

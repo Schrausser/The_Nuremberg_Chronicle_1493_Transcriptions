@@ -32,7 +32,7 @@
 
 ### P 3
 
->Celestis autem distinguitur in tres celos principalem. 
+>Celestis autem distinguitur in tres celos principales. 
 
 >Die himlisch natur wirdt geteilt in drey fürnemlich himel.
 
@@ -48,7 +48,7 @@
 
 ### P 5
 
->Intra firmamentum vero quod est celu[m] stellarum co[n]tinent[ur] septem orbes septem planetarum 
+>Intra firmamentum vero quod est celum stellarum co[n]tinent[ur] septem orbes septem planetarum 
 
 >Innerhalb des firmaments das der gestirnt himel ist werde[n] siben umbkreys der siben planeten begriffen.
 
@@ -72,7 +72,7 @@
 
 ### P 8
 
->Istorum orbium natura est q[uia] omnes mouent[ur]: excepto empyreo celo: q[uo]d quietu[m] est. 
+>Isto[rum] orbium natura est q[uia] omnes mouent[ur]: excepto empyreo celo: q[uo]d quietu[m] est. 
 
 >Die natur dieser umbkreys ist die: das sie alle bewegt werden außgenomen den feürige[n] det rüet.
 
@@ -142,7 +142,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 16
 
->A luna vsq[ue] ad Mercurium sunt miliaria .vij.dcc.xij. et semisse.
+>A luna vsq[ue] ad Mercurium sunt miliaria .vij.dccc.xij. et semisse.
 
 >Von de[m] mond zu mercurio .vij<sup>m</sup>.viij<sup>c</sup>.xiij. 
 
@@ -244,8 +244,8 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 5
 
->Porro hierachia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.  
-Superior continet tres ordines s[ecundu]m] seraphin [et] cherubin [et] thronos.
+>Porro hierarchia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.  
+Superior continet tres ordines s[ecundu]m seraphin [et] cherubin [et] thronos.
 
 >Nw die himlisch ierarchey wird geteilt in ein oberere mittlere unnd undere. die obere begreift drey orden. als seraphin cherubin tronengel.
 
@@ -255,7 +255,7 @@ Superior continet tres ordines s[ecundu]m] seraphin [et] cherubin [et] thronos.
 
 >Quor[um] primi [con]siderant dei bonitate[m].  
 Secundi virtute[m].  
-Tertij equitate[m].  
+Tercij equitate[m].  
 Item in primis deus amat vt charitas.  
 In s[e]c[un]dis noscit vt veritas.  
 In tercijs sedet vt equitas.  
@@ -303,7 +303,7 @@ In tercijs nutrit vt inspira[n]s.
 
 ### P 11
 
->Sed s[ecundu]m dyonisium virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tertie hierarchie  
+>Sed s[ecundu]m dyonisium virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie  
 Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinitas p[er]sonarum diuinarum: vt patet in celcsti hierarchia tam superiori q[uonia]m media q[uonia]m inferiori.
 
 >Aber als dionisius setzt so sind die creftengel der mittel orden der andern ierarchey. vnd die fürstengel d[er] erst orden d[er] dritten ierarchey. vnd merck das in yder vorgemelter dreyer ierarchey die trinitet der gottliche[n] person als in d[er] obern mittel un[d] undern erscheint.
@@ -321,7 +321,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 ### P 1
 
->**M**Undi etates accipiunt[ur] similitudinarie iuxta etates homis: 
+>**M**Undi etates accipiunt[ur] similitudinarie iuxta etates homi[ni]s: 
 
 >**D**Er werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.
 
@@ -386,8 +386,8 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 ### P 9
 
->Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
-s[ecundu]m septuaginta .940.
+>Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
+s[ecundu]m septuagi[n]ta .940.
 
 >Das drit von abrahams gepurt bis zu anfang des reichs david. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] .lxx. auslegern .viiij<sup>c</sup>.xl. iar. 
 
@@ -395,7 +395,7 @@ s[ecundu]m septuaginta .940.
 
 ### P 10
 
->Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]is babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
+>Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]em babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
 
 >Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar.
  
@@ -403,7 +403,7 @@ s[ecundu]m septuaginta .940.
 
 ### P 11
 
->Quinta etas incipit a transmigrat[i]one babilonis. scil[icet] q[uo]n[iam] hierusale[m] destructa fuit: [et] templu[m] in ea incensum: et durauit vsq[ue] ad benedicta[m] natiuitatem [christ]i habens annos s[ecundu]m hunc modum pretactum quem hic sequimur 590.
+>Quinta etas incipit a transmigrat[i]one babilonis. scil[icet] q[uo]n[iam] hierusale[m] destructa fuit: [et] templu[m] in ea incensum: et durauit vsq[ue] ad benedicta[m] natiuitatem [christ]i habens annos s[ecundu]m hunc modu[m] pretactum quem hic sequimur 590.
 
 >Das fünft vom übergang babilonis da hierusalem zerstort vnd der te[m]pel angezünd ward bis zu der gebenedeiten gepurt cristi vnd het nach vorgemelter weis .v<sup>c</sup>.lxxxx. iar.
  
@@ -411,7 +411,7 @@ s[ecundu]m septuaginta .940.
 
 ### P 12
 
->Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimodi co[m]puta[n]t.
+>Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimode co[m]puta[n]t.
 
 >Vnnd der iar halb diss alters ist ein grosse zweyu[n]g dan[n] ma[n]che mache[n] ma[n]cherley rechnung darüber.
 
@@ -459,7 +459,7 @@ s[ecundu]m septuaginta .940.
 
 ### P 18
 
->In tertia .xiiij.
+>In tercia .xiiij.
 
 >In dem dritten .xiiij.
 
@@ -499,7 +499,7 @@ In quinta .xiiij.
 
 ### P 23
 
->Tertia etas e[st] adolesce[n]tia vsq[ue] a .i5. anno vsq[ue] in .38.
+>Tertia etas e[st] adolesce[n]tia a .i5. anno vsq[ue] in .38.
 
 >Das drit zeittigkeit von .xv. bis in das .xxxviij. iar.
 
@@ -515,7 +515,7 @@ In quinta .xiiij.
 
 ### P 25
 
->Quina e[st] senect[us] a .50. a[n]no vsq[ue] ad .79.
+>Quinta e[st] senect[us] a .50. a[n]no vsq[ue] ad .79.
 
 >Das fünft altheit vo[n] .l. bis i[n] das .lxxviiij. iar.
 
