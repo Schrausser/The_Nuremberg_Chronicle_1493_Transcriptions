@@ -17,7 +17,7 @@
 ## P 2
 
 >**S**Umma bonitas volens co[m]mu[n]icare suum bonu[m] [et] alijs fecit creaturam rationalem q[ue] summu[m] bonu[m]
-intelligeret: i[n]tellige[n]do amaret: ama[n]do possideret: possidendo beata e[ss]et.
+intelligeret: i[n]tellige[n]do amaret: ama[n]do possideret: posside[n]do beata e[ss]et.
 
 
 >**D**Ie höhst gůthait wolt ir gut auch andern mittaile[n] daru[m]b beschuff sie ein vernünftige creatur die das höhst gut verstünd. versteende liebhet. lieb habende beseße vnd besitzende selig wer. 
@@ -46,9 +46,9 @@ Ecce d[omi]n[u]s mirabili p[er]fu[n]dit gra[tia].
 
 ## P 5
 
->Cu[m] ergo mare[m] ad si[mi]litudine[m] sua[m] primum finxisset: tu[m] etia[m] feminam [con]figurauit adipsius hominis effigiem vt dou inter se p[er]mixti sex[us] p[ro]pagare  sobolem possent: [et] omne[m] terra[m] multitudine opplere.  
-**F**Ormatis a[n]i[m]antib[us] terre [et] volatilib[us] adduct[is] ad Ada[m] vt videret ea: cu[m] ada[m] no[n] i[n]ueniret[ur] adiutor si[mi]lis sibi: immisit d[omi]n[u]s sopore[m] in Ada[m] [et] tulis una[m] de costis ei[us]: reple[n]s carne[m] pro ea: [et] edificauit in muliere[m].  
-Qua[m] ada[m] vide[n]s: dixit h[oc] nunc os de ossib[us] meis h[oc] vocabit[ur] Issa q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].
+>Cu[m] ergo mare[m] ad si[mi]litudine[m] sua[m] primum finxisset: tu[m] etia[m] feminam [con]figurauit adipsius ho[m]i[ni]s effigiem vt dou inter se p[er]mixti sex[us] p[ro]pagare  sobolem possent: [et] omne[m] terra[m] multitudine opplere.  
+**F**Ormatis a[n]i[m]antib[us] terre [et] volatilib[us] adduct[is] ad Ada[m] vt videret ea: cu[m] ada[m] no[n] i[n]ueniret[ur] adiutor si[mi]lis sibi: immisit d[omi]n[u]s sopore[m] in Ada[m] [et] tulis una[m] de costis ei[us]: reple[n]s carne[m] p[ro] ea: [et] edificauit in muliere[m].  
+Qua[m] ada[m] vide[n]s: dixit h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur] Issa q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].
 
 >**A**Ls nw die geselte[n] creatur der erde[n] vnd das geflügl geformirt vnd zu ada[m] gefürt warden die zesehen da den[n] adam nit gefunde[n] ward ein helfer im gleich da sendet der herr eine[n] schlaff in adam. vnd nam aine auß seinen rippe[n]: erfüllet fleisch für sie vnd machet die zu eine[m] weib die ada[m] sahe vnd sprach. diss pain ist nun vo[n] meine[n] gepainen. dise wirt genant Issa: das souil ist als ein weib dan sie ist vo[n] eine[m] ma[n] genome[n].
 
@@ -57,7 +57,7 @@ Qua[m] ada[m] vide[n]s: dixit h[oc] nunc os de ossib[us] meis h[oc] vocabit[ur] 
 
 ## P 6
 
->Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: et ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
+>Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
 
 
 >Nw der herr füret Adam in das paradeiß vnd hat daselbst vo[n] der ripp des slaffenden Eua[n] gemacht vnd ime ein gesellein geformt. 
@@ -74,7 +74,7 @@ Qua[m] ada[m] vide[n]s: dixit h[oc] nunc os de ossib[us] meis h[oc] vocabit[ur] 
 
 ## P 8
 
->no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculum p[ro]baret[ur]:
+>no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculu[m] p[ro]baret[ur]:
 
 >Auch nit vo[n] füß des mans das sie nit verschmeht würd sunder von der seyten zu bewerung eins bands der lieb. 
 
@@ -94,7 +94,7 @@ Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc] est i[n] inferiori loco vir fact[u
 
 ## P 10
 
->Ada[m] igit[ur] p[ro]thoplastu[m] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bedtijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
+>Ada[m] igit[ur] p[ro]thoplastu[m] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bestijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
 
 >Also hat got der höhst werckman aller ding am sechsten tag d[er] werlt. am .xxv. tag martij nach de[n] geschöpff der thier des ertreichs vnd aller krichende[n] würm vnd der geflügel vo[n] rote[m] erdklos oder lette[n] in dem agker damasceno Ada[m] den erste[n] mensche[n] erschaffen als ein end vnd eine[n] besitzer aller creatur.
 

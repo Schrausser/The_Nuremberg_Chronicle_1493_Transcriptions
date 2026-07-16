@@ -5,7 +5,7 @@
 **P**Rima etas mundi ab Ada[m] vsq[ue] ad diluuiu[m] habet s[ecundu]m Hebreos a[n]nos i656. s[ecundu]m ***septuaginta interp[re]tes***[^2] ***Isidorum***[^3] [et] plures alios quorum numerus in etatibus conseque[n]ter ponitur habuit annos .2242.
 
 **S**Umma bonitas volens co[m]mu[n]icare suum bonu[m] [et] alijs fecit creaturam rationalem q[ue] summu[m] bonu[m]
-intelligeret: i[n]tellige[n]do amaret: ama[n]do possideret: possidendo beata e[ss]et.
+intelligeret: i[n]tellige[n]do amaret: ama[n]do possideret: posside[n]do beata e[ss]et.
 
 Fecit de[us] aut[em] primu[m] ho[m]i[n]em forma[n]do corp[us] ei[us] p[er] ministerium angelo[rum] de limo terre i[n] agro damasceno [et] inspirauit i[n] facie[m] ei[us] spiraculum vite: hoc e[st] a[n]i[m]am creauit: quam corpori facto vniuit.[^4]
 
@@ -13,20 +13,20 @@ Fact[us] aut[em] e[st] homo ad ymaginem dei in naturalib[us] [et] ad si[mi]litud
 
 Ecce d[omi]n[u]s mirabili p[er]fu[n]dit gra[tia][^5].
 
-Cu[m] ergo mare[m] ad si[mi]litudine[m] sua[m] primum finxisset: tu[m] etia[m] feminam [con]figurauit adipsius hominis effigiem vt dou inter se p[er]mixti sex[us] p[ro]pagare  sobolem possent: [et] omne[m] terra[m] multitudine opplere.
+Cu[m] ergo mare[m] ad si[mi]litudine[m] sua[m] primum finxisset: tu[m] etia[m] feminam [con]figurauit adipsius ho[m]i[n]is effigiem vt dou inter se p[er]mixti sex[us] p[ro]pagare  sobolem possent: [et] omne[m] terra[m] multitudine opplere.
 
-**F**Ormatis a[n]i[m]antib[us] terre [et] volatilib[us] adduct[is] ad Ada[m] vt videret ea: cu[m] ada[m] no[n] i[n]ueniret[ur] adiutor si[mi]lis sibi: immisit d[omi]n[u]s sopore[m] in Ada[m] [et] tulis una[m] de costis ei[us]: reple[n]s carne[m] pro ea: [et] edificauit in muliere[m].
+**F**Ormatis a[n]i[m]antib[us] terre [et] volatilib[us] adduct[is] ad Ada[m] vt videret ea: cu[m] ada[m] no[n] i[n]ueniret[ur] adiutor si[mi]lis sibi: immisit d[omi]n[u]s sopore[m] in Ada[m] [et] tulis una[m] de costis ei[us]: reple[n]s carne[m] p[ro] ea: [et] edificauit in muliere[m].
 
-Qua[m] ada[m] vide[n]s: dixit h[oc][^6] nunc os de ossib[us] meis h[oc][^6] vocabit[ur] Issa[^7] q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].[^8]
+Qua[m] ada[m] vide[n]s: dixit h[oc][^6] nu[n]c os de ossib[us] meis h[oc][^6] vocabit[ur] Issa[^7] q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].[^8]
 
-Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: et ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
+Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
 
-Ha[n]c n[on][^9] fecit de capite ne viro d[omi]naret[ur]: no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculum p[ro]baret[ur]: etia[m] vt no[n] loci gener[is] nobilitate: s[ecundum] virtute vnusq[ui]sq[ue] sibi co[m]paret gra[tia]m.
+Ha[n]c n[on][^9] fecit de capite ne viro d[omi]naret[ur]: no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculu[m] p[ro]baret[ur]: etia[m] vt no[n] loci gener[is] nobilitate: s[ecundum] virtute vnusq[ui]sq[ue] sibi co[m]paret gra[tia]m.
 
 
 I[de]o extra p[ar]adisum vir fact[us] e[st]: mulier vero i[n]tra paradisu[m].
 
-Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc][^6] est i[n] inferiori loco vir fact[us] melior inuenit[ur] p[ro] Eua q[ue] in p[ar]adiso facta fuit Ada[m] igit[ur] p[ro]thoplastu[m][^10] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bedtijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
+Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc][^6] est i[n] inferiori loco vir fact[us] melior inuenit[ur] p[ro] Eua q[ue] in p[ar]adiso facta fuit Ada[m] igit[ur] p[ro]thoplastu[m][^10] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bestijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
 
 [^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3r).  
 [^2]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695)), Ulrich and Holzhalb ([1756](https://doi.org/10.3931/e-rara-65699)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
