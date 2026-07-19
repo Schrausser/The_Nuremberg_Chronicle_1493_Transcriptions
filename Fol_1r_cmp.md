@@ -12,7 +12,7 @@
 
 >**C**Um apud doctissimos et prestantissimos viros q[ui] vera[m] naturam et historiam tradideru[n]t a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur]: 
 
->**D**Ieweill bey den allergelertiste[n] vnd fürnamste[n] manne[n] die die ware[n] natur vnd geschicht beschriben habe[n] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.  
+>**D**Ieweill bey den allergelertiste[n] vnd fürnamste[n] manne[n] die die ware[n] natur vnd geschicht beschriben habe[n] vo[n] geschopff der welt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.  
 
 >As it sometimes happens among the most learned and distinguished men who have written of the true nature and history of the creation of the world and the birth of man, that two different accounts exist,
 
@@ -28,7 +28,7 @@
 
 >q[ua]ntu[m] in ta[ntum] remotis (p[ro]pter a[n]ti[qui]tate[m]) reb[us] licebit.
 
->Souil sich von souer (alters halbe[r]) enthlegne[n] dinge[n] gezime[n] wil. 
+>Souil sich von souer (alters halbe[n]) enthlegne[n] dinge[n] gezime[n] wil. 
 
 >considering their age.
 
@@ -36,7 +36,7 @@
 
 >Quida[m] mu[n]du[m] ingenitum: et incorruptibilem: et genus humanum ab eterno extisse neq[ue] habuisse ortus principiu[m] sensere.
 
->Etlich habe[n] gemaint das die werlt vngeporn vnd vnzastolich: vn[d] das me[n]schlich geschlecht vo[n] ewigkeit her gewesen sey. vnd anfa[n]g einichs vrsprungs nit gehabt hab. 
+>Etlich habe[n] gemaint das die werlt vngeporn vnd vnzerstörlich: vn[d] das me[n]schlich geschlecht vo[n] ewigkeit her gewesen sey. vnd anfa[n]g einichs vrsprungs nit gehabt hab. 
 
 >Some were of the opinion that the world was not born and that it is indestructible; that the human race has existed from eternity and had no origin. 
 
@@ -54,7 +54,7 @@
 >Et greci viri clarissimi qui historias collegeru[n]t: affirmaru[n]t.  
 Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma[m] fuisse: postea disseparatis: diuisisq[ue] molibus cepisse mundu[m] hunc ordinem quem videmus.
 
->Vn[d] die kriechische[n] hocherlewchten man[n] durch die die hystorien vnd geschichte[n] versamelt worde sind. habe[n] auch veriehen das vor anbegynn[] aller ding des himels vnd der erde[n] dieweill noch yde ding bayaynander ware[n] ein eynige form gewesen sei: un[d] darnach nach absunderu[n]g vn[d] zertaylu[n]g der beyeina[n]der gewesen pürde. die werlt dise odnung vnd gestalt die wir sehen empfange[n] hab. 
+>Vn[d] die kriechische[n] hocherlewchten man[n] durch die die hystorien vnd geschichte[n] versamelt worde sind. habe[n] auch veriehen das vor anbegynn[] aller ding des himels vnd der erde[n] dieweill noch yde ding bayaynander ware[n] ein eynige form gewesen sei: un[d] darnach nach absunderu[n]g vn[d] zerteylu[n]g der beyeina[n]der gewesen pürde. die werlt dise ordnung vnd gestalt die wir sehen empfange[n] hab. 
 
 >And the highly enlightened Greeks who collected all the histories and accounts subscribed to the theory that before the beginning of all things of heaven and earth and while these things were still together, there was but a single form; that later through separation and division of matter, the world took on the order and structure in which we now see it. 
 
@@ -63,7 +63,7 @@ Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma
 >Aerem hu[n]c motu [con]tinuum et igneam p[ar]tem cuius superiora loca p[er]p[e]ter leuitate[m] a[l]iu[n]t appetinisse:    
 Qua ex causa solem ac stellaru[m] multitudine[m] volut[i]one totius circu[m]ferri:
 
->Sie sagen das der in bevegnus stetiger lufft vnd feürig tayl irer obern stett vo[n] leichtheit wege[n] begert haben. vnd das auß diser vrsach die sunn vnd merug der stern in dem krais des gantze[n] geschöpffs vmbgetrage[n] werde[n]. 
+>Sie sagen das der in bewegnus stetiger lufft vnd feürig tayl irer ober[n] stett vo[n] leichtheit wege[n] begert haben. vnd das auß diser vrsach die sunn vnd merug der stern in dem krais des ganze[n] geschöpffs vmbgetrage[n] werde[n]. 
 
 >They say that because the air and the fiery part of its upper state were constantly in motion, these became lighter, and that the sun and many of the stars are carried about in it. 
 
@@ -72,7 +72,7 @@ Qua ex causa solem ac stellaru[m] multitudine[m] volut[i]one totius circu[m]ferr
 >Partem aute[m] turbidam atq[ue] terrestrem vnacum humidis ad infima loca ob grauitatem descendisse que tum mixta essent. ex humidis quide[m] mare effectu[m].  
 Ex durioribus vero terram lutosam euasisse: [et] omnino mollem. 
 
->Aber der tunckel und irdisch teyl sey mitsambt de[n] feüchte[n] dingen an die niderste[n] ort vo[n] swertheit wege[n] abgestige[n]: nach de[m] aber dise ding wermischt ware so wer auß de[n] feüchte[n] das mer. vnd auß de[n] hertte[n] dinge[n]. das letting vnd gantz weich ertreich worde[n]. 
+>Aber der tunckel und irdisch teyl sey mitsambt de[n] feüchte[n] dingen an die niderste[n] ort vo[n] swertheit wege[n] abgestige[n]: nach de[m] aber dise ding wermischt ware[n] so wer auß de[n] feüchte[n] das mer. vnd auß de[n] hertte[n] dinge[n]. das lettig vnd gantz weich ertreich worde[n]. 
 
 >But the dark and substantial part, together with the moist things, were carried to the lowest region by their own weight. After these things were mixed, the sea came out of the mist, and the substantial matter, which was loamy and soft, became the earth.
 
@@ -81,7 +81,7 @@ Ex durioribus vero terram lutosam euasisse: [et] omnino mollem.
 >hec primum cum solis ardore densior euasisset: in quibus putredines tenui co[n]tecte pellicula sint excitate.  
 Erupisse tandem ab illa colluuie varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t:  
 
->Als aber das ertreich erstlich auß hitz der sunne[n] dicker worde[n] wer vn[d] dar in faulfeüchtigkeitn[n] mit dynne[n] hewtlein bedeckett erwuchsen do wer alßdan[n] vo[n] solcher pfütsche ma[n]cherlay gestalt der lebe[n]de[n] entstande[n]. vnd die. die souill merer wirm empfange[n] hette[n] geriete[n] zu geflügele hin in die obern gege[n]t. 
+>Als aber das ertreich erstlich auß hitz der sunne[n] dicker worde[n] wer vn[d] dar in faulfeüchtigkeitn[n] mit dynne[n] hewtlein bedeckett erwuchsen do wer alßdan[n] vo[n] solcher pfütsche[n] ma[n]cherlay gestalt der lebe[n]de[n] entstande[n]. vnd die. die souill merer wirm empfange[n] hette[n] geriete[n] zu geflügele hin in die obern gege[n]t. 
 
 >And as the earth first became denser through the heat of the sun, there originated decaying ooze, covered by a thin skin, and out of such marshes and puddles came a variety of living forms. Those who had received more heat became winged creatures and soared into the upper regions;
 
@@ -101,7 +101,7 @@ Naturam aquosam nacta in sui generis elementum delata sunt.
 >Terra deinceps tum solis ardore tum ventis arefacta: mutua [con]mixtione sexuu[m] p[er]fectiora generant[ur].  
 Hoc **Euripides Tragicus** **Anaxagore**  physici discipulus ita se habuisse testatur.
 
->Als nw darnach das ertreich auß hitz d[er] su[n]ne[n] vn[d] vo[n] de[n] wi[n]de[n] dürr worde[n] was da warde[n] mit versamelter vermischu[n]g ma[n]lichs vn[d] frewliche geschlechts volku[m]ner di[n]g geborn[n]. diss bezewgt **euripides tragicus** ein iu[n]ger **anaxagore** des natürliche[n] maisters. 
+>Als nw darnach das ertreich auß hitz d[er] su[n]ne[n] vn[d] vo[n] de[n] wi[n]de[n] dürr worde[n] was da warde[n] mit versamelter vermischu[n]g ma[n]lichs vn[d] frewlichs geschlechts volku[m]ner di[n]g geborn[n]. diss bezewgt **euripides tragicus** ein iu[n]ger **anaxagore** des natürliche[n] maisters. 
 
 >Now as the earth through the heat of the sun and the action of the air became dry, there was born a collective mixture of more perfect creatures, male and female. To this testifies **Euripides**, the tragedian, a disciple of **Anaxagoras**, the master of natural history. 
 
@@ -110,7 +110,7 @@ Hoc **Euripides Tragicus** **Anaxagore**  physici discipulus ita se habuisse tes
 >Eodem modo homines a principio genitos dicunt.  
 In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [et] arboru[m] fructus vltro victum prebuerunt.
 
->Sie spreche[n] in der selbe[n] weis die me[n]sche[n] vo[n] anfang geporn[n] in de[n] feldern die wayd suchende[n] eins wilde[n] vnd vngeorde[n]te[n] lebe[n]s gelebt. den die krewter vnd frücht der bawm williglich naru[n]g geraicht habe[n].
+>Sie spreche[n] in der selbe[n] weis die me[n]sche[n] vo[n] anfang geporn[n] in de[n] feldern[n] die wayd suchende eins wilde[n] vnd vngeorde[n]te[n] lebe[n]s gelebt. den die krewter vnd frücht der bawm williglich naru[n]g geraicht habe[n].
 
 >In the same manner they say the people were born in the field, roaming afar, and living a wild and unregulated life, and to whom the herbs and the fruits of the trees offered sustenance.
 
@@ -147,7 +147,7 @@ consultissimum prodiderunt.
 
 >Apud hebreos **Salomonis** liber: cui sapi[enti]a titulus: in quo vir naturererum interpres se illiusinodi disciplina[m] de mosayce legis penetralibus accepisse fatet[ur].
 
->Vo[n] de[m] **Salomo[n]** in seine[m] buch der weysheit als ein außleger der natur d[er] wesende[n] ding: veriehe[n] hat. das er sölche lere[n] vo[n] de[n] innern[n] dinge[n] des gesetzs moysi genome[n] hab.
+>Vo[n] de[m] **Salomo[n]** in seine[m] buch der weysheit als ein außleger der natur d[er] wesende[n] ding: veriehe[n] hat. das er sölche lere vo[n] de[n] innern[n] dinge[n] des gesetzs moysi genome[n] hab.
 
 >**Solomon** in his book of wisdom, as an expounder of nature and of living things, acknowledges that he derived his learning of these inmost matters from the laws of Moses. 
 
@@ -175,7 +175,7 @@ consultissimum prodiderunt.
 In primordio deniq[ue] sui operis de natura: de totius opificio  mu[n]di velut agri cuiuspiam thesauri: omnis vere philosophie defossi sunt.  
 Factu[m]q[ue] in primis hoc in hac parte: vbi de rerum omniu[m] emanat[i]one a deo de gradu: de numero: de ordine partium mundanaru[m] altissime philosophat[ur]. 
 
->**Numenius philosophus** sagt. nichts anders **platone[n]** sein dan[n] de[n] atticischen moysen. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
+>**Numenius philosophus** sagt. nichts anders **platone[n]** sein dan[n] de[n] atticischen moysen. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe[n] an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
 
 >**Numenius**, the philosopher, states that **Plato** was a very Attic Moses; [...] for in the beginning of his works upon nature a wealth of true wisdom lies buried. He speaks learnedly and wisely of all things as emanating from God, of their relationships, their number, and the regulation of their mutations.
 
@@ -218,7 +218,7 @@ Ex moyse seriem sex dierum: de diuina mundi fabrica: de qua in archanis sancte r
 Eoq[ue] simul et co[n]siliatore vsus est [et] artifice: in excogitandis: ornandis: faciendisq[ue] rebus: 
 
 
->Als nw got das geschöpff der werlt gemacht hett do hot er den ersten vnd grösisten sun fürgesetzt dem vnermesse[n] werck vnd sich des selbe[n] als eins radtgebe[r] vnd werckmeisters in ertrachtu[n]g. zierung vnd machung d[er] ding gepraucht. 
+>Als nw got das geschöpff der werlt gemacht hett do hot er de[n] ersten vnd grösisten sun fürgesetzt dem vnermesse[n] werck vnd sich des selbe[n] als eins radtgebe[r] vnd werckmeisters in ertrachtu[n]g. zierung vnd machung d[er] ding gepraucht. 
 
 >Now as God created the earth, he placed at the head of his infinite work the first and greatest son, employing him as a counselor and master-craftsman in the planning, beautification and creation of things. 
 
@@ -238,7 +238,7 @@ Di[midi]a enim fecit ex nihilo.
 Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eo te[n]dere ubi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.  
 Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit et extendi campos: subsidere valles: fronde tegi filuas: lapidosos surgere montes: 
 
->Es ist auch zefragen warauß got dise so grosse vnd so wunderperliche ding gemacht hab. dan[n] er hat alle ding gemacht aus nichte[n]. darümb ist gar uil gerechter vngeachtet d[er] vnentpfintliche[n] vn[d] eiteln ding die auge[n] do hin zuwe[n]de[n] da der stul. da die wonu[n]g des ware[n] gottes ist. der das ertreich mit bestendiger vestikeit. auffgehenckt den himel mit scheinende[n] sterne[n] vnderschide[n] die allerclarste[n] sunne[n] vnd ainig liecht zu beweysung seiner ainige[n] mayestat den me[n]schliche[n] dinge[n] angezündet. das ertreich mit dem mere vmbringet. die wasserflüs mit ewige[n] abfal zefliessen gebotte[n] vnd de[n] feldern[n] sich auß zepraiten. den tallern[n] sich zesencke[n]. de[n] walde[n] sich mit lawbgewachs zebedecke[n]. vn[d] die staynige[n] perg auffzesteige[n] verschaffet hat. 
+>Es ist auch zefragen warauß got dise so grosse vnd so wunderperliche ding gemacht hab. dan[n] er hat alle ding gemacht aus nichte[n]. darümb ist garuil gerechter vngeachtet d[er] vnentpfintliche[n] vn[d] eiteln ding die auge[n] do hin zuwe[n]de[n] da der stul. da die wonu[n]g des ware[n] gottes ist. der das ertreich mit bestendiger vestikeit. auffgehenckt den himel mit scheinende[n] sterne[n] vnderschide[n] die allerclarste[n] sunne[n] vnd ainig liecht zu beweysung seiner ainige[n] mayestat den me[n]schliche[n] dinge[n] angezündet. das ertreich mit dem mere vmbringet. die wasserflüs mit ewige[n] abfal zefliessen gebotte[n] vnd de[n] feldern[n] sich auß zepraiten. den tallern[n] sich zesencke[n]. de[n] walde[n] sich mit lawbgewachs zebedecke[n]. vn[d] die staynige[n] perg auffzesteige[n] verschaffet hat. 
 
 >It is also asked out of what God made these great and wonderful things, for he made all things out of nothing; and therefore it is more righteous that insensible trifling things be ignored and the eyes directed to the seat, where is the abode of the true God, who endowed the earth with everlasting solidity, hung up shining stars in the heavens, distinguished the clearest suns, surrounded the earth with the sea, caused the rivers to flow, the fields to spread out, the valleys to sink, the forests to bedeck themselves with foliage, and the rocky mountains to rise.
 
@@ -254,7 +254,7 @@ Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit
 
 >Satis est homini ad perfectam prudentiam: si deum esse intelligat vt suscipiet [et] honorificet communem parentem generis humani: [et] rerum mirabilium fabricatorem.
 
->Gnug ist de[n] mensche[n] zu volku[m]ne klugheyt so er (das got sey) versteet vnd annimbt vnd eret d[er] gemaine[n] geperer menschlichs geschlechts vnd den pawmaster wu[n]derpelicher ding. 
+>Gnug ist de[n] mensche[n] zu volku[m]ne klugheyt so er (das got sey) versteet vnd annimbt vnd eret de[n] gemaine[n] geperer menschlichs geschlechts vnd den pawmeister wu[n]derperlicher dig. 
 
 >Unto man it should be sufficient that there is a God, that he is the creator of the human race and the master-builder of this wonderful work.
 
@@ -264,7 +264,7 @@ Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit
 >Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi: autem intellectualem vocant.  
 Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hic tenebrarum mundus: 
 
->Die alte[n] habe[n] von dreyerlay werlt gesagt. vo[n] der oberste[n] als der englische[n] oder vberuerstentlichen. vo[n] der himlischen. vn[d] vo[n] der vnder de[m] monde. dar inn wir wone[n]. diss ist die werlt der finsternus. 
+>Die alte[n] habe[n] von dreyerlay werlt gesagt. vo[n] der oberste[n] als der englische[n] oder vberuerstentliche[n]. vo[n] der himlischen. vn[d] vo[n] der vnder de[m] monde. dar inn wir wone[n]. diss ist die werlt der finsternus. 
 
 >The ancients spoke of three kinds of worlds: the uppermost, the world of the angels; of the heavenly world; and of the one under the moon, in which we live, and this is the world of darkness, 
 
@@ -288,7 +288,7 @@ Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hi
 
 >Tritum in scolis verbum est esse hominem minorem mundum: in quo mixtum ex elementis corpus: et celestis sp[irit]us: [et] planta[rum] anima vegetalis: [et] bruto[rum] sensus: et ratio et angelica mens: [et] dei similitudo conspicit[ur].
 
->In der schul ist ein gemains spruchwort das der mensch die kleine werlt sey. dar inn ein auß den elemente[n] vermischter leib vnd himlischer gaist vnd die wachsende sele der pflanze[n]. vn[d] die sinlichkeit d[er] vnuernüftige[n] thier vnd die vernunfft vnd englisch gemüt vn[d] gotes gleichnus gesche[n] wirdt. 
+>In der schul ist ein gemains spruchwort das der mensch die kleine werlt sey. dar inn ein auß den elemente[n] vermischter [l]eib vnd himlischer gaist vnd die wachsende sele der pflantze[n]. vn[d] die sinlichkeit d[er] vnuernüftige[n] thier vnd die vernunfft vnd englisch gemüt vn[d] gotes gleichnus gesehe[n] wirdt. 
 
 >In school we learned the saying that man is a little world in which elements of body and soul are intermixed – the growing spirit of plants, the sensitive faculty of unreasoning animals, and an intelligence and angelic disposition; and therein is seen God’s likeness. 
 
