@@ -1,6 +1,6 @@
 # Blat VIr
 
-### Underschayd himlischer vn[d] eleme[n]tischer umbkreys
+### Vnderschayd himlischer vn[d] eleme[n]tischer vmbkreys
 
 **D**As ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n].
 
@@ -10,23 +10,23 @@ Die himlisch natur wirdt geteilt in drey fürnemlich himel.
 
 Als in de[n] feürigen in den cristallinischen vnd in das firmament.
 
-Innerhalb des firmaments das der gestirnt himel ist werde[n] siben umbkreys der siben planeten begriffen.
+Innerhalb deß firmaments das der gestirnt himel ist werde[n] siben vmbkreys der siben planeten begriffen.
 
 Als Saturnus Iupiter Mars Sun[n] Venus Mercurius Mond.
 
-Bey de[m] cristallinischen himel wird verstanden der erst teil d[er] erste[n] materi die nach sag des weysen geformt ist in zwen umbkreys. under de[n] der obre genant wird das erst beweglich.
+Bey de[m] cristallinischen himel wird verstanden der erst teil d[er] erste[n] materi die nach sag des weysen geformt ist in zwen vmbkreys. vnder de[n] der öbrer genant wird das erst beweglich.
 
-Die natur dieser umbkreys ist die: das sie alle bewegt werden außgenomen den feürige[n] det rüet.
+Die natur dieser vmbkreis ist die: das sie alle bewegt werden außgenomen den feürige[n] det růet.
 
-Aber die eleme[n]tische natur wird in vier vornemlich sper geteilt als des feüers lufts erden und wassers.
+Aber die eleme[n]tisch natur wird in vier vornemlich sper geteilt als des feürs lufts erden vn[d] wassers.
 
-Die sper des feürs hat drey unterschid. als de[n] obersten der ist feürig und de[n] mitteln vnd understen der ist liecht
+Die sper des feürs hat drey vnderschid. als de[n] obersten. der ist feürig vnd de[n] mitteln vnd vndersten der ist liecht
 
-Der luft hat auch drey underschied. der oberst ist scheynlich der mittel vn[d] underst lüftig. in de[m] obersten ist die wyrm vnd das liecht von nehe wegen der sunne[n]. vnd auch im understen aber vo[n] wider scheyns wegen der glentz von der erden. aber in dem mitteln underschid dahin der widerscheyn d[er] glentz nit raichen mag ist kelt und tunckelheit darinn sollen wonen die teüfel die in diesen tunckeln luft verstössen sind.
+Der luft hat auch drey vnderschid. der oberst ist scheynlich der mittel vn[d] vnderst lüftig. in de[m] obersten ist die wyrm vnd das liecht von nehe wegen der sunne[n]. vnd auch im vndersten aber vo[n] widerscheyns wege[n] der glentz vo[n] der erden. aber in dem mitteln vnderschid dahin der widerscheyn d[er] gle[n]tz nit raichen mag ist kelte vnd tunckelheit darinn sollen wonen die teüfel die in diesen tunckeln luft verstössen sind.
 
-Daselbst werde[n] auch ungestümigkeit als donerschleg hagel schne vnd der gleich.
+Daselbst werde[n] auch vngestümigkeit als donerschleg hagel schne vnd der gleich.
 
-Daraus samelst du zwölff umbkrais: die die erden un[d] wasser umryngen die alle mügen himel genant werde[n]
+Darauß samelst du zwölff vmbkreis: die die erden un[d] wasser vmbryngen die alle mügen himel genant werde[n]
 
 Aber dise all ubertrifft d[er] himel der trifeltigkeit. der got der in allen vnd über alle ist.
 
@@ -34,64 +34,65 @@ Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten von der er
 
 Von de[m] mond zu mercurio .vij<sup>m</sup>.viij<sup>c</sup>.xiij. 
 
-Von mercurio zu venus auch sovil.
+Von mercurio zu venus auch souil.
 
 Vo[n] venus zu der sunnen .xxiij<sup>m</sup>.iiij<sup>c</sup>.xxxvi. 
 
-Vo[n] der sunnen zu mars .xv<sup>m</sup>.vi<sup>c</sup>.xxv. 
+Von der sunnen zu mars .xv<sup>m</sup>.vi<sup>c</sup>.xxv. 
 
-Von mars zu iupiter .vi<sup>m</sup>.viij<sup>c</sup>.xxij. 
+Vo[n] mars zu iupiter .vi<sup>m</sup>.viij<sup>c</sup>.xxij. 
 
-Von iupiter zu saturnus auch sovil.
+Von iupiter zu saturnus auch souil.
 
 Vo[n] saturno zum firmame[n]t .xxiij<sup>m</sup>.iiij<sup>c</sup>.xxxvi. 
 
-Aus de[m] folgt das von der erden bis an den gestirnte[n] himel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxv. meyl.[^1]
+Auß de[m] volgt das von der erden bis an den gestirnte[n] himel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxxv. meyl.[^1]
 
-### Vo[m] underschid der himlische[n] iererchey gewalt oder fürstenthumb.
+### Vo[m] vnderschid der himlische[n] ierarchey gewalt oder fürstenthumb.
 
-**A**Ber von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische. 
+**A**Ber von der himlischen natur haben etlich dreierlay vnderschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein vnd[er]hi[m]lische. 
 
-Die uberhimlisch sol in dreyen personen sein. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius**[^2] sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
+Die vberhimlisch sol in dreyen personen seyn. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius**[^2] sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
 
 Die himlisch ist in de[n] englischen orden.
 
-Die underhimlisch in heiligen mensche[n].
+Die vnderhimlisch in heilligen mensche[n].
 
-Nw die himlisch ierarchey wird geteilt in ein oberere mittlere unnd undere. die obere begreift drey orden. als seraphin cherubin tronengel.
+Nw die himlisch ierarchey wird geteilt in ein oberere mittlere vnnd vndere. die obere begreift drey orden. als seraphin cherubin tronengel.
 
-Die ersten betrachten gottes guttheit. die andern sein kraft. die dritten seyn gleicheit. in dem ersten libet got als die lib. in dem andern erkent er als die warheit. in dem dritten sitzt er als die gleicheit.
+Die ersten betrachten gottes guttheit. die andern sein kraft. die dritten seyn gleicheit. in dem ersten libet got als die lieb. in dem andern erkent er als die warheit. in dem dritten sitzt er als die gleicheit.
 
-Die mittel ierarchey helt herschengel fürstengel gewaltengel. die ersten regiere[n] die ambt der engel. die andern pflegen der öbern des volcks. die dritten zwinge[n] der teüfel macht. in den ersten herschet der herr als die maiestat. in den andern regirt er als ein fürstenthumb. in den dritten wird er gehalte[n] als das hail.
+Die mittel ierarchey helt herschengel. fürstengel gewaltengel. die ersten regire[n] die ambt der engel. die andern pflegen der öbern des volcks. die dritten zwinge[n] der teüfel macht. in den ersten herschet der herr als die maiestat. in den andern regirt er als ein fürstenthumb. in den dritten wird er gehalte[n] als das hail.
 
-Die undere ierarchey helt auch drey orden. als kreftengel erzengel und engel. die ersten pflegen der übung grosser wundewerck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
+Die vndere ierarchey helt auch drey orden. als kreftengel ertzengel und engel. die ersten pflegen der übung grosser wund[er]werck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
 
-In de[n] ersten wirckt got als ein kraft. in den andern offen baret er als ein liecht. in den dritten neret er als ein eyngeystender.
+In de[n] ersten wirckt got als ein kraft. in den andern offen baret er als ein licht. in den dritten neret er als ein eyngeystender.
 
 Diß spricht **Gregorius**.[^3] 
 
-Aber als dionisius setzt so sind die creftengel der mittel orden der andern ierarchey. vnd die fürstengel d[er] erst orden d[er] dritten ierarchey. vnd merck das in yder vorgemelter dreyer ierarchey die trinitet der gottliche[n] person als in d[er] obern mittel un[d] undern erscheint.
+Aber als **dionisius** setzt so sind die creftengel der mittel orden der andern ierarchey. vnd die fürstengel d[er] erst orden d[er] dritten ierarchey. vnd merck das in yder vorgemelter dreyer ierarchey die trinitet der gottliche[n] person als in d[er] obern mitteln vn[d] vndern erscheint.
 
 ### Von der zeit. oder von den altern.
 
-**D**Er werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.
+**D**Er werlt alter werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.
 
 Nw sind scehs alter der werlt.
 
 Das erst vo[n] der beschaffung der werlt bis zu der sintflus. vnd hett nach hebreyscher warheit .i<sup>m</sup>.v<sup>c</sup>. lvi. iar. 
 
-Aber nach sag der ***.lxx. ausleger***[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^5] setzt und vil ander den wir hirinn nachfolge[n]
+Aber nach sag der **.lxx. außleger**[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^5] setzt und vil ander den wir hierinn nachuolge[n]
 
-Also haben die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi. iar mynder vnd nach diser rechnung ist matusaleh gestorben vor der sintflus in dem iar als dye was.
+Also habe[n] die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi iar mynder vnd nach diser rechnung ist matusale gestorben vor der sintflus in dem iar als dye was
 
-Das andre vo[n] de sintflus bis auf die gepurt abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de .lxx. ausleger .viiij<sup>c</sup>.xlij. iar. 
+Das andre vo[n] d[er] sintflus bis auff die gepurt abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de **.lxx. außleger** .viiij<sup>c</sup>.xlij. iar. 
 
-Also das die hebreyschen .vi<sup>c</sup>.l. iar mynder haben.
-Doch die ursach so grosser underschaid hab ich nicht möge[n] finden.
+Also das die hebreysche[n] .vi<sup>c</sup>.l. iar mynder haben.
 
-Das drit von abrahams gepurt bis zu anfang des reichs david. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] .lxx. auslegern .viiij<sup>c</sup>.xl. iar. 
+Doch die vrsach so grosser vnderschaid hab ich nicht müge[n] finden.
 
-Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar. 
+Das drit von abrahams gepurt bis zu anfang des reichs dauid. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xl. iar  
+
+Das vierdt vo[n] anfang des reichs dauid bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] **.lxx. außlegern** .iiij<sup>c</sup>.lxxxv. iar. 
 
 Das fünft vom übergang babilonis da hierusalem zerstort vnd der te[m]pel angezünd ward bis zu der gebenedeiten gepurt cristi vnd het nach vorgemelter weis .v<sup>c</sup>.lxxxx. iar. 
 
@@ -109,13 +110,13 @@ In de[m] andern auch .x.
 
 In dem dritten .xiiij.
 
-In dem vierden .xvij. wiewol **Matheus**[^6] aus verborgener bedeütnus .xiiij. setzt vnd in dez fünften .xiiij.
+In dem vierden .xvij. wiewol **Matheus**[^6] auß verborgener bedeütnus .xiiij. setzt vnd in dez fünften .xiiij.
 
 Diß sind aber die alter des menschen.
 
-Das erst ist ungesprechheyt von der gepurt bis zu syben iaren.
+Das erst ist vngesprechheyt von der gepurt bis zu syben iaren.
 
-Das andre kintheit bis zu .xiiij. iarn.
+Das ander kintheit bis zu .xiiij. iarn.
 
 Das drit zeittigkeit von .xv. bis in das .xxxviij. iar.
 
@@ -123,7 +124,7 @@ Das vierdt iuge[n]t bis in das .xlviiij. iar.
 
 Das fünft altheit vo[n] .l. bis i[n] das .lxxviiij. iar.
 
-Das sechst heist das verlebt. abkome[n] geneigt von .lxxx. iaren bis zu dem ende des lebens.
+Das sechst heist das verlebt. abkome[n] geneigt alter von .lxxx. iaren bis zu dem ende des lebens.
 
 [^1]: c.f. Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), lib. II), De Beauvais ([1494](https://books.google.com/books?id=v9yKk_tdhusC), fol. i84v - i85r), Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), also Kircher ([1650](https://doi.org/10.3931/e-rara-26092)), Detlefsen ([1900](http://www.jstor.org/stable/4472753)), Gudger ([1924](http://www.jstor.org/stable/224311)), Torrellas ([1999](http://www.jstor.org/stable/40694499)), Mathiesen ([2002](https://doi.org/10.1017/CHOL9780521623711)), further Isgro ([1979](http://www.jstor.org/stable/40351750), p. 23), Knobloch ([1994](http://www.jstor.org/stable/20777445)).  
 [^2]: Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)), Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).  

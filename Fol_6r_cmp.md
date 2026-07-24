@@ -9,7 +9,7 @@
 ## C 1
 
 >### Distinct[i]o orbitu[m] tam celestiu[m] q[uonia]m elementarium.
->### Underschayd himlischer vn[d] eleme[n]tischer umbkreys
+>### Vnderschayd himlischer vn[d] eleme[n]tischer vmbkreys
 >### THE DISTINCTION BETWEEN CELESTIAL AND ELEMENTARY ORBITS
 
               
@@ -50,7 +50,7 @@
 
 >Intra firmamentum vero quod est celum stellarum co[n]tinent[ur] septem orbes septem planetarum 
 
->Innerhalb des firmaments das der gestirnt himel ist werde[n] siben umbkreys der siben planeten begriffen.
+>Innerhalb deß firmaments das der gestirnt himel ist werde[n] siben vmbkreys der siben planeten begriffen.
 
 >Within the firmament, which is the starry heaven, are comprehended the seven orbits of the seven planets—
 
@@ -66,7 +66,7 @@
 
 >Nomine autem celi cristallini siue aquei intelligit[ur] prima pars materie prime que s[ecundum] philosophu[m] formata est i[n] duos orbes: quorum sup[er]ior est primu[m] mobile. 
 
->Bey de[m] cristallinischen himel wird verstanden der erst teil d[er] erste[n] materi die nach sag des weysen geformt ist in zwen umbkreys. under de[n] der obre genant wird das erst beweglich.
+>Bey de[m] cristallinischen himel wird verstanden der erst teil d[er] erste[n] materi die nach sag des weysen geformt ist in zwen vmbkreys. vnder de[n] der öbrer genant wird das erst beweglich.
 
 >By the crystalline heaven is to be understood the first part of the first material that, according to the learned, was formed into two orbits. The upper of these is called the prime mover (primum mobile).
 
@@ -74,7 +74,7 @@
 
 >Isto[rum] orbium natura est q[uia] omnes mouent[ur]: excepto empyreo celo: q[uo]d quietu[m] est. 
 
->Die natur dieser umbkreys ist die: das sie alle bewegt werden außgenomen den feürige[n] det rüet.
+>Die natur dieser vmbkreys ist die: das sie alle bewegt werden außgenomen den feürige[n] det růet.
 
 >The nature of these orbits is this: They all move except the fiery one, which is at rest.
 
@@ -82,7 +82,7 @@
 
 >Natura vero eleme[n]taris in q[ua]ttuor speras principales distinguit[ur]. scilic[et] ignis aeris. terre [et] aque. 
 
->Aber die eleme[n]tische natur wird in vier vornemlich sper geteilt als des feüers lufts erden und wassers.
+>Aber die eleme[n]tisch natur wird in vier vornemlich sper geteilt als des feürs lufts erden vn[d] wassers.
 
 
 >But the elementary nature (region) is divided into four spheres: fire, air, earth, and water.
@@ -92,7 +92,7 @@
 
 >Spera ignis tria habet interstitia videlicet: supremu[m] q[uo]d vocat[ur] igneum: ac mediu[m] [et] infimu[m] quod vocat[ur] olimpium. 
 
->Die sper des feürs hat drey unterschid. als de[n] obersten der ist feürig und de[n] mitteln vnd understen der ist liecht
+>Die sper des feürs hat drey vnderschid. als de[n] obersten. der ist feürig vnd de[n] mitteln vnd vndersten der ist liecht
 
 >The fiery one has three distinct parts: the upper is fiery, and the middle and lower are light. 
 
@@ -103,7 +103,7 @@ Et in supremo est calor [et] lux propter solis p[ro]pinquitatem.
 Similiter est [et] in infimo: sed p[ro]pter ratio[rum] rep[er]cussionem a terra.  
 In medio aut[em] interstitio ad quod no[n] p[er]tingere potest rep[er]cussio radio[rum] e[st] frigiditas et obscuritas: in quo dicuntur habitare demones qui detrusi sunt in hunc aerem caliginosum. 
 
->Der luft hat auch drey underschied. der oberst ist scheynlich der mittel vn[d] underst lüftig. in de[m] obersten ist die wyrm vnd das liecht von nehe wegen der sunne[n]. vnd auch im understen aber vo[n] wider scheyns wegen der glentz von der erden. aber in dem mitteln underschid dahin der widerscheyn d[er] glentz nit raichen mag ist kelt und tunckelheit darinn sollen wonen die teüfel die in diesen tunckeln luft verstössen sind.
+>Der luft hat auch drey vnderschid. der oberst ist scheynlich der mittel vn[d] vnderst lüftig. in de[m] obersten ist die wyrm vnd das liecht von nehe wegen der sunne[n]. vnd auch im vndersten aber vo[n] widerscheyns wege[n] der glentz vo[n] der erden. aber in dem mitteln vnderschid dahin der widerscheyn d[er] gle[n]tz nit raichen mag ist kelte vnd tunckelheit darinn sollen wonen die teüfel die in diesen tunckeln luft verstössen sind.
 
 >The air also has three distinct parts: the upper which shines, while the middle and lower are airy. In the upper part are warmth and light because of the proximity of the sun. There is light in the lower part also, but only by reflection from the earth. But the middle part, which this reflection does not reach, is cold and dark, and therein are said to reside the devils, who have been banished to this dark atmosphere.
 
@@ -111,7 +111,7 @@ In medio aut[em] interstitio ad quod no[n] p[er]tingere potest rep[er]cussio rad
 
 >Ibi etiam fiu[n]t tempestates: scilicet tonitrua: grando: niues: et si[mi]lia. 
 
->Daselbst werde[n] auch ungestümigkeit als donerschleg hagel schne vnd der gleich.
+>Daselbst werde[n] auch vngestümigkeit als donerschleg hagel schne vnd der gleich.
 
 >Therein are also to be found such elemental disturbances as thunderclaps, hail, snow and the like.
 
@@ -119,7 +119,7 @@ In medio aut[em] interstitio ad quod no[n] p[er]tingere potest rep[er]cussio rad
 
 >Ex his collige duodecim orbes mundi terram [et] aquam ambientes: qui omnes celi possunt vocari. 
 
->Daraus samelst du zwölff umbkrais: die die erden un[d] wasser umryngen die alle mügen himel genant werde[n]
+>Darauß samelst du zwölff vmbkrais: die die erden un[d] wasser vmbryngen die alle mügen himel genant werde[n]
 
 >Out of this you may gather twelve orbits that surround the earth and the water, all of which may be said to constitute the heavens.
 
@@ -127,7 +127,7 @@ In medio aut[em] interstitio ad quod no[n] p[er]tingere potest rep[er]cussio rad
 
 >Istos aute[m] excellit celum trinitatis ipse deus qui est in omnibus [et] super om[n]ia.
 
->Aber dise all ubertrifft d[er] himel der trifeltigkeit. der got der in allen vnd über alle ist.
+>Aber dise all vbertrifft d[er] himel der trifeltigkeit. der got der in allen vnd über alle ist.
 
 >But all these are surpassed by the Heaven of the Trinity, the God who is in everything and over everything.
 
@@ -136,7 +136,7 @@ In medio aut[em] interstitio ad quod no[n] p[er]tingere potest rep[er]cussio rad
 >Distantia predictorum orbium et planetarum hec est.  
 A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cxxvi.
 
->Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten von der erd zu dem mond sind .xv<sup>m</sup>. vi<sup>c</sup>.xxv meyl. 
+>Mercke auch vo[n] gelegenheit der vorgenante[n] vmbkrais vn[d] planeten von der erd zu dem mond sind .xv<sup>m</sup>. vi<sup>c</sup>.xxv meyl. 
 
 >Note also that the distance from the Earth to the Moon is 15,625 miles; 
 
@@ -152,7 +152,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >A mercurium vsq[ue] ad venerem tantu[m].
 
->Von mercurio zu venus auch sovil.
+>Von mercurio zu venus auch souil.
 
 >from Mercury to Venus is as much;
 
@@ -168,7 +168,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >A sole vsq[ue] ad marte[m] sunt miliaria .xv.dc.xxv.
 
->Vo[n] der sunnen zu mars .xv<sup>m</sup>.vi<sup>c</sup>.xxv.
+>Von der sunnen zu mars .xv<sup>m</sup>.vi<sup>c</sup>.xxv.
  
 >from the Sun to Mars,15,625;
 
@@ -176,7 +176,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >A marte vsq[ue] ad iouem .vij.dccc.xij.
 
->Von mars zu iupiter .vi<sup>m</sup>.viij<sup>c</sup>.xxij. 
+>Vo[n] mars zu iupiter .vi<sup>m</sup>.viij<sup>c</sup>.xxij. 
 
 >from Mars to Jupiter, 6,832;
 
@@ -184,7 +184,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >A ioue vsq[ue] ad saturnum tantum.
 
->Von iupiter zu saturnus auch sovil.
+>Von iupiter zu saturnus auch souil.
 
 >from Jupiter to Saturn as much;
 
@@ -200,21 +200,21 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >Ex istis seq[ui]tur q[uia] ad terra vsq[ue] ad celum stellatu[m] sunt centum [et] nouem milia: et .ccc.lxxv. miliaria.
 
->Aus de[m] folgt das von der erden bis an den gestirnte[n] himel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxv. meyl. 
+>Auß de[m] volgt das von der erden bis an den gestirnte[n] himel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxxv. meyl. 
 
 >From this it follows that the distance from the Earth to the starry heaven is 108,375 miles.    
 
 ## C 2
 
 >### Distinctio celestium hierarchiarum.
->### Vo[m] underschid der himlische[n] iererchey gewalt oder fürstenthumb.
+>### Vo[m] vnderschid der himlische[n] ierarchey gewalt oder fürstenthumb.
 >### THE DISTINCTION OF THE CELESTIAL HIERARCHIES
 
 ### P 1
 
 >**D**E celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.
 
->**A**Ber von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische. 
+>**A**Ber von der himlischen natur haben etlich dreierlay vnderschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein vnd[er]hi[m]lische. 
 
 >In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.
 
@@ -222,7 +222,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundum] **Dyonisium** hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
 
->Die uberhimlisch sol in dreyen personen sein. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius** sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
+>Die vberhimlisch sol in dreyen personen seyn. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius** sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
 
 >The super-celestial is said to be in three persons, as some have erroneously stated; for the term hierarchy, as **Dionysius** says, in itself implies but one order, and it is ill to speak of this same order as being in three persons instead of one.
 
@@ -238,7 +238,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 >Subcelestis in hominibus sanctis.
 
->Die underhimlisch in heiligen mensche[n].
+>Die vnderhimlisch in heilligen mensche[n].
 
 >while the sub-celestial consists of the holy persons (saints).
 
@@ -247,7 +247,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 >Porro hierarchia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.  
 Superior continet tres ordines s[ecundu]m seraphin [et] cherubin [et] thronos.
 
->Nw die himlisch ierarchey wird geteilt in ein oberere mittlere unnd undere. die obere begreift drey orden. als seraphin cherubin tronengel.
+>Nw die himlisch ierarchey wird geteilt in ein oberere mittlere vnnd vndere. die obere begreift drey orden. als seraphin cherubin tronengel.
 
 >The celestial hierarchy is divided into upper, middle and lower. The upper embraces three orders, Seraphim, Cherubim, and Thrones.
 
@@ -260,7 +260,7 @@ Item in primis deus amat vt charitas.
 In s[e]c[un]dis noscit vt veritas.  
 In tercijs sedet vt equitas.  
 
->Die ersten betrachten gottes guttheit. die andern sein kraft. die dritten seyn gleicheit. in dem ersten libet got als die lib. in dem andern erkent er als die warheit. in dem dritten sitzt er als die gleicheit.
+>Die ersten betrachten gottes guttheit. die andern sein kraft. die dritten seyn gleicheit. in dem ersten libet got als die lieb. in dem andern erkent er als die warheit. in dem dritten sitzt er als die gleicheit.
 
 >The first of these three adore God’s grace; the second his power, the third his equality. In the first, God loves those who love; in the second he recognizes truth; in the third he sits and administers equal justice.
 
@@ -271,7 +271,7 @@ Quorum primi officia regu[n]t angelorum.
 Sequentes capitibunt p[re]sunt populo[rum]. vltimi potestatem coercent demonu[m].  
 Item in primis d[omi]n[u]s dominat[ur] vt maiestas: in sequentibus regit vt principat[us]: in ultimis tenet[ur] vt salus.
 
->Die mittel ierarchey helt herschengel fürstengel gewaltengel. die ersten regiere[n] die ambt der engel. die andern pflegen der öbern des volcks. die dritten zwinge[n] der teüfel macht. in den ersten herschet der herr als die maiestat. in den andern regirt er als ein fürstenthumb. in den dritten wird er gehalte[n] als das hail.
+>Die mittel ierarchey helt herschengel. fürstengel gewaltengel. die ersten regire[n] die ambt der engel. die andern pflegen der öbern des volcks. die dritten zwinge[n] der teüfel macht. in den ersten herschet der herr als die maiestat. in den andern regirt er als ein fürstenthumb. in den dritten wird er gehalte[n] als das hail.
 
 >The middle hierarchy embraces the Dominations, Principalities and Powers. The first of these rule the offices of the angels; the second guard the princes of the people; the third restrain the powers of the Devil. In the first of these the Lord reigns as a sovereign; in the second he reigns as a principality; in the third he is considered as the salvation.
 
@@ -279,7 +279,7 @@ Item in primis d[omi]n[u]s dominat[ur] vt maiestas: in sequentibus regit vt prin
 
 >Inferior hierarchia si[mi]liter [con]tinet tres ordines. s[e]c[undu]m virtutes. archangelos. angelos. ad quo[rum] priores p[er]tinet miraculorum op[er]atio. ad secu[n]dos magnoru[m] negociorum denunciatio. ad tercios humane custodie solicitudo.
 
->Die undere ierarchey helt auch drey orden. als kreftengel erzengel und engel. die ersten pflegen der übung grosser wundewerck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
+>Die vndere ierarchey helt auch drey orden. als kreftengel ertzengel und engel. die ersten pflegen der übung grosser wund[er]werck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
 
 >The lower hierarchy also embraces three orders: angels of virtue, archangels, and angels. The first of these attend the working of great miracles; the second presage great events; the third act as the warders of mankind. 
 
@@ -289,7 +289,7 @@ Item in primis d[omi]n[u]s dominat[ur] vt maiestas: in sequentibus regit vt prin
 In s[e]c[un]dis reuelat vt lux.  
 In tercijs nutrit vt inspira[n]s.
 
->In de[n] ersten wirckt got als ein kraft. in den andern offen baret er als ein liecht. in den dritten neret er als ein eyngeystender.
+>In de[n] ersten wirckt got als ein kraft. in den andern offen baret er als ein licht. in den dritten neret er als ein eyngeystender.
 
 >In the first of these God operates as a power; in the second he reveals, as a light; in the third he functions as an inspirer.
 
@@ -303,12 +303,12 @@ In tercijs nutrit vt inspira[n]s.
 
 ### P 11
 
->Sed s[ecundu]m dyonisium virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie  
+>Sed s[ecundu]m **dyonisium** virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie  
 Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinitas p[er]sonarum diuinarum: vt patet in celcsti hierarchia tam superiori q[uonia]m media q[uonia]m inferiori.
 
->Aber als dionisius setzt so sind die creftengel der mittel orden der andern ierarchey. vnd die fürstengel d[er] erst orden d[er] dritten ierarchey. vnd merck das in yder vorgemelter dreyer ierarchey die trinitet der gottliche[n] person als in d[er] obern mittel un[d] undern erscheint.
+>Aber als **dionisius** setzt so sind die creftengel der mittel orden der andern ierarchey. vnd die fürstengel d[er] erst orden d[er] dritten ierarchey. vnd merck das in yder vorgemelter dreyer ierarchey die trinitet der gottliche[n] person als in d[er] obern mitteln vn[d] vndern erscheint.
 
->But Dionysius places the angels of virtue in the middle order of the second hierarchy, and the angels of the principalities as the first in the third hierarchy. And mark that, the Trinity of the Divine Person appears in each of the above mentioned hierarchies, upper, middle and lower.
+>But **Dionysius** places the angels of virtue in the middle order of the second hierarchy, and the angels of the principalities as the first in the third hierarchy. And mark that, the Trinity of the Divine Person appears in each of the above mentioned hierarchies, upper, middle and lower.
 
 
 
@@ -323,7 +323,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >**M**Undi etates accipiunt[ur] similitudinarie iuxta etates homi[ni]s: 
 
->**D**Er werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.
+>**D**Er werlt alter werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.
 
 >The Ages of the World are analogous to the ages of man.
 
@@ -347,7 +347,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >S[e]c[un]d[u]m **septuagi[n]ta interp[re]tes** (sicut **Isidorus** exponit) [et] alios q[uonia]m plurimos quos hic seq[ui]mur h[ab]uit annos .2242 
 
->Aber nach sag der **.lxx. ausleger** .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus** setzt und vil ander den wir hirinn nachfolge[n]
+>Aber nach sag der **.lxx. außleger** .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus** setzt und vil ander den wir hierinn nachuolge[n]
 
 >but according to the **seventy interpreters**, 2242 years, as **Isidore** fixes it, and many others whom we here follow.
 
@@ -355,7 +355,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >[et] sic differu[n]t in a[n]nis .586. quos hebrei minus h[abu]nt in hac etate: et iuxta hanc co[m]putum matusale mortuus est ante diluuiu[m]: eode[m] t[ame]n anno quo diluuium fuit.
 
->Also haben die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi. iar mynder vnd nach diser rechnung ist matusaleh gestorben vor der sintflus in dem iar als dye was.
+>Also habe[n] die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi iar mynder vnd nach diser rechnung ist matusale gestorben vor der sintflus in dem iar als dye was
 
 >So the Hebrews give this age 586 years less; and according to this calculation Methuselah died before the Flood, in the year in which it occurred.
 
@@ -364,7 +364,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 >S[e]c[un]da etas incipit a diluuio: et durat vsq[ue] ad natiuitatem abrahe: [et] habuit s[ecundu]m hebreos annos .292. s[ecundu]m septuaginta .942. 
 
 
->Das andre vo[n] de sintflus bis auf die gepurt abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de .lxx. ausleger .viiij<sup>c</sup>.xlij. iar. 
+>Das andre vo[n] d[er] sintflus bis auff die gepurt abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xlij. iar. 
 
 >The second age is from the Flood to the birth of Abraham, which, according to the Hebrew, lasted 292 years, but according to the seventy interpreters, 942 years;
 
@@ -372,7 +372,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >et sic differu[n]t in annis .650. quos iteru[m] hebrei minus h[abu]nt.
 
->Also das die hebreyschen .vi<sup>c</sup>.l. iar mynder haben.
+>Also das die hebreysche[n] .vi<sup>c</sup>.l. iar mynder haben.
 
 >so the Hebrew gives it 650 years less.
 
@@ -380,7 +380,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >Que aut[em] sit ratio tante diuersitatis inuenire no[n] potui.
 
->Doch die ursach so grosser underschaid hab ich nicht möge[n] finden.
+>Doch die vrsach so grosser vnderschaid hab ich nicht müge[n] finden.
 
 >The reason for this difference I have not been able to find.
 
@@ -389,7 +389,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 >Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
 s[ecundu]m septuagi[n]ta .940.
 
->Das drit von abrahams gepurt bis zu anfang des reichs david. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] .lxx. auslegern .viiij<sup>c</sup>.xl. iar. 
+>Das drit von abrahams gepurt bis zu anfang des reichs dauid. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xl. iar 
 
 >The third age is from Abraham’s birth to the beginning of the Kingdom of David, and, according to the Hebrew, covers a period of 941 years; but according to the seventy interpreters, 940 years.
 
@@ -397,7 +397,7 @@ s[ecundu]m septuagi[n]ta .940.
 
 >Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]em babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
 
->Das vierd vo[n] anfang des reichs david bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] .lxx. auslegern .iiij<sup>c</sup>.lxxxv. iar.
+>Das vierdt vo[n] anfang des reichs dauid bis zu de[m] übergang babilonis het nach den hebreysche[n] .iiij<sup>c</sup>.lxxxiiij. vnd nach de[n] **.lxx. außlegern** .iiij<sup>c</sup>.lxxxv. iar.
  
 >The fourth age is from the beginning of David’s Kingdom to the passing of Babylon, and according to the Hebrew, lasted 484 years; but according to the seventy interpreters 485 years. 
 
@@ -470,7 +470,7 @@ s[ecundu]m septuagi[n]ta .940.
 >In quarta .xvij. quas tame[n] **Matheus** gratia misterij .xiiij. ponit.  
 In quinta .xiiij.
 
->In dem vierden .xvij. wiewol **Matheus** aus verborgener bedeütnus .xiiij. setzt vnd in dez fünften .xiiij.
+>In dem vierden .xvij. wiewol **Matheus** auß verborgener bedeütnus .xiiij. setzt vnd in dez fünften .xiiij.
 
 >seventeen in the fourth, while **Matthew** from hidden evidence says fourteen; and in the fifth there are fourteen.
 
@@ -486,14 +486,14 @@ In quinta .xiiij.
 
 >Prima e[st] infantia homi[ni]s natiuitate ho[m]i[ni]s vsq[ue] ad a[n]nos .7.
 
->Das erst ist ungesprechheyt von der gepurt bis zu syben iaren.
+>Das erst ist vngesprechheyt von der gepurt bis zu syben iaren.
 
 >the first, infancy, is from birth to the age of seven; 
 ### P 22
 
 >S[e]c[un]da etas est puericia vsq[ue] ad a[n]nos .xiiij.
 
->Das andre kintheit bis zu .xiiij. iarn.
+>Das ander kintheit bis zu .xiiij. iarn.
 
 >the second, childhood, to fourteen years of age; 
 
@@ -525,6 +525,6 @@ In quinta .xiiij.
 
 >Sexta e[st] decrepita etas ab a[n]no .80. vsq[ue] dum vita finit[ur].
 
->Das sechst heist das verlebt. abkome[n] geneigt von .lxxx. iaren bis zu dem ende des lebens.
+>Das sechst heist das verlebt. abkome[n] geneigt alter von .lxxx. iaren bis zu dem ende des lebens.
 
 >the sixth, the spent age, in which we are reconciled to pass away, is from eighty years to the end of life. 
