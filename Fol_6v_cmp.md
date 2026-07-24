@@ -10,7 +10,7 @@
 
 >**P**Rima etas mundi ab Ada[m] vsq[ue] ad diluuiu[m] habet s[ecundu]m Hebreos a[n]nos i656. s[ecundu]m **septuaginta interp[re]tes** **Isidorum** [et] plures alios quorum numerus in etatibus conseque[n]ter ponitur habuit annos .2242.
 
->**D**as erst alter d[er] werlt von Ada[m] bis zu der sintflus hat nach d[er] hebreyschen schrifft .j<sup>m</sup>.vi<sup>c</sup>.lvi. iar. aber nach sag der **.lxx. außleger** auch **ysidori** vn[d] anderer d[er] zal her nach in disem buch besti[m]bt ist hat es gehabt .ij<sup>m</sup>.ij<sup>c</sup>.xlij. iar.
+>**D**as erst alter d[er] werlt von Ada[m] bis zu d[er] sintflus hat nach d[er] hebreyschen schrifft .j<sup>m</sup>.vi<sup>c</sup>.lvi. iar. aber nach sag d[er] **.lxx. außleger** auch **ysidori** vn[d] anderer d[er] zal her nach in disem buch besti[m]bt ist hat es gehabt .ij<sup>m</sup>.ij<sup>c</sup>.xlij. iar.
 
 >According to the Hebrew Scriptures the first age of the world, from Adam to the Flood, is a period of 1656 years; but according to the **seventy interpreters**, **Isidore** and others, whose views have been adopted in this book, this age has 2242 years. 
 
@@ -20,7 +20,7 @@
 intelligeret: i[n]tellige[n]do amaret: ama[n]do possideret: posside[n]do beata e[ss]et.
 
 
->**D**Ie höhst gůthait wolt ir gut auch andern mittaile[n] daru[m]b beschuff sie ein vernünftige creatur die das höhst gut verstünd. versteende liebhet. lieb habende beseße vnd besitzende selig wer. 
+>**D**Ie höhst gůthait wolt ir gut auch andern mittaile[n] daru[m]b beschuff sie ein vernünftige creatur die das höhst gut verstünd. versteende liebhet. liebhabende beseße vnd besitzende selig wer. 
 
 >The Highest Goodness wished to share its good with others, and therefore it created a rational being, which understood the Highest Good, loved it understandingly, possessed love, and so possessing it, was blissful. 
 
@@ -60,7 +60,7 @@ Qua[m] ada[m] vide[n]s: dixit h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur
 >Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
 
 
->Nw der herr füret Adam in das paradeiß vnd hat daselbst vo[n] der ripp des slaffenden Eua[n] gemacht vnd ime ein gesellein geformt. 
+>Nw der herr füret Ada[m] in das paradeiß vnd hat daselbst vo[n] der ripp des slaffenden Eua[n] gemacht vnd ime ein gesellein geformt. 
 
 >And the Lord led Adam into Paradise. Of the rib of the sleeper he had made Eve and provided Adam a companion. 
 
@@ -76,7 +76,7 @@ Qua[m] ada[m] vide[n]s: dixit h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur
 
 >no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculu[m] p[ro]baret[ur]:
 
->Auch nit vo[n] füß des mans das sie nit verschmeht würd sunder von der seyten zu bewerung eins bands der lieb. 
+>Auch nit vo[n] fueß des mans das sie nit verschmeht würd sunder vo[n] der seyten zu bewerung eins bands der lieb. 
 
 >nor from his feet, for she was not to be looked down upon; but he made her from Adam's side, as evidence of a tie of love. 
 
@@ -96,6 +96,6 @@ Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc] est i[n] inferiori loco vir fact[u
 
 >Ada[m] igit[ur] p[ro]thoplastu[m] primu[m] ho[m]i[n]em summ[us] o[mn]i[u]m re[rum] fabicator deus sexto die sec[u]lo q[ui]nta [et] vicesima marcij bestijs terre creatis cu[n]ctisq[ue] reptilib[us] [et] volucrib[us] de limo terre rubeo i[n] agro damasceno ta[n]q[uam] creatura[rum] omniu[m] fine[m] [et] possessore[m] finxit.
 
->Also hat got der höhst werckman aller ding am sechsten tag d[er] werlt. am .xxv. tag martij nach de[n] geschöpff der thier des ertreichs vnd aller krichende[n] würm vnd der geflügel vo[n] rote[m] erdklos oder lette[n] in dem agker damasceno Ada[m] den erste[n] mensche[n] erschaffen als ein end vnd eine[n] besitzer aller creatur.
+>Also hat got der höhst werckman allerding am sechsten tag d[er] werlt. am .xxv. tag martij nach de[n] geschöpff der thier des ertreichs vnd aller krichende[n] würm vnd der geflügel vo[n] rote[m] erdklos oder lette[n] in dem agker damasceno Ada[m] den erste[n] me[n]sche[n] erschaffen als ein end vnd eine[n] besitzer aller creatur.
 
 >And so God, the highest artificer, did on the sixth day of the world, on the 25 day of March, after the creation of the animals of the earth and of all creeping things and fowl, finally create the first man out of a ball of red earth or clay in the field of Damascus, and him he gave dominion over all creatures.
