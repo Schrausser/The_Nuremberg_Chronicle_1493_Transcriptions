@@ -1,75 +1,75 @@
-# Fo. .1.r
-## Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+# Das erst Blat
+## Ein kurtze beschreybung des wercks der sechs tag vo[n] dem geschöpff d[er] welte die vorrede.
 
-**D**Ieweill bey den allergelertiste[n] vnd fürnamste[n] manne[n] die die ware[n] natur vnd geschicht beschriben habe[n] vo[n] geschopff der welt. vnd vo[n] erster geburt der menschen zwayerlay wone ist. 
+**D**Ie weill bey den allergelörtisten vnd furnemesten mannen die die waren natur vnnd geschichte beschriben haben von geschöpff der welt. vnnd von erster geburdt der menschen zweyerley wone ist. 
 
-So wollen wir von disen vordern zeiten: den anfang neme[n]de auf das kürtzst schreibe[n]: 
+So wöllen wir von disen vorderen zeytten den anfange nemende auff das kürtzst schreyben.
 
-Souil sich von souer (alters halbe[n]) enthlegne[n] dinge[n] gezime[n] wil. 
+Souil sich von souer alterßhalben enthlegne[n] dingen gezym[m]en wil. 
 
-Etlich habe[n] gemaint das die werlt vngeporn vnd vnzerstörlich: vn[d] das me[n]schlich geschlecht vo[n] ewigkeit her gewesen sey. vnd anfa[n]g einichs vrsprungs nit gehabt hab. 
+Etlich haben gemeynt d[as] die welt vngeporen vn[d] vnzerstörlich. vn[d] d[as] menschlich geschlecht von ewigkeit her gewesen sey vn[d] anfange eynichs vrsprungs nit gehabt hab. 
 
-Etlich mainte[n] die werlt geborn[n] vn[d] zurstörlich seyn. vnd sagten das die me[n]sche[n] anfang der gepurt genome[n] hette[n]. 
+Etlich meinten die welt geboren vn[d] zerstörlich seyn. vn[d] sageten d[as] die mensche[n] anfang der gepurdt genomen hetten. 
 
-Vn[d] die kriechische[n] hocherlewchten man[n] durch die die hystorien vnd geschichte[n] versamelt worde sind. habe[n] auch veriehen das vor anbegynn[] aller ding des himels vnd der erde[n] dieweill noch yde ding bayaynander ware[n] ein eynige form gewesen sei: vn[d] darnach nach absunderu[n]g vn[d] zerteylu[n]g der beyeina[n]der gewesen pürde. die werlt dise ordnung vnd gestalt die wir sehen empfange[n] hab. 
+Vnd die kryechischen hoch erleiichten mann durch die die hystorien vnnd geschichten versamlet worde[n] sind habe[n] auch veriehen das vor anbegynnen aller dyng des hymels vn[d] der erden die weiyl noch yede ding beyeynander waren ein eynige form gewesen sey. un[d] darnach nach absunderung vn[d] zerteylung der beyeinander gewesen pürde. die welt dise ordnu[n]g vnd gestalt die wir sehe[n] empfangen hab. 
 
-Sie sagen das der in bewegnus stetiger lufft vnd feürig tayl irer ober[n] stett vo[n] leichtheit wege[n] begert haben. vnd das auß diser vrsach die sunn vnd merug der stern in dem krais des ganze[n] geschöpffs vmbgetrage[n] werde[n]. 
+Sy sagen das der in bewegnuß stetiger lufft vnd feürig teyl irer oberen stött von leichtheit wegen begert haben. vn[d] das auß diser vrsach die sunn vn[d] menig der stere[n] in dem kreyß des gantze[n] geschöpffs vmbgetrage[n] werden. 
 
-Aber der tunckel vnd irdisch teyl sey mitsambt de[n] feüchte[n] dingen an die niderste[n] ort vo[n] swerheit wege[n] abgestige[n]: nach de[m] aber dise ding wermischt ware[n] so wer auß de[n] feüchte[n] das mer. vnd auß de[n] hertte[n] dinge[n]. das lettig vnd gantz weich ertreich worde[n]. 
+Aber der tunckel vnd irdisch teyl sey mitsambt den feüchten dingen an dye nydersten ort von swerheyt wegen abgestige[n] nach dem aber dyse ding wermischet waren so wer auß dem feiichten d[as] meer. vn[d] auß den hörte[n] dingen d[as] lettig vn[d] gantz weich ertrich worde[n]. 
 
-Als aber das ertreich erstlich auß hitz der sunne[n] dicker worde[n] wer vn[d] dar in faulfeüchtigkeitn[n] mit dynne[n] hewtlein bedeckett erwuchsen do wer alßdan[n] vo[n] solcher pfütsche[n] ma[n]cherlay gestalt der lebe[n]de[n] entstande[n]. vnd die. die souill merer wirm empfange[n] hette[n] geriete[n] zu geflügele hin in die obern gege[n]t. 
+Als aber d[as] erdtreich erstlich auß hitz d[er] sunne[n] dicker worde[n] wer vn[d] dar in[n] faulfeiichtigkeyte[n] mit diinne[n] heiitlin bedöckt erwuchsen do wer alßdann von sölicher pfiitschen mancherley gestalt der lebende[n] entstanden. vn[d] die. die souil merer wirm enpfangen hette[n] geriette[n] zu gefliigele hin in die obern gege[n]t. 
 
-Aber die trucknere vnd schwerere warde[n] zu kryche[n]de[n] vnd irdische[n] thieren. die ding die ein wasserige natur erlangt hette[n] warde[n] in das eleme[n]t ires geschlechts getrage[n]. 
+Aber die trucknere vn[d] schwerere warden zu krychende[n] vnd irdische[n] thyere[n] die ding die ein wasserige natur erla[n]gt hetten warden in das eleme[n]t ires geschlechts getragen. 
 
-Als nw darnach das ertreich auß hitz d[er] su[n]ne[n] vn[d] vo[n] de[n] wi[n]de[n] dürr worde[n] was da warde[n] mit versamelter vermischu[n]g ma[n]lichs vn[d] frewlichs geschlechts volku[m]ner di[n]g geborn[n]. diss bezewgt **euripides tragicus**[^1] ein iu[n]ger **anaxagore**[^2] des natürliche[n] maisters. 
+Als nun darnach das erdtreich auß hitz der sunnen vnd von den winde[n] diirr worden was da warde[n] mit versamelter vermischung manlichs vnd freiilichs geschlechts volkumner ding gebore[n]. diß bezeiigt **eiiripides tragicus**[^1] ein iu[n]ger **anaxagore**[^2] des natiirliche[n] meysters. 
 
-Sie spreche[n] in der selbe[n] weis die me[n]sche[n] vo[n] anfang geporn[n] in de[n] feldern[n] die wayd suchende eins wilde[n] vnd vngeorde[n]te[n] lebe[n]s gelebt. den die krewter vnd frücht der bawm williglich naru[n]g geraicht habe[n]. 
+Si sprechen in d[er] selben weyß die menschen vo[n] anfang geporen in de[n] felderen die weyd suchende eins wilden vn[d] vngeordneten lebe[n]s gelebt. den die krewter vnd friicht der bawm willigklich narung gereycht haben. 
 
-Aber wiewoll wir gar vil nit allain lateinisch vn[d] kriechisch sunder auch Caldeysch vnd hebreysch alt vn[d] new gelert sehe[n] die zu erzelung diss dings geschribe[n] habe[n]. 
+Aber wiewol wir gar vil nit allein lateinisch vn[d] kriechisch sunder auch. Caldeysch vn[d] hebreysch alt vn[d] new gelert sehen die zu erzelung diss dings geschriben habe[n]. 
 
-So wölle[n] wir doch die alte[n] irthu[m] verlassen vnd beschawe[n] die verporgen mosaysche[n] schrifften vo[n] der werlt geschöpff vnd vo[n] de[n] wercke[n] der sechs tag sagende. dar in die heimlichen ding der gantzen natur begriffen werde[n].[^3]
+So wölle[n] wir doch die alte[n] irthum verlassen vnd beschawe[n] die verporgen mosayschen schriffte[n] vo[n] der welt geschöffe vn[d] de[n] wercken der söchs tag sagende darin[n] dye heymlichen dinge der gantzen natur begryffen werdent.[^3]
 
-Dan **Moyses** der prophet ein vater der geschichtbeschreiber gottes vol: vn[d] auß himlischer dichtung des heilige[n] geistes des maisters der gantze[n] warheit hat dise ding alle begriffen. dem nit allain die vnsern. sunder die seine[n] vnd auch die heydnische[n] gezeügnus seiner menschliche[n] weyshait vn[d] erfaru[n]g aller lere. vnd schrifft gegebe[n] habe[n]. 
+Dann **Moyses** der prophet ein vatter der geschichtbeschreiber gottes vol vn[d] auß himelischer dichtung des heiligen geistes des maysters der gantzen warheit hat dise ding alle begriffen dem nit alain die vnsere[n] sunder die seine[n] vnd auch die heydnischen gezeiignuß seiner menschliche[n] weißheit vn[d] erfarung aller lere vn[d] schrifft gegebe[n] habe[n]. 
 
-Vo[n] de[m] **Salomo[n]**[^4] in seine[m] buch der weysheit als ein außleger der natur d[er] wesende[n] ding: veriehe[n] hat. das er sölche lere vo[n] de[n] innern[n] dinge[n] des gesetzs moysi genome[n] hab. 
+von de[m] **Salomo[n]**[^4] in seine[m] buch der weißheit als ein außleger der natur d[er] wesenden ding veriehen hat d[as] er sölich lere vo[n] de[n] innernen dinge[n] des gesetzs moysi genomen hab. 
 
-Diser ist (als **Lucas**[^5] vnd **Philon**[^6] bey den vnsern[n] fast tapfer lerer sage[n]) In aller lere d[er] egyptier hoherfare[n] gewest. 
+Diser ist als. **Lucas**[^5] vnd **Philon**[^6] bey den vnserenn fast tapffer lerer sage[n] In aller lere d[er] egyptier hoherfare[n] gewest. 
 
-So spricht **hermippus**[^7] das **Pitagoras**[^8] vil dings in sein philosophey auß de[n] mosayschen gesetz gewendt hab. 
+So spricht **hermippus**[^7] das **Pitagoras**[^8] vil dings in sein philosophey auß de[n] mosayschen gesötz gewendt hab. 
 
-**Numenius philosophus**[^9] sagt. nichts anders **platone[n]** sein dan[n] de[n] atticischen ***moysen***. den in dem anfa[n]g seins wercks. vo[n] der natur. vo[n] dem geschöpff der gantzen werlt sind gleich als eckere oder felder eins schatzs aller warer weysheit vergraben: vnd diss ist erstlich beschehe[n] an de[n] ende do er vo[n] aller dinge außflus auß got. vo[n] dem stapfel. vo[n] der zale. vo[n] der ordnu[n]g der werntlichen teill also hoh vnd weyslich redet. 
+**Numenius philosophus**[^9] saget. nichts anders **platonen** sein dan de[n] atticischen ***moysen*** den in dem anfang seins wercks von der natur von dem geschöpff der gantze[n] welte sind gleich als eckere oder felder eins schatzs aller warer weyßheyt vergrabe[n] vn[d] diß ist erstlich beschehe[n] an de[n] ende do er von aller dinge außflus auß got von dem stapfel vo[n] der zale vo[n] der ordnung der weltlichen teyl also hoch vnd weyßlich rödet. 
 
-Darümb was es bey den alten hebreyschen ein gesetz (des auch **Ieronimus**[^10] gedenckt) das niemant dan der zeitigs alters wer zu diser beschöpfung d[er] werlt raichen solt. 
+Darumb was es bey den alten hebreyschen ein gesötz des auch **Ieronimus**[^10] gedenckt das niema[n]dt dan[n[ der zeitigs alters wer zu diser beschöpfung d[er] welt reychen solt. 
 
-Was aber die heiligsten mann **Ambrosius** vnd **Augustinus**. 
+was aber die heiligisten mann **ambrosius** vnd **Augustinus**. 
 
-Item **Strabo** vn[d] **Beda** vn[d] **Remigius**.[^11]
+Item **Strabo** [[vn[d] **Beda**]] vn[d] **Remigius**.[^11]
 
-Vnd auß den iungern[n] **Egidius** vn[d] **Albertus**[^12]. vnd auch bey den kriechischen ***Philon*** **Origenes Basilius Theodorus Appolinarius Didimus Gernadius Crisostomus** etc.[^13] vber diss buch geschriben haben das wirt von vns ganz vnberüt bleiben.
+Vnd auß den iungeren **Egidius** vn[d] **albertus**[^12] vn[d] auch bey den kriechischen ***Philon*** **Origenes Basilius Theodorus Appolinarius Didimus Gernadius Crisostom**. etc.[^13] iiber diß buch geschriben haben das wirt von vns ganz vnberiit beleyben.
 
-Auch wöllen wir vo[n] de[n] dinge[n] die **Ionethes** oder **anchelos** oder **Simeo[n] d[er] alt** in Caldeysche[n] gezüng[^14]: oder auß de[n] hebreysche[n] **Eleazadus Aba Ioannes Neonius ysaac Iosephus Gersonides Sadias Abraham** etc.[^15] haben beschriben hie bey keyn meldu[n]g thun sunder in gestalt kurtzer beschreibu[n]g auß de[m] prophete[n] ***moyse*** einfüre[n] die ordnu[n]g d[er] sechs tag vo[n] gotlichem geschöpff der werlt. do vo[n] in den verporgen schrifften des heilige[n] glawbe[n]s meldung geschicht.
+Auch wöllen wir von den dingen die **Ionethes** oder **anchelos** oder. **Symeon der alt** in Caldeysche[n] geziing[^14]: oder auß den hebreyschen **Elezadus Aba Ioa[n]nes Neonius ysaac. Iosephus. Gersonides Sadias Abraha[m]** etc.[^15] haben beschreybe[n] hie bey keyn meldung thun sunder in gestalt kurtzer beschreybung auß de[m] propheten ***moyse*** einfüren die ordenung d[er] söchs tag vo[n] götlichem geschöpff der welt do vo[n] in den verporgen schriffte[n] des heyligen glawbens meldung geschicht.
 
-Als nw got das geschöpff der werlt gemacht hett do hot er de[n] ersten vnd grösisten sun fürgesetzt dem vnermesse[n] werck vnd sich des selbe[n] als eins radtgebe[r] vnd werckmeisters in ertrachtu[n]g. zierung vnd machung d[er] ding gepraucht. 
+**A**Ls nun gott das geschöpff der welt gemacht het do hett er den ersten vn[d] grösseste[n] sun fiirgesetzt dem vnermessen werck vnd sich des selben als einß ratgebe[r] vnd werckmeysters in ertrachtu[n]g. zyerung vn[d] machung der ding gepraucht. 
 
-Dan der selb ist an klügheit vn[d] vernunfft vn[d] macht volku[m]me[n]. 
+Dann der selb ist an klugheit vn[d] vernufft vnd macht volko[m]men. 
 
-Es ist auch zefragen warauß got dise so grosse vnd so wunderperliche ding gemacht hab. dan[n] er hat alle ding gemacht aus nichte[n]. darümb ist garvil gerechter vngeachtet d[er] vnentpfintliche[n] vn[d] eiteln ding die auge[n] do hin zuwe[n]de[n] da der stul. da die wonu[n]g des ware[n] gottes ist. der das ertreich mit bestendiger vestikeit. auffgehenckt den himel mit scheinende[n] sterne[n] vnderschide[n] die allerclarste[n] sunne[n] vnd ainig liecht zu beweysung seiner ainige[n] mayestat den me[n]schliche[n] dinge[n] angezündet. das ertreich mit dem mere vmbringet. die wasserflüs mit ewige[n] abfal zefliessen gebotte[n] vnd de[n] feldern[n] sich auß zepraiten. den tallern[n] sich zesencke[n]. de[n] walde[n] sich mit lawbgewachs zebedecke[n]. vn[d] die staynige[n] perg auffzesteige[n] verschaffet hat. 
+Es ist auch zefragen war auß got dise so grosse vnd so wunderperliche ding gemacht hab. dan[n] er hat alle ding gemacht auß nichte[n] dar vmb ist garuil gerechter vngeachtet der vnentpfintlichen vnd eitlen ding die auge[n] do hin zu wenden da der stul. da die wonu[n]g des waren gottes ist der d[as] erdtreych mit bestendiger vestikeit. auffgehenckt de[n] himel mit scheinenden sterne[n] vnderschide[n] die allerclareste[n]. sunnen vnd eynig liecht zu beweysung seiner eynigen mayestat de[n] menschliche[n] dingen angeziindet. d[as] erdtreych mit dem mere vmbringe[n]. die wasserfliiß mit ewigem abfal zefliessen gebotten den felderen sich auß zepreyten. den töllern[n] sich zesencke[n]. den welden sich mit lawbgewachs zebedöcke[n]. vn[d] die steynige[n] perg auffzesteigen verschaffet hatt. 
 
-Aber dise ding alle hat nit der **Iupiter**[^16] gemacht sunder d[er] werckmeister der werlt der vrspru[n]g des pessern[n] der gene[n]t wirt got. des anfang nit mag begriffen noch auch sol gesucht werden.
+Aber dise ding alle hat nit der **Iupiter**[^16] gemacht sunder d[er] werckmeister der welt der vrspru[n]g des pessern[n] der gene[n]t wirdt got. des anfang nit mag begryfe[n] noch auch sol gesucht werden.
 
-Gnug ist de[n] mensche[n] zu volku[m]ne klugheyt so er (das got sey) versteet vnd annimbt vnd eret de[n] gemaine[n] geperer menschlichs geschlechts vnd den pawmeister wu[n]derperlicher di[n]g. 
+Genug ist de[n] mensche[n] zu volku[m]me klugheyt so er. d[as] got sey. versteet vnd annimbt vnd eret de[n] gemeynen geperer menschlichs geschlechts vnd de[n] pawmeister wunderperlich ding. 
 
-Die alte[n] habe[n] von dreyerlay werlt gesagt. vo[n] der oberste[n] als der englische[n] oder vberuerstentliche[n]. vo[n] der himlischen. vn[d] vo[n] der vnder de[m] monde. dar inn wir wone[n]. diss ist die werlt der finsternus. 
+Die alten haben vo[n] dreyerley welt gesaget. vo[n] der obersten als der englischen oder vberuerstentlichen. vo[n] der himlischen. vn[d] vo[n] der vnder dem monde. dar inn wir wonen. diß ist die welt der funsternus. 
 
-Aber ihene des lichts der himel wirt vo[n] licht vn[d] finsternus gemaßigt. 
+Aber ihene des liechts d[er] himel wirdt vo[n] liecht vnnd fiinsternuß gemaßiget. 
 
-On diese drey ist noch ein vierde werlt in der auch alle die ding die in den andern[n] werlte[n] sindt gefunde[n] werde[n] vnd diß ist der mensch.
+On dyse drey ist noch ein vierde welt in der alle die ding die in den andern[n] welte[n] sind gefunde[n] werde[n] vnd ist der me[n]sch
 
-In der schul ist ein gemains spruchwort das der mensch die kleine werlt sey. dar inn ein auß den elemente[n] vermischter [l]eib vnd himlischer gaist vnd die wachsende sele der pflantze[n]. vn[d] die sinlichkeit d[er] vnuernüftige[n] thier vnd die vernunfft vnd englisch gemüt vn[d] gotes gleichnus gesehe[n] wirdt. 
+In der schul ist ein gemeynß spriichworte das der mensch die kleyne welt sey. dar in[n] ein auß den elemente[n] vermischter [l]eib vnnd himlischer geyst vnd die wachsenden sele der pflantzen. vn[d] die sinlichkeyt der vnuerniiftigen thier vnd die vernunft vn[d] englisch gemiet vnd gotes gleichnus gesehen wirdt. 
 
-Vo[n] dise[n] dreye[n] werlte[n] hat ***moyses*** genugsa[m]lich gesagt als got die georde[n]t hat in massen im auch (als wir lesen) auff de[n] perg do er das gelernt hat gepotte[n] ward alle ding nach de[m] ebe[n]pild das er auff dem perg sahe zemache[n].
+Vo[n] disen dreyen welten hat ***moyses*** genugsamklich gesagt als got die georde[n]t hat in masse[n] im auch als wir lesen auff dem perg do er das gelernt hat gepotten ward alle ding nach dem ebenpyld das er auff dem perg sahe zemache[n].
 
-Was nw der mosaysch buchstab von den volbrachte[n] wercken der sechs tag lere: das wollen wir kürtzlichen erzelen.
+was nun d[er] mosaysch buchstab vo[n] den volbrachte[n] wercken d[er] söchs tag lere: d[as] wöllen wir kiirtzlichen erzölen.
 
 [^1]: c.f. Bates ([1930](http://www.jstor.org/stable/j.ctv4t81g7)), Mierow ([1953](http://www.jstor.org/stable/3293765)), Dillon ([2004](http://www.jstor.org/stable/25528401)).  
 [^2]: s. Ferchius ([1646](https://doi.org/10.3931/e-rara-73987)), Cornford ([1930a](http://www.jstor.org/stable/637051), [b](http://www.jstor.org/stable/636593)), Vlastos ([1950](http://www.jstor.org/stable/2181446)), Bargrave-Weaver ([1959](http://www.jstor.org/stable/4181652)), Mann ([1980](http://www.jstor.org/stable/4182097)) or Drozdek ([2005](http://www.jstor.org/stable/4477647)).  

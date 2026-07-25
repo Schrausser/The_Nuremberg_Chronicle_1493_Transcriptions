@@ -54,7 +54,7 @@
 >Et greci viri clarissimi qui historias collegeru[n]t: affirmaru[n]t.  
 Una[m] ante iniciu[m] omniu[m] celi [et] terre  cu[n]ctis simul [con]fusis forma[m] fuisse: postea disseparatis: diuisisq[ue] molibus cepisse mundu[m] hunc ordinem quem videmus.
 
->Vn[d] die kriechische[n] hocherlewchten man[n] durch die die hystorien vnd geschichte[n] versamelt worde sind. habe[n] auch veriehen das vor anbegynn[] aller ding des himels vnd der erde[n] dieweill noch yde ding bayaynander ware[n] ein eynige form gewesen sei: un[d] darnach nach absunderu[n]g vn[d] zerteylu[n]g der beyeina[n]der gewesen pürde. die werlt dise ordnung vnd gestalt die wir sehen empfange[n] hab. 
+>Vn[d] die kriechische[n] hocherlewchten man[n] durch die die hystorien vnd geschichte[n] versamelt worde sind. habe[n] auch veriehen das vor anbegynn[] aller ding des himels vnd der erde[n] dieweill noch yde ding bayaynander ware[n] ein eynige form gewesen sei: vn[d] darnach nach absunderu[n]g vn[d] zerteylu[n]g der beyeina[n]der gewesen pürde. die werlt dise ordnung vnd gestalt die wir sehen empfange[n] hab. 
 
 >And the highly enlightened Greeks who collected all the histories and accounts subscribed to the theory that before the beginning of all things of heaven and earth and while these things were still together, there was but a single form; that later through separation and division of matter, the world took on the order and structure in which we now see it. 
 
@@ -72,7 +72,7 @@ Qua ex causa solem ac stellaru[m] multitudine[m] volut[i]one totius circu[m]ferr
 >Partem aute[m] turbidam atq[ue] terrestrem vnacum humidis ad infima loca ob grauitatem descendisse que tum mixta essent. ex humidis quide[m] mare effectu[m].  
 Ex durioribus vero terram lutosam euasisse: [et] omnino mollem. 
 
->Aber der tunckel und irdisch teyl sey mitsambt de[n] feüchte[n] dingen an die niderste[n] ort vo[n] swertheit wege[n] abgestige[n]: nach de[m] aber dise ding wermischt ware[n] so wer auß de[n] feüchte[n] das mer. vnd auß de[n] hertte[n] dinge[n]. das lettig vnd gantz weich ertreich worde[n]. 
+>Aber der tunckel vnd irdisch teyl sey mitsambt de[n] feüchte[n] dingen an die niderste[n] ort vo[n] swerheit wege[n] abgestige[n]: nach de[m] aber dise ding wermischt ware[n] so wer auß de[n] feüchte[n] das mer. vnd auß de[n] hertte[n] dinge[n]. das lettig vnd gantz weich ertreich worde[n]. 
 
 >But the dark and substantial part, together with the moist things, were carried to the lowest region by their own weight. After these things were mixed, the sea came out of the mist, and the substantial matter, which was loamy and soft, became the earth.
 
@@ -128,7 +128,7 @@ In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [e
 >Relictis igitur antiquis erroribus **Archana Moseos** volumina de mundi fabrica: [et] celebratis ille operibus sex dierum p[er]lustrabimus.  
 Quibus totius nature secreta co[n]tinent[ur].
 
->So wölle[n] wir doch die alte[n] irthu[m] verlassen vnd beschawe[n] die verporgen mosaysche[n] schrifften vo[n] der werlt gefchöpff vnd vo[n] de[n] wercke[n] der sechs tag sagende. dar in die heimlichen ding der gantzen natur begriffen werde[n]. 
+>So wölle[n] wir doch die alte[n] irthu[m] verlassen vnd beschawe[n] die verporgen mosaysche[n] schrifften vo[n] der werlt geschöpff vnd vo[n] de[n] wercke[n] der sechs tag sagende. dar in die heimlichen ding der gantzen natur begriffen werde[n]. 
 
 >we will leave these old errors and look at the mysterious Mosaic writings about the creation of the world and of the work of the six days in which the mysteries of all nature are comprehended.
 
@@ -254,7 +254,7 @@ Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit
 
 >Satis est homini ad perfectam prudentiam: si deum esse intelligat vt suscipiet [et] honorificet communem parentem generis humani: [et] rerum mirabilium fabricatorem.
 
->Gnug ist de[n] mensche[n] zu volku[m]ne klugheyt so er (das got sey) versteet vnd annimbt vnd eret de[n] gemaine[n] geperer menschlichs geschlechts vnd den pawmeister wu[n]derperlicher dig. 
+>Gnug ist de[n] mensche[n] zu volku[m]ne klugheyt so er (das got sey) versteet vnd annimbt vnd eret de[n] gemaine[n] geperer menschlichs geschlechts vnd den pawmeister wu[n]derperlicher di[n]g. 
 
 >Unto man it should be sufficient that there is a God, that he is the creator of the human race and the master-builder of this wonderful work.
 
@@ -272,7 +272,7 @@ Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hi
 
 >ille aut[em] lucis: celum ex luce [et] tenebris temperat[ur].
 
->Aber ihene des lichts der himel wirt vo[n] licht vn[d] finsternus germaßigt. 
+>Aber ihene des lichts der himel wirt vo[n] licht vn[d] finsternus gemaßigt. 
 
 >lighted, however, by the lights of heaven in regular course.
 
@@ -280,7 +280,7 @@ Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hi
 
 >Est et preter tres quartus alius mundus: in quo [et] ea omnia inuenia[n]tur que sunt in reliquis: hic ipse est homo. 
 
->On diese drey ist noch ein vierde werlt in der auch alle die ding die in den andern[n] werlte[n] sindt gefunde[n] werde[n] und diß ist der mensch.
+>On diese drey ist noch ein vierde werlt in der auch alle die ding die in den andern[n] werlte[n] sindt gefunde[n] werde[n] vnd diß ist der mensch.
 
 >In addition to these there is a fourth world in which all the attributes of the other worlds are to be found, and this world is man himself.
 
