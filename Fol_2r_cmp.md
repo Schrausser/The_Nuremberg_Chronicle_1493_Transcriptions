@@ -6,7 +6,7 @@
 
 >***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*
 
->***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel und lere vnd die finsternus ware[n] auff de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob de[n] wassern.*
+>***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel vnd lere vnd die finsternus ware[n] auff de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob de[n] wassern.*
 
 >*In the beginning God created heaven and earth. And the earth was void and empty. And darkness was upon the face of the deep; and the Spirit of God moved over the waters.*
 
@@ -34,7 +34,7 @@ Nihil e[ni]m p[er]se [con]tinet lumi[ni]s: nisi accipiat a celo.
 >In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petuam.  
 Et [con][tumacia] in terra tenebras: [et] inferos: [et] morte[m].
 
->In dez hat er gesetzt das ewig liecht vn[d] die obern gaist und das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüß vnd die vndern gaist und de[n] tod. 
+>In dez hat er gesetzt das ewig liecht vn[d] die obern gaist vnd das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüß vnd die vndern gaist vnd de[n] tod. 
 
 >for there he placed the eternal light, the celestial spirits, and the eternal life; but to the earth he assigned darkness, the mundane spirits, and death.
 
@@ -56,7 +56,7 @@ Et in p[ri]ncipio de yle mu[n]du[m] fuisse factu[m] testa[tur].
 Qua visibilia hec eleme[n]ta formata sunt. q[uae] q[ui]da[m] [con]cordia [con]ueniu[n]t.  
 A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse: 
 
->Die krieche[n] spreche[n] yle sey die erst ungeformt materi aus der :alle ding geschöpfft: vnd diese sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
+>Die krieche[n] spreche[n] yle sey die erst vngeformt materi aus der :alle ding geschöpfft: vnd diese sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
 
 >The Greeks say that Yle was the first shapeless mass out of which all things were created, and that these visible things were formed of elements that were in harmony with each other; or (as others say) of matter and form, or were made of the finest dust that sparkles in the sunlight.
 
@@ -73,7 +73,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 >Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]mense: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
 
->Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des Schöpffers.
+>Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
 
 >Of all beings he first created the angels, and these out of nothing; for by reason of his immortality he is strong, and by virtue of his strength his power is infinite and without end, as is also his life.
 
@@ -96,7 +96,7 @@ Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci diabolu[m] appe
 Qua[m] p[ro] sui [con]fusio[n]e abyssum vocat: qua[m] [et] greci chaos dicu[n]t.  
 Abyssum vocat terra[m] .i[d est]. materia[m] trino dime[n]su i[n] altissimas profunditates extensam: 
 
->Die erde was eytel. das ist (als **Ieronimus** od[er] die .**lxx. auslege[n]**) vnsyhtperlich un[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechysche[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff außgepraittet. 
+>Die erde was eytel. das ist (als **Ieronimus** od[er] die .**lxx. auslege[r]**) vnsyhtperlich vn[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechysche[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff außgepraittet. 
 
 >The earth was void, that is, (as Jerome and the Seventy [...] interpret it) invisible and chaotic, and because of its chaotic condition it was called an abyss; and this the Greeks called chaos, which consists of a material of three dimensions scattered about in the great deep.
 

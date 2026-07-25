@@ -1,28 +1,28 @@
-# Blat IIr
+# Das drit Blat
 
-***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel vnd lere vnd die finsternus ware[n] auff de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob de[n] wassern*.[^1]
+***I**N dem anfang hat gott beschaffen hymel vn[d] erden aber die erde was eytel vn[d] lere vnd die fiinsternuß waren auff de[m] antlitz des abgrunds vn[d] der geyst des herre[n] schwebt oder ward getragen ob de[n] wassern*[^1]
 
-***Moyses***[^2] der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>C</sup>. iar vor dem Troyanische[n] krieg[^3] gewesen ist leret wie got der macher vnd ordner der dinge als er diss werck fürname zu allererst de[n] himel zeseyn einen stul des selbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
+***Moyses***[^2] der götlich prophet vn[d] geschiht beschreyber d[er] schyer .vij<sup>c</sup>. iar vor de[m] Troyanischen kryege[^3] gewest ist leret wie got d[er] macher vn[d] ordner der ding als er diß werck fiirname. zu allererst den himel zesein einen stule des selben gottes des schöpffers gemacht vn[d] in dye höhe aufgehenckt vn[d] darnach die erde[n] gestiftet vnd de[n] himel vnderworffen hat. 
 
-Aber die finsternüssen hat er gesetzt in der erden dan[n] sie begreüfft durch sich selbs nichtzit des liechts sie ne[m]me es dan[n] vo[n] himel. 
+Aber dye finsternußen hat er gesötzt in der erden dan[n] sy begreyfft durch sich selbs nichtzit des lyechts sy ne[m]me es dan[n] von himel. 
 
-In dez hat er gesetzt das ewig liecht vn[d] die obern gaist vnd das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüß vnd die vndern gaist vnd de[n] tod. 
+In de[n] hat er gesötzet das ewig liecht vn[d] die obern geyst vnd das ewig leben. vn[d] hinwiderum[m] in d[er] erden die finsternuß vn[d] die vndern geyst vnd de[n] tod
 
-Aber in dem das ***Moyses*** spricht das got beschaffen hab so stelt er damit ab drey irru[n]g ***Platonis***[^4] **Aristotilis**[^5] vn[d] **Epicuri**[^6]. dan[n] ***Plato*** hielt das got vnd die vorpildnus oder gestaltnuß seiner geschöpff vnd yle[^7] vo[n] ewigkeit gewessen vnd im anfang die werlt vo[n] de[m] selbe[n] yle gemacht worde[n] wer. 
+Aber in dem das ***moyses*** spricht d[as] gott beschaffen hab so stölt er damit ab drey irrung ***Platonis***[^4] **Aristotilis**[^5] vn[d] **Epicuri**[^6]. dan[n] ***Plato*** hielt d[as] got vn[d] die vorpildnuß oder gestaltnuß seiner geschöpff vn[d] yle[^7] von ewigkeit gewesen vnd im anfang die welt von dem selben yle gemacht worden wer. 
 
-Die krieche[n] spreche[n] yle sey die erst vngeformt materi auß der :alle ding geschöpfft: vnd diese sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
+Die kriechen sprechen yle sey die erst vngeformet materi auß der :alle ding geschöpfft: vn[d] dise sichtpere eleme[n]t die sich mit ötlicher eintrechtigkeyt einander vergleychen geformt. oder (als die andern spreche[n]) vo[n] der materi vn[d] form. oder vo[n] dem allerdiinnysten staub in d[er] sun[n]en glantz erscheynende. gemachet seyen. 
 
-Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[n] selle[n] gůt als ein pach entsprünge. 
+Aber got hat die welt on eyniche vorligende vn[d] vorbereyte materi beschaffen. dan[n] er w[as] zů ertrachten d[er] alleklügest vn[d] zemache[n] der allersiinnreychest ee dann er das werck der welt fiirname wan[n] in im was der brunn des volkomnen vnd volbrachten gůtzs das von dem selbe[n] gůt als ein pach entspriinge. 
 
-Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
+Er hat in anfang die engel aller creatur die ersten gemachet vnd auß dem das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die störck vnermeßner mechtigkeit: die des ends vn[d] der maße mangelt. als das leben des schöpffers.
 
-Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi darauß er machet fürberaittet. auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got auß de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind aus aigner verkerung vo[m] gůtten zum vbel getretten vn[d] zu teüfeln worde[n]. 
+Darumb w[as] wunderß ist das. ob der. der dye welt machen wolt vorhin ein materi darauß er machet fiirbereyttet. auß dem das nit w[as]. d[as] haben villeicht auch die Saraceni verstande[n] die spreche[n] das die engel von gotte auß den finsternussen zum liecht gefůrt vnd mit ewiger freiide erfiillet seyen doch ist in ötlichen dye einpildung götliches sta[m]mens nit beliben. sunder sy sind auß eygner verkerunge vom gůtten zum iibel getretten vn[d] zu teiifeln worden. 
 
-Die erde was eytel. das ist (als ***Ieronimus***[^8] od[er] die .**lxx. auslege[r]**[^9]) vnsyhtperlich vn[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechysche[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff außgepraittet. 
+Die erde w[as] eytel. das ist (als ***Ieronimus***[^8] oder die .**lxx. außlöger**[^9]) vnsihtperlich vnd vnzesamen gefügt. die er vo[n] irer zestreiilichkeyt wegen einen abgrund nennet. vn[d] die kriechyschen chaos heyssen eynen abgrund. heyst er dye erden. das ist ein materi mit dryueltiger ermessung in dye allerhöchsten tieffe außgepreytet. 
 
-Da von auch **Ouidius**[^10] der poet in seine[m] gedicht gar schön meldung thüt. vnd der gaist des herre[n] ein werckzewg gotlicher ku[n]st swebet ob de[n] wassern: als d[er] wil eins pawherre[n] so er yde ding zemache[n] verordent. so die werck gottes volkome[n] sind. so wirdt die beschöpffu[n]g d[er] ding außgedrückt in sechser zall. des teill sind. ains zway drey. 
+Da von auch **Ouidius**[^10] der poet in seinem gedicht gar schön meldung thůt. vnd der geyst des herren ein werckzeiig götlicher kunst schwebet ob den wassern: als der wil einß pawherren so er yede ding zemachen verordent. so dye werck gottes volkomen sind. so wirdt die beschöpffung der ding außgedruckt in söchßer zal. des teyl sind. eins zwey drey. 
 
-Nwn zaygt ***Moyses*** durch die werck d[er] sechs tag nemlich in de[m] ersten die beschöpfung.
+Nun zeyget ***Moyses*** durch die werck der söchß tag nemlich in dem ersten die beschöpffung.
 
 In dem andern vnd dritten die ordnung oder schickung. vnd in den andern die zierung.
 
