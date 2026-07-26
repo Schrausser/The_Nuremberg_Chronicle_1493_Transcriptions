@@ -119,7 +119,7 @@ In medio aut[em] interstitio ad quod no[n] p[er]tingere potest rep[er]cussio rad
 
 >Ex his collige duodecim orbes mundi terram [et] aquam ambientes: qui omnes celi possunt vocari. 
 
->Darauß samelst du zwölff vmbkrais: die die erden un[d] wasser vmbryngen die alle mügen himel genant werde[n]
+>Darauß samelst du zwölff vmbkrais: die die erden vn[d] wasser vmbryngen die alle mügen himel genant werde[n]
 
 >Out of this you may gather twelve orbits that surround the earth and the water, all of which may be said to constitute the heavens.
 
@@ -279,7 +279,7 @@ Item in primis d[omi]n[u]s dominat[ur] vt maiestas: in sequentibus regit vt prin
 
 >Inferior hierarchia si[mi]liter [con]tinet tres ordines. s[e]c[undu]m virtutes. archangelos. angelos. ad quo[rum] priores p[er]tinet miraculorum op[er]atio. ad secu[n]dos magnoru[m] negociorum denunciatio. ad tercios humane custodie solicitudo.
 
->Die vndere ierarchey helt auch drey orden. als kreftengel ertzengel und engel. die ersten pflegen der übung grosser wund[er]werck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
+>Die vndere ierarchey helt auch drey orden. als kreftengel ertzengel vnd engel. die ersten pflegen der übung grosser wund[er]werck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
 
 >The lower hierarchy also embraces three orders: angels of virtue, archangels, and angels. The first of these attend the working of great miracles; the second presage great events; the third act as the warders of mankind. 
 
@@ -347,7 +347,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >S[e]c[un]d[u]m **septuagi[n]ta interp[re]tes** (sicut **Isidorus** exponit) [et] alios q[uonia]m plurimos quos hic seq[ui]mur h[ab]uit annos .2242 
 
->Aber nach sag der **.lxx. außleger** .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus** setzt und vil ander den wir hierinn nachuolge[n]
+>Aber nach sag der **.lxx. außleger** .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus** setzt vnd vil ander den wir hierinn nachuolge[n]
 
 >but according to the **seventy interpreters**, 2242 years, as **Isidore** fixes it, and many others whom we here follow.
 

@@ -26,11 +26,11 @@ Der luft hat auch drey vnderschid. der oberst ist scheynlich der mittel vn[d] vn
 
 Daselbst werde[n] auch vngestümigkeit als donerschleg hagel schne vnd der gleich.
 
-Darauß samelst du zwölff vmbkreis: die die erden un[d] wasser vmbryngen die alle mügen himel genant werde[n]
+Darauß samelst du zwölff vmbkreis: die die erden vn[d] wasser vmbryngen die alle mügen himel genant werde[n]
 
-Aber dise all ubertrifft d[er] himel der trifeltigkeit. der got der in allen vnd über alle ist.
+Aber dise all vbertrifft d[er] himel der trifeltigkeit. der got der in allen vnd über alle ist.
 
-Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten von der erd zu dem mond sind .xv<sup>m</sup>. vi<sup>c</sup>.xxv meyl. 
+Mercke auch von gelegenheit der vorgenante[n] vmbkrais vn[d] planeten von der erd zu dem mond sind .xv<sup>m</sup>. vi<sup>c</sup>.xxv meyl. 
 
 Von de[m] mond zu mercurio .vij<sup>m</sup>.viij<sup>c</sup>.xiij. 
 
@@ -64,7 +64,7 @@ Die ersten betrachten gottes guttheit. die andern sein kraft. die dritten seyn g
 
 Die mittel ierarchey helt herschengel. fürstengel gewaltengel. die ersten regire[n] die ambt der engel. die andern pflegen der öbern des volcks. die dritten zwinge[n] der teüfel macht. in den ersten herschet der herr als die maiestat. in den andern regirt er als ein fürstenthumb. in den dritten wird er gehalte[n] als das hail.
 
-Die vndere ierarchey helt auch drey orden. als kreftengel ertzengel und engel. die ersten pflegen der übung grosser wund[er]werck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
+Die vndere ierarchey helt auch drey orden. als kreftengel ertzengel vnd engel. die ersten pflegen der übung grosser wund[er]werck. die andern der verku[n]dung grösser ding. die dritten der sorgfeltigkeit menschlicher wart.
 
 In de[n] ersten wirckt got als ein kraft. in den andern offen baret er als ein licht. in den dritten neret er als ein eyngeystender.
 
@@ -80,7 +80,7 @@ Nw sind scehs alter der werlt.
 
 Das erst vo[n] der beschaffung der werlt bis zu der sintflus. vnd hett nach hebreyscher warheit .i<sup>m</sup>.v<sup>c</sup>. lvi. iar. 
 
-Aber nach sag der **.lxx. außleger**[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^5] setzt und vil ander den wir hierinn nachuolge[n]
+Aber nach sag der **.lxx. außleger**[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. iar als **ysidorus**[^5] setzt vnd vil ander den wir hierinn nachuolge[n]
 
 Also habe[n] die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi iar mynder vnd nach diser rechnung ist matusale gestorben vor der sintflus in dem iar als dye was
 
