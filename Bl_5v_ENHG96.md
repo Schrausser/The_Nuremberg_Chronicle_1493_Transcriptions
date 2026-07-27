@@ -14,30 +14,24 @@ Bißher ist vo[n] dreyen. als der iiberhimlische[n]. hymlischen vnd vnderhimlisc
 
 Nun hinfiir ist von de[n] menschen als der vierde[n] welt zemercke[n]. do got alle ding mit wu[n]derperlicher beschreibu[n]g verordent vn[d] ime fiirgenome[n] het ein ewigs reich zemachen vn[d] vnzallich selen zeschöpffe[n]. die vntödtlikeyt zegeben. do machet er eyn empfindtliche vn[d] verstentliche gleichnuß d[as] ist zu form oder gestalt seiner pildnuß. d[er] nichtz volkomners sein mag. vnd formet den menschen auß letten oder kloße der erden. nach der er also genent ist.
 
-Got d[er] macher aller ding hat gemachet den menschen von de[m] doch **Cicero** wye wol aller himlyscher schrifft vnwissen. das d[as] dye propheten sagen geschriben hat.[^3] *diß thyer das wir eynen menschen ne[n]men. fiirsichtig. behende. vilfeltig. scharpff gedechtig vol vernunffte vn[d] radts in clarer art vnd eygenschafft geporen seyn vo[n] de[m] höchsten gott allein. dan[n] er ist auß allen geschlechten vn[d] naturen der geselete[n] geschöpff. teylheftig der vernunfft vn[d] gedenckung. der die anderen gechöpfft alle mangeln*.
+Got d[er] macher aller ding hat gemachet den menschen von de[m] doch **Cicero** wye wol aller himlyscher schrifft vnwissen. das d[as] dye propheten sagen geschriben hat.[^1] *diß thyer das wir eynen menschen ne[n]men. fiirsichtig. behende. vilfeltig. scharpff gedechtig vol vernunffte vn[d] radts in clarer art vnd eygenschafft geporen seyn vo[n] de[m] höchsten gott allein. dan[n] er ist auß allen geschlechten vn[d] naturen der geselete[n] geschöpff. teylheftig der vernunfft vn[d] gedenckung. der die anderen gechöpfft alle mangeln*.
 
 Nun ist offt bey den kiinigen vnd fiirsten dye gewo[n]heyt so sy ein großmechtig vnd ödle statt pawen vn[d] volbracht haben das sy alsden[n] ire pild enmitten in der stat allermenigklichen zu sehen vn[d] anzeschawen aufrichte[n].
 
-Also hat auch got der fiirst aller ding gethan. d[er] nach dem gantzen auffgerichten paw d[er] welt de[n] menschen als de[n] letzten aller ding in den mittel d[er] selben hat gesötzt vnd geformt zu seiner pildnuß vn[d] gleychnuß. also das mit **mercurio** wol gesprochen werden mag.[^4]
+Also hat auch got der fiirst aller ding gethan. d[er] nach dem gantzen auffgerichten paw d[er] welt de[n] menschen als de[n] letzten aller ding in den mittel d[er] selben hat gesötzt vnd geformt zu seiner pildnuß vn[d] gleychnuß. also das mit **mercurio** wol gesprochen werden mag.[^2]
 
 *O asclepi wie ein groß wunderwerk ist der mensch diß sunderlichen namens mag sich dye menschlich art wol berümen auß dem geschehen ist: das sich nyemandt yme zedienen verdriessen lassen sölle. dan[n] ime sind erd vnd element vn[d] dye vnuerniiftigen thyer willig vn[d] dienstbar. ime treybet der hym[m]el ritterschafft.
 Ime sprechen dye englischen geyst das heyle. sich soll auch nyemandt verwu[n]dern das der von allen dingen geliebt wirdt. in dem alle ding etwas des iren. ia auch sich gantz vn[d] alles d[as] ir erkennen*.
 
 **A**Ls nun die welt durch d[as] gepew götlicher weyßheyt der söchß tag. volendet vn[d] hym[m]el vn[d] erden beschaffe[n] geordnet gezyeret vn[d] zu lötst volbracht worden sind. do hat d[er] glori wirdig got sein wercke erfiillet vn[d] am sibende[n] tag vo[n] den wercken seiner hende geruet. nach de[m] er dye gantzen welte vnd alle ding die darin[n] sind beschaffen het do hat er auffgehört. nit als zewiircke[n] müde. sunder zemachen ein newe creatur d[er] materi oder geleychnuße nyt vergangen were dann er höret nitt auff zewiircken das wercke der geperungen. vnnd der herre hatt den selbygenn tage
 
-[^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
-[^2]: Genesis 1:24-27, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. av-aijr).   
-[^3]: Cicero and Cicero ([1496](https://doi.org/10.3931/e-rara-89116), p. aaiii), c.f. Keyes ([1970](https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/), p. 321).  
-[^4]: Mirandola and Mirandola ([1601](https://doi.org/10.3931/e-rara-61217), p. 207), Mirandola ([1990](https://books.google.com/books?id=kwqKDwAAQBAJ), [1994](https://books.google.co.in/books?id=ttWhxemy4NAC)), c.f. O’Malley ([2022](https://books.google.com/books?id=vTd7EAAAQBAJ), p. 426).  
+[^1]: Cicero and Cicero ([1496](https://doi.org/10.3931/e-rara-89116), p. aaiii), c.f. Keyes ([1970](https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/), p. 321).  
+[^2]: Mirandola and Mirandola ([1601](https://doi.org/10.3931/e-rara-61217), p. 207), Mirandola ([1990](https://books.google.com/books?id=kwqKDwAAQBAJ), [1994](https://books.google.co.in/books?id=ttWhxemy4NAC)), c.f. O’Malley ([2022](https://books.google.com/books?id=vTd7EAAAQBAJ), p. 426).  
 
 
 ## References
 
 Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
-
-Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
-
-Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
 Keyes, C. W., ed. (1970). *Cicero in Twenty Eight Volumes*. Vol. 16: De re publica. De legibus [Loeb 213]. London: William Heinemann LTD. [https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/](https://archive.org/details/cicero-in-28-volumes.-vol.-16-loeb-213/)
 

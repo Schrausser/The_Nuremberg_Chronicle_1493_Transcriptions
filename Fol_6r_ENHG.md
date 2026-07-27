@@ -84,7 +84,7 @@ Aber nach sag der **.lxx. außleger**[^4] .ij<sup>m</sup>. ij<sup>c</sup>.xlij. 
 
 Also habe[n] die hebreyschen in disem alter .v<sup>c</sup>. lxxxvi iar mynder vnd nach diser rechnung ist matusale gestorben vor der sintflus in dem iar als dye was
 
-Das andre vo[n] d[er] sintflus bis auff die gepurt abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de **.lxx. außleger** .viiij<sup>c</sup>.xlij. iar. 
+Das andre vo[n] d[er] sintflus bis auff die gepurt Abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xlij. iar. 
 
 Also das die hebreysche[n] .vi<sup>c</sup>.l. iar mynder haben.
 

@@ -364,7 +364,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 >S[e]c[un]da etas incipit a diluuio: et durat vsq[ue] ad natiuitatem abrahe: [et] habuit s[ecundu]m hebreos annos .292. s[ecundu]m septuaginta .942. 
 
 
->Das andre vo[n] d[er] sintflus bis auff die gepurt abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xlij. iar. 
+>Das andre vo[n] d[er] sintflus bis auff die gepurt Abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xlij. iar. 
 
 >The second age is from the Flood to the birth of Abraham, which, according to the Hebrew, lasted 292 years, but according to the seventy interpreters, 942 years;
 
