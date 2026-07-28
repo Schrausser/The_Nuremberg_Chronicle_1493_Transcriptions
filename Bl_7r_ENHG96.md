@@ -20,13 +20,13 @@ Von de[m] paradeis vn[d] seinen vier fliissen.
 
 **D**As irdisch paradeis vnder d[er] gleiche mitternachttlichen linen. gegen dem auffgang der sun[n]en gelegen hat gott der herre von anbegin[n] gepflantzt. vn[d] ist nach lateinischer vn[d] hebreyscher sprach ein garten oder paumgarten. oder lustperkeit gena[n]t. als ein garten mit allerley paume[n] besäet. daselbst w[as] auch das holtz des lebens. vn[d] sy sagen das dieselb stat mit einer feiirin mauer von der erden bis an den himel völligclich vm[m]schrencket sey. vn[d] der engel gottes mit eine[m] flammigen schwert dauor stee vn[d] verhindere die die hinzů geen wölle[n]
 
-In de[m] selbe[n] paradeis sind Ada[m] vn[d] Eua beschaffen vn[d]   darnach von siind wegen des fraß darauß vertriben worden
+In de[m] selbe[n] paradeis sind Ada[m] vn[d] Eua beschaffen vn[d]  darnach von siind wegen des fraß darauß vertriben worden
 
 Darinn sind auch enoch vn[d] helias in wollustperkeyt. die zů letst vo[n] den hende[n] anticristi sterben werden. 
 
 Dise stat ist weit vo[n] vnserm inwonlichem teil entlege[n]. vn[d] in aller wu[n]samkeit scheinperlich. vn[d] hat gesund liiftigkeit. fruchtperkeit wu[n]samkeit vn[d] frölichkeit
 
-Auß des mittel geet ein prun[n] der es gantz erfeiichtet. vn[d] der selb prun[n] wirdt in vier gepere[n]de fliiß geteilt als die außleger des bůchs d[er] geschüpff zů erken[n]en geben.
+Auß des mittel geet ein prun[n] der es gantz erfeiichtet. vn[d] der selb prun[n] wirdt in vier gepere[n]de fliiß geteilt als die **außleger des bůchs d[er] geschüpff** zů erken[n]en geben.
 
 Ganges oder phison.
 
