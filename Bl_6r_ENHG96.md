@@ -30,7 +30,7 @@ Der luft hat auch drey vnderschid. d[er] oberst ist scheynlich der mittel vnd vn
 
 Daselbst werden auch vngestümigkeyt als donerschlög hagel schnee vnd der gleich.
 
-Dar auß samlest du zwölff vmbkreys. die die erden un[d] wasser vmbringen die alle miige[n] hymel genant werde[n]
+Dar auß samlest du zwölff vmbkreys. die die erden vn[d] wasser vmbringen die alle miige[n] hymel genant werde[n]
 
 Aber dise all vbertrift der hymel der trifeltigkeyt. der got der in allen vn[d] vber all ist.
 

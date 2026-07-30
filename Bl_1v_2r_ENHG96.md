@@ -11,7 +11,7 @@ Etlich haben gemeynt d[as] die welt vngeporen vn[d] vnzerstörlich. vn[d] d[as] 
 
 Etlich meinten die welt geboren vn[d] zerstörlich seyn. vn[d] sageten d[as] die mensche[n] anfang der gepurdt genomen hetten. 
 
-Vnd die kryechischen hoch erleiichten mann durch die die hystorien vnnd geschichten versamlet worde[n] sind habe[n] auch veriehen das vor anbegynnen aller dyng des hymels vn[d] der erden die weiyl noch yede ding beyeynander waren ein eynige form gewesen sey. un[d] darnach nach absunderung vn[d] zerteylung der beyeinander gewesen pürde. die welt dise ordnu[n]g vnd gestalt die wir sehe[n] empfangen hab. 
+Vnd die kryechischen hoch erleiichten mann durch die die hystorien vnnd geschichten versamlet worde[n] sind habe[n] auch veriehen das vor anbegynnen aller dyng des hymels vn[d] der erden die weiyl noch yede ding beyeynander waren ein eynige form gewesen sey. vn[d] darnach nach absunderung vn[d] zerteylung der beyeinander gewesen pürde. die welt dise ordnu[n]g vnd gestalt die wir sehe[n] empfangen hab. 
 
 Sy sagen das der in bewegnuß stetiger lufft vnd feürig teyl irer oberen stött von leichtheit wegen begert haben. vn[d] das auß diser vrsach die sunn vn[d] menig der stere[n] in dem kreyß des gantze[n] geschöpffs vmbgetrage[n] werden. 
 
