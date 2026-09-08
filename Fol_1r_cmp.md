@@ -79,7 +79,7 @@ Ex durioribus vero terram lutosam euasisse: [et] omnino mollem.
 ## P 9
 
 >hec primum cum solis ardore densior euasisset: in quibus putredines tenui co[n]tecte pellicula sint excitate.  
-Erupisse tandem ab illa colluuie varias animantiu[m] formas quorum ea quo maiorem calorem fortita sunt in superiore[m] regionem volatilia abieru[n]t:  
+Erupisse tandem ab illa colluuie varias animantiu[m] formas quorum ea quo maiorem calorem sortita sunt in superiore[m] regionem volatilia abieru[n]t:  
 
 >Als aber das ertreich erstlich auß hitz der sunne[n] dicker worde[n] wer vn[d] dar in faulfeüchtigkeitn[n] mit dynne[n] hewtlein bedeckett erwuchsen do wer alßdan[n] vo[n] solcher pfütsche[n] ma[n]cherlay gestalt der lebe[n]de[n] entstande[n]. vnd die. die souill merer wirm empfange[n] hette[n] geriete[n] zu geflügele hin in die obern gege[n]t. 
 
@@ -125,7 +125,7 @@ In agris pastum querentes. siluestri [et] incondita vita vixisse quibus herbe [e
 
 ## P 14
 
->Relictis igitur antiquis erroribus **Archana Moseos** volumina de mundi fabrica: [et] celebratis ille operibus sex dierum p[er]lustrabimus.  
+>Relictis igitur antiquis erroribus **Archana Moseos** volumina de mundi fabrica: [et] celebratis illis operibus sex dierum p[er]lustrabimus.  
 Quibus totius nature secreta co[n]tinent[ur].
 
 >So wölle[n] wir doch die alte[n] irthu[m] verlassen vnd beschawe[n] die verporgen mosaysche[n] schrifften vo[n] der werlt geschöpff vnd vo[n] de[n] wercke[n] der sechs tag sagende. dar in die heimlichen ding der gantzen natur begriffen werde[n]. 
@@ -136,7 +136,7 @@ Quibus totius nature secreta co[n]tinent[ur].
 
 >Nam **moyses** p[ro]pheta ac historicorum pater: deo plenus: ac celesti dictante spiritu totius magistro veritatis: excepit hec o[mn]ia.  
 Quem cum nostrorum: tum suorum: tum gentium deniq[ue] testimonia prorsus humane sapientie: doctrinarumq[ue] omnium et litterarum 
-consultissimum prodiderunt.
+co[n]sultissimum prodiderunt.
 
 >Dan **Moyses** der prophet ein vater der geschichtbeschreiber gottes vol: vn[d] auß himlischer dichtung des heilige[n] geistes des maisters der gantze[n] warheit hat dise ding alle begriffen. dem nit allain die vnsern. sunder die seine[n] vnd auch die heydnische[n] gezeügnus seiner menschliche[n] weyshait vn[d] erfaru[n]g aller lere. vnd schrifft gegebe[n] habe[n]. 
 
@@ -183,7 +183,7 @@ Factu[m]q[ue] in primis hoc in hac parte: vbi de rerum omniu[m] emanat[i]one a d
 
 >Propterea fuit decretum veterum hebreo[rum].  
 Cuius etia[m] meminit **Hieronymus**: ne hanc mu[n]di creato[r]em
-quisq[uonia]m: nisi matura iam etate atingeret. 
+quisq[uonia]m: nisi matura iam etate attingeret. 
 
 >Darümb was es bey den alten hebreyschen ein gesetz (des auch **Ieronimus** gedenckt) das niemant dan der zeitigs alters wer zu diser beschöpfung d[er] werlt raichen solt.
 
@@ -214,7 +214,7 @@ Ex moyse seriem sex dierum: de diuina mundi fabrica: de qua in archanis sancte r
 
 ## P 23
 
->Exorsus igitur deus fabricam mundi illum primu[m] [et] maximum filium prefecit operi immenso.  
+>Exorsus igitur deus fabricam mundi illum primu[m] [et] maximu[m] filium prefecit operi immenso.  
 Eoq[ue] simul et co[n]siliatore vsus est [et] artifice: in excogitandis: ornandis: faciendisq[ue] rebus: 
 
 
@@ -235,8 +235,8 @@ Eoq[ue] simul et co[n]siliatore vsus est [et] artifice: in excogitandis: ornandi
 
 >Nec querendu[m] ex quibus ista tam magna: tam mirifica op[er]a deus fecerit.  
 Di[midi]a enim fecit ex nihilo.  
-Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eo te[n]dere ubi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.  
-Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit et extendi campos: subsidere valles: fronde tegi filuas: lapidosos surgere montes: 
+Quanto igitur rectius est omissis insensibilibus [et] vanis: oculos eo te[n]dere vbi sedes: vbi habitatio est dei veri: qui terram stabili firmitate suspendit: qui celum distinxit astris fulgentibus: q[ui] sole[m] rebus humanis clarissimu[m] ac singulare lumen in argumentum sue ac vnice maiestatis acce[n]dit.  
+Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit et extendi campos: subsidere valles: fronde tegi siluas: lapidosos surgere montes: 
 
 >Es ist auch zefragen warauß got dise so grosse vnd so wunderperliche ding gemacht hab. dan[n] er hat alle ding gemacht aus nichte[n]. darümb ist garvil gerechter vngeachtet d[er] vnentpfintliche[n] vn[d] eiteln ding die auge[n] do hin zuwe[n]de[n] da der stul. da die wonu[n]g des ware[n] gottes ist. der das ertreich mit bestendiger vestikeit. auffgehenckt den himel mit scheinende[n] sterne[n] vnderschide[n] die allerclarste[n] sunne[n] vnd ainig liecht zu beweysung seiner ainige[n] mayestat den me[n]schliche[n] dinge[n] angezündet. das ertreich mit dem mere vmbringet. die wasserflüs mit ewige[n] abfal zefliessen gebotte[n] vnd de[n] feldern[n] sich auß zepraiten. den tallern[n] sich zesencke[n]. de[n] walde[n] sich mit lawbgewachs zebedecke[n]. vn[d] die staynige[n] perg auffzesteige[n] verschaffet hat. 
 
@@ -252,7 +252,7 @@ Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit
 
 ## P 27
 
->Satis est homini ad perfectam prudentiam: si deum esse intelligat vt suscipiet [et] honorificet communem parentem generis humani: [et] rerum mirabilium fabricatorem.
+>Satis est homini ad perfectam prudentiam: si deum esse intelligat: vt suscipiet [et] honorificet communem parentem generis humani: [et] rerum mirabilium fabricatorem.
 
 >Gnug ist de[n] mensche[n] zu volku[m]ne klugheyt so er (das got sey) versteet vnd annimbt vnd eret de[n] gemaine[n] geperer menschlichs geschlechts vnd den pawmeister wu[n]derperlicher di[n]g. 
 
@@ -261,7 +261,7 @@ Terris autem maria circumfudit: flumina sempiterno lapsu fluere precepit: iussit
 
 ## P 28
 
->Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi: autem intellectualem vocant.  
+>Tres mundos figurat antiquitas: supremum omnium vltra mundanum: quem theologi angelicum: philosophi autem intellectualem vocant.  
 Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hic tenebrarum mundus: 
 
 >Die alte[n] habe[n] von dreyerlay werlt gesagt. vo[n] der oberste[n] als der englische[n] oder vberuerstentliche[n]. vo[n] der himlischen. vn[d] vo[n] der vnder de[m] monde. dar inn wir wone[n]. diss ist die werlt der finsternus. 
@@ -294,7 +294,7 @@ Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hi
 
 ## P 32
 
->De his quatuor mundis moyses sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec Moseos imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
+>De his quatuor mundis moyses sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec ***Moseos*** imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
 
 >Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt als got die georde[n]t hat in massen im auch (als wir lesen) auff de[n] perg do er das gelernt hat gepotte[n] ward alle ding nach de[m] ebe[n]pild das er auff dem perg sahe zemache[n].
 
