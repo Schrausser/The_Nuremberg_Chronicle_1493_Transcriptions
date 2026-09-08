@@ -294,7 +294,7 @@ Proximum huic celestem: postremum omniu[m] sublunarem: hu[n]c quem incolimus: hi
 
 ## P 32
 
->De his quatuor mundis moyses sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec ***Moseos*** imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
+>De his quatuor mundis ***moyses*** sufficienter differuit: vt deus opifex disposuit: vt vere scriptura hec ***Moseos*** imago mundi expressa sit: quemadmodum legimus etiam ei preceptum in monte: vbi hec didicit: vt o[mn]ia faceret s[ecundu]m exemplar quod in  monte viderat.
 
 >Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt als got die georde[n]t hat in massen im auch (als wir lesen) auff de[n] perg do er das gelernt hat gepotte[n] ward alle ding nach de[m] ebe[n]pild das er auff dem perg sahe zemache[n].
 
