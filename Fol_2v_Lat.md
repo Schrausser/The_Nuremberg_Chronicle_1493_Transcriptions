@@ -1,6 +1,6 @@
 # Foliu[m] IIv
 
-## De opera prime diei.[^1]
+## De opere prime diei.[^1]
 
 ***D**Ixitq[ue] deus fiat lux. 
 Et facta e[st] lux.
@@ -10,7 +10,7 @@ Appelauitq[ue] luce[m] die[m].
 Et tenebras nocte[m].
 Factu[m]q[ue] est vespere [et] mane dies vnus*.[^2]
 
-***Moyses*** miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretis apte co[n]uenie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.
+***Moyses*** miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretis apte co[n]uenie[n]s in suo libro ostentat. q[ui] o[mn]em doctrina[m] [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.
 
 Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.
 
@@ -34,15 +34,15 @@ Et postea diuisit: vt tenebre [et] lux diuersa emisperia vendicare[n]t.
 
 Appellauit luce[m] die[m] a claritate q[ui] purgat tenebras: tenebras a noce[n]do nocte[m]. ne oculi videant.
 
-Secundu[m] ha[rum] p[ar]tiu[m] dime[n]sione[m] diem fecit [et] nocte[m]. q[uae] spacia [et] orbes te[m]po[rum] p[er]petuos ac volubiles quos vocam[us] annos alterna p[er] vices successione [con]ficia[n]t. 
+Secundu[m] ha[rum] p[ar]tiu[m] dime[n]sione[m] die[m] fecit [et] nocte[m]. q[uae] spacia [et] orbes te[m]po[rum] p[er]petuos ac volubiles quos vocam[us] annos alterna p[er] vices successione [con]ficia[n]t. 
 
 Ac factu[m] e[st] dies vn[us]: q[ui] fuit p[ri]m[us] dies seculi: no[n] p[ri]m[us] die[rum] o[mn]i[u]m ideo no[n] p[ri]m[us] s[ecundum] vn[us] no[m]i[n]at[us] e[st]. 
 
 Et sic eo die fecit de[us] materia[m] informe[m]. Angelos. Celu[m]. luce[m]. terra[m]. aqua[m] [et] aere[m] [et cetera].
 
-Ip[si][us] q[uom] terre binas p[ar]tes [con][ua]rias inter se diuersasq[ue] [con]stituit .s[cilicet]. orientem occidentemq[ue].
+Ip[si][us] q[uom] terre binas p[ar]tes [con][ua]rias inter se diuersasq[ue] [con]stituit .s[cilicet]. orientem occidente[m]q[ue].
 
-Ex quib[us] oriens deo acce[s]set[ur]. q[uorum] ip[s]e lumi[ni]s fons [et] illustrator e[st] re[rum].
+Ex q[ui]bus oriens deo acce[s]set[ur]. q[uorum] ip[s]e lumi[ni]s fons [et] illustrator e[st] re[rum].
 
 Et q[uo]d oriri nos faciat ad vita[m] sempiterna[m].
 
@@ -52,7 +52,7 @@ Et q[uo]d ho[m]i[n]es faciat occidere [et] interire p[ec]c[a]ti[n]s[^4].
 
 Na[m] sic[ut] lux orie[n]tis e[st].
 
-In luce aute[m] vite ratio v[er]sat[ur]. sic occide[n]tis tenebre sunt.
+In luce aut[em] vite ratio v[er]sat[ur]. sic occide[n]tis tenebre sunt.
 
 In tenebris aute[m] mors [et] interit[us] [con]tinet[ur].
 
@@ -60,7 +60,7 @@ Deinde alteras p[ar]tes eade[m] r[ati]one dime[n]sus e[st]: meridie[m] ac septe[
 
 Ea e[n]i[m] q[uae] e[st] sol[um][^5] calore flagra[n]tior p[ro]xi[m]a e[st]: [et] coheret orie[n]ti.
 
-At illa q[uae] frigoribus [et] p[er]petuo gelutorpet eiusde[m] e[st] cui[us] extrem[us] occasus.
+At illa q[uae] frigoribus [et] p[er]petuo gelutorpet. eiusde[m] e[st] cui[us] extrem[us] occasus.
 
 Na[m] sic[ut] [con][ua]rie sunt lumini tenebre: ita frig[us] calori.
 

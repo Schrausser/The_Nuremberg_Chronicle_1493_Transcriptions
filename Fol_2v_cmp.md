@@ -2,7 +2,7 @@
 
 ## Heading.
 
->### De opera prime diei.
+>### De opere prime diei.
 
 >### Vom werck des erste[n] tags
 
@@ -28,7 +28,7 @@ Et diuisit luce[m] a tenebris.
 Appelauitq[ue] luce[m] die[m].  
 Et tenebras nocte[m].  
 Factu[m]q[ue] est vespere [et] mane dies vnus.*  
-Moyses miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretis apte co[n]uenie[n]s in suo libro ostentat. q[ui] o[mn]em doctrinam [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.  
+Moyses miru[m] artificiu[m] diuina no[n] hu[m]ana industria toti[us] nature secretis apte co[n]uenie[n]s in suo libro ostentat. q[ui] o[mn]em doctrina[m] [et] eloq[ue]ntia[m] [et] ingeniu[m] sup[er]at.  
 Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.  
 Mu[n]di fabrica[m] a luce rectissime inchoauit.  
 Que trib[us] dieb[us] vsq[ue] ad q[ua]rta[m] (in q[ua] lu[m]inaria formata sunt) circuitu suo diem naturale[m] p[er]egit.  
@@ -48,11 +48,11 @@ Cu[m] nihil aliud sit q[uonia]m p[ri]mi boni imago tenuis [et] vmbratilis si[mi]
 Statim tracta[n]te sp[irit]u[m] aq[ua]s illas [et] p[er]uadente s[u]biectu[m] iussu dei artificis exorta e[st] lux decus [et] splendor: vt nubes lucida sup[er]iores mu[n]di p[ar]tes sua claritate illumina[n]s. vt in diluculo fieri solet: p[er] modu[m] solis agitata: sup[er]i[us] emisperiu[m]: [et] vicissim inferi[us] illumina[n]s.  
 Et postea diuisit: vt tenebre [et] lux diuersa emisperia vendicare[n]t.  
 Appellauit luce[m] die[m] a claritate q[ui] purgat tenebras: tenebras a noce[n]do nocte[m]. ne oculi videant.  
-Secundu[m] ha[rum] p[ar]tiu[m] dime[n]sione[m] diem fecit [et] nocte[m]. q[uae] spacia [et] orbes te[m]po[rum] p[er]petuos ac volubiles quos vocam[us] annos alterna p[er] vices successione [con]ficia[n]t.  
+Secundu[m] ha[rum] p[ar]tiu[m] dime[n]sione[m] die[m] fecit [et] nocte[m]. q[uae] spacia [et] orbes te[m]po[rum] p[er]petuos ac volubiles quos vocam[us] annos alterna p[er] vices successione [con]ficia[n]t.  
 Ac factu[m] e[st] dies vn[us]: q[ui] fuit p[ri]m[us] dies seculi: no[n] p[ri]m[us] die[rum] o[mn]i[u]m ideo no[n] p[ri]m[us] s[ecundum] vn[us] no[m]i[n]at[us] e[st].  
 Et sic eo die fecit de[us] materia[m] informe[m]. Angelos. Celu[m]. luce[m]. terra[m]. aqua[m] [et] aere[m] [et cetera].  
-Ip[si][us] q[uom] terre binas p[ar]tes [con][ua]rias inter se diuersasq[ue] [con]stituit .s[cilicet]. orientem occidentemq[ue].  
-Ex quib[us] oriens deo acce[s]set[ur]. q[uorum] ip[s]e lumi[ni]s fons [et] illustrator e[st] re[rum].  
+Ip[si][us] q[uom] terre binas p[ar]tes [con][ua]rias inter se diuersasq[ue] [con]stituit .s[cilicet]. orientem occidente[m]q[ue].  
+Ex q[ui]bus oriens deo acce[s]set[ur]. q[uorum] ip[s]e lumi[ni]s fons [et] illustrator e[st] re[rum].  
 Et q[uo]d oriri nos faciat ad vita[m] sempiterna[m].
 
 >Diss ist vnder aller leiplichen dinge[n] das edelst. vnd der geistliche[n] creatur das nehest vnd das. allerbest. das sein schone allermeist gemainsam macht. so doch der allerkleynst pu[n]ct der ga[n]tze[n] werlt krais erfüllt. darümb allein das liecht ist das do mit die ga[n]tze[n] werlt gůt vn[d] hüpsch ist. durch vnraine ding on zerstörung geende. vn[d] billich sahe er das liecht das es gůt were. wann das liecht ist nichtz anders dan[n] ein pildnus vn[d] zarte oder dynne vn[d] beschatliche gleichnus des erste[n] gůts. als nw der gaist diese wasser zohe vn[d] de[n] vnderwurff durchgienge. do ist auß gepiete gottes des werckmeisters entsprungen. das liecht. die zierde vnd d[er] schein als ein liechter wolken die obern teil mit seiner clarheit erlewchte[n]de[n]. (wie in de[m] morge[n] das herpreche[n]den sunne glantz gewönlich beschicht) in gestalt d[er] sunne[n] geübet obe[n] vn[d] vnden den halbe[n] himel bescheinende. vn[d] darnach hat er abgesundert das die finsternus vn[d] das liecht vnderschide[n] halbhimel emisperia gena[n]t habe[n] solte[n]. das liecht hies er den tag vo[n] d[er] clarheit. die die finsternus rainigt. vn[d] die finsternus vo[n] beschedigung die nacht. das die augen nit sehen soltte[n]. nach ermessung diser teil hat er gemacht tag vn[d] nacht. da bey das gemercke des ewigen vmbkreis vn[d] laufs der zeit vn[d] iar besteen sollt. vn[d] es ist worden ein tag. der da was d[er] erst tag d[er] werlt. aber nit der erst aller tag. darümb ist er nit der erst sunder ein tag genent. vn[d] also hat got an diesem tag die vnförmlich materi. die engel. die himel. das liecht. die erden das wasser vn[d] den luft etc. gemacht. vn[d] zwen ainander widerwertig vn[d] vnderschidlich teil d[er] erden: als den auffgang vn[d] de[n] nidergang gesetzt. d[er] auffga[n]g wird got zugeygent. dan[n] er ist d[er] prun[n] des liechtes vn[d] ein erlewchter aller ding. vnd d[er] vns das ewig leben auffgeen machet. 
@@ -64,7 +64,7 @@ Et q[uo]d oriri nos faciat ad vita[m] sempiterna[m].
 >Occide[n]s aute[m] [con]turbate illi p[ra]ueq[ue] me[n]ti asscribit[ur]. q[uo]d lume[n] absco[n]dat. q[uo]d tenebras sp[er] inducat.  
 Et q[uo]d ho[m]i[n]es faciat occidere [et] interire p[ec]c[a]ti[n]s.  
 Na[m] sic[ut] lux orie[n]tis e[st].  
-In luce aute[m] vite ratio v[er]sat[ur]. sic occide[n]tis tenebre sunt.  
+In luce aut[em] vite ratio v[er]sat[ur]. sic occide[n]tis tenebre sunt.  
 In tenebris aute[m] mors [et] interit[us] [con]tinet[ur].  
 
 >Aber d[er] nidergang wirt dem zerstreitten entrüsten vnd boßhafftigen gemüt zugeschriben. dann er verbirgt liecht vn[d] bringt alweg die finsternus vn[d] süchet die menschen zetötten vn[d] zeuergeen in sunde[n]. dan[n] gleicherweis als das liecht vo[n] anfang entspringt vn[d] die vernunfft des lebens im liecht swebt also kümbt die finsternus vom nidergang. vn[d] d[er] tod vn[d] niderfal werden begriffen in d[er] finsternus.
@@ -75,7 +75,7 @@ In tenebris aute[m] mors [et] interit[us] [con]tinet[ur].
 
 >Deinde alteras p[ar]tes eade[m] r[ati]one dime[n]sus e[st]: meridie[m] ac septe[m]trione[m]: q[uae] p[ar]tes illis duab[us] societate iungu[n]t[ur].  
 Ea e[n]i[m] q[uae] e[st] sol[um] calore flagra[n]tior p[ro]xi[m]a e[st]: [et] coheret orie[n]ti.  
-At illa q[uae] frigoribus [et] p[er]petuo gelutorpet eiusde[m] e[st] cui[us] extrem[us] occasus.  
+At illa q[uae] frigoribus [et] p[er]petuo gelutorpet. eiusde[m] e[st] cui[us] extrem[us] occasus.  
 Na[m] sic[ut] [con][ua]rie sunt lumini tenebre: ita frig[us] calori.  
 Ut igit[ur] calor lumini e[st] p[ro]ximus: sic meridies orie[n]ti: vt frig[us] tenebris. ita plaga septe[m]trionis occasui.  
 Hec omnia opus quarte diei vberius manifestabit.
