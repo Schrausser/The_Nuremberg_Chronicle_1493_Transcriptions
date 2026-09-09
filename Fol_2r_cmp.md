@@ -4,7 +4,7 @@
 
 ## P 1
 
->***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*
+>***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua: [et] tenebre era[n]t sup[er] faciem abissi: et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*
 
 >***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel vnd lere vnd die finsternus ware[n] auff de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob de[n] wassern.*
 
@@ -31,7 +31,7 @@ Nihil e[ni]m p[er]se [con]tinet lumi[ni]s: nisi accipiat a celo.
 
 ## P 4
 
->In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petuam.  
+>In q[uo] posuit luce[m] p[er]enne[m]: [et] superos [et] vita[m] p[er]petua[m].  
 Et [con][tumacia] in terra tenebras: [et] inferos: [et] morte[m].
 
 >In dez hat er gesetzt das ewig liecht vn[d] die obern gaist vnd das ewig lebe[n]. vnd hinwiderümb in der erden die finsternüß vnd die vndern gaist vnd de[n] tod. 
@@ -62,7 +62,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 ## P 7
 
->de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creauit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissimus ante[que]m ordiret[ur] hoc op[us] mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] oriret[ur].
+>de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creauit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissim[us] ante[que]m ordiret[ur] hoc op[us] mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] oriret[ur].
 
 >Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[n] selle[n] gůt als ein pach entsprünge. 
 
@@ -71,7 +71,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 ## P 8
 
->Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]mense: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
+>Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]me[n]se: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
 
 >Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
 
@@ -83,7 +83,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 >Quid ergo miru[m] si facturus mu[n]du[m]: p[ri]us materia[m] de q[ua] faceret p[re]p[er]auit: ex eo q[uo]d no[n] erat.  
 Q[uo]d intellexeru[n]t forte [et] sarraceni dicentes.  
 Eductos a[n]gelos a deo de tenebris ad luce[m]: ad i[n]pletosq[ue] eterna leticia.  
-In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] perma[n]sit.  
+In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] p[er]ma[n]sit.  
 Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us].
 
 >Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi darauß er machet fürberaittet. auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got auß de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind aus aigner verkerung vo[m] gůtten zum vbel getretten vn[d] zu teüfeln worde[n]. 
@@ -104,7 +104,7 @@ Abyssum vocat terra[m] .i[d est]. materia[m] trino dime[n]su i[n] altissimas pro
 
 >de hoc etia[m] **Ouidi[us]** meminit.  
 *Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus adhuc mu[n]do p[re]bebat lumina titan.*  
-Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: vt volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit.  
+Et sp[irit]us d[omi]ni: organum diuine artis ferebat[ur] sup[er] aquas: vt volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit.  
 Cu[m] perfecta sint op[er]a dei.  
 Creatio re[rum] senario numero explicatur.  
 Cuius partes. vnu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.  
