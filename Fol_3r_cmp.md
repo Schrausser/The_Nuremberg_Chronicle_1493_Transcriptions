@@ -3,7 +3,7 @@
 ## Heading.
 
 
->### De opera secunde diei.
+>### De opere secunde diei.
 >### Vom werck des andern tags
 >### OF THE WORK OF THE SECOND DAY 
 
@@ -54,7 +54,7 @@ Et artifex mundi: celi naturam aquis temperauit: ne conflagrat[i]one ignis super
 
 >Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocant inerrantem nonumq[ue] orbem qui ratione non sensu dep[re]hensus est: primusq[ue] est inter corpora que mouentur: creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet.  
 Neq[ue] hoc tantum creditum a nostris: maxime iunioribus **Strabo** [et] **Beda**: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam:  
-E[st] quibus satis duos sit attulisse: **Abraam hispanum** astrologum maximu[m] [et] **ysaac philosophu[m]**: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele** designatum intelligit per zaphiru[m] in similitudine[m] throni: 
+E[st] quibus satis duos sit attulisse: **Abraam hispanum** astrologum maximu[m] [et] **ysaac philosophu[m]**: quo[rum] vterq[ue] hoc attestatur: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele** designatum intelligit per zaphiru[m] in similitudine[m] throni: 
 
 >Etlich lerer nit allein auß den unsern sunder auch auß den hebreyschen vn[d] andern habe[n] geglawbt das uber die speras d[er] sibe[n] planeten. vn[d] uber die achte[n] spera[m]. die sie die unirrende[n] nenne[n]. vn[d] auch uber die newnten speram. die mit vernunft vn[d] nit mit entpfindung erraicht werde[n]. vn[d] die erst undter den beweglichen leiplichen dingen ist noch d[er] zehend unbeweglich bleibend vn[d] gerüig himel sey. in massen dem **Isaac d[er] weise** einer auß den bemelte[n] lerrern helt. das sölcher zehend himel von **Ezechiele** durch den zaphir in gleichnus eines throns bezaichent sey.
 
@@ -72,7 +72,7 @@ E[st] quibus satis duos sit attulisse: **Abraam hispanum** astrologum maximu[m] 
 ## P 7
 
 >Sed redeamus ad Moysem diuidentem aqua[m] ab aquis medio firmame[n]to.  
-Triplex e[ni]m partitio corpo[rum] sublunariu[m].
+Triplex e[ni]m particio corpo[rum] sublunariu[m].
 
 >Aber widerzekomen auff den moysen. der das wasser von wassern teilet so ist dreyerlay teylung d[er] leyplichen ding under de[m] mo[n]d.
 

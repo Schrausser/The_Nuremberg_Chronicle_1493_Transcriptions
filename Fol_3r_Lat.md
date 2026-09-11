@@ -1,6 +1,6 @@
 # Foliu[m] IIIr
 
-## De opera secunde diei.[^1]
+## De opere secunde diei.[^1]
 
 ***S**Ecundo die dixit deus. 
 Fiat firmamentum in medio aquaru[m]: et diuidat aquas ab aquis: vocauitq[ue] firmamentum celum*.[^2]
@@ -23,11 +23,11 @@ Supra nouem celorum orbes id est septem planetas: [et] speram octauam quam vocan
 
 Neq[ue] hoc tantum creditum a nostris: maxime iunioribus ***Strabo***[^3] [et] ***Beda***[^4]: s[ecundum] a pluribus etiam hebreorum: pretereaq[ue] a philosophis [et] mathematicis quibusdam: 
 
-E[st][^5] quibus satis duos sit attulisse: ***Abraam hispanum***[^6] astrologum maximu[m] [et] ***ysaac philosophu[m]***[^7]: quo[rum] vterq[ue] hoc attestat[ur]: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele**[^8] designatum intelligit per zaphiru[m] in similitudine[m] throni: vt color zaphiri lucis nitorem: throni similitudo immobilitatem significet.
+E[st][^5] quibus satis duos sit attulisse: ***Abraam hispanum***[^6] astrologum maximu[m] [et] ***ysaac philosophu[m]***[^7]: quo[rum] vterq[ue] hoc attestatur: quin [et] hic ysaac decimu[m] orbem ab **Ezechiele**[^8] designatum intelligit per zaphiru[m] in similitudine[m] throni: vt color zaphiri lucis nitorem: throni similitudo immobilitatem significet.
 
 Sed redeamus ad ***Moysem*** diuidentem aqua[m] ab aquis medio firmame[n]to.
 
-Triplex e[ni]m partitio corpo[rum] sublunariu[m].
+Triplex e[ni]m particio corpo[rum] sublunariu[m].
 
 Alia sup[ra] mediam regionem aeris sunt: suprema .s[cilicet]. pars eiusdem elementi [et] purissimus ignis quod totum etheris nomine designatur ibi pura immixta [et] legitima eleme[n]ta.
 
