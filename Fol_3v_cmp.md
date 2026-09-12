@@ -3,7 +3,7 @@
 ## Heading.
 
 
->### De opera tercie diei.
+>### De opere tercie diei.
 >### Vom werck des dritten tags
 >### OF THE WORK OF THE THIRD DAY 
 

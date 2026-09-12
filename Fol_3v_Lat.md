@@ -1,6 +1,6 @@
 # Foliu[m] IIIv
 
-## De opera tercie diei.[^1]
+## De opere tercie diei.[^1]
 
 ***T**Ercio die deus aquas sub firmamento in locum vnum co[n]gregauit [et] appareat arida: vocauitq[ue] aridam terram.
 Congretat[i]ones vero aquarum maria appellauit.
