@@ -3,7 +3,7 @@
 ## Heading.
 
 
->### De opera quarte diei.
+>### De opere quarte diei.
 >### Vom werck des vierden tags
 >### OF THE WORK OF THE FOURTH DAY 
 
@@ -18,9 +18,9 @@
 ## P 2
 
 >*Fia[n]t luminaria in firmame[n]to celi: [et] diuidant diem et nocte[m].  
-Et sint in signa [et] t[em]p[er]a: [et] dies: [et] a[n]nos:  vt lucea[n]t in firmame[n]to celi: [et] illumine[n]t terra[m].  
+Et sint in signa [et] t[em]p[er]a: [et] dies [et] a[n]nos:  vt lucea[n]t in firmame[n]to celi [et] illumine[n]t terra[m].  
 Et factu[m] e[st] ita.  
-Fecitq[ue] deus duo luminaria magna: luminare maius: vt p[re]esset diei: [et] luminare min[us]: vt p[er]esset nocti [et] stellas: vt duiderent luce[m] [et] tenebras.*  
+Fecitq[ue] deus duo luminaria magna: luminare maius: vt p[re]esset diei: [et] luminare min[us]: vt p[re]esset nocti [et] stellas: vt duiderent luce[m] [et] tenebras.*  
 
 >*Es solle[n] liechter in de[m] firmame[n]t des himels werde[n] vn[d] de[n] tag vn[d] die nacht teile[n]. vnd zu zaichen. vnd zeiten vnd tage[n] vnd iare[n] sein. das sie scheinen in de[m] firmament des himels vn[d] erlewchten die erde[n]. vnd es ist also geschehen. vn[d] got hat gemacht zway grosse liecht. ein grössers liecht vorzesen de[n] tag. vn[d] ein kleiners liecht vorzesein d[er] naht. vn[d] die stern zetailen das liecht. vn[d] die finsternuß.*
 
@@ -28,7 +28,7 @@ Fecitq[ue] deus duo luminaria magna: luminare maius: vt p[re]esset diei: [et] lu
 
 ## P 3
 
->Moyses p[r]imo celestium meminit q[uae] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].  
+>Moyses p[r]imo celestiu[m] meminit q[uae] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].  
 Cu[m] e[ni]m de natura firmame[n]ti dixerat: restabat vt de op[er]ib[us] sideru[m]: deq[ue] eo[rum] officio dissereret: declara[n]s in que[m] vsum fundata: [et] cui muneri delegata a deo fuerint.  
 
 >Moyses gedenckt erstlich d[er] himlischen ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erde mit de[n] dinge[n] die in ir werde[n]. dan[n] nach de[m] er vo[n] d[er] natur des firmaments geredt het. so gepürt ime nachuolge[n]d von de[n] wercke[n] des gestirns vnd vo[n] irem ampt zesage[n] mit erklerung. zu welcherlay vbung vnd geprauch sie gestifft vnd zu was würckung sie vo[n] got gesand seyn.
@@ -86,7 +86,7 @@ In hec igitur ministeria [et] lune [et] solis [et] stella[rum] sunt corp[or]a di
 Sol e[ni]m q[ui] oritur in die: licet sit vnus (vn[um] sole[m] esse appelatu[m] **Cicero** vult videri) q[uia] obscuratis siderib[us] solus appareat.  
 Tame[n] veru[m] [et] p[er]fecte plenitudinis lume[n] e[st]: [et] calore potissimo: [et] fulgore clarissimo illuscescit o[mn]ia.  
 Q[uam]uis e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n] q[uorum] non sunt plena ac solida lumi[n]a: nec caloris p[er]feru[n]t q[ui]cq[ua]m: nec tenebras multitudine sua vincu[n]t  
-Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenta[n]da [et] gignenda omnia excogitauit.
+Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenta[n]da [et] gignenda o[mn]ia excogitauit.
 
 >Darümb garschickerlich hat vns moyses kürtzlich diser ding aller vermanet sprechende. das die gestirn in dem firmament gesetzt sein zu tagen. iaren vnd zeitten. dar zu hat er auch gar lawter angezaigt die andern wurcku[n]g der gestirne. die ist die erlewchtu[n]g. so er sagt das die gesetzt seye[n] zu scheine[n] am[m] hymel vnd zeerlewchten die erde[n]. darümb zu solchen dinstperkeiten sind die leib des monds. der sunne[n] vnd d[er] stern[n] außgetailt. vnd wiewol die sun[n] die im tag aufgeet einig allain ist yedoch ist sie ein wars liecht volku[m]ner völligkeit. die mit fürderlichster wirm vn[d] allerclarste[m] schein alle di[n]g erlewchtet. dan[n] wiewol man unzalich sterne schimern vn[d] gle[n]tze[n] sihet. nach de[m] sie aber doch nit völlige vn[d] veste liecht sind. so raichen sie kein wirm vo[n] ine vn[d] müge[n] auch mit irer menig die finsternus nicht vberwinden. darümb so werde[n] zway füname ding gefunde[n] die mancherlay vnd aneinander widerwertigen gewalt habe[n]. ne[m]lich wirm vn[d] feüchtigkeit die got wunderperlich zur auffenthaltung vnd geperung aller ding erdacht hat.
 
@@ -97,7 +97,7 @@ Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sib
 >Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis sibi exposceret diuina[n]di per astra: [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am hinc [con]firma[n]tib[us] q[uia] Moyses sidera  i[n] signa posita a deo dixerit[ur].  
 Que rendu[m] hic etia[m] de natura sideru[m]: de motu: de p[ri]ncipatu: de lune maculis deq[ue] om[n]i siderali scie[n]tia.  
 Ueru[m] qua[m]q[uoniam] sint pulcra [et] digna cognitu.  
-Audiemus fortassis **Horatianu[m]** illud sed nunc non erat hic locus.
+Audiemus fortassis **Horacianu[m]** illud sed nunc non erat hic locus.
 
 >Hie bey were[n] gar hohfrage zefüren vn[d] von yder ein rechts buch zemachen wie vnd welcher maß dise gestirne in de[m] firmament were[n]. auch welche geschöpff in irem adel vnd wirde die andern vbertreffen vn[d] vo[n] verrer art. aigenschafft. wurkung. vn[d] natur des gestirns. auch vo[n] den ihenen die sich darauß verkundung künftiger ding geprauchen. so wil doch weder stat noch zeit gedulden lenger do von zeschreyben.
 

@@ -1,14 +1,14 @@
  # Foliu[m] IIIIr
 
-## De opera quarte diei.[^1]
+## De opere quarte diei.[^1]
 
 ***Q**Uarto die dixit deus.
 Fia[n]t luminaria in firmame[n]to celi: [et] diuidant diem et nocte[m].
-Et sint in signa [et] t[em]p[er]a: [et] dies: [et] a[n]nos:  vt lucea[n]t in firmame[n]to celi: [et] illumine[n]t terra[m].
+Et sint in signa [et] t[em]p[er]a: [et] dies [et] a[n]nos:  vt lucea[n]t in firmame[n]to celi [et] illumine[n]t terra[m].
 Et factu[m] e[st] ita.
-Fecitq[ue] deus duo luminaria magna: luminare maius: vt p[re]esset diei: [et] luminare min[us]: vt p[er]esset nocti [et] stellas: vt duiderent luce[m] [et] tenebras*.[^2]
+Fecitq[ue] deus duo luminaria magna: luminare maius: vt p[re]esset diei: [et] luminare min[us]: vt p[re]esset nocti [et] stellas: vt duiderent luce[m] [et] tenebras*.[^2]
 
-***Moyses*** p[r]imo celestium meminit q[uae] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].
+***Moyses*** p[r]imo celestiu[m] meminit q[uae] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].
 
 Cu[m] e[ni]m de natura firmame[n]ti dixerat: restabat vt de op[er]ib[us] sideru[m]: deq[ue] eo[rum] officio dissereret: declara[n]s in que[m] vsum fundata: [et] cui muneri delegata a deo fuerint.
 
@@ -39,7 +39,7 @@ Tame[n] veru[m] [et] p[er]fecte plenitudinis lume[n] e[st]: [et] calore potissim
 
 Q[uam]uis[^5] e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n] q[uorum] non sunt plena ac solida lumi[n]a: nec caloris p[er]feru[n]t q[ui]cq[ua]m: nec tenebras multitudine sua vincu[n]t
 
-Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenta[n]da [et] gignenda omnia excogitauit.
+Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenta[n]da [et] gignenda o[mn]ia excogitauit.
 
 Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis[^6] sibi exposceret diuina[n]di per astra: [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am[^7] hinc [con]firma[n]tib[us] q[uia] ***Moyses*** sidera  i[n] signa posita a deo dixerit[ur].
 
@@ -47,7 +47,7 @@ Que rendu[m] hic etia[m] de natura sideru[m]: de motu: de p[ri]ncipatu: de lune 
 
 Ueru[m] qua[m]q[uoniam] sint pulcra [et] digna cognitu.
 
-Audiemus fortassis **Horatianu[m]**[^8] illud sed nunc non erat hic locus.
+Audiemus fortassis **Horacianu[m]**[^8] illud sed nunc non erat hic locus.
 
 [^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  
 [^2]: s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. av).  
