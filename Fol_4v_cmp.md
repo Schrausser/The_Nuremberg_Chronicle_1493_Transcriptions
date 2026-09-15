@@ -2,7 +2,7 @@
 
 ## Heading.
 
->### De opera quinte diei.
+>### De opere quinte diei.
 >### Vom werck des funffte[n] tags
 >### THE WORK OF THE FIFTH DAY 
 
@@ -36,7 +36,7 @@ in volatilia: [et] in aquis dege[n]tia: [et] terrestria distinguu[n]tur.
 Ueniamus igitur ad Moysem qui postq[uoniam] de celestibus dixit terrestrium  animaliu[m] meminit ordine co[n]gruenti: que vel aquas vel terram vel aerem inhabitant.  
 Si tamen inhabitare aerem volucres dici possunt.  
 Relinquamus hic disputationem: quo pacto corpora animalium ex elementis: aut quid sint indite a deo naturis reru[m] seminarie rationes: sit ne item vita brutoru[m] de finu educata materie: an diuino potius principio om[n]is vita proueniat: vt co[n]stantissime asserit **Plotinus**: cui sententie fortasse videbit[ur] hoc loco p[ro]pheta suffragari.  
-Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea creauit deus omne anima[m] viuente[m]: vbi no[n] id du[m]taxat quispia[m] obserueret q[uia] [et] aq[ue] p[ro]duca[n]t deo iubente: [et] deinde etia[m] deus p[ro]ducat: ve[rum] [et] illud q[uo]d vbi de dei op[er]e agit[ur] scriptu[m] est: 
+Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea creauit deus omne anima[m] viuente[m]: vbi no[n] id du[m]taxat quispia[m] obseruaret q[uia] [et] aq[ue] p[ro]duca[n]t deo iubente: [et] deinde etia[m] deus p[ro]ducat: ve[rum] [et] illud q[uo]d vbi de dei op[er]e agit[ur] scriptu[m] est: 
 
 
 >Es werde[n] groß walfisch vn[d] wasser thier wunderlich vn[d] auß vberflüssigkeit irer feuchtigkeit grössere in dem mere gefunde[n]. vn[d] was in einichem teil der natur geporn[n] wirt das ist auch (als man gemainlich helt) in dez meer. kund vn[d] offenbar sind die ding die vo[n] geberu[n]g d[er] thier hernach folge[n]. dan[n] noch den pflantze[n] sind geselte ding die in bewegnus vn[d] empfintlichkeit gemainsame[n] wie wol die pitagorici den pflantze[n] ein vnbrüfende empfintlichkeit zuschreyben. vn[d] die selben geseleten ding werden hie von moyse. vnd in **Thimeo** in dreyerlay getailt. als in dez lufft in wassern vn[d] auff der erden wonende. ob man anders sprechen mag das das geflügel im luft wone. wir wollen vermeiden die disputation[n]. in was gestat die lieb der thier auß den elementen oder wie die besamunge[n] den naturen d[er] ding vo[n] got eingepflantzt seien. oder ob das lebe[n] d[er] vnuernunfftigen thier vo[n] der materi. oder ob alles lebe[n] vo[n] gotlichem anfang her kome. als **plotinus** gar vestigklich helt. welcher mainung moyses an dem ort villeicht zufallende gesehen wirt. dan[n] nach de[m] er gesprochen hat. die wasser sollen kriechends ding lebendiger sele bringe[n]. do setzt er darnach hin zu. vn[d] got hat beschaffen alle lebe[n]dige sele[n]. do möcht ymant nit allain das halte[n]. das die wasser auß gottes geheyß geperen vnd das darnach auch got gepere. sunder auch das. das an dem ort do vo[n] de[m] werck gottes meldung geschicht geschriben steet.
@@ -49,7 +49,7 @@ Cu[m] postq[uoniam] dixit: producant aque reptile anime viuentis: adiecit postea
 Inter animalia terre tria memorat Moyses q[uae] in seq[ue]nti die insinuat.  
 Plurima aut[em] [et] maxima in indico mari a[n]i[m]alia.  
 E[st] quibus balene quaternu[m] iuge[rum].  
-Et in mari bellue circasolstitia maxime visunt[ur].  
+Et in mari bellue circasolsticia maxime visunt[ur].  
 Tu[n]c illic ruu[n]t turbines: tu[n]c imbres: tu[n]c deiecte mo[n]tiu[m] iugis p[ro]celle ab imo vertu[n]t maria. pulsatasq[ue] ex p[ro]fundo belluas cum fluctibus voluu[n]t. auiu[m] quoq[ue]  gra[n]dissime [et] pene bestiarum generis strucio cameli affrici vel ethiopici altitudinem equitis infidentis equo excedunt: celeritatem vincunt.  
 Multo mirabilius de naturis auium [et] piscium ratio experiendi 
 quotidie in varijs locis datur.
