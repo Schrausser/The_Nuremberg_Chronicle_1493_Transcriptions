@@ -1,6 +1,6 @@
 # Foliu[m] Vr
 
-## De opera sexte diei.[^1]
+## De opere sexte diei.[^1]
 
 ***S**Exte die dixit de[us]. p[ro]ducat terra a[n]i[m]am viue[n]te[m]. iume[n]ta. [et] reptilia. [et] bestias terre iuxta spe[cie]s suas.
 Et vidit de[us] q[uo]d  e[ss]et bonu[m]: ait. Faciam[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] n[ost]ram.

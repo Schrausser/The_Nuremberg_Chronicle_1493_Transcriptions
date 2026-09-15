@@ -2,7 +2,7 @@
 
 ## Heading.
 
->### De opera sexte diei.
+>### De opere sexte diei.
 >### Vom werck des sechten tags
 >### OF THE WORK OF THE SIXTH DAY 
 
