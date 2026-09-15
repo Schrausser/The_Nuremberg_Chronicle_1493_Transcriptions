@@ -97,7 +97,7 @@ Est e[ni]m ex tot a[n]i[m]antiu[m] generib[us] at[que] natur[is]: p[ar]ticeps r[
 
 ## P 10
 
->Est a[u]t[em] plerumq[ue] [con]suetudo a regib[us] vsurpata [et] p[ri]ncipib[us] terre: vt si forte magnifica[m] [et] nobile[m] c[og]itate[m] [con]dideri[n]t. ia[m] vrbe absoluta imagine[m] sua[m] i[n] medio illi[us] visenda[m] o[mn]ib[us] specta[n]da[m]q[ue] [con]stitua[n]t.  
+>Est a[u]t[em] pleru[m]q[ue] [con]suetudo a regib[us] vsurpata [et] p[ri]ncipib[us] terre: vt si forte magnifica[m] [et] nobile[m] c[og]itate[m] [con]dideri[n]t. ia[m] vrbe absoluta imagine[m] sua[m] i[n] medio illi[us] visenda[m] o[mn]ib[us] specta[n]da[m]q[ue] [con]stitua[n]t.  
 
 >Nw ist offt bei den künge[n] vn[d] fürste[n] die gewonheit so sie ein groß mechtig vn[d] edele stat pawe[n] vn[d] volbracht habe[n] das sie alßden[n] ir pild enmitte[n] in d[er] stat allermenigliche[n] zesehe[n] vnd anzeschawe[n] auffrichte[n].
 
@@ -105,9 +105,9 @@ Est e[ni]m ex tot a[n]i[m]antiu[m] generib[us] at[que] natur[is]: p[ar]ticeps r[
 
 ## P 11
 
->Haut aliter p[ri]ncipe[m] o[mn]iu[m] deu[m] fecisse vide[m][us]. q[ui] to[ta] m[un]di machi[n]a [con]structa: postremu[m] o[mn]ia ho[m]i[n]em in medio illi[us] statuit ad imagine[m] sua[m] [et] si[mi]litudi[n]em formatu[m]. vt libeat exclamare ill[u]d **mercurij**.  
+>Haut aliter p[ri]ncipe[m] o[mn]i[u]m deu[m] fecisse vide[m][us]. q[ui] to[ta] m[un]di machi[n]a [con]structa: postremu[m] o[mn]i[u]m ho[m]i[n]em in medio illi[us] statuit ad imagine[m] sua[m] [et] si[mi]litudi[n]em formatu[m]. vt libeat exclamare ill[u]d **mercurij**.  
 *Magnu[m] o asclepi mirac[u]l[u]m e[st] ho[mo].  
-Hoc p[re]cipuo no[m]i[n]e gl[or]iari hu[m]ana [con]ditio p[otes]t: q[uo] et[iam] f[a]ct[u]m]: vt s[er]uire illi: nulla creata s[u]b[stanti]a dedignet[ur]: huic terra et elem[en]ta: huic bruta sunt p[re]sto: [et] famulant[ur]. huic militat celu[m]. huic salute[m] p[ro]cura[n]t a[n]gelice me[n]tes.  
+Hoc p[re]cipuo no[m]i[n]e gl[or]iari hu[m]ana [con]ditio p[otes]t: q[uo] et[iam] f[a]ct[u]m: vt s[er]uire illi: nulla creata s[u]b[stanti]a dedignet[ur]: huic terra et elem[en]ta: huic bruta sunt p[re]sto: [et] famula[n]t[ur]. huic militat celu[m]. huic salute[m] p[ro]cura[n]t a[n]gelice me[n]tes.  
 Nec miru[m] alicui videri debet: amari illu[m] ab om[n]ibus.  
 In quo om[n]ia suu[m] aliq[ui]d:  
 Immo se tota [et] sua om[n]ia agnoscu[n]t.*
