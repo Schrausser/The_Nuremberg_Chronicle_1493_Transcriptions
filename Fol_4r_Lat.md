@@ -41,7 +41,7 @@ Q[uam]uis[^5] e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n]
 
 Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenta[n]da [et] gignenda o[mn]ia excogitauit.
 
-Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis[^6] sibi exposceret diuina[n]di per astra: [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am[^7] hinc [con]firma[n]tib[us] q[uia] ***Moyses*** sidera  i[n] signa posita a deo dixerit[ur].
+Altissime hic p[er]tracta[n]de essent q[ue]stiones: et q[ue] sibi singule iustu[m] volume[n] exposcerent: quo pacto hec sidera sint in firmamento: an vti p[ar]tes eius nobiliores: an vt a[n]![m]alia in suis speris. in aq[ua] pisces. iume[n]ta in terris: congressum hic ite[m] locus cu[m] Genethliacis[^6] sibi exposceret diuina[n]di per astra: [et] p[ro]nosce[n]di futuros eue[n]tus: sci[enti]am[^7] hinc [con]firma[n]tib[us] q[uia] ***Moyses*** sidera  i[n] signa posita a deo dixerit.
 
 Que rendu[m] hic etia[m] de natura sideru[m]: de motu: de p[ri]ncipatu: de lune maculis deq[ue] om[n]i siderali scie[n]tia.
 
