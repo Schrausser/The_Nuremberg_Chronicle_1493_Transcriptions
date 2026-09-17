@@ -64,7 +64,7 @@
 
 ### P 7
 
->Nomine autem celi cristallini siue aquei intelligit[ur] prima pars materie prime que s[ecundum] philosophu[m] formata est i[n] duos orbes: quorum sup[er]ior est primu[m] mobile. 
+>Nomine autem celi cristallini siue aquei intelligit[ur] prima pars materie prime que s[ecundu]m philosophu[m] formata est i[n] duos orbes: quorum sup[er]ior est primu[m] mobile. 
 
 >Bey de[m] cristallinischen himel wird verstanden der erst teil d[er] erste[n] materi die nach sag des weysen geformt ist in zwen vmbkreys. vnder de[n] der öbrer genant wird das erst beweglich.
 
@@ -150,7 +150,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 17
 
->A mercurium vsq[ue] ad venerem tantu[m].
+>A mercurio vsq[ue] ad venerem tantu[m].
 
 >Von mercurio zu venus auch souil.
 
@@ -190,7 +190,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 22
 
->A saturno vsq[ue] ad firmamentum .xxij.cccc.xxxvi.
+>A saturno vsq[ue] ad firmamentum .xxiij.cccc.xxxvi.
 
 >Vo[n] saturno zum firmame[n]t .xxiij<sup>m</sup>.iiij<sup>c</sup>.xxxvi. 
 
@@ -220,7 +220,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 ### P 2
 
->Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundum] **Dyonisium** hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
+>Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundu]m **Dyonisium** hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
 
 >Die vberhimlisch sol in dreyen personen seyn. als etlich wie wol übel gesagt habe. dan[n] das wort ierarchia als **dionisius** sagt begreyft in im bedeütnus einer ordnung vnd die selb ordnung slechts zerede[n] ist nit in dreyen personen sunder allein ein ordnung der natur.
 
@@ -245,7 +245,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 ### P 5
 
 >Porro hierarchia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.  
-Superior continet tres ordines s[ecundu]m seraphin [et] cherubin [et] thronos.
+Superior continet tres ordines s[e]c[undu]m seraphin [et] cherubin [et] thronos.
 
 >Nw die himlisch ierarchey wird geteilt in ein oberere mittlere vnnd vndere. die obere begreift drey orden. als seraphin cherubin tronengel.
 
@@ -303,7 +303,7 @@ In tercijs nutrit vt inspira[n]s.
 
 ### P 11
 
->Sed s[ecundu]m **dyonisium** virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie  
+>Sed s[ecundu]m ***dyonisium*** virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie  
 Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinitas p[er]sonarum diuinarum: vt patet in celcsti hierarchia tam superiori q[uonia]m media q[uonia]m inferiori.
 
 >Aber als **dionisius** setzt so sind die creftengel der mittel orden der andern ierarchey. vnd die fürstengel d[er] erst orden d[er] dritten ierarchey. vnd merck das in yder vorgemelter dreyer ierarchey die trinitet der gottliche[n] person als in d[er] obern mitteln vn[d] vndern erscheint.
@@ -386,7 +386,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 ### P 9
 
->Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
+>Tercia etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
 s[ecundu]m septuagi[n]ta .940.
 
 >Das drit von abrahams gepurt bis zu anfang des reichs dauid. vn[d] hett nach de[n] hebreysche[n] .viiij<sup>c</sup>.xli. iar. vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xl. iar 
@@ -419,7 +419,7 @@ s[ecundu]m septuagi[n]ta .940.
 
 ### P 13
 
->Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue hora nouissima.
+>Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deus nouit [et] hec dicit[ur] senectus: siue hora nouissima.
 
 >Das sechst von der gepurt cristi bis zu der werlt ende. das zil erkent gott allein. vn[d] diss heist das alt alter oder die letzt stu[n]d
 
@@ -499,7 +499,7 @@ In quinta .xiiij.
 
 ### P 23
 
->Tertia etas e[st] adolesce[n]tia a .i5. anno vsq[ue] in .38.
+>Tercia etas e[st] adolesce[n]tia a .i5. anno vsq[ue] in .38.
 
 >Das drit zeittigkeit von .xv. bis in das .xxxviij. iar.
 

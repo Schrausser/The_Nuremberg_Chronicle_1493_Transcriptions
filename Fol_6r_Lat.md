@@ -10,7 +10,7 @@ Celestis autem distinguitur in tres celos principales. scil[icet] empyreum. cris
 
 Intra firmamentum vero quod est celum stellarum co[n]tinent[ur] septem orbes septem planetarum qui sunt Saturnus. Iupiter. Mars. Sol. Uen[us]. Mercurius. Luna. 
 
-Nomine autem celi cristallini siue aquei intelligit[ur] prima pars materie prime que s[ecundum] philosophu[m] formata est i[n] duos orbes: quorum sup[er]ior est primu[m] mobile. 
+Nomine autem celi cristallini siue aquei intelligit[ur] prima pars materie prime que s[ecundu]m philosophu[m] formata est i[n] duos orbes: quorum sup[er]ior est primu[m] mobile. 
 
 Isto[rum] orbium natura est q[uia] omnes mouent[ur]: excepto empyreo celo: q[uo]d quietu[m] est. 
 
@@ -38,7 +38,7 @@ A terra vsq[ue] ad lunam sunt miliaria .xv.dc.xxv. miliaria. hec sunt stadia .cx
 
 A luna vsq[ue] ad Mercurium sunt miliaria .vij.dccc.xij. et semisse.
 
-A mercurium vsq[ue] ad venerem tantu[m].
+A mercurio vsq[ue] ad venerem tantu[m].
 
 A venere vsq[ue] ad solem .xxij.cccc.xxxvi.
 
@@ -48,7 +48,7 @@ A marte vsq[ue] ad iouem .vij.dccc.xij.
 
 A ioue vsq[ue] ad saturnum tantum.
 
-A saturno vsq[ue] ad firmamentum .xxij.cccc.xxxvi.
+A saturno vsq[ue] ad firmamentum .xxiij.cccc.xxxvi.
 
 Ex istis seq[ui]tur q[uia] ad terra vsq[ue] ad celum stellatu[m] sunt centum [et] nouem milia: et .ccc.lxxv. miliaria.[^1]
 
@@ -57,7 +57,7 @@ Ex istis seq[ui]tur q[uia] ad terra vsq[ue] ad celum stellatu[m] sunt centum [et
 
 **D**E celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.
 
-Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundum] **Dyonisium**[^2] hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
+Sup[er]celestis est in tribus p[er]sonis vt q[ui]dam dixerunt [et] male. quia s[ecundu]m **Dyonisium**[^2] hierachia dicit ordine[m]: [et] ille absolute no[n] est in tribus p[er]sonis: sed t[a]m[en] ordo nature.
 
 Celestis in ordinibus angelicis.
 
@@ -65,7 +65,7 @@ Subcelestis in hominibus sanctis.
 
 Porro hierarchia celestis diuidit[ur] i[n] superiorem: media[m] [et] inferiorem.
 
-Superior continet tres ordines s[ecundu]m seraphin [et] cherubin [et] thronos.
+Superior continet tres ordines s[e]c[undu]m seraphin [et] cherubin [et] thronos.
 
 Quor[um] primi [con]siderant dei bonitate[m].
 
@@ -97,7 +97,7 @@ In tercijs nutrit vt inspira[n]s.
 
 Hec dicta sunt s[ecundu]m **Gregoriu[m]**.[^3]
 
-Sed s[ecundu]m dyonisium virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie
+Sed s[ecundu]m ***dyonisium*** virtutes sunt medius ordo hierarchie secu[n]de: principatus primus ordo tercie hierarchie
 
 Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinitas p[er]sonarum diuinarum: vt patet in celcsti hierarchia tam superiori q[uonia]m media q[uonia]m inferiori.
 
@@ -114,7 +114,7 @@ S[e]c[un]da etas incipit a diluuio: et durat vsq[ue] ad natiuitatem abrahe: [et]
 
 Que aut[em] sit ratio tante diuersitatis inuenire no[n] potui.
 
-Tercias etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
+Tercia etas incipit a natiuitate abrahe: [et] durauit vsq[ue] ad iniciu[m] regni Dauid h[abe]ns s[ecundu]m hebreos annos .94i. 
 s[ecundu]m septuagi[n]ta .940.
 
 Quarta etas incipit a principio regni Dauid [et] durat vsq[ue] ad transmigrat[i]o[n]em babilonis: [et] habet annos .484. s[ecundu]m hebreos. s[ecundu]m septuaginta .485.
@@ -123,7 +123,7 @@ Quinta etas incipit a transmigrat[i]one babilonis. scil[icet] q[uo]n[iam] hierus
 
 Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimode co[m]puta[n]t.
 
-Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deum nouit [et] hec dicit[ur] senectus: siue hora nouissima.
+Sexta etas incipit a [christ]i natiuitate [et] durat vsq[ue] ad finem mundi cui[us] terminum solus deus nouit [et] hec dicit[ur] senectus: siue hora nouissima.
 
 His aut[em] etatibus pot[est] adiu[n]gi septima etas q[uam] est quiescentium: et currit cum sexta: et octaua etas q[uam] est resurgentium.
 
@@ -143,7 +143,7 @@ Prima e[st] infantia homi[ni]s natiuitate ho[m]i[ni]s vsq[ue] ad a[n]nos .7.
 
 S[e]c[un]da etas est puericia vsq[ue] ad a[n]nos .xiiij.
 
-Tertia etas e[st] adolesce[n]tia a .i5. anno vsq[ue] in .38.
+Tercia etas e[st] adolesce[n]tia a .i5. anno vsq[ue] in .38.
 
 Quarta e[st] iuue[n]t[us] vsq[ue] ad .49. 
 
