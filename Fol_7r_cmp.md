@@ -9,7 +9,7 @@
 
 >***C**Unq[ue] suggerente diabolo in forma serpentis p[ro]thopare[n]tes mandatum dei tra[n]sgressi fuissent: maledixit eis deus: et ait serpenti.  
 Maledict[us] eris inter omnia anima[n]tia [et] bestias terre: super pectus tuum gradieris: et terram comedes cunctis diebus vite tuo.  
-Mulieri quoq[ue[ dixit.*
+Mulieri quoq[ue] dixit.*
 
 >***A**ls nw durch eingebung des teüfels in gestalt der slangen die ersten eltern das gepot gottes übertreten hette[n] da fluchet ine got. vnd sagt der slangen. verflucht wirdstu vnder allen geselleten vnd thiern der erde[n]. auff deiner prust wirdstu geen. vnd die erden essen alle tag deins lebens. vnd dem weib saget er.*
 
@@ -46,7 +46,7 @@ Eua quoq[ue] in eru[i]nis viueret filios quoq[ue] pareret in dolore. quam imcomp
 
 ## P 5
 
->ea[m] felicitatis sui inuid[us] hostis decepit: cu[m] leuitate feminea fructus arboris temerario ausu degustauit: et viru[m] suu[m] in sente[n]tiam suam traxit.  
+>ea[m] felicitatis sui inuid[us] hostis decepit: cu[m] leuitate feminea fructus arboris temerario ausu degustauit: [et] viru[m] suu[m] in sente[n]tiam suam traxit.  
 Deinde peri[z]omatibus folioru[m] susceptis ex delitia[rum] orto in agro ebron vna cum viro pulsa exul venit.  
 Tandem cum partus dolores sepius exp[er]ta fuisset cum laboribus in senu[m] [et] tande[m] in mortem sibi a domino predicta[m] deuenit.
 

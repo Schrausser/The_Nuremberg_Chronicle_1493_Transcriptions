@@ -48,7 +48,7 @@ Ecce d[omi]n[u]s mirabili p[er]fu[n]dit gra[tia].
 
 >Cu[m] ergo mare[m] ad si[mi]litudine[m] sua[m] primum finxisset: tu[m] etia[m] feminam [con]figurauit adipsius ho[m]i[ni]s effigiem vt dou inter se p[er]mixti sex[us] p[ro]pagare  sobolem possent: [et] omne[m] terra[m] multitudine opplere.  
 **F**Ormatis a[n]i[m]antib[us] terre [et] volatilib[us] adduct[is] ad Ada[m] vt videret ea: cu[m] ada[m] no[n] i[n]ueniret[ur] adiutor si[mi]lis sibi: immisit d[omi]n[u]s sopore[m] in Ada[m] [et] tulis una[m] de costis ei[us]: reple[n]s carne[m] p[ro] ea: [et] edificauit in muliere[m].  
-Qua[m] ada[m] vide[n]s: dixit h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur] Issa q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].
+Qua[m] ada[m] vide[n]s dixit: h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur] Issa q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].
 
 >**A**Ls nw die geselte[n] creatur der erde[n] vnd das geflügl geformirt vnd zu ada[m] gefürt warden die zesehen da den[n] adam nit gefunde[n] ward ein helfer im gleich da sendet der herr eine[n] schlaff in adam. vnd nam aine auß seinen rippe[n]: erfüllet fleisch für sie vnd machet die zu eine[m] weib die ada[m] sahe vnd sprach. diss pain ist nun vo[n] meine[n] gepainen. dise wirt genant Issa: das souil ist als ein weib dan sie ist vo[n] eine[m] ma[n] genome[n].
 
@@ -57,7 +57,7 @@ Qua[m] ada[m] vide[n]s: dixit h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur
 
 ## P 6
 
->Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
+>Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] socia[m] formauit:
 
 
 >Nw der herr füret Ada[m] in das paradeiß vnd hat daselbst vo[n] der ripp des slaffenden Eua[n] gemacht vnd ime ein gesellein geformt. 
@@ -83,7 +83,7 @@ Qua[m] ada[m] vide[n]s: dixit h[oc] nu[n]c os de ossib[us] meis h[oc] vocabit[ur
 
 ## P 9
 
->etia[m] vt no[n] loci gener[is] nobilitate: s[ecundum] virtute vnusq[ui]sq[ue] sibi co[m]paret gra[tia]m.  
+>etia[m] vt no[n] loci gener[is] nobilitate: s[ecundum] virtute vnusq[ui]sq[ue] sibi co[m]paret gr[ati]am.  
 I[de]o extra p[ar]adisum vir fact[us] e[st]: mulier vero i[n]tra paradisu[m].  
 Creat[ur] deniq[ue] extra p[ar]adisu[m] h[oc] est i[n] inferiori loco vir fact[us] melior inuenit[ur] p[ro] Eua q[ue] in p[ar]adiso facta fuit
 

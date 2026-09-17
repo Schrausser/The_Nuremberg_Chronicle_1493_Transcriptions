@@ -17,11 +17,11 @@ Cu[m] ergo mare[m] ad si[mi]litudine[m] sua[m] primum finxisset: tu[m] etia[m] f
 
 **F**Ormatis a[n]i[m]antib[us] terre [et] volatilib[us] adduct[is] ad Ada[m] vt videret ea: cu[m] ada[m] no[n] i[n]ueniret[ur] adiutor si[mi]lis sibi: immisit d[omi]n[u]s sopore[m] in Ada[m] [et] tulis una[m] de costis ei[us]: reple[n]s carne[m] p[ro] ea: [et] edificauit in muliere[m].
 
-Qua[m] ada[m] vide[n]s: dixit h[oc][^6] nu[n]c os de ossib[us] meis h[oc][^6] vocabit[ur] Issa[^7] q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].[^8]
+Qua[m] ada[m] vide[n]s dixit: h[oc][^6] nu[n]c os de ossib[us] meis h[oc][^6] vocabit[ur] Issa[^7] q[uo]d lati[n]e m[u]l[ie]r interp[re]tat[ur]: q[uorum] de viro su[m]pta e[st].[^8]
 
-Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] sociam formauit:
+Factu[m] igit[ur] ada[m] de[us] in p[ar]adisum tra[n]stulit: [et] ibi de costa dormie[n]t[is] Eua[m] p[ro]duxit: sibiq[ue] socia[m] formauit:
 
-Ha[n]c n[on][^9] fecit de capite ne viro d[omi]naret[ur]: no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculu[m] p[ro]baret[ur]: etia[m] vt no[n] loci gener[is] nobilitate: s[ecundum] virtute vnusq[ui]sq[ue] sibi co[m]paret gra[tia]m.
+Ha[n]c n[on][^9] fecit de capite ne viro d[omi]naret[ur]: no[n] de pede viri ne [con]te[m]neret[ur]: s[ecundum] de latere vt amor[is] vinculu[m] p[ro]baret[ur]: etia[m] vt no[n] loci gener[is] nobilitate: s[ecundum] virtute vnusq[ui]sq[ue] sibi co[m]paret gr[ati]am.
 
 
 I[de]o extra p[ar]adisum vir fact[us] e[st]: mulier vero i[n]tra paradisu[m].
