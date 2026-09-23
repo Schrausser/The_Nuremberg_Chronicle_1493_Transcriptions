@@ -2,7 +2,7 @@
 
 ***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel vnd lere vnd die finsternus ware[n] auff de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob de[n] wassern*.[^1]
 
-***Moyses***[^2] der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>C</sup>. iar vor dem Troyanische[n] krieg[^3] gewesen ist leret wie got der macher vnd ordner der dinge als er diss werck fürname zu allererst de[n] himel zeseyn einen stul des selbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
+***Moyses***[^2] der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>C</sup>. iar vor dem Troyanische[n] krieg[^3] gewesen ist leret wie got der macher vnd ordner der ding als er diss werck fürname zu allererst de[n] himel zeseyn einen stul des selbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenckt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
 
 Aber die finsternüssen hat er gesetzt in der erden dan[n] sie begreüfft durch sich selbs nichtzit des liechts sie ne[m]me es dan[n] vo[n] himel. 
 
@@ -10,13 +10,13 @@ In dez hat er gesetzt das ewig liecht vn[d] die obern gaist vnd das ewig lebe[n]
 
 Aber in dem das ***Moyses*** spricht das got beschaffen hab so stelt er damit ab drey irru[n]g ***Platonis***[^4] **Aristotilis**[^5] vn[d] **Epicuri**[^6]. dan[n] ***Plato*** hielt das got vnd die vorpildnus oder gestaltnuß seiner geschöpff vnd yle[^7] vo[n] ewigkeit gewessen vnd im anfang die werlt vo[n] de[m] selbe[n] yle gemacht worde[n] wer. 
 
-Die krieche[n] spreche[n] yle sey die erst vngeformt materi auß der :alle ding geschöpfft: vnd diese sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
+Die krieche[n] spreche[n] yle sey die erst vngeformt materi auß der :alle ding geschöpfft: vnd dise sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
 
-Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[n] selle[n] gůt als ein pach entsprünge. 
+Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[m] selle[n] gůt als ein pach entsprünge. 
 
-Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
+Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[m] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
 
-Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi darauß er machet fürberaittet. auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got auß de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind aus aigner verkerung vo[m] gůtten zum vbel getretten vn[d] zu teüfeln worde[n]. 
+Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi darauß er machet fürberaittet. auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got auß de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind auß aigner verkerung vo[m] gůtten zum vbel getretten vn[d] zu teüfeln worde[n]. 
 
 Die erde was eytel. das ist (als ***Ieronimus***[^8] od[er] die .**lxx. auslege[r]**[^9]) vnsyhtperlich vn[d] vnzesamen gefügt. die er vo[n] irer zestrewlichkeit wege[n] eine[n] abgrund ne[n]net. vn[d] die die kriechysche[n] chaos haisse[n] eine[n] abgrund. heist er die erden. das ist ein materi mit driueltiger ermessung in die allerhohste[n] tieff außgepraittet. 
 

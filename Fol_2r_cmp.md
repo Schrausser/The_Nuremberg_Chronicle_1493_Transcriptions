@@ -14,7 +14,7 @@
 
 >**Moyses** diuinus [propheta] at[que] historic[us]. q[ui] troianu[m] bellu[m] septinge[n]tis fere a[n]nis antecessit edocet: quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundauit: ac celo s[u]bdidit. 
 
->**Moyses** der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>C</sup>. iar vor dem Troyanische[n] krieg gewesen ist leret wie got der macher vnd ordner der dinge als er diss werck fürname zu allererst de[n] himel zeseyn einen stul des selbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
+>**Moyses** der gottlich prophet vnd geschicht beschreiber der schier .vij<sup>C</sup>. iar vor dem Troyanische[n] krieg gewesen ist leret wie got der macher vnd ordner der ding als er diss werck fürname zu allererst de[n] himel zeseyn einen stul des selbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenckt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat. 
 
 >**Moses**, the divine prophet and historian, who lived almost 700 years before the Trojan War, teaches that when God, the Creator and Ordainer of all things, was about to undertake this work, he first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven. 
 
@@ -56,7 +56,7 @@ Et in p[ri]ncipio de yle mu[n]du[m] fuisse factu[m] testa[tur].
 Qua visibilia hec eleme[n]ta formata sunt. q[uae] q[ui]da[m] [con]cordia [con]ueniu[n]t.  
 A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse: 
 
->Die krieche[n] spreche[n] yle sey die erst vngeformt materi aus der :alle ding geschöpfft: vnd diese sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
+>Die krieche[n] spreche[n] yle sey die erst vngeformt materi aus der :alle ding geschöpfft: vnd dise sichtpere eleme[n]t die sich mit etlicher eintrechtigleit einander vergleiche[n] geformt. oder (als die andern spreche[n]) von d[er] materi vn[d] form. oder vo[n] de[m] aller dynnisten staub in der sunnen glantz erscheinende gemacht seye[n]. 
 
 >The Greeks say that Yle was the first shapeless mass out of which all things were created, and that these visible things were formed of elements that were in harmony with each other; or (as others say) of matter and form, or were made of the finest dust that sparkles in the sunlight.
 
@@ -64,7 +64,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 >de[us] t[ame]n mu[n]du[m] sine p[re]iace[n]ti [et] p[re]p[er]ata materia creauit: cu[m] prude[n]tissim[us] esset ad excogita[n]du[m]: [et] ad facie[n]du[m] solertissim[us] ante[que]m ordiret[ur] hoc op[us] mu[n]di. quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] oriret[ur].
 
->Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[n] selle[n] gůt als ein pach entsprünge. 
+>Aber got hat die werlt on ainiche vorligende vnd vorberaite materi beschaffen. dan er was zu ertrachten der alleklügst vnd zemachen d[er] allersinnreichst ee dan[n] er das werck der werlt fürname wan[n] in im was dar brunn des volku[m]me[n] vn[d] volbrachte[n] guts das vo[n] de[m] selle[n] gůt als ein pach entsprünge. 
 
 >But God created the world without available or previously prepared material; for he is to be regarded as having been a most wise and Intelligent maker before he undertook the Creation, and as a fountain of perfect and accomplished goodness, that springs from graciousness like a brook. 
 
@@ -73,7 +73,7 @@ A[li]u[n]t[que] ceteri de materia [et] forma: aut de athomis factis fuisse:
 
 >Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit. [et] ex eo q[uo]d n[] e[st]: q[uorum] p[er] eternitate[m] fort[is] e[st]: p[er] fortitudine[m] p[o]t[est]at[is] i[n]me[n]se: q[uam] fine ac mo[do] caret: sic[ut] vita facturis. 
 
->Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[n] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
+>Er hat in anfa[n]g die engel. aller creatur die erste[n] gemacht vn[d] auß de[m] das nicht ist. dan[n] er ist durch die ewigkeit starck. vn[d] durch die stercke vnermeßner machtigkeit. die des ends vn[d] der maß mangelt. als das lebe[n] des schöpffers.
 
 >Of all beings he first created the angels, and these out of nothing; for by reason of his immortality he is strong, and by virtue of his strength his power is infinite and without end, as is also his life.
 
@@ -86,7 +86,7 @@ Eductos a[n]gelos a deo de tenebris ad luce[m]: ad i[n]pletosq[ue] eterna letici
 In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] p[er]ma[n]sit.  
 Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us].
 
->Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi darauß er machet fürberaittet. auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got auß de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind aus aigner verkerung vo[m] gůtten zum vbel getretten vn[d] zu teüfeln worde[n]. 
+>Darümb was wunders ist das. ob der. der die werlt mache[n] wolt vorhin ein materi darauß er machet fürberaittet. auß dem das nit was. das haben villeicht auch die Saraceni verstanden. die spreche[n] das die engel vo[n] got auß de[n] finsternusse[n] zu[m] liecht gefürt vn[d] mit ewiger frewd erfült seine[n] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n]. sunder sie sind auß aigner verkerung vo[m] gůtten zum vbel getretten vn[d] zu teüfeln worde[n]. 
 
 >Therefore, why wonder whether he who undertook to create the world, first provided himself with material from that which was not. This was probably also understood by the Saracens, who say that the angels were brought by God from the darkness into the light, and filled with eternal joy; but some of them did not retain the conception of their divine origin, and through their own errors deserted good for evil, and became devils.
 
