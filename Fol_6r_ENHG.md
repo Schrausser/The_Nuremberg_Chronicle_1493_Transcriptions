@@ -74,7 +74,7 @@ Aber als **dionisius** setzt so sind die creftengel der mittel orden der andern 
 
 ### Von der zeit. oder von den altern.
 
-**D**Er werlt alter werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.
+**D**Er werlt altere werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.
 
 Nw sind scehs alter der werlt.
 
@@ -96,7 +96,7 @@ Das vierdt vo[n] anfang des reichs dauid bis zu de[m] übergang babilonis het na
 
 Das fünft vom übergang babilonis da hierusalem zerstort vnd der te[m]pel angezünd ward bis zu der gebenedeiten gepurt cristi vnd het nach vorgemelter weis .v<sup>c</sup>.lxxxx. iar. 
 
-Vnnd der iar halb diss alters ist ein grosse zweyu[n]g dan[n] ma[n]che mache[n] ma[n]cherley rechnung darüber.
+Vnnd der iar halb diss alters ist ein grosse zweyu[n]g dan[n] ma[n]che mache[n] ma[n]cherlay rechnung darüber.
 
 Das sechst von der gepurt cristi bis zu der werlt ende. das zil erkent gott allein. vn[d] diss heist das alt alter oder die letzt stu[n]d
 

@@ -11,7 +11,7 @@
 
 >***S**Ecundo die dixit deus.*
 
->***A**m[m] andern tag sprach got.*
+>***A**[Nde]m andern tag sprach got.*
 
 >*On the second day God said,*
 
@@ -20,7 +20,7 @@
 
 >*Fiat firmamentum in medio aquaru[m]: et diuidat aquas ab aquis: vocauitq[ue] firmamentum celum.*
 
->*Es werde das firmament in de[n] mittel d[er] wasser: vn[d] taile die wasser vo[n] wasseren vn[d] er hies das frimament de[n] himel.*
+>*Es werde das firmament in de[m] mittel d[er] wasser: vn[d] taile die wasser vo[n] wasseren vn[d] er hies das frimament de[n] himel.*
 
 >*Let there be a firmament in the midst of the waters, and let it divide the waters from the waters; and he called the firmament Heaven.*
 
@@ -45,7 +45,7 @@ Quo[rum] alter septe[m]trionalis boreas:
 Alter australis nothus dictus voluit[ur] ab orie[n]te in occidente[m] ta[n]ta celeritate: vt nisi planete contra cursum eam tardarent mundi ruinam faceret.  
 Et artifex mundi: celi naturam aquis temperauit: ne conflagrat[i]one ignis superioris: elementa inferiora succenderet. 
 
->Nw wirt die spera des himels mit de[n] dar inn angehefften gestirne in zwaie[n] axen (der eine die mitternachtlich vn[d] die ander die mittaglich haißt (vo[m] auffgang in de[n] nidergang mit sölcher schnellikeit umbgeweltzt. das sye die werlt zerpreche wo die planeten mit ire[n] gege[n]lawff sie nit verhinderte[n]. vn[d] d[er] werckmeister d[er] werlt hat die natur des himels mit wassern gemessigt das sie mit d[er] hitz des obern feürs die undern eleme[n]t nit anzu[n]dete.
+>Nw wirt die spera des himels mit de[n] dar inn angehefften gestirne in zwaie[n] axen (der eine die mitternachtlich vn[d] die ander die mittaglich hayßt (vo[m] auffgang in de[n] nidergang mit sölcher schnellikeit umbgeweltzt. das sye die werlt zerpreche wo die planeten mit ire[n] gege[n]lawff sie nit verhinderte[n]. vn[d] d[er] werckmeister d[er] werlt hat die natur des himels mit wassern gemessigt das sie mit d[er] hitz des obern feürs die undern eleme[n]t nit anzu[n]dete.
 
 >Now the sphere of the heavens, with its fixed stars, is provided with two pivots, one of which is called the north, and the other the south pole, and is revolved from east to west with such speed that the world would be torn asunder if the planets in their counter-courses would not prevent it. The master-craftsman of the world so tempered the heavens with water that the heat of the upper regions cannot ignite the other elements. 
 
@@ -95,6 +95,6 @@ Recte igitur no[n] solum situ: sed [et] nature p[ro]prietate hoc firmamentum sup
 Sup[ra] eum pura sunt elementa: infra eam perfecta mixtione ab elementali simplicitate discedunt.  
 Uocauitq[ue] firmame[n]tum celum: cum tegat omnia sensibilia [et] inuisibilia quod a koylon quod est concauu[m] deducu[n]t.
 
->So sind ettliche vnder der mitteln fürscheinenden stat des lufts. als bey vns. da dan[n] kein lawters element ist. sunder alle element vo[n] faystikeit wege[n] des werltlichen leibs gemischt sind. dazwischen ist ein gegend des lufts auch das firmament genannt. dar inn regen. schne. plitzen. tornersleg. cometen vnd der gleichen erscheiynen. darümb gar recht vnderschaydet diss firmament. nit allain d[er] gelegenheit sunder auch der aygenschafft halben d[er] natur die obern eleme[n]t vo[n] den undern. als die wasser vo[n] de[n] wassern. darob sind die eleme[n]t pür vn[d] lawter. aber darunder in volkomner vermischu[n]g vo[n] eleme[n]tischer slechtigkeit obgesünderet. vn[d] er hat das firmament himel geheißen. dan[n] der bedeckt alle empfintliche vnd vnsichtpere ding.
+>So sind ettliche vnder der mitteln fürscheinenden stat des lufts. als bey vns. da dan[n] kein lawters element ist. sunder alle element vo[n] faystikeit wege[n] des werltlichen leibs gemischt sind. dazwischen ist ein gegent des lufts auch das firmament genant. dar inn regen. schne. plitzen. tornersleg. cometen vnd der gleichen erscheiynen. darümb gar recht vnderschaidet diss firmament. nit allain d[er] gelegenheit. sunder auch der aygenschafft halben d[er] natur die obern eleme[n]t vo[n] den undern. als die wasser vo[n] de[n] wassern. darob sind die eleme[n]t pür vn[d] lawter. aber darunder in volkomner vermischu[n]g vo[n] eleme[n]tischer slechtigkeit obgesünderet. vn[d] er hat das firmament himel geheißen. dan[n] der bedeckt alle empfintliche vnd vnsichtpere ding.
 
 >Others are under the mid-regions of the air, as with us, where there is no pure element, but all elements are mixed, due to the density of the corporeal world. In between is a region of the air, also called the firmament, in which rain, snow, lightning, thunder, comets and the like appear. Therefore this firmament is very fitly distinguished, not alone because of its location, but because of its nature as well—the upper elements from the lower, as the water from the waters. Therefore the upper elements are pure and bright and separated from those below, which are mixed. And he called the firmament Heaven for it covered all susceptible and unseen things. 

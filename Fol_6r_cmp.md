@@ -323,7 +323,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 
 >**M**Undi etates accipiunt[ur] similitudinarie iuxta etates homi[ni]s: 
 
->**D**Er werlt alter werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.
+>**D**Er werlt altere werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.
 
 >The Ages of the World are analogous to the ages of man.
 
@@ -364,7 +364,7 @@ Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinita
 >S[e]c[un]da etas incipit a diluuio: et durat vsq[ue] ad natiuitatem abrahe: [et] habuit s[ecundu]m hebreos annos .292. s[ecundu]m septuaginta .942. 
 
 
->Das andre vo[n] d[er] sintflus bis auff die gepurt Abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xlij. iar. 
+>Das ander vo[n] d[er] sintflus bis auff die gepurt Abrahams: vnd het nach den hebreyschen .ij<sup>c</sup>.lxxxij. iar vn[d] nach de[n] **.lxx. außlegern** .viiij<sup>c</sup>.xlij. iar. 
 
 >The second age is from the Flood to the birth of Abraham, which, according to the Hebrew, lasted 292 years, but according to the seventy interpreters, 942 years;
 
@@ -413,7 +413,7 @@ s[ecundu]m septuagi[n]ta .940.
 
 >Et sicut p[re]dictum est grandis est altercatio de supputat[i]one anno[rum] hui[us] etatis diuersi diuersimode co[m]puta[n]t.
 
->Vnnd der iar halb diss alters ist ein grosse zweyu[n]g dan[n] ma[n]che mache[n] ma[n]cherley rechnung darüber.
+>Vnnd der iar halb diss alters ist ein grosse zweyu[n]g dan[n] ma[n]che mache[n] ma[n]cherlay rechnung darüber.
 
 >but concerning this computation there is a great division, for various calculations have been made by sundry persons. 
 

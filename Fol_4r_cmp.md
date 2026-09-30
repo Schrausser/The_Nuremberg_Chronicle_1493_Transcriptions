@@ -11,7 +11,7 @@
 
 >***Q**Uarto die dixit deus.*
 
->***A**m[m] vierde[n] tag sprach got.*
+>***A**[Nde]m vierde[n] tag sprach got.*
 
 >*On the fourth day God said,*
 
@@ -22,7 +22,7 @@ Et sint in signa [et] t[em]p[er]a: [et] dies [et] a[n]nos:  vt lucea[n]t in firm
 Et factu[m] e[st] ita.  
 Fecitq[ue] deus duo luminaria magna: luminare maius: vt p[re]esset diei: [et] luminare min[us]: vt p[re]esset nocti [et] stellas: vt duiderent luce[m] [et] tenebras.*  
 
->*Es solle[n] liechter in de[m] firmame[n]t des himels werde[n] vn[d] de[n] tag vn[d] die nacht teile[n]. vnd zu zaichen. vnd zeiten vnd tage[n] vnd iare[n] sein. das sie scheinen in de[m] firmament des himels vn[d] erlewchten die erde[n]. vnd es ist also geschehen. vn[d] got hat gemacht zway grosse liecht. ein grössers liecht vorzesen de[n] tag. vn[d] ein kleiners liecht vorzesein d[er] naht. vn[d] die stern zetailen das liecht. vn[d] die finsternuß.*
+>*Es solle[n] liechter in de[m] firmame[n]t des himels werde[n] vn[d] de[n] tag vn[d] die nacht teile[n]. vn[d] zu zaichen. vnd zeiten vnd tage[n] vnd iare[n] sein. das sie scheinen in de[m] firmament des himels vn[d] erlewchten die erde[n]. vnd es ist also geschehen. vn[d] got hat gemacht zway grosse liecht. ein grössers liecht vorzesen de[n] tag. vn[d] ein kleiners liecht vorzesein d[er] naht. vn[d] die stern zetailen das liecht. vn[d] die finsternuß.*
 
 >*Let there be lights in the firmament of the heaven to divide the day and the night; and let them be signs, and for seasons, and for days, and years, and shine in the firmament of the heaven and give light to the earth: and it was so. And God made two great lights; the greater to rule the day, and the lesser to rule the night. And the stars separate the light from the darkness.*
 
@@ -55,7 +55,7 @@ Cu[m] e[ni]m de natura firmame[n]ti dixerat: restabat vt de op[er]ib[us] sideru[
 
 >Alter mu[n]di toti[us] q[uo] celu[m] [et] ether .24. horis: p[er] totu[m] spaciu[m] vniuersi p[er]fecto ambitu circu[m]uoluu[n]tur.
 
->Eine d[er] ga[n]tze[n] werlt do mit d[er] himel vn[d] die spera des lufts vn[d] feüers in .xxiiij. stu[n]de[n] durch den gantzen krais d[er] werlt mit volko[m]nem vmblawff bewegt werde[n].
+>Eine d[er] ga[n]tze[n] werlt do mit d[er] himel vn[d] die spera des lufts vn[d] feürs in .xxiiij. stu[n]de[n] durch den gantzen krais d[er] werlt mit volko[m]nem vmblawff bewegt werde[n].
 
 >One of the whole world by which the heaven and the sphere of the air and of fire are moved through the whole area of the world in a complete revolution in twenty-four hours.
 
@@ -88,7 +88,7 @@ Tame[n] veru[m] [et] p[er]fecte plenitudinis lume[n] e[st]: [et] calore potissim
 Q[uam]uis e[ni]m stelle innumerabiles micare ac radiare videant[ur]: tame[n] q[uorum] non sunt plena ac solida lumi[n]a: nec caloris p[er]feru[n]t q[ui]cq[ua]m: nec tenebras multitudine sua vincu[n]t  
 Duo igit[ur] p[ri]ncipalia inueniu[n]tur. que diuersam [et]  [con][ua]ria[m] sibi h[abe]nt potestatem calor [et] humor: que mirabiliter de[us] ad sustenta[n]da [et] gignenda o[mn]ia excogitauit.
 
->Darümb garschickerlich hat vns moyses kürtzlich diser ding aller vermanet sprechende. das die gestirn in dem firmament gesetzt sein zu tagen. iaren vnd zeitten. dar zu hat er auch gar lawter angezaigt die andern wurcku[n]g der gestirne. die ist die erlewchtu[n]g. so er sagt das die gesetzt seye[n] zu scheine[n] am[m] hymel vnd zeerlewchten die erde[n]. darümb zu solchen dinstperkeiten sind die leib des monds. der sunne[n] vnd d[er] stern[n] außgetailt. vnd wiewol die sun[n] die im tag aufgeet einig allain ist yedoch ist sie ein wars liecht volku[m]ner völligkeit. die mit fürderlichster wirm vn[d] allerclarste[m] schein alle di[n]g erlewchtet. dan[n] wiewol man unzalich sterne schimern vn[d] gle[n]tze[n] sihet. nach de[m] sie aber doch nit völlige vn[d] veste liecht sind. so raichen sie kein wirm vo[n] ine vn[d] müge[n] auch mit irer menig die finsternus nicht vberwinden. darümb so werde[n] zway füname ding gefunde[n] die mancherlay vnd aneinander widerwertigen gewalt habe[n]. ne[m]lich wirm vn[d] feüchtigkeit die got wunderperlich zur auffenthaltung vnd geperung aller ding erdacht hat.
+>Darümb garschickerlich hat vns moyses kürtzlich diser ding aller vermanet sprechende. das die gestirn in dem firmament gesetzt sein zu tagen. iaren vnd zeitten. dar zu hat er auch gar lawter angezaigt die andern wurcku[n]g der gestirne. die ist die erlewchtu[n]g. so er sagt das die gesetzt seye[n] zu scheine[n] am[m] hymel vnd zeerlewchten die erde[n]. darümb zu solchen dinstperkeiten sind die leib des monds. der sunne[n] vnd d[er] stern[n] außgetailt. vnd wiewol die sun[n] die im tag aufgeet einig allain ist yedoch ist sie ein wars liecht volku[m]ner völligkeit. die mit fürderlichster wirm vn[d] allerclarste[m] schein alle di[n]g erlewchtet. dan[n] wiewol man unzalich sterne schimern vn[d] gle[n]tze[n] sihet. nach de[m] sie aber doch nit völlige vn[d] feste liecht sind. so raichen sie kein wirm vo[n] ine vn[d] müge[n] auch mit irer menig die finsternus nicht vberwinden. darümb so werde[n] zway füname ding gefunde[n] die mancherlay vnd aneinander widerwertigen gewalt habe[n]. ne[m]lich wirm vn[d] feüchtigkeit die got wunderperlich zu auffenthaltung vnd geperung aller ding erdacht hat.
 
 >That is why Moses has so ably and briefly reminded us of those things, namely, that the stars were set in the firmament to indicate the days, years and seasons. In addition he has clearly spoken of the other function of the stars, that is, to give light. So he says they were set to shine in the heavens and to light the earth. Therefore the bodies of the moon, sun and stars are fitly constituted for such purposes. And although the sun which rises in the day is alone, yet it gives a real, full and complete light, and with its warmth and clearness reaches everything. Although we see all the stars glitter and shine at once, they do not make as full and strong a light; nor do they give warmth nor overcome the darkness. So two things of quality are found which in various ways have functioned in opposition to each other, namely, warmth and moisture, which God created to sustain and bring forth all things.
 

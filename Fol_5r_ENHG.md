@@ -2,17 +2,17 @@
 
 ## Vom werck des sechten tags[^1]
 
-***A**m[m] sechsten tag sprach got die erde soll bringe[n] ein lebe[n]dige sele. die thier vn[d] die kriechende[n] vnd die wilde[n] thier d[er] erden nach irer gestalt. vn[d] got sahe das es gůt was vnd sprach. mache[n] wir eine[n] me[n]sche[n] zu vnßer pildnus vn[d] gleichnus. vnd er sol vorsein de[n] vische[n] des meers vn[d] de[m] geflügel des himels vn[d] de[n] thiern aller erde[n]. vn[d] got hat beschaffe[n] de[n] me[n]sche[n] zů seiner d[er] pildnus vn[d] gleichnus*.[^2] 
+***A**[Nde]m sechsten tag sprach got die erde soll bringe[n] ein lebe[n]dige sele. die thier vn[d] die kriechende[n] vnd die wilde[n] thier d[er] erden nach irer gestalt. vn[d] got sahe das es gůt was vnd sprach. mache[n] wir eine[n] me[n]sche[n] zu vnßer pildnus vn[d] gleichnus. vnd er sol vorsein de[n] vische[n] des meers vn[d] de[m] geflügel des himels vn[d] de[n] thiern aller erde[n]. vn[d] got hat beschaffe[n] de[n] me[n]sche[n] zů seiner d[er] pildnus vn[d] gleichnus*.[^2] 
 
 Als nw got die obern teil der werlt geziert het do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.
 
-Vnder de[n] thiern der erde[n] bedenckt ***Moyses*** dreier. als iohthier kriechende vnd wildthier. da bey er vns dreyerley vnderschid der vnuernüftigen thier in gemain zeerkenne[n] gibt. da[n] diss sind wildthier die in volko[m]ner fantesey vn[d] einpildnus wesende die mitteln stat vnder: de[n] vnuernüftigen thieren halte[n] vn[d] könne[n] doch vo[n] de[n] mensche[n] nit gezamet noch pe[n]dig gemacht werde[n].
+Vnder de[n] thiern der erde[n] bedenckt ***Moyses*** dreier. als iohthier kriechende vnd wildthier. da bey er vns dreyerley vnderschid der vnuernüftigen thier in gemain zeerkenne[n] gibt. da[n] diss sind wildthier die in volko[m]ner fantesey vn[d] einpildnus wesende die mitteln stat vnder de[n] vnuernüftigen thieren halte[n] vn[d] künne[n] doch vo[n] de[m] mensche[n] nit gezamet noch pe[n]dig gemacht werde[n].
 
-So sind kriechende thier die vnuolkumene fa[n]tesey vn[d] einpildnus. als die mitteln zwische[n] de[n] vieh vn[d] pfla[n]tze[n] habe[n].
+So sind kriechende thier die vnuolkumene fa[n]tesey vn[d] einpildnus. als die mitteln zwische[n] de[m] vieh vn[d] pfla[n]tze[n] habe[n].
 
 Es sind auch iohthier die doch wiewol sie der vernuft ma[n]geln me[n]schlicher zucht etlicher maß fahig sind. vn[d] scheine[n] etwas d[er] vernuft teilheftig zesein schir ein mittele art oder aige[n]schafft zwische[n] dem vihe vn[d] de[n] me[n]schen habe[n]de.
 
-Nw hat got geschafft das grosse vnd kleinere thier ma[n]cherlei geschlechtz vngleicher form werde[n] solte[n]. vn[d] sind yder thier worde[n] bede me[n]dlein vn[d] freülein. auß welcher besamung der lufft vnd die erde vn[d] das meer erfültt worde[n] sind. vn[d] got hat ine alle[n] vo[n] geschlecht zu geschlecht naru[n]g vo[n] d[er] erden gebe[n]. das sie de[n] me[n]sche[n] zu nutz vn[d] geprauch. als etlich zu speysung. vn[d] ettlich zebeklaidung gedine[n] möchte[n]. vn[d] die die grösserer sterck vn[d] krefft were[n] zur erpawung des erdreichs helfen solten.
+Nw hat got geschafft das grosse vnd kleinere thier ma[n]cherlei geschlechtz vngleicher form werde[n] solte[n]. vn[d] sind yder thier worde[n] bede me[n]dlein vn[d] freülein. auß welcher besamung der lufft vnd die erde vn[d] das meer erfültt worde[n] sind. vn[d] got hat ine alle[n] vo[n] geschlecht zu geschlecht naru[n]g vo[n] d[er] erden gebe[n]. das sie de[n] me[n]sche[n] zu nutz vn[d] geprauch. als etlich zu speysung. vn[d] ettlich zebeklaidung gediene[n] möchte[n]. vn[d] die die grösserer sterck vn[d] krefft were[n] zur erpawung des erdreichs helfen solten.
 
 Bisher ist vo[n] dreyen. als der vberhimlische[n]. himlischen vnd vnderhimlischen werlte[n] beschreibung beschehen.
 
@@ -24,7 +24,7 @@ Nw ist offt bei den künge[n] vn[d] fürste[n] die gewonheit so sie ein groß me
 
 Also hat auch got d[er] fürst aller ding gethan. der nach de[n] ga[n]tze[n] auffgerichte[n] paw d[er] werlt de[n] me[n]sche[n] als de[n] letzte[n] aller ding in den mittel d[er] selbe[n] hat gesetzt vnd geformt zu seiner pildnus vn[d] gleichnus. also das mit **mercurio** wol gesprochen werde[n] mag.[^4]
 
-*O asclepi wie ein groß wu[n]derwerk ist der me[n]sch. diss sunderliche[n] name[n]s mag sich die me[n]schliche art wol beröme[n]: aus de[m] geschehe[n] ist: das sich nima[n]t ime zediene[n] verdriessen lassen soll. dan[n] ime sind erd vn[d] element vn[d] die vnuernuftige[n] thier willig vn[d] dinstbar. ime treibt d[er] himel ritterschafft.
+*O asclepi wie ein groß wu[n]derwerk ist der me[n]sch. diss sunderliche[n] name[n]s mag sich die me[n]schlich art wol beröme[n]: aus de[m] geschehe[n] ist: das sich nima[n]t ime zediene[n] verdriessen lassen soll. dan[n] ime sind erd vn[d] element vn[d] die vnuernuftige[n] thier willig vn[d] dinstbar. ime treibt d[er] himel ritterschafft.
 Ime spreche[n] die englische[n] gaist das hail. sich sol auch nyma[n]d verwu[n]dern das der vo[n] alle[n] dinge[n] geliebt wirt. in dem alle ding etwas des irn. ia auch sich gantz vnd alles das ir erkennen*.
 
 [^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2v).  

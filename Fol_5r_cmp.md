@@ -14,7 +14,7 @@ Et vidit de[us] q[uo]d  e[ss]et bonu[m]: ait. Faciam[us] ho[m]i[n]em ad imagine[
 Et p[er]sit piscib[us] mar[is]. [et] volatilib[us] celi. [et] bestijs vniuerse terre.  
 Et creauit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m].*
 
->***A**m[m] sechsten tag sprach got die erde soll bringe[n] ein lebe[n]dige sele. die thier vn[d] die kriechende[n] vnd die wilde[n] thier d[er] erden nach irer gestalt. vn[d] got sahe das es gůt was vnd sprach. mache[n] wir eine[n] me[n]sche[n] zu vnßer pildnus vn[d] gleichnus. vnd er sol vorsein de[n] vische[n] des meers vn[d] de[m] geflügel des himels vn[d] de[n] thiern aller erde[n]. vn[d] got hat beschaffe[n] de[n] me[n]sche[n] zů seiner d[er] pildnus vn[d] gleichnus.* 
+>***A**[Nde]m sechsten tag sprach got die erde soll bringe[n] ein lebe[n]dige sele. die thier vn[d] die kriechende[n] vnd die wilde[n] thier d[er] erden nach irer gestalt. vn[d] got sahe das es gůt was vnd sprach. mache[n] wir eine[n] me[n]sche[n] zu vnßer pildnus vn[d] gleichnus. vnd er sol vorsein de[n] vische[n] des meers vn[d] de[m] geflügel des himels vn[d] de[n] thiern aller erde[n]. vn[d] got hat beschaffe[n] de[n] me[n]sche[n] zů seiner d[er] pildnus vn[d] gleichnus.* 
 
 >*On the sixth day God said, Let the earth bring forth the living creature, cattle, and the creeping thing, and wild beast of the earth, after his kind; and God saw that it was good, and said, Let us make man in our image, after our likeness; and let him have dominion over the fish of the sea, and over the fowl of the air, and over the animals over all the earth. So God created man in his own image and likeness.*
 
@@ -32,7 +32,7 @@ Et creauit de[us] ho[m]i[n]em ad imagine[m] [et] si[mi]litudine[m] sua[m].*
 In q[ui]b[us] tres d[iue]r[s]ias bruto[rum] irr[ati]onabiliu[m] in co[mmun]e nob[is] insinuat.  
 Su[n]t e[ni]m bestie q[uae] p[er]fecta sunt pha[n]tasia: mediu[m] i[n]ter irr[ati]onalia locu[m] sortite: erudiri t[ame]n ab ho[m]i[n]e aut ma[n]suescere nesciu[n]t.
 
->Vnder de[n] thiern der erde[n] bedenckt Moyses dreier. als iohthier kriechende vnd wildthier. da bey er vns dreyerley vnderschid der vnuernüftigen thier in gemain zeerkenne[n] gibt. da[n] diss sind wildthier die in volko[m]ner fantesey vn[d] einpildnus wesende die mitteln stat vnder: de[n] vnuernüftigen thieren halte[n] vn[d] könne[n] doch vo[n] de[n] mensche[n] nit gezamet noch pe[n]dig gemacht werde[n].
+>Vnder de[n] thiern der erde[n] bedenckt Moyses dreier. als iohthier kriechende vnd wildthier. da bey er vns dreyerley vnderschid der vnuernüftigen thier in gemain zeerkenne[n] gibt. da[n] diss sind wildthier die in volko[m]ner fantesey vn[d] einpildnus wesende die mitteln stat vnder de[n] vnuernüftigen thieren halte[n] vn[d] künne[n] doch vo[n] de[m] mensche[n] nit gezamet noch pe[n]dig gemacht werde[n].
 
 >Moses divides the animals of the earth into three classes: beasts of burden, creeping animals, and wild animals. So he gives us to understand that there are, in general, three kinds of irrational animals. There are wild animals, which as creatures of perfect imagination and fantasy, occupy a middle ground among irrational animals, and yet may not be tamed nor made obedient by man.
 
@@ -40,7 +40,7 @@ Su[n]t e[ni]m bestie q[uae] p[er]fecta sunt pha[n]tasia: mediu[m] i[n]ter irr[at
 
 >Su[n]t reptilia q[uae] i[m]p[er]fecta[m] ha[ben]t pha[n]tasia[m]: q[ua]si media i[n]ter bruta [et] pla[n]tas.
 
->So sind kriechende thier die vnuolkumene fa[n]tesey vn[d] einpildnus. als die mitteln zwische[n] de[n] vieh vn[d] pfla[n]tze[n] habe[n].
+>So sind kriechende thier die vnuolkumene fa[n]tesey vn[d] einpildnus. als die mitteln zwische[n] de[m] vieh vn[d] pfla[n]tze[n] habe[n].
 
 >And so there are creeping creatures of imperfect imagination and fantasy, who occupy a middle ground between animals and plants. 
 
@@ -61,7 +61,7 @@ Deditq[ue] bis o[mn]ib[us] generatim de[us] alime[n]ta de terra: vt vsui e[ss]e 
 Alia v[er]o ad vestime[n]tu[m].  
 Que a[u]t[em] mag[nar]u[m] sunt viriu[m]: vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.
 
->Nw hat got geschafft das grosse vnd kleinere thier ma[n]cherlei geschlechtz vngleicher form werde[n] solte[n]. vn[d] sind yder thier worde[n] bede me[n]dlein vn[d] freülein. auß welcher besamung der lufft vnd die erde vn[d] das meer erfültt worde[n] sind. vn[d] got hat ine alle[n] vo[n] geschlecht zu geschlecht naru[n]g vo[n] d[er] erden gebe[n]. das sie de[n] me[n]sche[n] zu nutz vn[d] geprauch. als etlich zu speysung. vn[d] ettlich zebeklaidung gedine[n] möchte[n]. vn[d] die die grösserer sterck vn[d] krefft were[n] zur erpawung des erdreichs helfen solten.
+>Nw hat got geschafft das grosse vnd kleinere thier ma[n]cherlei geschlechtz vngleicher form werde[n] solte[n]. vn[d] sind yder thier worde[n] bede me[n]dlein vn[d] freülein. auß welcher besamung der lufft vnd die erde vn[d] das meer erfültt worde[n] sind. vn[d] got hat ine alle[n] vo[n] geschlecht zu geschlecht naru[n]g vo[n] d[er] erden gebe[n]. das sie de[n] me[n]sche[n] zu nutz vn[d] geprauch. als etlich zu speysung. vn[d] ettlich zebeklaidung gediene[n] möchte[n]. vn[d] die die grösserer sterck vn[d] krefft were[n] zur erpawung des erdreichs helfen solten.
 
 >Now God created the large as well as the smaller animals of various species and form, and every species became male and female, and by their seed the air, earth, and sea were filled with them. And for each species he provided sustenance from the earth so they might be useful and serviceable to man, some as food and some as clothing, and the larger ones to help him build up the earth by their strength and power.
 
@@ -112,6 +112,6 @@ Nec miru[m] alicui videri debet: amari illu[m] ab om[n]ibus.
 In quo om[n]ia suu[m] aliq[ui]d:  
 Immo se tota [et] sua om[n]ia agnoscu[n]t.*
 
->Also hat auch got d[er] fürst aller ding gethan. der nach de[n] ga[n]tze[n] auffgerichte[n] paw d[er] werlt de[n] me[n]sche[n] als de[n] letzte[n] aller ding in den mittel d[er] selbe[n] hat gesetzt vnd geformt zu seiner pildnus vn[d] gleichnus. also das mit **mercurio** wol gesprochen werde[n] mag. *O asclepi wie ein groß wu[n]derwerk ist der me[n]sch. diss sunderliche[n] name[n]s mag sich die me[n]schliche art wol beröme[n]: aus de[m] geschehe[n] ist: das sich nima[n]t ime zediene[n] verdriessen lassen soll. dan[n] ime sind erd vn[d] element vn[d] die vnuernuftige[n] thier willig vn[d] dinstbar. ime treibt d[er] himel ritterschafft. Ime spreche[n] die englische[n] gaist das hail. sich sol auch nyma[n]d verwu[n]dern das der vo[n] alle[n] dinge[n] geliebt wirt. in dem alle ding etwas des irn. ia auch sich gantz vnd alles das ir erkennen.*
+>Also hat auch got d[er] fürst aller ding gethan. der nach de[n] ga[n]tze[n] auffgerichte[n] paw d[er] werlt de[n] me[n]sche[n] als de[n] letzte[n] aller ding in den mittel d[er] selbe[n] hat gesetzt vnd geformt zu seiner pildnus vn[d] gleichnus. also das mit **mercurio** wol gesprochen werde[n] mag. *O asclepi wie ein groß wu[n]derwerk ist der me[n]sch. diss sunderliche[n] name[n]s mag sich die me[n]schlich art wol beröme[n]: aus de[m] geschehe[n] ist: das sich nima[n]t ime zediene[n] verdriessen lassen soll. dan[n] ime sind erd vn[d] element vn[d] die vnuernuftige[n] thier willig vn[d] dinstbar. ime treibt d[er] himel ritterschafft. Ime spreche[n] die englische[n] gaist das hail. sich sol auch nyma[n]d verwu[n]dern das der vo[n] alle[n] dinge[n] geliebt wirt. in dem alle ding etwas des irn. ia auch sich gantz vnd alles das ir erkennen.*
 
 >God, the prince of all things, has done likewise, for after he completed the entire world structure, he finally created man in his own image and likeness, and placed him in the midst thereof. And so, with **Mercurius**, we may well exclaim, *O, Aesculapius, what a great miracle is man! Of this distinguished name mankind may well be proud, and no one should be unhappy in serving him. The earth and the elements, and the irrational animals willingly obey him. The angelic hosts wish him well and heaven urges him on to knighthood. No one should wonder that he is loved by all creatures, for all recognize in him some quality of their own.* 
