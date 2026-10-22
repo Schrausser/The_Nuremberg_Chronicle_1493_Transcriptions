@@ -14,7 +14,7 @@ Diser nilus kumbt auß eine[m] schwartzen flußs (den die leiit daselbst einen v
 
 Dan[n] wirdt er nach mancherley anstössen in den gebrochen felßen des gepirgs eingezwengt vn[d] fleiisset hin in ethiopiam d[er] more[n] land in ein gegent Cattaduppa genant. vn[d] wirdt also gewaltigklich zwischen den entgegensteenden felßen mitt seiner vngestümigkeit getriben d[as] er mit dem grossen hale der wasser die sich aneinander zerprechend die oren der in[n]woner daselbs biß zů d[er] taubheyt verlötzet. darnach lögt sich die vngestümikeyt vo[n] wirdt d[er] fluß still. vn[d] erst hebt er sich an bei d[er] statt Cercasoru[m] dryfeltig zesein. d[er] ein teyl neyget sich gegen delcam vn[d] meliam vn[d] wirdt abermals geteylt. vn[d] also das gantz egiptier land vo[n] dem gantzen. vnd doch in vil teyl gesiinderten nilo mit sambt andern bächen auß iärlicher zůnemung erfeiichtet. vnd zů letst fleiißt er an siben grossen örtern in das egiptisch meer. 
 
-Die alten schreiben diser Nilus sey ein vast grosser nörer der väld. vn[d] ein erzieher grosser wasserthiere. d[er] lindwiirme vn[d] wasserpferde. auch vil rörichs vn[d] alweg grone[n]der pintzen etc. vn[d] ein iärliche fruchtpere zůnemung d[er] erden vn[d] feldung. vn[d] beschicht sonliche wachsene zůnemu[n]g beschicht gewonlich wen[n] dye sunn im ende des leoben ist bis zů dem mittel d[er] iunckfrawen. darnach mimbt sy ab bis die sun[n] zů dem end der iunckfrawen. od[er] bis zů aufgang d[er] wag kumbt. 
+Die alten schreiben diser Nilus sey ein vast grosser nörer der väld. vn[d] ein erzieher grosser wasserthiere. d[er] lindwiirme[^1] vn[d] wasserpferde[^2]. auch vil rörichs vn[d] alweg grone[n]der pintzen etc. vn[d] ein iärliche fruchtpere zůnemung d[er] erden vn[d] feldung. vn[d] beschicht sonliche wachsene zůnemu[n]g beschicht gewonlich wen[n] dye sunn im ende des leoben ist bis zů dem mittel d[er] iunckfrawen. darnach mimbt sy ab bis die sun[n] zů dem end der iunckfrawen. od[er] bis zů aufgang d[er] wag kumbt. 
 
 Als den[n] wirdt d[er] nilus innerhalb der alten flußstat wideru[m]b be schlossen. vn[d] sy sagen d[as] das wasser diss flußes sölcher krafft vn[d] wiirckung sey d[as] es die frawen fruchtper mache.
 
@@ -26,4 +26,6 @@ Aber pald darnach find er ein see Artissa genannt durch den laufft er gewaltigkl
 
 Sophen bey Nympheum. also nahendt Arsenie bey dem selbigen mercklichen fluß in d[er] gegent artheni das ir yeder so er auß eynicher vrsach möchßt vnd außlaufft seinen fluß be
 
+[^1]: 'crocodrillo[rum]', crocodile.  
+[^2]: 'hippotamorum', hippopotamus.
 
