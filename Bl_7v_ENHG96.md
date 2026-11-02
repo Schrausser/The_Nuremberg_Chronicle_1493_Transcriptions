@@ -26,7 +26,6 @@ Aber pald darnach find er ein see Artissa genannt durch den laufft er gewaltigkl
 
 Sophen bey Nympheum. also nahendt Arsenie bey dem selbigen mercklichen fluß in d[er] gegent artheni das ir yeder so er auß eynicher vrsach möchßt vnd außlaufft seinen fluß be
 
-[^1]: 'crocodrillo[rum]', crocodile - Very interestingly, the crocodile (crocodrillo[rum]) was most obviously equated with the lindworm (lindwiirme, Lindwurm), which is now regarded as a mythical creature.
-.  
+[^1]: 'crocodrillo[rum]', crocodile - Very interestingly, the crocodile (crocodrillo[rum]) was most obviously equated with the lindworm (lindwiirme, Lindwurm), which is now regarded as a mythical creature.  
 [^2]: 'hippotamorum', hippopotamus.
 
