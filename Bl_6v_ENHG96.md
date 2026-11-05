@@ -48,7 +48,7 @@ Das erst ist vngesprechheyt vo[n] der gepurdt biß zu sybe[n] iaren
 
 Das ander kintheit bis zu .xiiij. iare[n].
 
-Das drit zeittigkeit von .xv. bis in das .xxxviiij. iar.
+Das drit zeittigkeit von .xv. bis in das .xxxviiij. iar.[^5]
 
 Das vierdt iugent bis in das .xlviiij. iar.
 
@@ -56,15 +56,15 @@ Das fiinft altheyt von .l. bis in das .lxxviiij. iar.
 
 D[as] söchst heist d[as] verlebt. abkomen geneigt alter von .lxxx. iaren bis zu dem ende des lebens.
 
-**D**As erst alter der welt von adam biß zu der siintfluß hat nach der hebreyschen schrifft .i<sup>m</sup>.vi<sup>c</sup>.lvi. iar. aber nach sag d[er] ***.lxx. außleger***[^5] auch ***ysidori***[^6] vn[d] anderer d[er] zale her nach in disem buch bestimbt ist hat es gehabt .ij<sup>m</sup>.ij<sup>c</sup>.xlij. iar.
+**D**As erst alter der welt von adam biß zu der siintfluß hat nach der hebreyschen schrifft .i<sup>m</sup>.vi<sup>c</sup>.lvi. iar. aber nach sag d[er] ***.lxx. außleger***[^6] auch ***ysidori***[^7] vn[d] anderer d[er] zale her nach in disem buch bestimbt ist hat es gehabt .ij<sup>m</sup>.ij<sup>c</sup>.xlij. iar.
 
 **D**Ie höchst gutheyt wolte ir gut auch anderen mitteylen darumb beschuff sy eyn verniinfftige creature die das höchst gut verstünd. verstönde lieb het liebhabende beseße vn[d] besitzende selig wer 
 
-Aber got machet den ersten menschen vn[d] formet seine[n] leib durch dienst der engel von lethen der erden in dem agker damasceno. vn[d] eingeystet in sein angesicht dye geystung des lebens das ist[^7]
+Aber got machet den ersten menschen vn[d] formet seine[n] leib durch dienst der engel von lethen der erden in dem agker damasceno. vn[d] eingeystet in sein angesicht dye geystung des lebens das ist[^8]
 
 Er beschuff ein sel. die er dem gemachten leib vereinigt. vnd der mensch ist gemacht zu der pildnus gottes in natiirlichen dingen vnd zu seiner gleychnuß in gnadenreyche[n] dinge[n] den dann gott der herr mit wunderperlicher genade durchgossen hat.
 
-**A**Ls nun die geselten creatur der erden vnnd das gefliigel geformieret vnnd zu adam gefürt warden die zesehe[n] da den[n] adam nit gefunden ward ein helffer im gleich da sendet der herr eine[n] schlaff in adam vn[d] nam eyne auß seyne[n] rippen. erfiillet fleisch fiir sy vnd machet die zu einem weyb die ada[m] sahe vnd sprach. diß payn ist nun vo[n] meinen gepeynen. dise wirt genant. Issa[^8] das souil ist als ein weib dan[n] sy ist von eynem ma[n] genomen.[^9]
+**A**Ls nun die geselten creatur der erden vnnd das gefliigel geformieret vnnd zu adam gefürt warden die zesehe[n] da den[n] adam nit gefunden ward ein helffer im gleich da sendet der herr eine[n] schlaff in adam vn[d] nam eyne auß seyne[n] rippen. erfiillet fleisch fiir sy vnd machet die zu einem weyb die ada[m] sahe vnd sprach. diß payn ist nun vo[n] meinen gepeynen. dise wirt genant. Issa[^9] das souil ist als ein weib dan[n] sy ist von eynem ma[n] genomen.[^10]
 
 Nun der herr füret Adam in das paradeyß vn[d] hat daselbßvon der ripp des schlaffe[n]den Euam gemacht vnd im eyn gesölleyn geformt. 
 
@@ -77,11 +77,12 @@ Auch nit vo[n]
 [^2]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
 [^3]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
 [^4]: c.f. Ramsdell ([1894](http://www.jstor.org/stable/3135427)).  
-[^5]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695)), Ulrich and Holzhalb ([1756](https://doi.org/10.3931/e-rara-65699)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
-[^6]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
-[^7]: c.f. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), aijv).  
-[^8]: Tra[n]sla. D. Hiero. "Hec vocabitur 'virago' q[uonia]m de viro su[m]pta est", s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiijv); virago, viraginis, a warlike or a heroic woman.  
-[^9]: Genesis 2: 19-23, c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3r), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), aiij).  
+[^5]: 'xxxviiij', 39 vs. 'xxxviij', 38 (c.f. Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. 6r).   
+[^6]: Monasterii Wirimutham-Gyruum ([716 AD](https://www.loc.gov/item/2021668243)), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695)), Ulrich and Holzhalb ([1756](https://doi.org/10.3931/e-rara-65699)), Bagster ([1870](https://books.google.com/books?id=wMUUAAAAQAAJ)), Brenton ([1971](https://books.google.com/books?id=emjouQEACAAJ), [1986](https://books.google.com/books?id=xsrYAAAAMAAJ)).  
+[^7]: De Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).  
+[^8]: c.f. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), aijv).  
+[^9]: Tra[n]sla. D. Hiero. "Hec vocabitur 'virago' q[uonia]m de viro su[m]pta est", s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiijv); virago, viraginis, a warlike or a heroic woman.  
+[^10]: Genesis 2: 19-23, c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3r), Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), aiij).  
 
 
 ## References
@@ -102,5 +103,8 @@ Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Ar
 Monasterii Wirimutham-Gyruum. (716 AD). *Codex Amiatinus / Biblia Sacra / Bibbia Amiatina*. Kingdom of Northumbria, England: publisher not identified. [https://www.loc.gov/item/2021668243](https://www.loc.gov/item/2021668243)
 
 Ramsdell, T. J. (1894). The Kingdom of Heaven in the Gospel of Matthew. *The Biblical World, 4*(2), 124–33. [http://www.jstor.org/stable/3135427](http://www.jstor.org/stable/3135427)
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
+[https://web.archive.org/web/20161003154613](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699)
