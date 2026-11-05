@@ -48,7 +48,7 @@ Das sechste Zeitalter (VI) beginnt mit der Geburt Christi und dauert bis zum *En
 
 Ferner gibt es nach den Hebräern im ersten Zeitalter der Welt (I) 10 Generationen, im zweiten (II) 10, im dritten (III) 14, im vierten (IV) 17, **Matthäus** gibt jedoch um die *mystische Bedeutung*[^72] hervorzuheben 14 an, sowie im fünften 14.
 
-Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindheit*[^73], von der Geburt bis zum 7. Lebensjahr. Das (II) zweite ist die *Kindheit*[^74] bis zum 14. Lebensjahr. Das (III) dritte ist die *'Jugend'*[^75], vom 15. bis zum 38. Lebensjahr. Das (IV) vierte ist das *junge Alter*[^76] bis zum 49. Lebensjahr. Das (V) fünfte ist das *Alter*[^77], vom 50. bis zum 79. Lebensjahr. Das (VI) sechste ist das *hohe Alter*[^78], vom 80. Lebensjahr bis bis zu dem Ende des Lebens.
+Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindheit*[^73], von der Geburt bis zum 7. Lebensjahr. Das (II) zweite ist die *Kindheit*[^74] bis zum 14. Lebensjahr. Das (III) dritte ist die *'Jugend'*[^75], vom 15. bis zum 38. Lebensjahr. Das (IV) vierte ist das *junge Alter*[^76] bis zum 49. Lebensjahr. Das (V) fünfte ist das *Alter*[^77], vom 50. bis zum 79. Lebensjahr. Das (VI) sechste ist das *hohe Alter*[^78], vom 80. Lebensjahr bis zu dem Ende des Lebens.
 
 
 [^1]: 'orbitu[m]' und 'umbkreys'.  
