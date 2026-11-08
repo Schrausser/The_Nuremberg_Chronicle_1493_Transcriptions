@@ -22,7 +22,7 @@ Die Entfernungen der *vorgenannten*[^29] Umlaufbahnen und Planeten betragen von 
 
 Was die <ins>***wahre himmlische Natur***</ins>[^31] betrifft, so haben etliche Autoren eine *dreifache* Unterscheidung getroffen, in eine (I) *überhimmlische*, eine (II) *himmlische* und eine (III) *unterhimmlische*.
 
-Die überhimmlische Hierarchie (I) existiere in drei Personen, wie manche behauptet haben, *jedoch fälschlicherweise*, denn laut **Dionysius** impliziert *Hierarchie* eine Ordnung, jedoch eine solche Ordnung existiert in den drei Personen nicht absolut, außer als Naturordnung.[^32]
+Die *überhimmlische* Hierarchie (I) existiere in drei Personen, wie manche behauptet haben, *jedoch fälschlicherweise*, denn laut **Dionysius** impliziert *Hierarchie* eine Ordnung, jedoch eine solche Ordnung existiert in den drei Personen nicht absolut, außer als Naturordnung.[^32]
 
 Die *himmlische* (II) ist in den <ins>*Orden der Engel*</ins>, die *unterhimmlische* (III) in *heiligen Menschen*. Des Weiteren ist die *himmlische* Hierarchie (Ii) in die (i) obere, die (ii) mittlere und die (iii) untere Ebene unterteilt. Die obere Ebene (i) umfasst drei Ordnungen, die (a) *Seraphim*, die (b) *Cherubim* und die (c) *Thronengel*. Die ersten (a) erwägen[^33] Gottes *Wohlwollen*[^34], die zweiten (b) seine *Größe*[^35], die dritten (c) seine *Angemessenheit*[^36]. Dem gemäß *liebt* Gott in den ersten (a) durch die *Nächstenliebe*[^37], in den zweiten (b) erkennt er durch *Wahrheit*, in den dritten (c) residiert[^38] er in *Gerechtigkeit*[^39].[^40]
 
