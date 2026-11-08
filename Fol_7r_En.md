@@ -4,13 +4,13 @@ A *contemporary* English translation is presented from comparing the existing La
 
 ## The first age of the world
 
-When the *original* ancestors[^1] had transgressed God's commandment under the suggestion of the *devil*[^2] in the form of the serpent, God cursed them
+When the *original* ancestors[^1] had transgressed God's commandment under the <ins>suggestion of ***the devil***</ins>[^2] in <ins>the form of ***the serpent***</ins>, God cursed them
 
 >et ait serpenti. Maledictus eris inter omnia anima[n]tia [et] bestias terre: super pectus tuum gradieris: et terram comedes cunctis diebus vite tue. Mulieri quoq[ue[ dixit. M[u]ltiplicabo eru[i]nas tuas: [et] co[n]ceptus tuos: in dolore paries filios [et] s[u]b viri potestate eris: [et] ip[s]e domi[n]abitur tibi. Ade v[er]o dixit Maledicta terra in opere tue i[n] laboribus comedes ex ea: spinas [et] tribulos germinabit tibi: in sudorevultus tui vesceris pane tuo: donec reuertaris in terram de qua sumptus es. Et cu[m] feciss[et] eis deus tunicas pelliceas eiecit eos de paradiso collocans ante illum cherubin cum flammeo gladio: vt viam ligni vite custodiat.[^3]
 
 Adam, the first human being formed from clay of the earth, was about thirty years old when his wife was given the name *Eve*. After he ate the fruit of the forbidden tree, which his wife offered him, they were cast out from the blissful[^4] Paradise into the accursed land[^5], according to the curse[^6] of the Lord God. Adam is to cultivate the earth by the sweat of his brow and feed himself on his *own* bread.
 
-Eve too is to live in distress and bear children in pain; she whom the Lord has adorned with incomparable splendor[^7]. However, the envious enemy of her happiness[^8] deceived her so that in feminine thoughtlessness she tasted the fruit of the tree with wicked desire[^9] and drew her husband to her will[^10]. After putting on the *leaf apron*[^11], she was exiled[^12] from the Garden of Delights to the field of Hebron, together with her husband. Having frequently suffered the pains of childbirth, she aged through toil and labor and finally died, just as the Lord had foretold.
+Eve too is to live in distress and bear children in pain; she whom the Lord has adorned with incomparable splendor[^7]. However, the <ins>envious enemy of her happiness</ins>[^8] <ins>**deceived** her</ins> so that in feminine thoughtlessness she tasted the fruit of the tree with wicked desire[^9] and drew her husband to her will[^10]. After putting on the *leaf apron*[^11], she was exiled[^12] from the Garden of Delights to the field of Hebron, together with her husband. Having frequently suffered the pains of childbirth, she aged through toil and labor and finally died, just as the Lord had foretold.
 
 [^1]: 'p[ro]thopare[n]tes' and 'ersten eltern'.  
 [^2]: 'suggerente diabolo' and 'durch eingebung des teüfels'.  

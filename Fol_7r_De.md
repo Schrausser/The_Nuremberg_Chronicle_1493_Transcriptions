@@ -4,13 +4,13 @@ Eine zeitgenössische deutsche Übersetzung wird präsentiert, die auf einem Ver
 
 ## Das erste Zeitalter der Welt
 
-Als aber die *ursprünglichen* Vorfahren[^1] das Gebot Gottes, unter Suggestion des *Teufels*[^2] in Gestalt der Schlange, übertreten hatten, da verfluchte sie Gott 
+Als aber die *ursprünglichen* Vorfahren[^1] das Gebot Gottes, unter <ins>Suggestion des ***Teufels***</ins>[^2] in <ins>Gestalt der ***Schlange***</ins>, übertreten hatten, da verfluchte sie Gott 
 
 >et ait serpenti. Maledictus eris inter omnia anima[n]tia [et] bestias terre: super pectus tuum gradieris: et terram comedes cunctis diebus vite tue. Mulieri quoq[ue[ dixit. M[u]ltiplicabo eru[i]nas tuas: [et] co[n]ceptus tuos: in dolore paries filios [et] s[u]b viri potestate eris: [et] ip[s]e domi[n]abitur tibi. Ade v[er]o dixit Maledicta terra in opere tue i[n] laboribus comedes ex ea: spinas [et] tribulos germinabit tibi: in sudorevultus tui vesceris pane tuo: donec reuertaris in terram de qua sumptus es. Et cu[m] feciss[et] eis deus tunicas pelliceas eiecit eos de paradiso collocans ante illum cherubin cum flammeo gladio: vt viam ligni vite custodiat.[^3]
 
 Adam, der erste aus Lehm der Erde geformte Mensch, war etwa dreißig Jahre alt, als seiner Frau der Name *Eva* gegeben wurde. Nachdem er von der Frucht des verbotenen Baumes, welche ihm seine Frau anbot, gegessen hatte, wurden sie gemäß der Verwünschung[^4] vom Herrgott aus dem wonnevollen[^5] Paradies in das verfluchte Land[^6] verstoßen. Adam soll die Erde im Schweiße seines Angesichts bebauen und sich von *seinem* Brot ernähren. 
 
-Auch Eva soll in Nöten leben und unter Schmerzen Kinder gebären; sie, die der Herr mit unvergleichlicher Pracht[^7] geziert hat. Jedoch der neidische Feind ihrer Seligkeit[^8] täuschte sie, dass sie in weiblicher Leichtfertigkeit von der Frucht des Baumes mit frefelhaftem Verlangen[^9]  kostete und ihren Mann in ihren Willen[^10] zog. Nach dem Anlegen der *Blätterschürze*[^11], wurde sie aus dem Garten der Wonnen auf das Feld von Hebron, zusammen mit ihrem Mann, in das Exil[^12] vertrieben. Als sie häufig die Schmerzen der Geburt erlitten hatte, alterte sie durch Mühe und Arbeit und starb schließlich, so wie der Herr vorhersagte.
+Auch Eva soll in Nöten leben und unter Schmerzen Kinder gebären; sie, die der Herr mit unvergleichlicher Pracht[^7] geziert hat. Jedoch der <ins>neidische Feind ihrer Seligkeit</ins>[^8] <ins>**täuschte** sie</ins>, dass sie in weiblicher Leichtfertigkeit von der Frucht des Baumes mit frefelhaftem Verlangen[^9]  kostete und ihren Mann in ihren Willen[^10] zog. Nach dem Anlegen der *Blätterschürze*[^11], wurde sie aus dem Garten der Wonnen auf das Feld von Hebron, zusammen mit ihrem Mann, in das Exil[^12] vertrieben. Als sie häufig die Schmerzen der Geburt erlitten hatte, alterte sie durch Mühe und Arbeit und starb schließlich, so wie der Herr vorhersagte.
 
 [^1]: 'p[ro]thopare[n]tes' und 'ersten eltern'.  
 [^2]: 'suggerente diabolo' und 'durch eingebung des teüfels'.  

@@ -14,7 +14,7 @@ Tatsächlich[^10] lässt sich die *elementare* Natur (II) in *vier* Hauptsphäre
 
 In ähnlicher Weise hat die Luft (ii) drei Abschnitte, den (a) *obersten*, der als *ätherisch*[^12] bezeichnet wird und den (b) *mittleren* sowie den (c) *untersten*, welche/r als *luftig*[^13] bezeichnet wird/werden[^14]. Im obersten Bereich (a) gibt es aufgrund der Nähe der Sonne Wärme und Licht, ähnlich verhält es sich auch im untersten Teil (c), dies aber aufgrund der *Reflexion*[^15] der *Strahlen von der Erde*[^16]. Im mittleren Abschnitt (b) jedoch, den die *reflektierten Strahlen*[^17] nicht erreichen können, herrscht Kälte und Dunkelheit. Es wird gesagt, dass dieser von *Dämonen*[^18] bewohnt wird, welche in diese *dunkle*[^19] *Luft* verstossen[^20] sind.[^21] Dort entstehen auch Unwetter[^22] wie Donner, Hagel, Schnee und ähnliches.[^23] 
 
-Aus diesen bilde man *zwölf Umlaufbahn*[^24] der Welt, die *Erde und Wasser* (iii, iv) umgeben, welche alle *Himmel* genannt werden können. Doch diese übertrifft[^25] der *Himmel der Dreifaltigkeit*, <ins>*Gott selbst*</ins>[^26], der *unter allen* Dinge[^27] und *jenseits aller* Dinge[^28] ist.
+Aus diesen bildet man *zwölf Umlaufbahnen*[^24] der Welt, die *Erde und Wasser* (iii, iv) umgeben, welche alle *Himmel* genannt werden können. Doch diese übertrifft[^25] der *Himmel der Dreifaltigkeit*, <ins>*Gott selbst*</ins>[^26], der *unter allen* Dinge[^27] und *jenseits aller* Dinge[^28] ist.
 
 Die Entfernungen der *vorgenannten*[^29] Umlaufbahnen und Planeten betragen von der Erde zum Mond 15625 Meilen; *Meilen, das sind* ***126*** *Stadien*[^30]. Vom Mond zum Merkur sind es 7812.5 Meilen. Vom Merkur zur Venus ist es die gleiche Entfernung. Von der Venus zur Sonne sind es 22436 Meilen. Von der Sonne zum Mars sind es 15625 Meilen. Vom Mars zum Jupiter sind es 7812 Meilen. Vom Jupiter zum Saturn ist es die gleiche Entfernung. Vom Saturn zum Firmament sind es 22436 Meilen. Daraus ergibt sich, dass die Entfernung von der Erde zum Sternenhimmel 109375 Meilen beträgt.
 
@@ -22,7 +22,7 @@ Die Entfernungen der *vorgenannten*[^29] Umlaufbahnen und Planeten betragen von 
 
 Was die <ins>***wahre himmlische Natur***</ins>[^31] betrifft, so haben etliche Autoren eine *dreifache* Unterscheidung getroffen, in eine (I) *überhimmlische*, eine (II) *himmlische* und eine (III) *unterhimmlische*.
 
-Die *überhimmlische* Hierarchie (I) existiere in drei Personen, wie manche behauptet haben, *jedoch fälschlicherweise*, denn laut **Dionysius** impliziert *Hierarchie* eine Ordnung, jedoch eine solche Ordnung existiert in den drei Personen nicht absolut, außer als Naturordnung.[^32]
+Die überhimmlische Hierarchie (I) existiere in drei Personen, wie manche behauptet haben, *jedoch fälschlicherweise*, denn laut **Dionysius** impliziert *Hierarchie* eine Ordnung, jedoch eine solche Ordnung existiert in den drei Personen nicht absolut, außer als Naturordnung.[^32]
 
 Die *himmlische* (II) ist in den <ins>*Orden der Engel*</ins>, die *unterhimmlische* (III) in *heiligen Menschen*. Des Weiteren ist die *himmlische* Hierarchie (Ii) in die (i) obere, die (ii) mittlere und die (iii) untere Ebene unterteilt. Die obere Ebene (i) umfasst drei Ordnungen, die (a) *Seraphim*, die (b) *Cherubim* und die (c) *Thronengel*. Die ersten (a) erwägen[^33] Gottes *Wohlwollen*[^34], die zweiten (b) seine *Größe*[^35], die dritten (c) seine *Angemessenheit*[^36]. Dem gemäß *liebt* Gott in den ersten (a) durch die *Nächstenliebe*[^37], in den zweiten (b) erkennt er durch *Wahrheit*, in den dritten (c) residiert[^38] er in *Gerechtigkeit*[^39].[^40]
 
@@ -34,7 +34,7 @@ Dies laut [Papst] **Gregor**.[^55] Nach **Dionysius**, jedoch bilden die *Krafte
 
 ### Von der Zeit oder den Zeitaltern
 
-Die Zeitalter der Welt werden sinnbildlich nach den *Altersabschnitten* des Menschen verstanden. Von den sechs Zeitalter[^58] der Welt, beginnt das erste (I) mit der *Welt Schöpfung* und dauert bis zur Sintflut. Gemäß der hebräischen Darstellung[^59] waren es 1656 Jahre[^60], nach der **Septuaginta** (wie **Isidor** erklärt) und vielen anderen, denen wir hier folgen, waren es jedoch 2242 Jahre.
+Die Zeitalter der Welt werden sinnbildlich nach den *Altersabschnitten* des Menschen verstanden. Von den sechs Zeitaltern[^58] der Welt, beginnt das erste (I) mit der *Welt Schöpfung* und dauert bis zur Sintflut. Gemäß der hebräischen Darstellung[^59] waren es 1656 Jahre[^60], nach der **Septuaginta** (wie **Isidor** erklärt) und vielen anderen, denen wir hier folgen, waren es jedoch 2242 Jahre.
 
 Und so unterscheiden sie sich also um die 586 [*686*] Jahre, welche die Hebräer in diesem Zeitalter weniger haben.[^61] Nach dieser Berechnung starb *Methusalem*[^62] zwar vor der Sintflut, jedoch noch im selben Jahr, in dem die Sintflut stattfand.
 
@@ -81,7 +81,7 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^28]: 'super om[n]ia' und 'über alle'.  
 [^29]: 'predictorum' und 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750 = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies *entspricht* jedoch der Entfernung des Mondes vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
-[^31]: 'celesti vero natura […] scilicet <ins>sup[er]naturalem</ins>'.
+[^31]: 'celesti vero natura […] scilicet <ins>sup[er]naturalem</ins>'.  
 [^32]: '... vt q[ui]dam dixerunt [et] male ...', von Pseudo-Dionysius Areopagita ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) definiert, ob der Begriff Hierarchie auf die Heilige Dreifaltigkeit angewendet werden kann.  
 [^33]: '[con]siderant' und 'betrachten'.  
 [^34]: 'bonitate[m]' und 'guttheit'.  
