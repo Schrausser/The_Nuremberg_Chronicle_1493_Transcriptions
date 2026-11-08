@@ -6,9 +6,9 @@ A *contemporary* English translation is presented from comparing the existing La
 
 ### The difference between celestial and elementary orbits[^1]
 
-The entire mechanism of the *corpus*[^2] of the world consists of *two* things: namely, (I) *celestial* nature and (II) *elemental* nature. Furthermore, the heaven (I) is divided into *three* *principal heavens*, namely the (i) *fiery*[^3], the (ii) *crystalline*, and the (iii) *firmament*.
+The entire <ins>***mechanism of the corpus***</ins>[^2] of the world consists of *two* things: namely, (I) *celestial* nature and (II) *elemental* nature. Furthermore, the heaven (I) is divided into *three* *principal heavens*, namely the (i) *fiery*[^3], the (ii) *crystalline*, and the (iii) *firmament*.
 
-Within the firmament (iii), which *indeed*[^4] is the heaven of the stars[^5], are the seven orbits of the seven planets: Saturn, Jupiter, Mars, Sun, Venus, Mercury and Moon. However, the first part of primordial matter[^7], which according to the philosopher[^8] is divided into two orbits, is called the crystalline or aqueous[^6] heaven (ii). The upper orbit is the *primum mobile*. The nature of this orbit is that all of them are in motion[^9], except for the fiery heaven (i), which is at rest.
+Within the firmament (iii), which *indeed*[^4] is the heaven of the stars[^5], are the seven orbits of the <ins>seven planets</ins>: Saturn, Jupiter, Mars, Sun, Venus, Mercury and Moon. However, the first part of primordial matter[^7], which according to the philosopher[^8] is divided into two orbits, is called the crystalline or aqueous[^6] heaven (ii). The upper orbit is the *primum mobile*. The nature of this orbit is that all of them are in motion[^9], except for the fiery heaven (i), which is at rest.
 
 In fact[^10], the *elemental* nature (II) can be divided into *four* main spheres: (i) fire, (ii) air, (iii) earth, and (iv) water. The sphere of fire (i) has three sections: (a) the *uppermost*, which is called *fiery*, and the *middle* and *lowermost*, which is called *olympian*[^11].
 
@@ -20,19 +20,19 @@ The distances of the *forementioned*[^29] orbits and planets from the Earth to t
 
 ### The distinction between the heavenly hierarchies [power or principalities]
 
-Regarding the *heavenly* nature (I), several authors have indeed made a *threefold* distinction between a (i) *superheavenly* (or the *supernatural*), a (ii) *heavenly* and a (iii) *subheavenly*.
+Regarding the <ins>***true heavenly nature***</ins>[^31], several authors have indeed made a *threefold* distinction between a (I) *superheavenly*, a (II) *heavenly* and a (III) *subheavenly*.
 
-The superheavenly hierarchy (i) exists in three persons, as some have claimed, *however erroneously*, because according to **Dionysius**, *hierarchy* implies an order, but such an order does not exist absolutely in the three persons, except as a natural order.[^31]
+The *superheavenly* hierarchy (I) exists in three persons, as some have claimed, *however erroneously*, because according to **Dionysius**, *hierarchy* implies an order, but such an order does not exist absolutely in the three persons, except as a natural order.[^32]
 
-The *heavenly* (ii) is divided into the *Order of Angels*, the *subheavenly* (iii) into *holy persons*. Furthermore, the *heavenly* hierarchy (ii) is divided into the (a) upper, the (b) middle and the (c) lower levels. The upper level (a) comprises three orders, the (a1) *Seraphim*, the (a2) *Cherubim* and the (a3) ​​*Throne Angels*.
+The *heavenly* (II) is divided into the <ins>*Order of Angels*</ins>, the *subheavenly* (III) into *holy persons*. Furthermore, the *heavenly* hierarchy (II) is divided into the (i) upper, the (ii) middle and the (ii) lower levels. The upper level (i) comprises three orders, the (a) *Seraphim*, the (b) *Cherubim* and the (c) ​​*Throne Angels*.
 
-The first (a1) consider[^32] God's *benevolence*[^33], the second (a2) his *greatness*[^34], the third (a3) ​​his *appropriateness*[^35]. Likewise, God *loves* in the first (a1) through *charity*[^36], in the second (a2) he understands through *truth*, in the third (a3) ​​he resides[^37] in *justice*[^38].[^39]
+The first (a) consider[^33] God's *benevolence*[^34], the second (b) his *greatness*[^35], the third (c) ​​his *appropriateness*[^36]. Likewise, God *loves* in the first (a) through *charity*[^37], in the second (b) he understands through *truth*, in the third (c) ​​he resides[^38] in *justice*[^39].[^40]
 
-The middle hierarchy (b) comprises (b1) *Ruler-*[^40], (b2) *Prince-*[^41] and (b3) *Power Angels*[^42]. The first (b1) govern the tasks of the angels, the *following*[^43] are *advisors*[^44] to the leaders of the peoples. The *last ones* (b3) suppress[^45] the *ability*[^46] of the *'devils'*[^47]. Likewise, the Lord *rules* among the first ones (b1) as *majesty*, among the following[^48] (b2) he *rules* through a *principality*[^49] and by the last ones (b3) his *'health' is kept*[^50].
+The middle level (ii) comprises (a) *Ruler-*[^41], (b) *Prince-*[^42] and (c) *Power Angels*[^43]. The first (a) govern the tasks of the angels, the *following*[^44] (b) are *advisors*[^45] to the leaders of the peoples. The *last ones* (c) suppress[^46] the *ability*[^47] of the *'devils'*[^48]. Likewise, the Lord *rules* among the first ones (a) as *majesty*, among the following[^49] (b) he *rules* through a *principality*[^50] and by the last ones (c) his *'health' is kept*[^51].
 
-The lower hierarchy (c) also includes three orders, (c1) *Virtues*[^51], (c2) *Archangels* and (c3) *Angels*. The Virtues (c1) are responsible for performing great miracles, the archangels (c2) for *proclaiming* important matters, and the angels (c3) for the *protection* of people. Thus, in the first (c1) God acts as a *force*[^52], in the *following* (c2) he reveals himself as *light*, in the third (c3) he *nourishes* as *inspiration*[^53].
+The lower level (iii) also includes three orders, (a) *Virtues*[^52], (b) *Archangels* and (c) *Angels*. The Virtues (a) are responsible for performing great miracles, the archangels (b) for *proclaiming* important matters, and the angels (c) for the *protection* of people. Thus, in the first (a) God acts as a *force*[^53], in the *following* (b) he reveals himself as *light*, in the third (c) he *nourishes* as *inspiration*[^54].
 
-This according to [Pope] **Gregor**.[^54] According to **Dionysius**, however, the *Virtues* (c1) form the middle order of the second hierarchy (b2), while the *Prince Angels* (b2) form the first order of the third hierarchy (c1). This must be taken into account so that the *Trinity of the divine Person*[^55] becomes visible in *each* of the *three* hierarchies mentioned (i, ii, [iii]), on all levels, the upper (1), middle (2) and lower (3) equally, as[^56] in the heavenly hierarchy (ii).[^57]
+This according to [Pope] **Gregor**.[^55] According to **Dionysius**, however, the *Virtues* (iii.a) form the middle order of the second level (ii.b), while the *Prince Angels* (ii.b) form the first order of the third level (iii.a). This must be taken into account so that the *Trinity of the divine Person*[^56] becomes visible in *each* of the *three* levels mentioned (i, ii, iii), in all orders, the upper (a), middle (b) and lower (c) equally.[^57]
 
 ### From time or ages
 
@@ -83,32 +83,32 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^28]: 'super om[n]ia' and 'über alle'.  
 [^29]: 'predictorum' and 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560.625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769.375 km. However, this *corresponds* to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
-[^31]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) defined whether the term hierarchy can be applied to the Holy Trinity.  
-[^32]: '[con]siderant' and 'betrachten'.  
-[^33]: 'bonitate[m]' and 'guttheit'.  
-[^34]: 'virtute[m]' and 'kraft'.  
-[^35]: 'equitate[m]' and 'gleicheit'.  
-[^36]: 'charitas' and 'lib'.  
-[^37]: 'sedet' and 'sitzt'.  
-[^38]: 'equitas' and 'gleicheit'.  
-[^39]: by Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), often also attributed to Saint Gregory the Great (c.f. Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)), also adapted by Meister Eckhart ([1936](http://www.eckhart.de/opus.htm)), reflects his Trinitarian theology, in which he harmonizes the different ways of *perceiving God* with the three *persons* of the Trinity.  
-[^40]: 'dominat[i]ones' and 'herschengel'.  
-[^41]: 'principatus' and 'fürstengel'.  
-[^42]: 'potestates' and 'gewaltengel', better *ability*, *skill*.    
-[^43]: 'Sequentes' and 'die andern'.  
-[^44]: 'capitibunt p[re]sunt' and 'pflegen der öbern'.  
-[^45]: 'coercent' and 'zwinge[n]'.  
-[^46]: 'potestatem' and 'macht'.  
-[^47]: 'demonu[m]' and 'teüfel', *the criminals*.  
-[^48]: 'in sequentibus' and 'in den andern'.  
-[^49]: 'principat[us]' and 'fürstenthumb'.  
-[^50]: 'tenet[ur] vt salus' and 'gehalte[n] als das hail'.  
-[^51]: 'virtutes' and 'kreftengel'.  
-[^52]: 'virt[us]' and 'kraft'.  
-[^53]: 'inspira[n]s' and 'eyngeystender'.  
-[^54]: 'Hec dicta sunt s[ecundu]m Gregoriu[m]', common phrase in medieval manuscripts, the preceding passage was marked as quoted from the work of Pope Gregory I.  
-[^55]: 'trinitas p[er]sonarum diuinarum' and 'trinitet der gottliche[n] person'.  
-[^56]: 'vt patet'.  
+[^31]: 'celesti vero natura […] scilicet <ins>sup[er]naturalem</ins>'.
+[^32]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) defined whether the term hierarchy can be applied to the Holy Trinity.  
+[^33]: '[con]siderant' and 'betrachten'.  
+[^34]: 'bonitate[m]' and 'guttheit'.  
+[^35]: 'virtute[m]' and 'kraft'.  
+[^36]: 'equitate[m]' and 'gleicheit'.  
+[^37]: 'charitas' and 'lib'.  
+[^38]: 'sedet' and 'sitzt'.  
+[^39]: 'equitas' and 'gleicheit'.  
+[^40]: by Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), often also attributed to Saint Gregory the Great (c.f. Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)), also adapted by Meister Eckhart ([1936](http://www.eckhart.de/opus.htm)), reflects his Trinitarian theology, in which he harmonizes the different ways of *perceiving God* with the three *persons* of the Trinity.  
+[^41]: 'dominat[i]ones' and 'herschengel'.  
+[^42]: 'principatus' and 'fürstengel'.  
+[^43]: 'potestates' and 'gewaltengel', better *ability*, *skill*.    
+[^44]: 'Sequentes' and 'die andern'.  
+[^45]: 'capitibunt p[re]sunt' and 'pflegen der öbern'.  
+[^46]: 'coercent' and 'zwinge[n]'.  
+[^47]: 'potestatem' and 'macht'.  
+[^48]: 'demonu[m]' and 'teüfel', *the criminals*.  
+[^49]: 'in sequentibus' and 'in den andern'.  
+[^50]: 'principat[us]' and 'fürstenthumb'.  
+[^51]: 'tenet[ur] vt salus' and 'gehalte[n] als das hail'.  
+[^52]: 'virtutes' and 'kreftengel'.  
+[^53]: 'virt[us]' and 'kraft'.  
+[^54]: 'inspira[n]s' and 'eyngeystender'.  
+[^55]: 'Hec dicta sunt s[ecundu]m Gregoriu[m]', common phrase in medieval manuscripts, the preceding passage was marked as quoted from the work of Pope Gregory I.  
+[^56]: 'trinitas p[er]sonarum diuinarum' and 'trinitet der gottliche[n] person'.  
 [^57]: Thomas Aquinas ([1485](https://doi.org/10.3931/e-rara-15170)) elaborated on this in works such as the 'Summa Theologica' and followed the Dionysian structure. The idea that every hierarchy reflects the *Trinity of divine persons* is a central theme of medieval Scholasticism.  
 [^58]: The Christian understanding of history popularized by Saint Augustine ([1489](https://doi.org/10.3931/e-rara-12425)). In 'De civitate Dei', he laid the foundation for this chronological framework during the decline of the Western Roman Empire as a comprehensive Christian interpretation of *human history* and the relationship between the *spiritual and secular* worlds.  
 [^59]: 'hebraicam veritate[m]' und 'nach hebreyscher warheit', referred to the *original* Hebrew text of the Bible, as opposed to the Greek *Septuagint*.  
