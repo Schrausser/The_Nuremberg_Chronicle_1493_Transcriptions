@@ -12,27 +12,32 @@ Euphrates
 
 Von dem fluß vnd mancherley namen des meers.
 
-**HOmerus** spricht d[as] alles erdtreich vo[n] dem grossen meer (d[as] ettlich d[as] wendel meer nennen) beschlossen werde. darumb heysse auch die erde ein insel dann sy sey vom meer v[m]mfangen. vn[d] wo man an dye örter des erdtreichs kom[m] so finde ma[n] da selbst das meer.
+**HOmerus**[^1] spricht d[as] alles erdtreich vo[n] dem grossen meer (d[as] ettlich d[as] wendel meer nennen) beschlossen werde. darumb heysse auch die erde ein insel dann sy sey vom meer v[m]mfangen. vn[d] wo man an dye örter des erdtreichs kom[m] so finde ma[n] da selbst das meer.
 
 Dasselb meer fleiißt vom nyderga[n]g zů der lincken hand neben europas. vnd zů der rechten seytten neben affricam. vn[d] lauffet den[n] nach zertrennu[n]g der zweyer perg (die ma[n] Hirculis seiiln nennet) zwischen Mauritania der morn land vn[d] hispania. vnd bricht an einem ort iiber d[as] gezwel des innern meers auß in die erden vn[d] fleiisset dar durch gen dem auffga[n]g also d[as] zwey meer sind. der eins die erden vmbschrenckt. vn[d] d[as] ander darauß durch dye erde[n] fleiisset. vnd dise bede meer haben mancherley name[n] von den landen. inseln gegende[n]. stötten vn[d] leiiten. oder nebe[n] den sy hinflyessen. od[er] daran sy stossen.
 
 Ein zweyfel ist gewest ob ma[n] gerings vmb dise erden schiffen möcht. **Strabo** meynet d[as] man weder d[as] mittäglich meer (vo[n] vnleydenlicher hitze wegen) noch das mitternächtlich meer (vo[n] seines gefriist wegens( beschiffen möcht.
 
-Aber **Iulius solinus** d[er] geschichtbeschreiber sötzt d[as] alles meer das vo[n] India bis in hispaniam hinden affriicam vmbgibt zeschiffen sey. in massen dan[n] **Plinius verone[n]sis** durch anzeygu[n]g ettlicher geschichten mit schiffungen an den selben örtern geübt zů erkennen gibt. vn[d] schreibt das ettlich die er in seinen schrifften vn[d] büchern nen[n]t gesehen worden seyen die von kaufmanschatz wegen auß Hyspania bis in Ethiopiam der moren land mit schiffung gereyset haben.
+Aber **Iulius solinus**[^2] d[er] geschichtbeschreiber sötzt d[as] alles meer das vo[n] India bis in hispaniam hinden affriicam vmbgibt zeschiffen sey. in massen dan[n] **Plinius verone[n]sis**[^3] durch anzeygu[n]g ettlicher geschichten mit schiffungen an den selben örtern geübt zů erkennen gibt. vn[d] schreibt das ettlich die er in seinen schrifften vn[d] büchern nen[n]t gesehen worden seyen die von kaufmanschatz wegen auß Hyspania bis in Ethiopiam der moren land mit schiffung gereyset haben.
 
 Von dem mitternachtlichen meer ist eyn grössers gezencke wie wol wissentlich ist d[as] auß verfügung des keysers Augusti d[as] selb meer zum merern teyle bey teiitschen lande[n] bis an d[as] gepiirg der Cimbrier oder fleming beschyffen worden ist.
 
 So sind die Caspianische[n] gestadt mit höreßkraft der Macedonier (die weil Seleucus vn[d] Antiochus regierten) also außgespehet vnd durch schyffet worden das in kurtzer zeyt schier dye gantz mitternachtlich gegent beschiffet warde. 
 
-So zeiicht sich ***Plinius*** auff dye zeiigknuß **Cornelij**. der ein römer vn[d] eyn verweser Gallie von eim kiinig der schwaben gegebe[n] ward vnd sagt  von ettlichen indiern dye kauffmanschatz wegen auß india schiffende durch vngestümigkeyt in teiitsche land getrage[n] warden. 
+So zeiicht sich ***Plinius***[^4] auff dye zeiigknuß **Cornelij**[^5]. der ein römer vn[d] eyn verweser Gallie von eim kiinig der schwaben gegebe[n] ward vnd sagt  von ettlichen indiern dye kauffmanschatz wegen auß india schiffende durch vngestümigkeyt in teiitsche land getrage[n] warden. 
 
-**Otto** der geschichtbeschreiber sötzt d[as] vnder de[n] teiitsche[n] keysern eyn indische schiffung mit kaufleiiten auß india an dem teiitsche[n] gestadt begriffen worde[n] seyen. die da von vngestüme[n] winden vo[n] der orientischen  gegent ko[m]men waren. d[as] doch in keinen weg het miigen beschehen wo d[as] mitternachtlich meer vnbeschiflich vn[d] gefroren wär. als ettlich meyne[n].
+**Otto**[^6] der geschichtbeschreiber sötzt d[as] vnder de[n] teiitsche[n] keysern eyn indische schiffung mit kaufleiiten auß india an dem teiitsche[n] gestadt begriffen worde[n] seyen. die da von vngestüme[n] winden vo[n] der orientischen  gegent ko[m]men waren. d[as] doch in keinen weg het miigen beschehen wo d[as] mitternachtlich meer vnbeschiflich vn[d] gefroren wär. als ettlich meyne[n].
 
 Von dem paradeyß setzen die lerer der heyligen geschrifft.
 
 **D**Ise stat w[ar] als damascenus sagt eyn kamer aller frolockung. dye ist höher dan[n] die erd. vnd mit gemassigten allereliitersten lufft erleiichtet. vnd allweg mitt blüenden pflantze[n] gezieret. vol gůts gesmackes. vn[d] wont nichts vnuerniinftigs darin[n]. dye ist auch. als **ysidorus** sprichet mitt allem ge
 
 
- 
+[^1]: legendary ancient Greek poet of the 8th to 7th c. BC.  
+[^2]: Roman geographer *Gaius Julius Solinus* (3rd to 4th c. AD)  c.f. *Collectanea rerum memorabiliumy*.  
+[^3]: the historical Latin designation for *Gaius Plinius Secundus*, Pliny the Elder, c.f. *Historia Naturalis*.  
+[^4]: Note, *Gaius Plinius <ins>Caecilius</ins> Secundus*, Pliny the Younger vs. *Gaius Plinius Secundus*, Pliny the Elder.  
+[^5]: *Publius Cornelius Tacitus* (c. 56-120 AD), friend of Pliny the Younger.  
+[^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus*.
 
 
