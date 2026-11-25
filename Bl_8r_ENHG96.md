@@ -37,7 +37,7 @@ Von dem paradeyß setzen die lerer der heyligen geschrifft.
 [^2]: Roman geographer *Gaius Julius Solinus* (3rd to 4th c. AD)  c.f. *Collectanea rerum memorabiliumy*.  
 [^3]: the historical Latin designation for *Gaius Plinius Secundus*, Pliny the Elder, c.f. *Historia Naturalis*.  
 [^4]: Note, *Gaius Plinius <ins>Caecilius</ins> Secundus*, Pliny the Younger vs. *Gaius Plinius Secundus*, Pliny the Elder.  
-[^5]: *Publius Cornelius Tacitus* (c. 56-120 AD), friend of Pliny the Younger.  
+[^5]: *Publius Cornelius Tacitus* (c. 56 - 120 AD), friend of Pliny the Younger.  
 [^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus*.
 
 
