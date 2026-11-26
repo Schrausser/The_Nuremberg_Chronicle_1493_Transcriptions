@@ -26,7 +26,7 @@ Darinn sind auch enoch vn[d] helias in wollustperkeyt. die zů letst vo[n] den h
 
 Dise stat ist weit vo[n] vnserm inwonlichem teil entlege[n]. vn[d] in aller wu[n]samkeit scheinperlich. vn[d] hat gesund liiftigkeit. fruchtperkeit wu[n]samkeit vn[d] frölichkeit
 
-Auß des mittel geet ein prun[n] der es gantz erfeiichtet. vn[d] der selb prun[n] wirdt in vier gepere[n]de fliiß geteilt als die **außleger des bůchs d[er] geschüpff** zů erken[n]en geben.
+Auß des mittel geet ein prun[n] der es gantz erfeiichtet. vn[d] der selb prun[n] wirdt in vier gepere[n]de fliiß geteilt als die **außleger des bůchs d[er] geschüpff**[^3] zů erken[n]en geben.
 
 Ganges oder phison.
 
@@ -35,6 +35,7 @@ Ganges oder phison.
 
 [^1]: c.f. Foresti ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a3v).  
 [^2]: Genesis 3:14-24, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aiiij).   
+[^3]: the first book of Moses, *Genesis*, according to medieval thinking, interprets the creatures as a *reflection* of divine creation.
 
 ## References
 
