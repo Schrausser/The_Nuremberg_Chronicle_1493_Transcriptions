@@ -30,7 +30,7 @@ So zeiicht sich ***Plinius***[^4] auff dye zeiigknuß **Cornelij**[^5]. der ein 
 
 Von dem paradeyß setzen die lerer der heyligen geschrifft.
 
-**D**Ise stat w[ar] als damascenus sagt eyn kamer aller frolockung. dye ist höher dan[n] die erd. vnd mit gemassigten allereliitersten lufft erleiichtet. vnd allweg mitt blüenden pflantze[n] gezieret. vol gůts gesmackes. vn[d] wont nichts vnuerniinftigs darin[n]. dye ist auch. als **ysidorus** sprichet mitt allem ge
+**D**Ise stat w[ar] als **damascenus**[^7] sagt eyn kamer aller frolockung. dye ist höher dan[n] die erd. vnd mit gemassigten allereliitersten lufft erleiichtet. vnd allweg mitt blüenden pflantze[n] gezieret. vol gůts gesmackes. vn[d] wont nichts vnuerniinftigs darin[n]. dye ist auch. als **ysidorus** sprichet mitt allem ge
 
 
 [^1]: legendary ancient Greek poet of the 8th to 7th c. BC, c.f. Szlezák ([2012](http://www.jstor.org/stable/j.ctv11698jm)), Rabel et al. ([2005](http://www.jstor.org/stable/j.ctv1n357ng)) or Pache et al. ([2020](https://doi.org/10.1017/9781139225649)).   
@@ -38,7 +38,8 @@ Von dem paradeyß setzen die lerer der heyligen geschrifft.
 [^3]: the historical Latin designation for *Gaius Plinius Secundus*, Pliny the Elder, c.f. *Historia Naturalis* ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1470](https://doi.org/10.3931/e-rara-74199)), s. Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/)).  
 [^4]: Note, *Gaius Plinius <ins>Caecilius</ins> Secundus*, Pliny the Younger vs. *Gaius Plinius Secundus*, Pliny the Elder.  
 [^5]: *Publius Cornelius Tacitus* (c. 56 - 120 AD), friend of Pliny the Younger, c.f. Lord ([1925](http://www.jstor.org/stable/3288954)) or Komoróczy ([2016](http://www.jstor.org/stable/26321892)).  
-[^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus* ([1912](https://archive.org/details/ottonisepiscopif45otto), [1928](https://archive.org/details/twocitieschronic0000otto)), c.f. Fellner ([1934](http://www.jstor.org/stable/25013275)), Mierow ([1949](http://www.jstor.org/stable/283529)) or Ehlers ([2013](http://www.jstor.org/stable/j.ctv11695d3)).
+[^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus* ([1912](https://archive.org/details/ottonisepiscopif45otto), [1928](https://archive.org/details/twocitieschronic0000otto)), c.f. Fellner ([1934](http://www.jstor.org/stable/25013275)), Mierow ([1949](http://www.jstor.org/stable/283529)) or Ehlers ([2013](http://www.jstor.org/stable/j.ctv11695d3)).  
+[^7]: The main work of *Ioannes Damascenus* (*St. John of Damascus*) c. 675 - 749 AD, is the *Fount of Knowledge* (*Pēgē gnōseōs*), a comprehensive synthesis of Christian philosophy and doctrine. In  *De Fide Orthodoxay* (Book II, Chapter 11), he presents Paradise as a twofold reality - both a physical, geographical garden and a spiritual state of communion with God.  
 
 ## References
 
