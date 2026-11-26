@@ -39,11 +39,13 @@ Von dem paradeyß setzen die lerer der heyligen geschrifft.
 [^4]: Note, *Gaius Plinius <ins>Caecilius</ins> Secundus*, Pliny the Younger vs. *Gaius Plinius Secundus*, Pliny the Elder.  
 [^5]: *Publius Cornelius Tacitus* (c. 56 - 120 AD), friend of Pliny the Younger, c.f. Lord ([1925](http://www.jstor.org/stable/3288954)) or Komoróczy ([2016](http://www.jstor.org/stable/26321892)).  
 [^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus* ([1912](https://archive.org/details/ottonisepiscopif45otto), [1928](https://archive.org/details/twocitieschronic0000otto)), c.f. Fellner ([1934](http://www.jstor.org/stable/25013275)), Mierow ([1949](http://www.jstor.org/stable/283529)) or Ehlers ([2013](http://www.jstor.org/stable/j.ctv11695d3)).  
-[^7]: The main work of *Ioannes Damascenus* (*St. John of Damascus*) c. 675 - 749 AD, is the *Fount of Knowledge* (*Pēgē gnōseōs*), a comprehensive synthesis of Christian philosophy and doctrine. In  *De Fide Orthodoxay* (Book II, Chapter 11), he presents Paradise as a twofold reality - both a physical, geographical garden and a spiritual state of communion with God.  
+[^7]: The main work of *Ioannes Damascenus* (*St. John of Damascus*, c. 675 - 749 AD) is the *Pēgē gnōseōs* (*Fount of Knowledge*, Damascenus, [1958](https://archive.org/details/writingsthefount0037john)), a comprehensive synthesis of Christian philosophy and doctrine. In  *De Fide Orthodoxay* (Book II, Chapter 11), he presents Paradise as a *twofold* reality - both a physical, geographical garden and a spiritual state of communion with God (c.f. Louth, [2018](https://doi.org/10.1007/978-94-024-1151-5_602-1)).
 
 ## References
 
 Brodersen, K. (2011). Mapping Pliny’s World: The Achievement of Solinus. *Bulletin of the Institute of Classical Studies,54*(1), 63–88. [https://doi.org/10.1111/j.2041-5370.2011.00017.x.](https://doi.org/10.1111/j.2041-5370.2011.00017.x)
+
+Damascenus, I. (1958). *John of Damascus, Writings: The Fount of Knowledge*. Edited by Chase Jr., F. H. Vol. 37. The Fathers of the Church. New York: The Fathers of the Church. [https://archive.org/details/writingsthefount0037john](https://archive.org/details/writingsthefount0037john)
 
 Ehlers, J. (2013). *Otto von Freising: Ein Intellektueller Im Mittelalter*. 1st ed. Verlag C.H.Beck. [http://www.jstor.org/stable/j.ctv11695d3](http://www.jstor.org/stable/j.ctv11695d3)
 
@@ -52,6 +54,8 @@ Fellner, F. (1934). The "Two Cities" of Otto of Freising and Its Influence on th
 Komoróczy, B. (2016). Germanische »Könige« Unter Roms Einfluss. *Archäologie in Deutschland, 1*, 38–39. [http://www.jstor.org/stable/26321892](http://www.jstor.org/stable/26321892)
 
 Lord, L. E. (1925). Tacitus the Historian. *The Classical Journal, 21*(3), 177–90. [http://www.jstor.org/stable/3288954](http://www.jstor.org/stable/3288954)
+
+Louth, A. (2018). John of Damascus. In *Encyclopedia of Medieval Philosophy: Philosophy Between 500 and 1500*, edited by Lagerlund, H., 1–8. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-024-1151-5_602-1](https://doi.org/10.1007/978-94-024-1151-5_602-1)
 
 Mierow, C. C. (1949). Bishop Otto of Freising: Historian and Man. *Transactions and Proceedings of the American Philological Association, 80*, 393–402. [http://www.jstor.org/stable/283529](http://www.jstor.org/stable/283529)
 
