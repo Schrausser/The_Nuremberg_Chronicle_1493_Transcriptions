@@ -34,7 +34,7 @@ Dar auß samlest du zwölff vmbkreys. die die erden vn[d] wasser vmbringen die a
 
 Aber dise all vbertrift der hymel der trifeltigkeyt. der got der in allen vn[d] vber all ist.
 
-Mercke auch vo[n] gelegenheyt der vorgenanten vmbkreys vnnd planeten von der erd zu dem mond sind .[x]v<sup>m</sup>. vi<sup>c</sup>.xxv meyl
+Mercke auch vo[n] gelegenheyt der vorgenanten vmbkreys vnnd planeten von der erd zu dem mond sind .[i]v<sup>m</sup>[^2]. vi<sup>c</sup>.xxv meyl
 
 Von dem mond zu mercurio .vij<sup>m</sup>.viij<sup>c</sup>.xiij. 
 
@@ -50,13 +50,13 @@ Vo[n] iupiter zu saturnus auch souil.
 
 Von saturno zu[m] firmament .xxiij<sup>m</sup>.iiij<sup>c</sup>.xxxvi. 
 
-Auß de[m] volgt d[as] vo[n] d[er] erden bis an de[n] gestirnte[n] hymel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxxv. meyl.[^2]
+Auß de[m] volgt d[as] vo[n] d[er] erden bis an de[n] gestirnte[n] hymel sind .C<sup>m</sup>.viiij<sup>m</sup>.iij<sup>c</sup>.lxxv. meyl.[^3]
 
 Von vnderschid der hymlische[n] yerarchey gewalt oder fiirstenthumb.
 
 **A**Ber von der hymlische[n] natur haben öthlich dreyerley vnderschid gesötzet als ein vberhi[m]lische ein himlische vn[d] ein vnderhi[m]lische. 
 
-Die vberhymmelisch sol in dreien personen seyn. als öthlich wie wol iibel gesagt haben. dann das worte yerachia als **dyonisius**[^3] sagt begreift in im bedeiitnuß einer ordnung vnd die selb ordnung schlechtzs zereden ist nitt in dreyen personen. sunder alleyn ist es eyn ordnunge der nature.
+Die vberhymmelisch sol in dreien personen seyn. als öthlich wie wol iibel gesagt haben. dann das worte yerachia als **dyonisius**[^4] sagt begreift in im bedeiitnuß einer ordnung vnd die selb ordnung schlechtzs zereden ist nitt in dreyen personen. sunder alleyn ist es eyn ordnunge der nature.
 
 Dye hymmelisch ist in dem englische[n] orden
 
@@ -72,14 +72,15 @@ Die vndere ierarchey hölt auch drey orden. als kröftengel ertzengel vnd engel.
 
 In dem ersten wiirckt got als eyn krafft. in den anderen offenbaret er als eyn lyecht. in den dritten nöret er als ein geystender.
 
-Diß sprichet **Gregorius**.[^4] 
+Diß sprichet **Gregorius**.[^5] 
 
 Aber als **Dionisius** sötzt so sind die kröftengel der mittel orden der anderen ierarchey. vnnd die fiirstengel d[er] erst orde[n] d[er] dritte[n] ierarchey. vn[d] 
 
-[^1]: c.f. Genesis 2:13, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aij).   
-[^2]: c.f. Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), lib. II), De Beauvais ([1494](https://books.google.com/books?id=v9yKk_tdhusC), fol. i84v - i85r), Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), also Kircher ([1650](https://doi.org/10.3931/e-rara-26092)), Detlefsen ([1900](http://www.jstor.org/stable/4472753)), Gudger ([1924](http://www.jstor.org/stable/224311)), Torrellas ([1999](http://www.jstor.org/stable/40694499)), Mathiesen ([2002](https://doi.org/10.1017/CHOL9780521623711)), further Isgro ([1979](http://www.jstor.org/stable/40351750), p. 23), Knobloch ([1994](http://www.jstor.org/stable/20777445)).  
-[^3]: Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)), Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).  
-[^4]: Étaix ([1999](https://books.google.com/books?id=r4ERnwEACAAJ)), c.f. Petersen ([1987](http://www.jstor.org/stable/2846381)) and Hoel ([2020](https://doi.org/10.1177/0012580620910973)).  
+[^1]: c.f. Genesis 2:13, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. aij).  
+[^2]: Ambiguous, should be 'xv<sup>m</sup>'.  
+[^3]: c.f. Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), lib. II), De Beauvais ([1494](https://books.google.com/books?id=v9yKk_tdhusC), fol. i84v - i85r), Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), also Kircher ([1650](https://doi.org/10.3931/e-rara-26092)), Detlefsen ([1900](http://www.jstor.org/stable/4472753)), Gudger ([1924](http://www.jstor.org/stable/224311)), Torrellas ([1999](http://www.jstor.org/stable/40694499)), Mathiesen ([2002](https://doi.org/10.1017/CHOL9780521623711)), further Isgro ([1979](http://www.jstor.org/stable/40351750), p. 23), Knobloch ([1994](http://www.jstor.org/stable/20777445)).  
+[^4]: Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)), Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).  
+[^5]: Étaix ([1999](https://books.google.com/books?id=r4ERnwEACAAJ)), c.f. Petersen ([1987](http://www.jstor.org/stable/2846381)) and Hoel ([2020](https://doi.org/10.1177/0012580620910973)).  
 
 
 
