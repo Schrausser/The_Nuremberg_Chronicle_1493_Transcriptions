@@ -33,11 +33,43 @@ Von dem paradeyß setzen die lerer der heyligen geschrifft.
 **D**Ise stat w[ar] als damascenus sagt eyn kamer aller frolockung. dye ist höher dan[n] die erd. vnd mit gemassigten allereliitersten lufft erleiichtet. vnd allweg mitt blüenden pflantze[n] gezieret. vol gůts gesmackes. vn[d] wont nichts vnuerniinftigs darin[n]. dye ist auch. als **ysidorus** sprichet mitt allem ge
 
 
-[^1]: legendary ancient Greek poet of the 8th to 7th c. BC.  
-[^2]: Roman geographer *Gaius Julius Solinus* (3rd to 4th c. AD)  c.f. *Collectanea rerum memorabiliumy*.  
-[^3]: the historical Latin designation for *Gaius Plinius Secundus*, Pliny the Elder, c.f. *Historia Naturalis*.  
+[^1]: legendary ancient Greek poet of the 8th to 7th c. BC, c.f. Szlezák ([2012](http://www.jstor.org/stable/j.ctv11698jm)), Rabel et al. ([2005](http://www.jstor.org/stable/j.ctv1n357ng)) or Pache et al. ([2020](https://doi.org/10.1017/9781139225649)).   
+[^2]: Roman geographer *Gaius Julius Solinus* (3rd to 4th c. AD)  c.f. *Collectanea rerum memorabilium* ([1864](https://archive.org/details/bub_gb__23hSzdVBGoC)), c.f.  Brodersen ([2011](https://doi.org/10.1111/j.2041-5370.2011.00017.x)).  
+[^3]: the historical Latin designation for *Gaius Plinius Secundus*, Pliny the Elder, c.f. *Historia Naturalis* ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1470](https://doi.org/10.3931/e-rara-74199)), s. Rackham ([1967](https://archive.org/details/naturalhistory01plinuoft/)).  
 [^4]: Note, *Gaius Plinius <ins>Caecilius</ins> Secundus*, Pliny the Younger vs. *Gaius Plinius Secundus*, Pliny the Elder.  
-[^5]: *Publius Cornelius Tacitus* (c. 56 - 120 AD), friend of Pliny the Younger.  
-[^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus*.
+[^5]: *Publius Cornelius Tacitus* (c. 56 - 120 AD), friend of Pliny the Younger, c.f. Lord ([1925](http://www.jstor.org/stable/3288954)) or Komoróczy ([2016](http://www.jstor.org/stable/26321892)).  
+[^6]: most likely *Bishop Otto of Freising* (c. 1112 - 1158), one of the most influential historians of the Middle Ages, c.f. *Chronica sive Historia de duabus civitatibus* ([1912](https://archive.org/details/ottonisepiscopif45otto), [1928](https://archive.org/details/twocitieschronic0000otto)), c.f. Fellner ([1934](http://www.jstor.org/stable/25013275)), Mierow ([1949](http://www.jstor.org/stable/283529)) or Ehlers ([2013](http://www.jstor.org/stable/j.ctv11695d3)).
+
+## References
+
+Brodersen, K. (2011). Mapping Pliny’s World: The Achievement of Solinus. *Bulletin of the Institute of Classical Studies,54*(1), 63–88. [https://doi.org/10.1111/j.2041-5370.2011.00017.x.](https://doi.org/10.1111/j.2041-5370.2011.00017.x)
+
+Ehlers, J. (2013). *Otto von Freising: Ein Intellektueller Im Mittelalter*. 1st ed. Verlag C.H.Beck. [http://www.jstor.org/stable/j.ctv11695d3](http://www.jstor.org/stable/j.ctv11695d3)
+
+Fellner, F. (1934). The "Two Cities" of Otto of Freising and Its Influence on the Catholic Philosophy of History. *The Catholic Historical Review, 20*(2), 154–74. [http://www.jstor.org/stable/25013275](http://www.jstor.org/stable/25013275)
+
+Komoróczy, B. (2016). Germanische »Könige« Unter Roms Einfluss. *Archäologie in Deutschland, 1*, 38–39. [http://www.jstor.org/stable/26321892](http://www.jstor.org/stable/26321892)
+
+Lord, L. E. (1925). Tacitus the Historian. *The Classical Journal, 21*(3), 177–90. [http://www.jstor.org/stable/3288954](http://www.jstor.org/stable/3288954)
+
+Mierow, C. C. (1949). Bishop Otto of Freising: Historian and Man. *Transactions and Proceedings of the American Philological Association, 80*, 393–402. [http://www.jstor.org/stable/283529](http://www.jstor.org/stable/283529)
+
+Pache, C. O., Dué, C., Lupack, S., & Lamberton, R. (2020). *The Cambridge Guide to Homer*. Cambridge University Press. [https://doi.org/10.1017/9781139225649](https://doi.org/10.1017/9781139225649)
+
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
+
+Rabel, R. J., Burgess, J. S., Lateiner, D., Minchin, E., Morrison, J. V., Newton, R. M., Roisman, H. M., Scodel, R., Scott, W. C., & Wilson, D. F. (2005). *Approaches to Homer, Ancient and Modern*. Classical Press of Wales. [http://www.jstor.org/stable/j.ctv1n357ng](http://www.jstor.org/stable/j.ctv1n357ng)
+
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
+
+Solinus, G. J. (1864). *Collectanea Rerum Memorabilium*. Edited by Mommsen, T. Berolini: In Aedibus Friderici Nicolai. [https://archive.org/details/bub_gb__23hSzdVBGoC](https://archive.org/details/bub_gb__23hSzdVBGoC)
+
+Szlezák, T. A. (2012). *Homer: Oder Die Geburt Der Abendländischen Dichtung*. 1st ed. Verlag C.H.Beck. [http://www.jstor.org/stable/j.ctv11698jm](http://www.jstor.org/stable/j.ctv11698jm)
+
+Von Freising, O. (1912). *Ottonis Episcopi Frisingensis Chronica; Sive, Historia de Duabus Civitatibus. Editio Altera. Recognovit Adolfus Hofmeister*. Hannoverae: Impensis Bibliopolii Hahniani. [https://archive.org/details/ottonisepiscopif45otto](https://archive.org/details/ottonisepiscopif45otto)
+
+———. (1928). *The Two Cities; a Chronicle of Universal History to the Year 1146 A.D*. New York: Columbia University Press. [https://archive.org/details/twocitieschronic0000otto](https://archive.org/details/twocitieschronic0000otto)
 
 

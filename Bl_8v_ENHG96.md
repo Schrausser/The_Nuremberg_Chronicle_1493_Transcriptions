@@ -18,5 +18,18 @@ Also ist es hie gewesen. vn[d] heist das holtz des wissens des gůtten vn[d] bö
 
 Das drit vn[d] edelst holtz was d[as] holtz des lebens in dreyerley weyß. zum ersten von seiner krafft wegen. dan[n] es gab dem der es aße die sach der vntötlichkeit. vn[d] verhüttet dye sach d[er] kranckheyt vn[d] schwachheyt. doch nit auß natiirlicher krafft leiiterlich. sund[er] mer gnedigklich vo[n] wegen der tugent der gott gehorsamen sel. die dan[n] die vornemlich sach der vntötlichkeyt des lebens w[as]. als **Thomas**[^2] setzet. dan[n] als offt d[er] mensch kranck worden wär so het er von disem holtz geno[m]men vn[d] gesuntheit wider empfangen. vn[d] hett d[as] also getan bis zů erfiillung der außerwölten zal als dan[n] wer[e]n alle menschen miteinander in de[n] hymel genomen worden. zum andern vo[n] der gelege[n]heit wegen dan[n] diß holtz stůnd in dem mittel des paradis als das köstlicher vnd wirdiger. wie das hertz des thieres enmitte[n] des leibs lyget. vn[d] den gantzen leib lebendig macht. in bedeiitnuß des creiitzs cristi. der dye gantzen welt lebendig macht vn[d] adlle ding an sich zeiicht. zum dritten vo[n] heyliger bedeiitnuß wege[n]. als
 
-[^1]: Greek geographer *Marcianus Heracleensis* (c. 4th c. AD), c.f. *Periplus Maris Exteri*, abour maritime distances.  
-[^2]: *St. Thomas Aquinas*, c.f. *Summa Theologiae* (Prima Pars), about human work in Paradise before the Fall.
+[^1]: Greek geographer *Marcianus Heracleensis* (c. 4th c. AD), *Periplus Maris Exteri* ([1606](https://books.google.com/books?id=6zNpAAAAcAAJ)), about maritime distances.  
+[^2]: *St. Thomas Aquinas*, *Summa Theologica* ([1485](https://doi.org/10.3931/e-rara-15170)) Prima Pars, Questions 94–102 (ST I, p. 94 - p. 102), about human life in Paradise before the Fall, c.f. Eco ([1986](http://www.jstor.org/stable/40257057)), Van NieuwenhoveI and Wawrykow ([2005](http://www.jstor.org/stable/j.ctvpj7g49)) or Schall ([2006](http://www.jstor.org/stable/43251054)).
+
+## References
+
+Eco, U. (1986). In Praise of Thomas Aquinas. *The Wilson Quarterly (1976-), 10*(4), 78–87. [http://www.jstor.org/stable/40257057](http://www.jstor.org/stable/40257057)
+
+Morel, F. (1606). *Markianu hērakleōtu Periēgēsis*. Morellus. [https://books.google.com/books?id=6zNpAAAAcAAJ](https://books.google.com/books?id=6zNpAAAAcAAJ)
+
+Schall, J. V. (2006). Aquinas and the Life of the Mind. *New Blackfriars, 87*(1010), 396–405. [http://www.jstor.org/stable/43251054](http://www.jstor.org/stable/43251054)
+
+Thomas. (1485). *Summa Theologica: Partes 1-3*. Basel: Michael Wenssler. [https://doi.org/10.3931/e-rara-15170](https://doi.org/10.3931/e-rara-15170)
+
+Van NieuwenhoveI, R., & Wawrykow, J., ed. (2005). *The Theology of Thomas Aquinas*. University of Notre Dame Press. [http://www.jstor.org/stable/j.ctvpj7g49](http://www.jstor.org/stable/j.ctvpj7g49)
+
